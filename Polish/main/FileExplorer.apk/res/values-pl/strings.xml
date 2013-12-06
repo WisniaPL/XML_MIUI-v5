@@ -196,7 +196,7 @@ niepotrzebne pliki"</string>
     <string name="operation_deleting_detail">Usuwanie plików (%1$d/%2$d)</string>
     <string name="operation_download_link">Utwórz link do pobierania</string>
     <string name="operation_favorite">Dodaj do Ulubionych</string>
-    <string name="operation_hide_sys">Ukryj ukryte pliki</string>
+    <string name="operation_hide_sys">Nie pokazuj ukrytych plików i katalogów</string>
     <string name="operation_info">Szczegóły</string>
     <string name="operation_move">Przenieś</string>
     <string name="operation_moving">Przenoszenie</string>
@@ -211,7 +211,7 @@ niepotrzebne pliki"</string>
     <string name="operation_resume">Wznów</string>
     <string name="operation_resume_all">Wznawianie</string>
     <string name="operation_send">Wyślij</string>
-    <string name="operation_show_sys">Pokaż ukryte pliki</string>
+    <string name="operation_show_sys">Pokaż ukryte pliki i katalogi</string>
     <string name="operation_unfavorite">Usuń z Ulubionych</string>
     <string name="pan_settting">Ustawienia Kuaipan</string>
     <string name="paused">Wstrzymano</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="about">Monitor Danych</string>
+  <string name="adjust_module_miss">Nie można odnaleźć modułu użycia danych</string>
   <string name="adjust_no_network_update_data_fail">Aktualizacja danych nieudana. Spróbuj ponownie później</string>
   <string name="adjust_traffic_auto_adjust_hint">"System wykorzystuje informacje od operatora do korekcji użycia danych. 
 Konieczne jest ustawienie informacji o operatorze"</string>

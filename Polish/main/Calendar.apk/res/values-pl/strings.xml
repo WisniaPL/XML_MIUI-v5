@@ -37,7 +37,7 @@
     <string name="birthday_notification_age_term"/>
     <string name="birthday_notification_text_three_days_later">Pozostały 3 dni do urodzin (%3$s)</string>
     <string name="birthday_notification_text_today">Dzisiaj są urodziny!</string>
-    <string name="birthday_notification_title_three_days_later">Zbliżają się urodziny: %1$s</string>
+    <string name="birthday_notification_title_three_days_later">Urodziny: %1$s</string>
     <string name="birthday_notification_title_today">Urodziny: %1$s</string>
     <string name="birthday_notification_type_term_lunar"/>
     <string name="calendar_refresh">Odśwież</string>

@@ -83,7 +83,7 @@
   <string name="msg_callactive">FM Tx nie jest używane jeśli aktywne są połączenia głosowe</string>
   <string name="msg_do_not_support_fm">Urządzenie nie wspiera radia FM.</string>
   <string name="msg_headsetpluggedin">Odłącz wszelkie zestawy słuchawkowe by używać FM Tx</string>
-  <string name="msg_noantenna_message">Podłącz słuchawki przed użyciem radia FM.</string>
+  <string name="msg_noantenna_message">Podłącz słuchawki aby polepszyć jakość dźwięku z FM.</string>
   <string name="msg_scanning">Wyszukiwanie wszystkich stacji FM</string>
   <string name="msg_scanning_pty">Wyszukiwanie %s</string>
   <string name="msg_search_title">FM - %1$s</string>

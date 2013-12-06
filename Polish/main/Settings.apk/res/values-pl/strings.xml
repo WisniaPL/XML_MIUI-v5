@@ -601,6 +601,7 @@ Czy włączyć funkcję?"</string>
   <string name="clear_failed_dlg_text">Nie można wyczyścić danych aplikacji.</string>
   <string name="clear_failed_dlg_title">Wyczyść dane</string>
   <string name="clear_user_data_text">Wyczyść dane</string>
+  <string name="close_rule">Wyłącz blokowanie firewall</string>
   <string name="color_calibration_none">Naturalnie</string>
   <string name="color_calibration_srgb">sRGB</string>
   <string name="comfirm">Potwierdź</string>
@@ -1947,8 +1948,6 @@ Przeinstalować sterownik."</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Podświetlenie przycisków</string>
   <string name="pref_button_light_summary">Podświetlenie przycisków nawigacyjnych pod ekranem telefonu.</string>
-  <string name="pref_operational_key">Przyciski nawigacyjne</string>
-  <string name="pref_volume_category_title">Przycisk głośności</string>
   <string name="pref_key_last_check_canceled">last_check_canceled</string>
   <string name="pref_key_last_scan_data">lastScanDate</string>
   <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
@@ -1963,6 +1962,8 @@ Przeinstalować sterownik."</string>
   <string name="pref_key_virus_install">virusScanInstall</string>
   <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
   <string name="pref_key_virus_lib_version">virusLibVersion</string>
+  <string name="pref_operational_key">Przyciski nawigacyjne</string>
+  <string name="pref_volume_category_title">Przycisk głośności</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
   <string name="preference_change_password_title">Zmień hasło</string>
@@ -2755,6 +2756,7 @@ zakończone"</string>
   <string name="virus_scan_finish_text">OK. Usunięto zagrożenia!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner has been compromised. You need to factory reset your phone.</string>
   <string name="virus_scan_installed_package">%s (zainstalowane)</string>
+  <string name="virus_scan_is_cloud_scanning">Skanowanie w chmurze…</string>
   <string name="virus_scan_is_scanning">Skanowanie...</string>
   <string name="virus_scan_judge_is_virus">Sprawdź aplikacje przed instalacją</string>
   <string name="virus_scan_last_risk">Suspicious apps discovered in the most recent scan have not been not removed.</string>
@@ -2788,6 +2790,7 @@ zakończone"</string>
   <string name="virus_scan_stop">Wstrzymaj</string>
   <string name="virus_scan_support">" "</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>
+  <string name="virus_scan_unknown_virus_name">Nieznany wirus</string>
   <string name="virus_scan_update_lib">Automatycznie uaktualnij bazę wirusów</string>
   <string name="virus_scan_update_now">Aktualizuj teraz</string>
   <string name="virus_scan_use_cloud">Baza online</string>
