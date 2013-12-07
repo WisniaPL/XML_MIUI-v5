@@ -882,7 +882,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dndm_vip_call_summary_contact">Wszystkie kontakty</string>
   <string name="dndm_vip_call_summary_custom">%d kontaktów bez blokady dźwięków</string>
   <string name="dndm_vip_call_summary_none">Brak zdefiniowanych wyjątków</string>
-  <string name="dndm_vip_list_contact">Moje wyjątki</string>
+  <string name="dndm_vip_list_contact">Wszystkie kontakty</string>
   <string name="dndm_vip_list_custom">Wyjątki</string>
   <string name="dndm_vip_list_custom_group">Wyjątki</string>
   <string name="dndm_vip_list_group">Lista wyjątków</string>

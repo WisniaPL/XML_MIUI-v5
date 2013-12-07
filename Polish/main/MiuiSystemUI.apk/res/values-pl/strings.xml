@@ -110,7 +110,7 @@
     <string name="ext_media_unmountable_notification_title">Nośnik USB uszkodzony</string>
     <string name="filter_item_description">Określ w jaki sposób aplikacja ma wyświetlać powiadomienia.</string>
     <string name="filter_item_preview_image">Podgląd powiadomień</string>
-    <string name="gps_notification_found_text">Lokalizacja ustalona przez GPS</string>
+    <string name="gps_notification_found_text">Lokalizacja ustalona</string>
     <string name="gps_notification_searching_text">Wyszukiwanie GPS</string>
     <string name="headset_custom">Własne</string>
     <string name="headset_info">Zmień funkcje przycisków</string>

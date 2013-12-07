@@ -419,7 +419,7 @@
   <string name="storage_no_space">"Brak miejsca w pamięci urządzenia."</string>
   <string name="straighten">Rozciąganie</string>
   <string name="straighten_tooltip">Przeciągnij zdjęcie aby wyprostować</string>
-  <string name="sync_album">Sychronizuj albumy</string>
+  <string name="sync_album">Synchronizuj albumy</string>
   <string name="sync_album_error">Nie udało się pobrać zdjęć z tego albumu. Spróbuj ponownie później.</string>
   <string name="sync_album_in_proecess">Album jest synchronizowany, proszę czekać...</string>
   <string name="sync_album_set_error">Nie udało się pobrać listy albumów. Spróbuj ponownie później.</string>

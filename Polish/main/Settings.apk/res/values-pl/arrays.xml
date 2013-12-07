@@ -299,9 +299,9 @@
         <item>Zawsze zezwalaj</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Słaba</item>
+        <item>Mocna/item>
         <item>Średnia</item>
-        <item>Mocna</item>
+        <item>Słaba</item>
     </string-array>
    <string-array name="battery_indicator_style_entries">
         <item>Słupkowy</item>
