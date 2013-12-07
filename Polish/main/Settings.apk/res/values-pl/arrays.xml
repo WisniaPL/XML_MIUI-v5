@@ -299,7 +299,7 @@
         <item>Zawsze zezwalaj</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Mocna/item>
+        <item>Mocna</item>
         <item>Średnia</item>
         <item>Słaba</item>
     </string-array>
