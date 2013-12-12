@@ -1851,12 +1851,12 @@ Przeinstalować sterownik."</string>
   <string name="power_dialog_cpu_state_performance_desc">Większa wydajność ma priorytet nad użyciem baterii</string>
   <string name="power_dialog_cpu_state_save">Oszczędny</string>
   <string name="power_dialog_cpu_state_save_desc">Oszczędność baterii ma priorytet nad wydajnością</string>
-  <string name="power_dialog_cpu_state_title">Użycie CPU</string>
+  <string name="power_dialog_cpu_state_title">Profil zasilania</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Nie można usunąć używanego aktualnie profilu."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Can't delete: Your device is set to switch to this profile when battery is low, 
- You need to change this configuration before you can delete this profile."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Can't delete: Your device is scheduled to switch to this profile, 
- You need to change this configuration before you can delete this profile."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Nie można usunąć: urządzenie jest ustawione by przełączyć się na ten profil gdy jest niski poziom ładowania. 
+ Musisz zmienić te ustawienia przed usunięciem tego profilu."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Nie można usunąć: urządzenie jest ustawione by przełączyć się na ten profil o zaplanowanym czasie. 
+ Musisz zmienić te ustawienia przed usunięciem tego profilu."</string>
   <string name="power_dialog_delete_dialog_delete">"Usunąć własny profil i powiązane z nim ustawienia?"</string>
   <string name="power_dialog_delete_dialog_title">Usuń własny profil</string>
   <string name="power_dialog_ok">OK</string>
@@ -1877,7 +1877,7 @@ Przeinstalować sterownik."</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Po 10 minutach</string>
   <string name="power_mode_auto_clean_memory_never">Nigdy</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
-  <string name="power_mode_cpu_state">Użycie CPU</string>
+  <string name="power_mode_cpu_state">Profil zasilania</string>
   <string name="power_mode_cpu_state_balance">Normalny</string>
   <string name="power_mode_cpu_state_balance_desc">Zwiększa wydajność CPU w razie potrzeby</string>
   <string name="power_mode_cpu_state_performance">Wydajny</string>
@@ -1967,6 +1967,15 @@ Przeinstalować sterownik."</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
   <string name="preference_change_password_title">Zmień hasło</string>
+  <string name="preferred_app_settings">Domyślne aplikacje</string>
+  <string name="preferred_app_settings_default">Domyślne</string>
+  <string name="preferred_app_settings_reset">Przywróć domyślne</string>
+  <string name="preferred_app_settings_reset_message">Na pewno przywrócić domyślne skojarzenia aplikacji?</string>
+  <string name="preferred_application_title">Preferowane: %s</string>
+  <string name="preferred_application_warning_message">Zmiana domyślnej aplikacji %1$s może powodować nadmierne użycie baterii lub zagrozić bezpieczeństwu. Zaleca się użycie aplikacji %2$s.</string>
+  <string name="preferred_application_warning_replace">Zmień</string>
+  <string name="preferred_application_warning_title">Przywróć domyślne %s</string>
+  <string name="preferred_application_warning_use_system">Ustaw domyślną %s</string>
   <string name="preferred_launcher_title">Domyślny Launcher</string>
   <string name="preferred_launcher_warning_message">Zamiana domyślnego launchera może powodować większe użycie zasobów. Kontynuować?</string>
   <string name="preferred_launcher_warning_replace">Zamień launcher</string>

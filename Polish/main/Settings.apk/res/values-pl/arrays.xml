@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="power_mode_entries">
+        <item>Wydajny</item>
+        <item>Normalny</item>
+        <item>Oszczędny</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Po minucie</item>
+        <item>Po 5 minutach</item>
+        <item>Po 10 minutach</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>1 minuta</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>Nie usypiaj</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Wysoka wydajność</item>
+        <item>Zrównoważony</item>
+        <item>Oszczędzanie energii</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nie wibruj</item>
+        <item>Wibruj w trybie cichym</item>
+        <item>Zawsze wibruj</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Blokowanie wyłączone.</item>
+        <item>Menedżer uprawnień wyłączony.</item>
+        <item>Kosz jest pełny.</item>
+        <item>Baza wirusów jest nieaktualna.</item>
+        <item>Zbyt dużo procesów w tle.</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Włącz blokowanie.</item>
+        <item>Włącz menedżer uprawnień.</item>
+        <item>Wyczyść śmieciowe pliki.</item>
+        <item>Uaktualnij bazę wirusów.</item>
+        <item>Pamiętaj o procesach w tle.</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Ameryka</item>
         <item>Europa</item>
@@ -369,11 +413,6 @@
         <item>Session creating timeout, retrying...</item>
         <item>Urządzenie rozłączone</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Wydajny</item>
-        <item>Normalny</item>
-        <item>Oszczędny</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP lub starszy</item>
         <item>Windows Vista lub nowszy</item>
@@ -458,5 +497,16 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>30 minut</item>
         <item>1 godzina</item>
         <item>Ciągły</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Pulpit</item>
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Przeglądarka</item>
+        <item>Zdjęcia</item>
+        <item>Galeria</item>
+        <item>Muzyka</item>
+        <item>Wideo</item>
+        <item>Poczta</item>
     </string-array>
  </resources>

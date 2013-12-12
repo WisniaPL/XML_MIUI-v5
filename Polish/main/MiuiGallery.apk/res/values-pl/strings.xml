@@ -113,6 +113,7 @@
   <string name="confirm_delete_pictures">%s zdjęć</string>
   <string name="confirm_delete_system_album">Usunąć %s?</string>
   <string name="confirm_delete_videos">%s filmów</string>
+  <string name="confirm_download">"Wymagane jest pobranie %s. Ten komunikat nie zostanie pokazany ponownie."</string>
   <string name="contact_photo">Zdjęcie kontaktu</string>
   <string name="context_menu_add_contact">Dodaj do kontaktów</string>
   <string name="context_menu_copy">Kopiuj</string>
@@ -135,6 +136,7 @@
   <string name="delete_file">Na pewno usunąć %1$d wybranych plików?</string>
   <string name="delete_files_and_folders">Na pewno usunąć %1$d wybranych plików i %2$d katalogów?</string>
   <string name="delete_folder">Na pewno usunąć %1$d wybranych katalogów?</string>
+  <string name="delete_smb_file_fail">Nie udało się usunąć plików smb</string>
   <string name="deleting_files">Usuwanie plików...</string>
   <string name="demo_video_folder_display_name">Filmy Demo</string>
   <string name="deny">Odrzuć</string>
@@ -149,6 +151,9 @@
   <string name="done">Gotowe</string>
   <string name="doodle">Gryzmoły</string>
   <string name="doodle_tooltip">Rysuj po zdjęciu</string>
+  <string name="download">Pobierz</string>
+  <string name="download_fail">Pobieranie nieudane!</string>
+  <string name="download_fail_confirm_continue">Pobieranie %s nieudane. Kontynuować?</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Czas trwania</string>
   <string name="edit">Edytuj</string>
@@ -178,6 +183,7 @@
   <string name="fail_init_gallery_db_helper">Aplikacja zamknięta. Nie można otworzyć bazy danych Galerii: pamięć jest pełna.</string>
   <string name="fail_to_pick_email">Nie zaznaczono poprawnych adresów E-mail</string>
   <string name="fail_to_sync_album">Nie udało się synchronizować albumu z serwerem. Sprawdź swoje połączenie z siecią!</string>
+  <string name="file_not_exist_message">Plik nie istnieje.</string>
   <string name="file_size">Rozmiar</string>
   <string name="filllight">Wypełnienie światłem</string>
   <string name="fisheye">Rybie oko</string>
@@ -238,6 +244,7 @@
   <string name="location">Lokacja</string>
   <string name="locations">Lokacje</string>
   <string name="lomoish">Lomo</string>
+  <string name="make_download_dir_fail">Nie udało się utworzyć katalogu!</string>
   <string name="maker">Producent</string>
   <string name="manual">Manual</string>
   <string name="me">ja</string>
@@ -269,6 +276,7 @@
   <string name="must_pick_file">Wybierz zdjęcie</string>
   <string name="negative">Negatyw</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="new_device_tips">Wykryto nowe urządzenie. Kliknij aby pokazać</string>
   <string name="no">Odrzuć</string>
   <string name="no_albums_alert">Brak albumów.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>

@@ -41,6 +41,7 @@
   <string name="button_abandon">Anuluj</string>
   <string name="button_backup">Utwórz kopię</string>
   <string name="button_cancel">Anuluj</string>
+  <string name="button_continue">Dalej</string>
   <string name="button_delete">Usuń</string>
   <string name="button_finish">Gotowe</string>
   <string name="button_next">Dalej</string>
@@ -51,11 +52,18 @@
   <string name="cancel">Anuluj</string>
   <string name="cancel_backup">Anuluj kopię</string>
   <string name="cancel_restore">Anuluj przywracanie</string>
+  <string name="cloud_app_backup_cancel">Anuluj kopię</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Kopia niekompletna. Naciśnij 
+  Ok by anulować kopię"</string>
+  <string name="cloud_app_backup_cancel_prompt_title">Anulowanie kopii</string>
   <string name="cloud_app_backup_date">" "</string>
   <string name="cloud_app_backup_pending">Oczekiwanie…</string>
   <string name="cloud_app_backup_progress">Kopiowanie…</string>
   <string name="cloud_app_backup_summary">Automatyczna kopia aplikacji i danych użytkownika podczas ładowania telefonu i połączeniu z Wi-Fi</string>
   <string name="cloud_app_backup_title">Kopia zapasowa w chmurze</string> 
+  <string name="cloud_app_check_data">Odczytywanie danych z Chmury Xiaomi...</string>
+  <string name="cloud_app_check_data_fail">Nie udało się odczytać danych z Chmury Xiaomi</string>
+  <string name="cloud_app_check_data_timeout">Przekroczono czas połączenia</string>
   <string name="cloud_app_current_device">To urządzenie</string>
   <string name="cloud_app_data_in_other_devices">Brak aktualnych kopii.</string>
   <string name="cloud_app_delete_data">Usuń kopię</string>
@@ -65,17 +73,32 @@
   <string name="cloud_app_find_backup_prompt_2">Jeśli wybierzesz Anuluj dane zostaną nadpisane przez przywracaną kopię</string>
   <string name="cloud_app_function_summary">Kopia danych w chmurze może być szybko przywrócona nawet na innym urządzeniu.</string>
   <string name="cloud_app_invalid_op">"Nie możesz wyświetlać obecnej kopii jeśli jest używana."</string>
+  <string name="cloud_app_invalid_op_when_removing">"Nie możesz wyświetlić danych z Chmury podczas usuwania danych!"</string>  
   <string name="cloud_app_just_show_in_current_device">Pokaż tylko to urządzenie</string>
+  <string name="cloud_app_load_data">Kolejkowanie zadań z listy...</string>
+  <string name="cloud_app_load_data_timeout">Przekroczono czas połączenia</string>
+  <string name="cloud_app_loading_with_mobile_network_prompt">"Zostaną użyte dane mobilne do skończenia operacji. Kontynuować?"</string>
   <string name="cloud_app_mine">Pobrane aplikacje</string>
   <string name="cloud_app_name">Kopia online</string>
   <string name="cloud_app_no_data">Brak danych.</string>
+  <string name="cloud_app_no_network">Sieć niedostępna</string>
+  <string name="cloud_app_no_wifi">Sieć Wi-Fi niedostęþna</string>
+  <string name="cloud_app_no_wifi_connect">Brak połączenia z Wi-Fi</string>
   <string name="cloud_app_other_devices">Urządzenia</string>
+  <string name="cloud_app_remove_cancel">Anuluj usuwanie</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Usuwanie niekompletnej kopii. 
+  Naciśnij OK aby anulować"</string>
+  <string name="cloud_app_remove_cancel_prompt_title">Zatrzymywanie usuwania</string>
   <string name="cloud_app_remove_error">Nie można usunąć.</string>
   <string name="cloud_app_remove_pending">Oczekiwanie…</string>
   <string name="cloud_app_remove_progress">Usuwanie…</string>
   <string name="cloud_app_remove_prompt">%1$s danych będzie usuwanych. Kontynuować?</string>
   <string name="cloud_app_restore_action_bar_title">Kopia zapasowa: %1$s</string>
   <string name="cloud_app_restore_app_and_data">Przywróć aplikacje i dane użytkownika</string>
+  <string name="cloud_app_restore_cancel">Anuluj przywracanie</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Przywracanie niekompletne. Naciśnij OK
+  aby anulować przywracanie"</string>
+  <string name="cloud_app_restore_cancel_prompt_title">Anulowanie przywracania</string>
   <string name="cloud_app_restore_data">Przywróć poprzednio instalowane aplikacje</string>
   <string name="cloud_app_restore_data_title">Przywróć dane użytkownika</string>
   <string name="cloud_app_restore_error">Przywracanie nieudane.</string>
@@ -88,6 +111,7 @@
   <string name="cloud_app_restore_wifi_prompt">Musisz być połączony z internetem przez Wi-Fi aby przywracać dane i aplikacje.</string>
   <string name="cloud_app_total_size">Rozmiar kopii: %1$s</string>
   <string name="cloud_app_version_size">Wersja: %1$s, Rozmiar: %2$s</string>
+  <string name="cloud_app_wait_wifi">Oczekiwanie na połączenie Wi-Fi</string>
   <string name="cloud_backup_hint">Zaloguj aby bezpiecznie przechować Twoje Kopie</string>
   <string name="cloud_backup_login">Zaloguj na konto Xiaomi</string>
   <string name="cloud_backup_window_title">Kopia danych online</string>
@@ -105,7 +129,7 @@
   <string name="contact_title">Kontakty</string>
   <string name="current_account">Zalogowany jako: %s</string>
   <string name="current_sim">Karta SIM</string>
-  <string name="customization">&lt;u&gt;Customize&lt;/u&gt;</string>
+  <string name="customization">Własne</string>
   <string name="customization_under_wifi_prompt">Tylko przy Wi-Fi</string>
   <string name="data_no_enough_space">Brak miejsca, zwolnij dostępną pamięć i spróbuj ponownie</string>
   <string name="data_no_enough_space_message">Brak miejsca, zwolnij dostępną pamięć i spróbuj ponownie</string>
