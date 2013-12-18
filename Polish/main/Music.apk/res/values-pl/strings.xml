@@ -151,7 +151,7 @@
   <string name="ktv_alert_message">"
 
   Usługa dostępna tylko w Chinach   "</string>
-  <string name="ktv_alert_title">Tylko wspierane urządzenia mogą dodawać utwory</string>
+  <string name="ktv_alert_title">"Tylko wspierane urządzenia mogą dodawać utwory"</string>
   <string name="ktv_and_room">%1$s %2$s</string>
   <string name="ktv_connected_alert_message">The songs you select will be added to the playlist My KTV</string>
   <string name="ktv_connected_alert_titel">Connected to %1$s</string>
@@ -271,7 +271,8 @@ Spróbuj ponownie później"</string>
   <string name="ringtone_not_support">Format pliku nie jest wspierany</string>
   <string name="ringtone_set">\"%s\" ustawiony jako dzwonek telefonu.</string>
   <string name="save">Zapisz</string>
-  <string name="scan_barcode_to_connect">"Ustaw kod QR konsoli KTV w ramce"</string>
+  <string name="scan_barcode_to_connect">"Ustaw kod QR konsoli KTV w ramce
+  USŁUGA DOSTĘPNA TYLKO W CHINACH"</string>
   <string name="scanning">Skanowanie karty SD...</string>
   <string name="scanning_nosdcard">Skanowanie nośnika USB...</string>
   <string name="screen_bright_wake">Ekran włączony</string>

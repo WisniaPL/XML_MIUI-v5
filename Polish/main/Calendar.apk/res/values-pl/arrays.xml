@@ -190,7 +190,7 @@
         <item>Nigdy</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Przezroczysty czarny</item>
-        <item>Białe tło</item>
+        <item>Czarny</item>
+        <item>Biały</item>
     </string-array>
 </resources>

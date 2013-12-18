@@ -216,7 +216,7 @@
    <string name="when_label">Kiedy</string>
    <string name="where_label">Gdzie</string>
    <string name="widget_events">Następne wydarzenia</string>
-   <string name="widget_no_events">Następne, bez agendy</string>
+   <string name="widget_no_events">Brak wydarzeń</string>
    <string name="widget_select_style">Wybierz styl widżetu</string>
    <string name="work_day_indication"/>
    <string name="yearly">Co rok (%s)</string>

@@ -136,6 +136,8 @@
   <string name="failed_to_add_media">"Niestety, nie można dodać: %1$s do wiadomości."</string>
   <string name="failed_to_resize_image">Nie zmieniono rozmiaru zdjęcia.</string>
   <string name="fdn_check_failure">Wiadomości możesz wysyłać wyłącznie na swoje ustalone numery.</string>
+  <string name="feedback_description_hint">Napisz tutaj swoje spostrzeżenia</string>
+  <string name="feedback_submit">Wyślij</string>
   <string name="festival">Polecane</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Ładowanie...</string>
@@ -268,6 +270,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="pref_collapse_sp_messages_summary">Łączy wiadomości z powiadomieniami od operatora lub banku w jeden wątek</string>
   <string name="pref_edit_smsc_address">Numer centrum SMS</string>
   <string name="pref_forward_title">Przekaż</string>
+  <string name="pref_key_mx_feedback">Wyślij spostrzeżenia</string>
   <string name="pref_messages_to_save">Ustaw liczbę wiadomości w wątku</string>
   <string name="pref_mms_settings_title">Ustawienia wiadomości MMS</string>
   <string name="pref_notification_settings_title">Ustawienia powiadomień</string>
@@ -281,6 +284,8 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="pref_summary_mms_auto_retrieval">Automatyczne pobieranie MMS</string>
   <string name="pref_summary_mms_read_reports">Wymagaj raportu dostarczenia dla każdej wysłanej wiadomości</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Pobieranie MMS podczas roamingu danych</string>
+  <string name="pref_summary_mx_feedback">"Pomóż ulepszyć MIUI! 
+Prześlij do MIUI swoje spostrzeżenia i raporty błędów."</string>
   <string name="pref_summary_new_message_popup">Wyświetla wyskakujące okienko przy otrzymaniu wiadomości</string>
   <string name="pref_summary_new_message_popup_when_secure">Wyskakujące okno wyłączone gdy telefon jest blokowany hasłem</string>
   <string name="pref_summary_notification_body_enabled">Pokazuje podgląd wiadomości na ekranie blokady i pasku statusu</string>
@@ -436,6 +441,10 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="to_count">%d ludzi</string>
   <string name="to_label">"Do "</string>
   <string name="to_send_wrapper">Do wysłania o %s</string>
+  <string name="toast_description_required">"Nie możesz wysłać pustej wiadomości"</string>
+  <string name="toast_feedback_finish">Raport zostanie automatycznie wysłany przy Wi-Fi</string>
+  <string name="toast_feedback_max">Możesz wysłać maksymalnie 3 raporty dziennie</string>
+  <string name="toast_feedback_start">Wczytywanie loga…</string>
   <string name="too_many_attachments">Obowiązujący limit załączników to %1$s. Liczba pierwszych załączników, które zostaną dodane, wynosi %2$s.</string>
   <string name="too_many_recipients">Ta wiadomość ma zbyt wielu odbiorców (%1$s). Istnieje limit odbiorców wynoszący %2$s.</string>
   <string name="too_many_unsent_mms">"Nie można wysłać wiadomości. Osiągnięto maksymalną ilość niewysłanych wiadomości MMS."</string>
