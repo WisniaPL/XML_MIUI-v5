@@ -41,6 +41,8 @@
   <string name="channel">Radio FM</string>
   <string name="channel_format" formatted="false">"%s %s MHz"</string>
   <string name="channel_postfix">MHz</string>
+  <string name="choose_download_quality">Wybierz jakość przy pobieraniu</string>
+  <string name="choose_stream_quality">Wybierz jakość przesyłanego obrazu</string>
   <string name="click_to_shuffle">Wszystkie losowo</string>
   <string name="complete">Ukończono</string>
   <string name="confirm">OK</string>
@@ -68,6 +70,7 @@
   <string name="dirac_mode_in_ear">Dokanałowe</string>
   <string name="dirac_mode_off">Dirac Wył</string>
   <string name="dirac_mode_piston_100">Piston</string>
+  <string name="disconnect">Rozłączone</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
   <string name="download_album_summary">Włącz pobieranie okładek albumów</string>
@@ -75,6 +78,7 @@
   <string name="download_all_avatar">Pobierz zdjęcia wykonawców</string>
   <string name="download_all_track">Pobierz wszystkie utwory</string>
   <string name="download_batch_start">Rozpocznij wszystko</string>
+  <string name="download_completed">Pobrane</string>
   <string name="download_lyric_settings">Pobierz teksty utworów</string>
   <string name="download_lyric_summary">Włącz pobieranie tekstów utworów</string>
   <string name="download_processing">Pobieranie</string>
@@ -112,7 +116,7 @@
   <string name="fade_effect_settings">Zanikanie dźwięku</string>
   <string name="fade_effect_summary">Zanikanie dźwięku przy przełączaniu z aktualnego utworu na następny</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="file_not_found">Plik nie istnieje</string>
+  <string name="file_not_found">"Plik nie istnieje"</string>
   <string name="filter_by_duration">Czas trwania</string>
   <string name="filter_by_duration_format">%2$dmin:%5$2dsek</string>
   <string name="filter_by_duration_max">5 min</string>
@@ -128,11 +132,14 @@
   <string name="filter_by_size_prefix">"Minimalny rozmiar: "</string>
   <string name="filter_by_size_summary">Ustaw minimalny rozmiar plików</string>
   <string name="filter_notification">Plik został odfiltrowany, zmień ustawienia by odtworzyć!</string>
+  <string name="find_ktv">Wykrywanie KTV</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">"Katalogi "</string>
   <string name="frequentlyplayed_title">Ostatnio odtwarzane</string>
   <string name="headphone_settings">Ustawienia słuchawek</string>
+  <string name="high_quality">High Quality</string>
   <string name="hot_artists">Popularni wykonawcy</string>
+  <string name="i_know">OK</string>
   <string name="id3_edit">Edycja tagów ID3</string>
   <string name="id3_edit_failed">Edycja metadanych nieudana</string>
   <string name="id3_modify_confirm_check">Zmodyfikować tag ID3?</string>
@@ -141,6 +148,17 @@
   <string name="impunity_declaration_title">Deklaracja</string>
   <string name="keep_quit_position_settings">Pamiętaj ostatni utwór</string>
   <string name="keep_quit_position_summary">Aplikacja zapamięta ostatnio odtwarzany utwór</string>
+  <string name="ktv_alert_message">"
+
+  Usługa dostępna tylko w Chinach   "</string>
+  <string name="ktv_alert_title">Tylko wspierane urządzenia mogą dodawać utwory</string>
+  <string name="ktv_and_room">%1$s %2$s</string>
+  <string name="ktv_connected_alert_message">The songs you select will be added to the playlist My KTV</string>
+  <string name="ktv_connected_alert_titel">Connected to %1$s</string>
+  <string name="ktv_disconnect_alert_titel">Disconnect from %1$s?</string>
+  <string name="ktv_song_vod_fail">Failed to add “%1$s”</string>
+  <string name="ktv_song_vod_success">“%1$s”added</string>
+  <string name="ktv_unbind_message">"Nie udało się połączyć z konsolą KTV. Upewnij się, że skanujesz prawidłowy kod QR."</string>
   <string name="listen_to_music_online_settings">Muzyka online</string>
   <string name="listen_to_online_summary">Włącz odtwarzanie muzyki online</string>
   <string name="load_album_artist_failed">"Nie udało się załadować listy albumów. 
@@ -199,6 +217,7 @@ Spróbuj ponownie później"</string>
   <string name="new_playlist_name_template">Nowa playlista %d</string>
   <string name="no_effect">Wyłączone</string>
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
+  <string name="normal_quality">Good Quality</string>
   <string name="not_login">Wpisz się</string>
   <string name="not_selected">Wybierz utwór</string>
   <string name="notification_artist_album">"%2$s %1$s" </string>
@@ -206,6 +225,10 @@ Spróbuj ponownie później"</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Pozostałe opcje</string>
   <string name="overwrite_confirm">Nadpisz</string>
+  <string name="pay_service_guide_dowload">Download quality</string>
+  <string name="pay_service_guide_listen">Stream quality</string>
+  <string name="payment_fail">Payment failed</string>
+  <string name="payment_success">Payment complete</string>
   <string name="play_all">Odtwórz wszystko</string>
   <string name="play_and_download">Pobieraj i odtwarzaj</string>
   <string name="play_and_download_summary">Automatycznie odtwarzaj utwór pobierany online</string>
@@ -219,6 +242,7 @@ Spróbuj ponownie później"</string>
   <string name="playlist_deleted_message">Playlista usunięta.</string>
   <string name="playlist_favorite">Ulubione</string>
   <string name="playlist_frequently_played">Popularne</string>
+  <string name="playlist_my_ktv">Moje KTV</string>
   <string name="playlist_recently_added">Ostatnio dodane</string>
   <string name="playlist_recently_played">Ostatnie</string>
   <string name="playlist_renamed_message">Zmieniono nazwę playlisty.</string>
@@ -241,11 +265,13 @@ Spróbuj ponownie później"</string>
   <string name="rename_album_menu">Zmień nazwę albumu</string>
   <string name="rename_artist_menu">Zmień nazwę wykonawcy</string>
   <string name="rename_playlist_menu">Zmień nazwę</string>
+  <string name="requesting">Requesting…</string>
   <string name="retry">Ponów</string>
   <string name="ringtone_menu">Ustaw jako dzwonek telefonu</string>
   <string name="ringtone_not_support">Format pliku nie jest wspierany</string>
   <string name="ringtone_set">\"%s\" ustawiony jako dzwonek telefonu.</string>
   <string name="save">Zapisz</string>
+  <string name="scan_barcode_to_connect">"Ustaw kod QR konsoli KTV w ramce"</string>
   <string name="scanning">Skanowanie karty SD...</string>
   <string name="scanning_nosdcard">Skanowanie nośnika USB...</string>
   <string name="screen_bright_wake">Ekran włączony</string>
@@ -265,6 +291,7 @@ Spróbuj ponownie później"</string>
   <string name="select_quit_time">Ustaw uśpienie odtwarzacza (w minutach)</string>
   <string name="send_to">Wyślij do</string>
   <string name="send_to_application">Wyślij do innej aplikacji</string>
+  <string name="server_error">Server error</string>
   <string name="shake_and_skip">Kontrola odtwarzania</string>
   <string name="shake_degree_desc">Czułość przełączania</string>
   <string name="shake_degree_high">Wysoka</string>
@@ -280,15 +307,28 @@ Spróbuj ponownie później"</string>
   <string name="start_to_download_album">Pobieranie okładek albumów dla utworów</string>
   <string name="start_to_download_avatar">Pobieranie zdjęć wykonawców</string>
   <string name="streamloadingtext">Łączenie z %s</string>
+  <string name="synchronize_guide_toast">To enable sync, go to Settings &gt; Sync playlists</string>
   <string name="synchronize_playlist_setting">Synchronizuj listy odtwarzania</string>
   <string name="synchronize_playlist_summary">Synchronizuje listy odtwarzania z chmurą.</string>
+  <string name="synchronize_to_baidu_cloud">Back up online songs in your playlists with Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
+  <string name="track_bit_rate_hd">High</string>
+  <string name="track_bit_rate_standard">Good</string>
+  <string name="track_bit_rate_uhd">Higher</string>
   <string name="track_edit">Utwór</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">"Utwory "</string>
+  <string name="ultra_high_quality">Higher Quality</string>
   <string name="unknown_album_name">Nieznany album</string>
   <string name="unknown_artist_name">Nieznany wykonawca</string>
   <string name="use_local_album">Dodaj zapisaną okładkę</string>
   <string name="use_local_lyric">Dodaj zapisane słowa piosenek</string>
+  <string name="vip_recommend_buy">Purchase (RMB 5 for 1 month)</string>
+  <string name="vip_recommend_exchange">Use gift code</string>
+  <string name="vip_recommend_main_title">Unlimited CD-quality music (320 kbps)</string>
+  <string name="vip_recommend_sub_title">Just RMB 5 a month</string>
+  <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
+  <string name="vip_recommend_title">Get higher quality music</string>
+  <string name="where_is_barcode">"Gdzie jest kod QR?"</string>
   <string name="xiaomi_account_setting">Konto Xiaomi</string>
 </resources>

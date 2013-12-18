@@ -198,7 +198,7 @@ Czy włączyć funkcję?"</string>
   <string name="app_install_location_title">Preferowana lokalizacja instalacji</string>
   <string name="app_log_tab_title">Rejestr</string>
   <string name="app_manage_tab_title">Aplikacje</string>
-  <string name="app_name">Panel sterowania</string>
+  <string name="app_name">Panel Sterowania</string>
   <string name="app_name_label">Aplikacja</string>
   <string name="app_not_found_dlg_text">Aplikacji nie znaleziono na liście zainstalowanych.</string>
   <string name="app_not_found_dlg_title"/>
@@ -1038,7 +1038,7 @@ w tym:
   <string name="force_stop_dlg_text">Jeśli wymusisz zatrzymanie aplikacji, może ona zadziałać nieprawidłowo.</string>
   <string name="force_stop_dlg_title">Wymusić zatrzymanie?</string>
   <string name="forget_wifi_message">Zapomnieć tą sieć Wi-Fi? Przy ponownym połączeniu konieczne będzie wprowadzenie hasła</string>
-  <string name="free_ram">Użyta pamięć</string>
+  <string name="free_ram">Pamięć</string>
   <string name="frequently_fragment_delete">Usuń</string>
   <string name="frequently_fragment_tempty">Najczęściej używane funkcje będą wypisane poniżej</string>
   <string name="fw_action_settings">Ustawienia reguł</string>
@@ -1397,7 +1397,7 @@ w tym:
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_edit">Edytuj</string>
-  <string name="menu_item_about_content">Panel sterowania. Wersja: %s</string>
+  <string name="menu_item_about_content">Panel Sterowania. Wersja: %s</string>
   <string name="menu_item_about_title">Informacje o aplikacji</string>
   <string name="menu_key">Przycisk Menu</string>
   <string name="menu_new">Nowy APN</string>

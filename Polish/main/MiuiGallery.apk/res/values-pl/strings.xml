@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importuj</string>
-  <string name="accept">Accept</string>
+  <string name="accept">Akceptuj</string>
   <string name="accept_or_deny">%1$s udostępnił tobie album %2$s.</string>
   <string name="action_fail_unknown_error">Nie udało się ukończyć operacji z powodu błędu.</string>
   <string name="activity_not_found">Brak aplikacji do zakończenia tego działania.</string>
@@ -12,7 +12,6 @@
   <string name="add_to_cloud_fail_too_many_items">Za dużo zaznaczonych elementów. Nie można usunąć.</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s elementów nie mogło być dodanych do albumu online: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Zdjęcie już istnieje w zaznaczonym albumie.</string>
-  <string name="add_to_cloud_file_not_exist_message">Plik nie istnieje.</string>
   <string name="add_to_cloud_folder">Dodaj do katalogu w chmurze</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Przekroczono limit zdjęć.</string>
   <string name="add_to_cloud_local_space_full_message">Pamięć jest pełna lub niegotowa.</string>
@@ -112,6 +111,8 @@
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Na pewno chcesz usunąć %s zdjęć w %s albumach?</string>
   <string name="confirm_delete_pictures">%s zdjęć</string>
   <string name="confirm_delete_system_album">Usunąć %s?</string>
+  <string name="confirm_delete_this_picture">Usunąć to zdjęcie?</string>
+  <string name="confirm_delete_this_video">Usunąć ten film?</string>
   <string name="confirm_delete_videos">%s filmów</string>
   <string name="confirm_download">"Wymagane jest pobranie %s. Ten komunikat nie zostanie pokazany ponownie."</string>
   <string name="contact_photo">Zdjęcie kontaktu</string>

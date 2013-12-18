@@ -7,6 +7,7 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Bez przypomnienia</item>
         <item>0 minut</item>
         <item>1 minuta</item>
         <item>5 minut</item>
@@ -25,7 +26,7 @@
         <item>1 tydzień</item>
     </string-array>
 <string-array name="preferences_default_reminder_labels">
-        <item>Brak</item>
+        <item>Bez przypomnienia</item>
         <item>0 minut</item>
         <item>1 minuta</item>
         <item>5 minut</item>
@@ -187,5 +188,9 @@
         <item>Zawsze</item>
         <item>Tylko po wyciszeniu</item>
         <item>Nigdy</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Przezroczysty czarny</item>
+        <item>Białe tło</item>
     </string-array>
 </resources>

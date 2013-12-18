@@ -503,6 +503,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="local_profile_title">Mój profil lokalny</string>
   <string name="local_search_label">Wszystkie kontakty</string>
   <string name="locale_change_in_progress">Lista kontaktów jest aktualizowana, aby odzwierciedlić zmianę języka.</string>
+  <string name="login_before_recharging">You need to sign in before you can top up.</string>
+  <string name="login_ok">Sign in</string>
   <string name="lunarBirthdayLabelsGroup">Urodziny księżycowe</string>
   <string name="make_primary">Zapamiętaj ten wybór</string>
   <string name="map_custom">Wyświetl adres: %s</string>
@@ -793,6 +795,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="recent_updates">Ostatnie aktualizacje</string>
   <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
   <string name="redirect_calls_to_vm_confirm_text">Włącz</string>
+  <string name="refresh">Odśwież</string>
   <string name="relationLabelsGroup">Relacja</string>
   <string name="remind_btn_ignore">Ignoruj</string>
   <string name="remind_btn_sync_now">Synchronizuj teraz</string>
@@ -1074,6 +1077,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="success_message_import_from_account">Przywracanie udane</string>
   <string name="summary_kind_title">Profil</string>
   <string name="t9_search_guide">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
+  <string name="t9_search_guide_zhuyin">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
   <string name="take_new_photo">Zrób nowe zdjęcie</string>
   <string name="take_photo">Zrób zdjęcie</string>
   <string name="titleJoinContactDataWith">Połącz kontakty</string>
@@ -1138,5 +1142,12 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="websiteLabelsGroup">Adres witryny</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Usuń dane aplikacji Osoby</string>
+  <string name="yellowPageNavigationIconLabel">Directory</string>
+  <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowpage_navigation_no_content">No search result</string>
+  <string name="yellowpage_navigation_search_city_name_hint">City</string>
+  <string name="yellowpage_navigation_search_hint">Search</string>
+  <string name="yellowpage_navigation_search_offline_hint">No internet access</string>
+  <string name="yellowpage_navigation_search_select_city">Please select a city</string>
   <string name="zero_items_selected">Nic nie zaznaczono</string>
 </resources>
