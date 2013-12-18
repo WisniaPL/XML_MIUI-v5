@@ -20,6 +20,9 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+127.0.0.1 creative-adtype-images.s3.amazonaws.com
+127.0.0.1 api.airpush.com
+127.0.0.1 c.mobpartner.mobi
 127.0.0.1 0.gravatar.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 000-search.net
