@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Notatki mogą być synchronizowane z kontem Xiaomi. Zalogować teraz?</string>
   <string name="alert_action_edit_anyway">Kontynuuj edycję</string>
   <string name="alert_edit_action_delete">Usuń</string>
   <string name="alert_edit_action_update">Aktualizuj</string>
+  <string name="alert_message_delete_folder">Potwiedzić usuwanie katalogu z notatkami?</string>
   <string name="alert_message_delete_folders">Potwierdzić usunięcie zaznaczonych %1$s katalogów?</string>
   <string name="alert_message_delete_folders_notes">Potwierdzić usunięcie zaznaczonych %1$s katalogów i %2$s notatek?</string>
   <string name="alert_message_delete_note">Potwierdzić usunięcie tej notatki?</string>
   <string name="alert_message_delete_notes">Potwierdzić usunięcie wybranych %1$s notatek?</string>
   <string name="alert_message_discard_changes">Odrzucić zmiany?</string>
   <string name="alert_message_edit_anyway">Notatka zawiera nieobsługiwaną treść. Edycja może spowodować utratę danych.</string>
+  <string name="alert_title_delete">Usuń zaznaczone notatki</string>
+  <string name="alert_title_discard">Odrzucić zmiany?</string>
   <string name="alert_title_edit_anyway">Potwierdź chęć edycji notatki.</string>
   <string name="app_name">Notatki</string>
   <string name="app_widget">Notatki</string>
@@ -48,11 +51,13 @@
   <string name="menu_delete">Usuń</string>
   <string name="menu_discard">Odrzuć</string>
   <string name="menu_folder_change_name">Zmień nazwę katalogu</string>
+  <string name="menu_font_size">Rozmiar czcionki</string>
   <string name="menu_move">Przenieś do katalogu</string>
   <string name="menu_move_parent_folder">Nadrzędny katalog</string>
   <string name="menu_rename_folder">Zmień nazwę</string>
   <string name="menu_send_to_desktop">Dodaj na pulpit</string>
   <string name="menu_setting">Ustawienia</string>
+  <string name="menu_share">Udostępnij</string>
   <string name="menu_stick">Przypnij</string>
   <string name="menu_title_select_folder">Wybierz katalog</string>
   <string name="menu_unstick">Odepnij</string>
@@ -75,6 +80,7 @@
   <string name="pref_desc_mode_list">Lista</string>
   <string name="pref_title_alarm_when_silent">Alarmy na wyciszeniu</string>
   <string name="pref_title_common">Ustawienia</string>
+  <string name="pref_title_data_export">Eksport danych</string>
   <string name="pref_title_data_export_to_sdcard">Zachowaj notatki na SD</string>
   <string name="pref_title_font_size">Rozmiar czcionki</string>
   <string name="pref_title_note_style">Styl wyświetlania</string>
@@ -89,12 +95,12 @@
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Eksport udany</string>
   <string name="time_picker_dialog_title">Czas przypomnienia</string>
-  <string name="toast_note_privacy_mode">Nie można edytować notatki w trybie poufnym</string>
   <string name="toast_folder_privacy_mode">Nie można edytować katalogu w trybie poufnym</string>
   <string name="toast_message_add_image_fail">Nie udało się wstawić obrazka!</string>
+  <string name="toast_note_privacy_mode">Nie można edytować notatki w trybie poufnym</string>
   <string name="toast_privacy_mode">Nie można edytować notatki w trybie poufnym!</string>
-  <string name="toast_reach_text_limit_truncate">"Treść notatki została automatycznie skrócona"</string>
   <string name="toast_reach_text_limit_attachment">Długość tej notatki jest za duża aby poprawnie dodać nowy załącznik.</string>
+  <string name="toast_reach_text_limit_truncate">"Treść notatki została automatycznie skrócona"</string>
   <string name="widget_havenot_content">Brak powiązanej notatki. Dotknij aby utworzyć nową notatkę. Naciśnij długo na widżet aby móc zmieniać rozmiar.</string>
   <string name="widget_under_visit_mode">Tryb prywatny, nie można wyświetlić zawartości</string>
 </resources>

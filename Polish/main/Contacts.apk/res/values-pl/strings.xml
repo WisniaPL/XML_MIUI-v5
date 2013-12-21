@@ -1077,6 +1077,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="success_message_import_from_account">Przywracanie udane</string>
   <string name="summary_kind_title">Profil</string>
   <string name="t9_search_guide">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
+  <string name="t9_search_guide_pinyin">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
   <string name="t9_search_guide_zhuyin">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
   <string name="take_new_photo">Zrób nowe zdjęcie</string>
   <string name="take_photo">Zrób zdjęcie</string>
@@ -1098,6 +1099,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="type_incoming">Połączenie</string>
   <string name="type_missed">Nieodebrane połączenia</string>
   <string name="type_outgoing">Połączenie wychodzące</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Poczta głosowa</string>
   <string name="unknown">Nieznane</string>
   <string name="unknown_contact_name">Nieznany</string>

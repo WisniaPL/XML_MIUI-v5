@@ -170,9 +170,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="hfb_umpay_info">Call * 10658008 for China Mobile Communications accounts to pay via SMS</string>
   <string name="hfb_upgrade_download_fail">Failed to download update, please try again later</string>
   <string name="hfb_upgrade_download_sucess">New version downloaded successfully!</string>
-  <string name="label_balance">Saldo:</string>
-  <string name="label_order_name">Przedmiot:</string>
-  <string name="label_order_price">Cena:</string>
+  <string name="label_balance">"Saldo: "</string>
+  <string name="label_order_name">"Przedmiot: "</string>
+  <string name="label_order_price">"Cena: "</string>
   <string name="linkpay_account">Linkpay:</string>
   <string name="linkpay_account_cannot_be_null">Linkpay account is required</string>
   <string name="linkpay_achieve_charge">Complete payment</string>
@@ -416,8 +416,8 @@ We will check again within two working days."</string>
   <string name="recharge_grid_edit_limit">￥%1$s~%2$s</string>
   <string name="recharge_grid_edit_upper_limit">"Can't exceed ￥%1$s"</string>
   <string name="recharge_grid_error_denomination">Please enter the correct amount between ￥%1$s~%2$s</string>
-  <string name="recharge_grid_picker_hint">Select amount</string>
-  <string name="recharge_group_favorite">Użyj wybranych wcześniej metod</string>
+  <string name="recharge_grid_picker_hint">Wybierz wartość</string>
+  <string name="recharge_group_favorite">Ostatnio używane</string>
   <string name="recharge_group_others">Inne metody</string>
   <string name="recharge_message_title">Wiadomość tekstowa</string>
   <string name="recharge_notification">Doładowanie: %1$s MiKredytów</string>
@@ -431,8 +431,8 @@ We will check again within two working days."</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="recharge_voucher_title">Karta MiKredyt</string>
   <string name="scan_prompt_number">Skanuj numer karty prepaid %1$s</string>
-  <string name="scan_prompt_password">Scan %1$s prepaid card password</string>
-  <string name="scan_prompt_voucher">Scan MiCredit password</string>
+  <string name="scan_prompt_password">Skanuj %1$s hasło karty prepaid</string>
+  <string name="scan_prompt_voucher">Skanuj kod MiKredyt</string>
   <string name="security_setting">Bezpieczeństwo</string>
   <string name="summary_lockpattern">Wymagaj podania wzoru odblokowania aplikacji MiKredyty</string>
   <string name="title_change_lockpattern">Zmień wzór odblokowania</string>

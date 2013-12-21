@@ -541,6 +541,7 @@ Czy włączyć funkcję?"</string>
   <string name="button_text_delete">Usuń</string>
   <string name="button_text_done">Gotowe</string>
   <string name="button_text_fix">Popraw</string>
+  <string name="button_text_quick_scan">Rozpocznij skan</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_view">Pokaż</string>
   <string name="cache_garbage">Pliki cache</string>
@@ -777,8 +778,14 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="debug_log">Rejestr debugowania</string>
   <string name="debug_monitoring_category">Monitorowanie</string>
   <string name="deep_clean_tips_cache">"iconNiektóre aplikacje mogą wykorzystywać pliki cache do pobierania zasobów (np. teksty piosenek, muzykę czy zdjęcia). Pliki te mogą być jeszcze przydatne."</string>
+  <string name="deep_clean_tips_cache_content">"Niektóre aplikacje mogą wykorzystywać pliki cache do pobierania zasobów (np. teksty piosenek, muzykę czy zdjęcia)."</string>
+  <string name="deep_clean_tips_cache_title">Pliki cache</string>
   <string name="deep_clean_tips_large_file">"iconDuże pliki o wielkości powyżej 10MB zachowane w pamięci urządzenia. Pliki te mogą być dla ciebie przydatne."</string>
+  <string name="deep_clean_tips_large_file_content">Duże pliki o wielkości powyżej 10MB zachowane w pamięci urządzenia.</string>
+  <string name="deep_clean_tips_large_file_title">Duże pliki</string>
   <string name="deep_clean_tips_residual">"iconPozostałości (np. filmy, tapety, muzyka itp.) po pobranych aplikacjach, które zostały odinstalowane. Pliki te mogą być jeszcze przydatne."</string>
+  <string name="deep_clean_tips_residual_content">"Pozostałości po pobranych aplikacjach, które zostały odinstalowane."</string>
+  <string name="deep_clean_tips_residual_title">Pozostałości</string>
   <string name="deep_clean_title_cache">Pliki cache</string>
   <string name="deep_clean_title_large_file">Duże pliki</string>
   <string name="deep_clean_title_residual">Pozostałości</string>
@@ -1583,9 +1590,17 @@ Przeinstalować sterownik."</string>
   <string name="optimize_residual_header_left">Pozostałości: %d</string>
   <string name="optimize_residual_list_empty_content">Nie znaleziono pozostałości.</string>
   <string name="optimize_tips_ad">iconReklamy w postaci obrazków lub tekstu zachowane na urządzeniu.</string>
+  <string name="optimize_tips_ad_content">Reklamy w postaci obrazków lub tekstu zachowane na urządzeniu.</string>
+  <string name="optimize_tips_ad_title">Reklamy</string>
   <string name="optimize_tips_apk">"iconInstalatory aplikacji z plików APK. Te pliki zajmują tylko miejsce kiedy aplikacje zostały już zainstalowane."</string>
+  <string name="optimize_tips_apk_content">"Instalatory aplikacji z plików APK. Te pliki zajmują tylko miejsce kiedy aplikacje zostały już zainstalowane."</string>
+  <string name="optimize_tips_apk_title">Aplikacje</string>
   <string name="optimize_tips_cache">iconPliki cache generowane tymczasowo przez procesy (np. miniaturki).</string>
+  <string name="optimize_tips_cache_content">Pliki cache generowane tymczasowo przez procesy (np. miniaturki).</string>
+  <string name="optimize_tips_cache_title">Cache</string>
   <string name="optimize_tips_residual">"iconPozostałości w postaci plików wideo, tapet czy muzyki pobranych do pamięci urządzenia, które zostały po odinstalowaniu aplikacji."</string>
+  <string name="optimize_tips_residual_content">Pozostałości w postaci plików wideo, tapet czy muzyki pobranych do pamięci urządzenia, które zostały po odinstalowaniu aplikacji.</string>
+  <string name="optimize_tips_residual_title">Pozostałości</string>
   <string name="optimize_tips_title">Pomoc</string>
   <string name="optimize_title_ad">Reklamy</string>
   <string name="optimize_title_apk">Instalatory</string>
@@ -1605,6 +1620,7 @@ Przeinstalować sterownik."</string>
   <string name="perm_app">Aplikacje</string>
   <string name="perm_app_enable">Monitoruje prośby o uprawnienia</string>
   <string name="perm_app_header">Menedżer uprawnień</string>
+  <string name="perm_app_manage_empty">Brak monitorowanych aplikacji</string>
   <string name="perm_app_name">Uprawnienia</string>
   <string name="perm_app_title">Zarządzanie uprawnieniami</string>
   <string name="perm_auto_start">Autostart aplikacji</string>
@@ -1718,6 +1734,7 @@ Przeinstalować sterownik."</string>
   <string name="perm_operating">Przetważanie...</string>
   <string name="perm_optimize">Optymalizowanie</string>
   <string name="perm_privacy_app_count">%1$d uprawnień</string>
+  <string name="perm_root_manage_empty">Brak aplikacji z ROOT</string>
   <string name="perm_privacy_app_finish">Gotowe</string>
   <string name="perm_privacy_app_installed">Instalacja zakończona!</string>
   <string name="perm_privacy_app_launch">Launch</string>
@@ -2041,6 +2058,7 @@ Przeinstalować sterownik."</string>
   <string name="quick_scan_apk_list_item_version_hit">Wersja: %s</string>
   <string name="quick_scan_cleaning_title">Czyszczenie...</string>
   <string name="quick_scan_doing_title">Skanowanie...</string>
+  <string name="quick_scan_done_title">Skanowanie ukończone!</string>
   <string name="quick_scan_list_loading_hits">Skanowanie...</string>
   <string name="quick_scan_result_summary">Oczyszczanie za %d sek.</string>
   <string name="quick_scan_result_title">Znaleziono %s elementów</string>
@@ -2183,6 +2201,7 @@ Przeinstalować sterownik."</string>
   <string name="screen_on_proximity_sensor_summary">Zapobiegaj aktywacji funkcji telefonu gdy urządzenie jest w kieszeni.</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
   <string name="screen_saturation">Nasycenie kolorów</string>
+  <string name="screen_saturation_adjust">Dostosuj nasycenie kolorów</string>
   <string name="screen_timeout">Uśpienie</string>
   <string name="screen_timeout_summary">Po %1$s bezczynności</string>
   <string name="screen_timeout_title">Uśpienie ekranu</string>

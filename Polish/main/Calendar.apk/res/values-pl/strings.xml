@@ -52,8 +52,10 @@
    <string name="copy_db">Wyślij bazę danych</string>
    <string name="copy_email">Kopiuj adres email</string>
    <string name="copy_number">Kopiuj numer telefonu</string>
-   <string name="create_an_account_desc">"Kalendarz działa lepiej z kontem Google. • Używaj go w
-      dowolnej przeglądarce. • Twórz kopie zapasowe wydarzeń."</string>
+   <string name="create_an_account_desc">"Kalendarz działa lepiej z kontem Google. 
+
+• Używaj go w dowolnej przeglądarce. 
+• Twórz kopie zapasowe wydarzeń."</string>
    <string name="creating_event">Utworzono wydarzenie.</string>
    <string name="creating_event_with_guest">Wysłano zaproszenia.</string>
    <string name="custom">"Niestandardowo (nie można dostosować na telefonie)"</string>
@@ -127,7 +129,7 @@
    <string name="month_view">Miesiąc</string>
    <string name="monthly">Co miesiąc</string>
    <string name="monthly_on_day">Co miesiąc (%s. każdego miesiąca)</string>
-   <string name="monthly_on_day_count" formatted="false">Co miesiąc (co %1$s %2$s)</string>
+   <string name="monthly_on_day_count">Co miesiąc (co %1$s %2$s)</string>
    <string name="more_string">%1$s więcej...</string>
    <string name="new_event_dialog_label">Nowe wydarzenie</string>
    <string name="new_event_dialog_option">Nowe wydarzenie</string>

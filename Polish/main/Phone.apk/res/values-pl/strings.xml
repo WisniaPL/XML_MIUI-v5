@@ -48,6 +48,7 @@
   <string name="antispam_marked_count">Odrzuconych: %1$d</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nieznany numer</string>
+  <string name="antispam_provider">Identified by %s</string>
   <string name="apn_settings">Punkty dostępowe</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Lokalny numer alarmowy</string>
@@ -117,6 +118,7 @@
   <string name="back_miui">Powrót</string>
   <string name="badPin">Stary kod PIN nie jest poprawny. Spróbuj ponownie.</string>
   <string name="badPin2">Stary kod PIN2 nie jest poprawny. Spróbuj ponownie.</string>
+  <string name="badPuk">Nieprawidłowy kod PUK!</string>
   <string name="badPuk2">Kod PUK2 nie jest poprawny. Spróbuj ponownie.</string>
   <string name="bad_pin2_miui">Stary PIN2 jest niepoprawny. Spróbuj ponownie.</string>
   <string name="bad_pin_miui">Stary PIN nie jest poprawny. Spróbuj ponownie.</string>
@@ -431,6 +433,7 @@
   <string name="enforce_proximity_summary_miui">Zapobiega przypadkowym połączeniom jeśli telefon jest w kieszeni lub nieużywany</string>
   <string name="enforce_proximity_title_miui">Czujnik kieszeni</string>
   <string name="enterName">Wprowadź nazwę:</string>
+  <string name="enterNewPin">Nowy kod PIN dla SIM</string>
   <string name="enterNumber">Wpisz numer telefonu:</string>
   <string name="enter_callbarring_password">Wpisz hasło ograniczeń dostępu (4 cyfry)</string>
   <string name="enter_ip_prefix_number">Numer prefiksu IP</string>
@@ -576,6 +579,7 @@
   <string name="labelNwService">Ustawienia usługi sieciowej</string>
   <string name="label_available">Dostępne sieci</string>
   <string name="label_ndp">Kod PIN do karty SIM odblokowujący sieć</string>
+  <string name="label_puk">Wpisz PUK</string>
   <string name="label_puk2_code">Wpisz kod PUK</string>
   <string name="label_puk2_code_miui">Wprowadź kod PUK2</string>
   <string name="label_puk_code_miui">Wprowadź kod PUK</string>
@@ -736,16 +740,21 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="old_pin2_hint_miui">Aktualny PIN2</string>
   <string name="old_pin_hint_miui">Aktualny PIN</string>
   <string name="onHold">Oczekujące</string>
+  <string name="ongoing">Aktualna rozmowa</string>
   <string name="onscreenAddCallText">Dodaj</string>
   <string name="onscreenAudioText">Dźwięk</string>
+  <string name="onscreenBluetoothText">Bluetooth</string>
   <string name="onscreenEndCallText">Zakończ</string>
+  <string name="onscreenHideDialpadText">Ukryj</string>
   <string name="onscreenHoldText">Wstrzymaj</string>
   <string name="onscreenManageCallsText">Zarządzaj</string>
   <string name="onscreenManageConferenceText">Ustaw konferencję</string>
   <string name="onscreenMergeCallsText">Scal</string>
   <string name="onscreenMuteText">Wycisz</string>
   <string name="onscreenShowDialpadText">Klawiatura</string>
+  <string name="onscreenSpeakerText">Głośnik</string>
   <string name="onscreenSwapCallsText">Przełącz</string>
+  <string name="onscreenUnholdText">Przełącz</string>
   <string name="onscreen_add_call_text_miui">Dodaj</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
   <string name="onscreen_audio_mode_handset_miui">Telefon</string>
@@ -767,11 +776,14 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="onscreen_tools_on_miui">Opcje</string>
   <string name="optional_summary">&lt;Opcjonalnie</string>
   <string name="ota_activate">Aktywuj</string>
+  <string name="ota_back">Back</string>
   <string name="ota_call_end">Wstecz</string>
+  <string name="ota_dialpad">Keypad</string>
   <string name="ota_failure">Programowanie nie powiodło się</string>
   <string name="ota_listen">Postępuj zgodnie z instrukcjami głosowymi, aż usłyszysz informację, że aktywacja została ukończona.</string>
   <string name="ota_next">Dalej</string>
   <string name="ota_progress">Czekaj, aż programowanie telefonu zostanie zakończone.</string>
+  <string name="ota_skip_activation_dialog_continue_label">Activate</string>
   <string name="ota_skip_activation_dialog_message">
     Jeśli pominiesz aktywację, nie będzie można wykonywać połączeń ani łączyć się z komórkowymi sieciami transmisji danych (łączenie się z sieciami
     Wi-Fi będzie jednak możliwe). Do momentu dokonania aktywacji odpowiedni monit będzie wyświetlany po każdym włączeniu telefonu.
@@ -823,6 +835,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2.</string>
   <string name="pin2_or_fdn_invalid">Nie zaktualizowano FDN. PIN2 był niepoprawny lub numer telefonu został odrzucony.</string>
   <string name="pin2_unblocked">PIN2 odblokowany!</string>
+  <string name="pinUnlocked">SIM odblokowana</string>
   <string name="pin_attempts_miui">Pozostało %d prób</string>
   <string name="pin_changed">Kod PIN do karty SIM został pomyślnie zmieniony</string>
   <string name="pin_changed_miui">SIM PIN changed successfully</string>
@@ -1076,6 +1089,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="sum_voice_call">Ustawienia połączeń głosowych</string>
   <string name="sum_voice_mail">Usługi poczty głosowej</string>
   <string name="sum_voicemail_choose_provider">Wybierz usługę poczty głosowej</string>
+  <string name="suspect_info">"Don't accept the caller, possible fraud attempt!"</string>
   <string name="t9_indexing_method_pinyin">Alfabetycznie (polski)</string>
   <string name="t9_indexing_method_title_miui">Wyszukiwanie T9</string>
   <string name="t9_indexing_method_zhuyin">Fonetycznie (chiński)</string>
@@ -1101,6 +1115,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="throttle_time_frame">Okres użycia danych</string>
   <string name="throttle_time_frame_subtext">"Upłynęło %1$d٪ okresu. Następny okres zaczyna się za %2$d dni (%3$s)"</string>
   <string name="title_data_settings">Ustawienia transferu</string>
+  <string name="tone_miui">Tone</string>
   <string name="transport">Protokół</string>
   <string name="transport_title">Typ transmisji</string>
   <string name="tty_mode_entries_full_miui">Pełny TTY</string>
