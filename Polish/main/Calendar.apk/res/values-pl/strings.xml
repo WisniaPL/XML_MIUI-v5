@@ -99,6 +99,7 @@
    <string name="event_info_title_invite">Zaproszenie na spotkanie</string>
    <string name="event_info_when">"Kiedy: "</string>
    <string name="event_info_where">"Gdzie: "</string>
+   <string name="event_lunar_month">Miesiąc Księżycowy</string>
    <string name="event_show_more">Więcej</string>
    <string name="event_view">Wyświetl wydarzenie</string>
    <string name="every_weekday">Codziennie (pn-pt)</string>
@@ -193,7 +194,8 @@
    <string name="select_synced_calendars_button">Kalendarze do synchronizacji</string>
    <string name="select_synced_calendars_title">Kalendarze do synchronizacji</string>
    <string name="select_visible_calendars_title">Kalendarze do wyświetlenia</string>
-   <string name="show_all_lunar">Kalendarz księżycowy</string>
+   <string name="show_all_lunar">Kalendarz Księżycowy</string>
+   <string name="show_almanac">Pokaż almanach</string>
    <string name="show_controls">Pokaż nawigację</string>
    <string name="show_day_view">Pokaż dzień</string>
    <string name="show_newer_events">Dotknij, aby wyświetlić wydarzenia po %1$s</string>
