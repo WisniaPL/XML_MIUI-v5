@@ -222,7 +222,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="delete_group_dialog_title">Usuń grupę</string>
   <string name="delete_selected_sim_entry_miui">Usunąć zaznaczone kontakty?</string>
   <string name="delete_sim_entries_finish">Usunięto zaznaczone kontakty z SIM</string>
-  <string name="delete_sim_entry_miui">Usuń kontakty z SIM</string>
+  <string name="delete_sim_entry_miui">Usuń kontakty</string>
   <string name="delete_unknown_contact_calllog_title">"Potwierdzić usunięcie nieznanych kontaktów z rejestru połączeń?"</string>
   <string name="deleting">Usuwanie...</string>
   <string name="deleting_sim_entry_miui">Usuwanie kontaktów z SIM</string>
@@ -311,11 +311,12 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="dialog_phone_call_prohibited_message">Połączenie nie zostało wysłane</string>
   <string name="dialog_sync_add">Dodaj grupę synchronizacji</string>
   <string name="dialog_voicemail_airplane_mode_message">Wyłącz Tryb Samolotowy aby skorzystać z poczty głosowej.</string>
-  <string name="dialog_voicemail_not_ready_message">Ustaw pocztę głosową w DIaler &gt; Menu &gt; Ustawienia.</string>
+  <string name="dialog_voicemail_not_ready_message">Ustaw pocztę głosową w Dialer &gt; Menu &gt; Ustawienia.</string>
   <string name="directory_search_label">Katalog</string>
-  <string name="dirty_contacts_notification_description">%d modyfikacji w lokalnych kontaktach jest niesynchronizowanych z kontem</string>
-  <string name="dirty_contacts_notification_message">(Możesz wyłączyć przypomnienie w ustawieniach kontaktów)</string>
-  <string name="dirty_contacts_notification_title">Włączyć synchronizację kontaktów?</string>
+  <string name="dirty_contacts_notification_description">Wykryto %d modyfikacji w lokalnych kontaktach, które nie zostały zsynchronizowane z kontem.</string>
+  <string name="dirty_contacts_notification_message">"
+Możesz wyłączyć przypomnienie w ustawieniach kontaktów"</string>
+  <string name="dirty_contacts_notification_title">Synchronizować kontakty?</string>
   <string name="display_all_contacts">Wszystkie kontakty</string>
   <string name="display_more_groups">Więcej grup...</string>
   <string name="display_only_phones">Pokaż kontakty z numerami</string>
@@ -409,7 +410,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="group_delete_success_toast">Grupa pomyślnie usunięta</string>
   <string name="group_edit_field_hint_text">Nazwa grupy</string>
   <string name="group_member_remove_toast">Kontakt pomyślnie usunięty z grupy</string>
-  <string name="group_name_hint">Nazwa grupy</string>
+  <string name="group_name_hint">"Nazwa grupy"</string>
   <string name="group_read_only">Nie można edytować na tym urządzeniu.</string>
   <string name="group_rename_dialog_title">Zmień nazwę grupy</string>
   <string name="group_rename_fail_toast">Nie udało się zmienić nazwy</string>
@@ -1008,6 +1009,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznacz wszystko</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Zaznacz wszystko</string>
   <string name="sim_contact_existing">Kontakt na karcie SIM już istnieje.</string>
+  <string name="sim_contact_invalid">Nieprawidłowy kontakt SIM</string>
   <string name="sim_contact_number_missing">Brakuje numeru dla kontaktu na SIM.</string>
   <string name="sim_contact_search_error">Wystąpił błąd podczas przeszukiwania karty SIM</string>
   <string name="sim_contacts">Kontakty SIM</string>
@@ -1076,7 +1078,6 @@ Aby dodać kontakt do listy ulubionych:
   <string name="strequentList">Ulubione</string>
   <string name="success_message_import_from_account">Przywracanie udane</string>
   <string name="summary_kind_title">Profil</string>
-  <string name="t9_search_guide">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
   <string name="t9_search_guide_pinyin">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
   <string name="t9_search_guide_zhuyin">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
   <string name="take_new_photo">Zrób nowe zdjęcie</string>
@@ -1098,6 +1099,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="today">Dziś</string>
   <string name="type_incoming">Połączenie</string>
   <string name="type_missed">Nieodebrane połączenia</string>
+ <string name="type_mx_msg">Wiadomości w chmurze</string>
   <string name="type_outgoing">Połączenie wychodzące</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Poczta głosowa</string>
@@ -1150,6 +1152,10 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_hint">Search</string>
   <string name="yellowpage_navigation_search_offline_hint">No internet access</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Couldn't connect to network"</string>
+  <string name="yellowpage_navigation_search_result_no_more">No more results</string>
+  <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Unknown error</string>
   <string name="yellowpage_navigation_search_select_city">Please select a city</string>
   <string name="zero_items_selected">Nic nie zaznaczono</string>
 </resources>

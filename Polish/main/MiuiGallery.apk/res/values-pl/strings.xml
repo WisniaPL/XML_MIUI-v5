@@ -77,7 +77,7 @@
   <string name="cannot_remove_creator">NIe można usunąć właściciela</string>
   <string name="cannot_send_message">"Nie można wysłać wiadomości"</string>
   <string name="cannot_send_message_reason">Wiadomość nie ma prawidłowych odbiorców.</string>
-  <string name="cant_delete_cloud_album">Nie można usunąć. %s jest systemowym albumem lub udostępnianym przez innych.</string>  
+  <string name="cant_delete_cloud_album">Nie można usunąć. %s jest systemowym albumem lub udostępnianym przez innych.</string>
   <string name="cant_delete_system_album">%s jest systemowym albumem i nie może zostać usunięty!</string>
   <string name="cleaning_cache">Czyszczenie pamięci podręcznej...</string>
   <string name="clear_thumbnail_cache">Wyczyść pamięć podręczną</string>
@@ -208,6 +208,7 @@
   <string name="flip">Odwróć</string>
   <string name="flip_tooltip">Przesuń zdjęcie by odwrócić</string>
   <string name="focal_length">Ogniskowa</string>
+  <string name="folder_holder_file">File placeholder</string>
   <string name="frame_black">Czarna</string>
   <string name="frame_button">Ramka</string>
   <string name="frame_classic">Klasyczna</string>
@@ -233,6 +234,7 @@
   <string name="how_many_pics">Zdjęcia: %d</string>
   <string name="how_many_sub_folders">Katalogi: %d</string>
   <string name="how_many_videos">Filmy: %d</string>
+  <string name="image_download_item_title">Pobierz obraz (%s)</string>
   <string name="image_quota_fulfiled">"Can't create image, number of images in this album reached the limit."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importowanie udane</string>
@@ -252,11 +254,13 @@
   <string name="kick_sharer">Usuń udziały</string>
   <string name="kick_sharer_failed">Usuwanie udziałów niemożliwe</string>
   <string name="kick_sharer_successfully">Usuwanie udziałów udane</string>
-  <string name="landscape_mode">Orientacja pozioma</string>
   <string name="loading">Ładowanie...</string>
   <string name="loading_failure">Zdjęcie nie mogło zostać załadowane</string>
+  <string name="loading_image">Pobieranie…</string>
   <string name="loading_members">Wczytywanie osób...</string>
+  <string name="loading_suspend">Pobieranie wstrzymane. Zostanie wzowione przy Wi-Fi</string>
   <string name="loading_thumbnail">Ładowanie miniatur...</string>
+  <string name="loading_video">Pobieranie…</string>
   <string name="local_albums">Lokalne albumy</string>
   <string name="location">Lokacja</string>
   <string name="locations">Lokacje</string>
@@ -363,8 +367,8 @@
   <string name="rename_failed">Zmiana nazwy nieudana</string>
   <string name="rename_failed_duplicated_name">Nie można zmienić nazwy. Nazwa istnieje.</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Oczekiwanie na kod QR, proszę czekać...</string>
   <string name="request_failed">Odczytywanie kodu QR nieudane, kliknij aby ponowić</string>
+  <string name="request_qr_code">Oczekiwanie na kod QR, proszę czekać...</string>
   <string name="request_sms_url_failed">Nie udało się odczytać URL do SMS</string>
   <string name="request_sms_url_msg">Odczytywanie URL do udostępnienia przez SMS...</string>
   <string name="request_sms_url_title">Podpowiedź</string>
@@ -482,6 +486,7 @@
   <string name="there_is_no_image">Brak pliku obrazu.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Data</string>
+  <string name="time_line_view">TimeLine_View</string>
   <string name="times">Czas</string>
   <string name="tint">Odcień</string>
   <string name="title">Tytuł</string>

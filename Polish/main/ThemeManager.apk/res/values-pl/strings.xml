@@ -65,7 +65,7 @@
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Przeglądarka</string>
   <string name="resource_apply">Zastosuj</string>
-  <string name="resource_buy">"Kupuję "</string>
+  <string name="resource_buy">"Kup "</string>
   <string name="resource_can_not_selected">%1$s nie może zostać zaznaczonych!</string>
   <string name="resource_category">Kategorie</string>
   <string name="resource_comment_1_star">*</string>
@@ -85,7 +85,7 @@
   <string name="resource_comment_edit_comment_waiting">Sprawdzanie czy już komentowałeś...</string>
   <string name="resource_comment_edit_text_default">Treść komentarza</string>
   <string name="resource_comment_edit_title">Komentarz: %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s  ocen, pokaż komentarze</string>
+  <string name="resource_comment_entry_tips">Pokaż komentarze</string>
   <string name="resource_comment_expand_full_text">Rozwiń tekst▼</string>
   <string name="resource_comment_footer">Wczytywanie komentarzy.</string>
   <string name="resource_comment_good_comments">Pozytywne</string>

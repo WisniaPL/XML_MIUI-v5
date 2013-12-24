@@ -835,8 +835,9 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dialog_title_font_size">Rozmiar czcionki</string>
   <string name="dialog_title_hdmi_color_calibration">Ustaw korekcję kolorów przez HDMI</string>
   <string name="dirac_control">Dekodowanie Dirac</string>
-  <string name="dirac_mode_earbuds">"Słuchawki nauszne (preferowane)"</string>
-  <string name="dirac_mode_in_ear">"Słuchawki dokanałowe"</string>
+  <string name="dirac_mode_earbuds">"Douszne"</string>
+  <string name="dirac_mode_general">Nauszne</string>
+  <string name="dirac_mode_in_ear">"Dokanałowe"</string>
   <string name="dirac_mode_off">Dirac Wył</string>
   <string name="dirac_mode_piston_100">"Słuchawki Xiaomi Piston"</string>
   <string name="dirac_switch_summary">Wykorzystuje technologię Dirac do polepszania dźwięku w słuchawkach</string>
@@ -1141,7 +1142,7 @@ w tym:
   <string name="headset_calibrate_apply">Zastosuj</string>
   <string name="headset_calibrate_confirm">Funkcje przycisków zmodyfikowane. Zastosuj zmiany？</string>
   <string name="headset_calibrate_hint">Naciśnij przycisk góra</string>
-  <string name="headset_calibrate_next_track">Nastęþny utwór</string>
+  <string name="headset_calibrate_next_track">Następny utwór</string>
   <string name="headset_calibrate_prev_track">Poprzedni utwór</string>
   <string name="headset_calibrate_success">Ustawienia zapisane</string>
   <string name="headset_calibrate_volume_down">Głośność dół</string>

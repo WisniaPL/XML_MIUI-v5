@@ -137,7 +137,7 @@
   <string name="folders_title">"Katalogi "</string>
   <string name="frequentlyplayed_title">Ostatnio odtwarzane</string>
   <string name="headphone_settings">Ustawienia słuchawek</string>
-  <string name="high_quality">High Quality</string>
+  <string name="high_quality">Wysoka jakość</string>
   <string name="hot_artists">Popularni wykonawcy</string>
   <string name="i_know">OK</string>
   <string name="id3_edit">Edycja tagów ID3</string>
@@ -217,7 +217,7 @@ Spróbuj ponownie później"</string>
   <string name="new_playlist_name_template">Nowa playlista %d</string>
   <string name="no_effect">Wyłączone</string>
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
-  <string name="normal_quality">Good Quality</string>
+  <string name="normal_quality">Dobra jakość</string>
   <string name="not_login">Wpisz się</string>
   <string name="not_selected">Wybierz utwór</string>
   <string name="notification_artist_album">"%2$s %1$s" </string>
@@ -225,10 +225,11 @@ Spróbuj ponownie później"</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Pozostałe opcje</string>
   <string name="overwrite_confirm">Nadpisz</string>
-  <string name="pay_service_guide_dowload">Download quality</string>
-  <string name="pay_service_guide_listen">Stream quality</string>
-  <string name="payment_fail">Payment failed</string>
-  <string name="payment_success">Payment complete</string>
+  <string name="pay_service_guide_dowload">Jakość muzyki</string>
+  <string name="pay_service_guide_listen">Jakość muzyki przesyłanej</string>
+  <string name="pay_service_guide_new">Pobierz w wyższej jakości</string>
+  <string name="payment_fail">Płatność nieudana</string>
+  <string name="payment_success">Płatność zakończona</string>
   <string name="play_all">Odtwórz wszystko</string>
   <string name="play_and_download">Pobieraj i odtwarzaj</string>
   <string name="play_and_download_summary">Automatycznie odtwarzaj utwór pobierany online</string>
@@ -308,28 +309,29 @@ Spróbuj ponownie później"</string>
   <string name="start_to_download_album">Pobieranie okładek albumów dla utworów</string>
   <string name="start_to_download_avatar">Pobieranie zdjęć wykonawców</string>
   <string name="streamloadingtext">Łączenie z %s</string>
-  <string name="synchronize_guide_toast">To enable sync, go to Settings &gt; Sync playlists</string>
+  <string name="synchronize_guide_toast">Włącz synchronizację w Ustawienia > Synchronizuj listy odtwarzania</string>
   <string name="synchronize_playlist_setting">Synchronizuj listy odtwarzania</string>
   <string name="synchronize_playlist_summary">Synchronizuje listy odtwarzania z chmurą.</string>
-  <string name="synchronize_to_baidu_cloud">Back up online songs in your playlists with Baidu Cloud</string>
+  <string name="synchronize_to_baidu_cloud">Skopiuj utwory pobrane online na listy odtwarzania w chmurze Baidu</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
-  <string name="track_bit_rate_hd">High</string>
-  <string name="track_bit_rate_standard">Good</string>
-  <string name="track_bit_rate_uhd">Higher</string>
+  <string name="track_bit_rate_hd">Wysoki</string>
+  <string name="track_bit_rate_standard">Dobry</string>
+  <string name="track_bit_rate_uhd">Najwyższy</string>
   <string name="track_edit">Utwór</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">"Utwory "</string>
-  <string name="ultra_high_quality">Higher Quality</string>
+  <string name="ultra_high_quality">Najwyższa jakość</string>
   <string name="unknown_album_name">Nieznany album</string>
   <string name="unknown_artist_name">Nieznany wykonawca</string>
   <string name="use_local_album">Dodaj zapisaną okładkę</string>
   <string name="use_local_lyric">Dodaj zapisane słowa piosenek</string>
-  <string name="vip_recommend_buy">Purchase (RMB 5 for 1 month)</string>
-  <string name="vip_recommend_exchange">Use gift code</string>
-  <string name="vip_recommend_main_title">Unlimited CD-quality music (320 kbps)</string>
-  <string name="vip_recommend_sub_title">Just RMB 5 a month</string>
-  <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
-  <string name="vip_recommend_title">Get higher quality music</string>
+  <string name="vip_recommend_buy">Kup (RMB 5 na 1 miesiąc)</string>
+  <string name="vip_recommend_exchange">Użyj kodu podarunkowego</string>
+  <string name="vip_recommend_main_title">Muzyka w jakości CD (320 kbps)</string>
+  <string name="vip_recommend_sub_title">Tylko RMB 5 na miesiąc</string>
+  <string name="vip_recommend_summary">"Streamuj albo pobieraj muzykę z Baidu Music w najwyższej jakości 320 kbps.
+  Do płatności można wykorzystać Mi Kredyty."</string>
+  <string name="vip_recommend_title">Wybierz najwyższą jakość muzyki</string>
   <string name="where_is_barcode">"Gdzie jest kod QR?"</string>
   <string name="xiaomi_account_setting">Konto Xiaomi</string>
 </resources>
