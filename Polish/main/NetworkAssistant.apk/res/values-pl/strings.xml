@@ -158,6 +158,7 @@ Konieczne jest ustawienie informacji o operatorze"</string>
   <string name="today_mobile_format">%s: przesył danych dzisiaj</string>
   <string name="today_total_traffic_format">%s: przesył danych dzisiaj</string>
   <string name="today_wlan">Today WLAN</string>
+  <string name="traffic_bought">Ruch zakupiony</string>
   <string name="traffic_none">b.d.</string>
   <string name="traffic_remain">Pozostało</string>
   <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>

@@ -124,6 +124,8 @@
   <string name="confirm_delete_this_video">Usunąć zaznaczony film?</string>
   <string name="confirm_delete_videos">%s filmów</string>
   <string name="confirm_download">"Wymagane jest pobranie %s. Ten komunikat nie zostanie pokazany ponownie."</string>
+  <string name="confirm_download_video_message">Wideo wymaga pobrania! Pobieranie zostanie wznowione przy połączeniu Wi-Fi.</string>
+  <string name="confirm_download_video_title">Pobieranie wideo</string>
   <string name="contact_photo">Zdjęcie kontaktu</string>
   <string name="context_menu_add_contact">Dodaj do kontaktów</string>
   <string name="context_menu_copy">Kopiuj</string>

@@ -14,8 +14,8 @@
         <item>Wyłączone</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Obecna strona</item>
-        <item>Inna</item>
+        <item>Strona startowa</item>
+        <item>Własny adres strony</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Bardzo mały</item>
