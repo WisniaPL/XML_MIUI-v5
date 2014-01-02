@@ -59,6 +59,8 @@
   <string name="create_equalzier_create_text_prompt">Nowa nazwa ustawień equalizera</string>
   <string name="create_playlist_create_text_prompt">Nazwa playlisty</string>
   <string name="custom">Nowe ustawienia EQ</string>
+  <string name="data_usage_warning">Ostrzeżenie o użyciu danych!</string>
+  <string name="data_usage_warning_summary">Korzystanie z Muzyki Online w najwyższej jakości przy użyciu danych mobilnych może zwiększyć koszty za transmisję danych</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Usuń z pamięci wewnętrznej</string>
   <string name="delete_item">Usuń</string>
@@ -88,6 +90,7 @@
   <string name="empty_edit_hint">Informacje o utworze niedostępne</string>
   <string name="empty_track_list">Brak listy utworów</string>
   <string name="emptyplaylist">Playlista jest pusta</string>
+  <string name="enabled">Włączone</string>
   <string name="enter_sleep_mode">Tryb uśpienia</string>
   <string name="eq_auto">Własne</string>
   <string name="eq_blues">Blues</string>
@@ -113,6 +116,7 @@
   <string name="equalizer_delete">Usuń własne ustawienia equalizera</string>
   <string name="equalizer_delete_success">Własne ustawienia equalizera usunięte. Przywrócono Płaski</string>
   <string name="equalizer_save_success">Ustawiania equalizera zapisane</string>
+  <string name="expired">Straciło ważność</string>
   <string name="fade_effect_settings">Zanikanie dźwięku</string>
   <string name="fade_effect_summary">Zanikanie dźwięku przy przełączaniu z aktualnego utworu na następny</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -138,6 +142,8 @@
   <string name="frequentlyplayed_title">Ostatnio odtwarzane</string>
   <string name="headphone_settings">Ustawienia słuchawek</string>
   <string name="high_quality">Wysoka jakość</string>
+  <string name="higher_quality_music">Muzyka wysokiej jakości</string>
+  <string name="higher_quality_music_summary">Pobieraj muzykę w wysokiej jakości</string>
   <string name="hot_artists">Popularni wykonawcy</string>
   <string name="i_know">OK</string>
   <string name="id3_edit">Edycja tagów ID3</string>
@@ -180,6 +186,8 @@ Spróbuj ponownie później"</string>
 Spróbuj ponownie później"</string>
   <string name="load_channel_in_process">Wczytywanie listy kanałów...</string>
   <string name="loading">Ładowanie...</string>
+  <string name="login">Wpisz się</string>
+  <string name="login_first">Musisz wpisać się na konto Xiaomi</string>
   <string name="lrc_progress_modify">Prędkość przewijania tekstu</string>
   <string name="lrc_progress_modify_helper">Dostosuj prędkość tekstu przez przeciągnięcie w górę lub w dół</string>
   <string name="lrc_search_failed">Tekst nieznaleziony!</string>
@@ -193,6 +201,7 @@ Spróbuj ponownie później"</string>
   <string name="lyric_picker_not_found">Menedżer plików nieznaleziony</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Muzyka</string>
+  <string name="menu_higher_quality_music">Jakość CD (miesięczny abonament)</string>
   <string name="mi_effect">Dekodowanie Dirac</string>
   <string name="mi_effect_summary">Wykorzystuje technologię Dirac do polepszania dźwięku w słuchawkach</string>
   <string name="mi_effect_title">Włącz dekodowanie Dirac</string>
@@ -209,6 +218,7 @@ Spróbuj ponownie później"</string>
   <string name="music_not_loaded">Nie wczytano muzyki.</string>
   <string name="music_open_other_connect">Pobieraj muzykę używając sieci mobilnej</string>
   <string name="music_picker_title">Wybierz utwór</string>
+  <string name="music_quality">Jakość muzyki</string>
   <string name="music_settings">Ustawienia</string>
   <string name="network_error">Brak połączenia z siecią, sprawdź sieci</string>
   <string name="new_albums">Nowe albumy</string>
@@ -266,6 +276,7 @@ Spróbuj ponownie później"</string>
   <string name="rename_album_menu">Zmień nazwę albumu</string>
   <string name="rename_artist_menu">Zmień nazwę wykonawcy</string>
   <string name="rename_playlist_menu">Zmień nazwę</string>
+  <string name="request_fail">Request failed!</string>
   <string name="requesting">Requesting…</string>
   <string name="retry">Ponów</string>
   <string name="ringtone_menu">Ustaw jako dzwonek telefonu</string>
@@ -325,11 +336,16 @@ Spróbuj ponownie później"</string>
   <string name="unknown_artist_name">Nieznany wykonawca</string>
   <string name="use_local_album">Dodaj zapisaną okładkę</string>
   <string name="use_local_lyric">Dodaj zapisane słowa piosenek</string>
+  <string name="valid_period">"Ważne do: "</string>
+  <string name="vip_bought">"Już zakupiono abonament"</string>
+  <string name="vip_expired">Abonament się skończył</string>
+  <string name="vip_rebuy">Odnów</string>
   <string name="vip_recommend_buy">Kup (RMB 5 na 1 miesiąc)</string>
   <string name="vip_recommend_exchange">Użyj kodu podarunkowego</string>
   <string name="vip_recommend_main_title">Muzyka w jakości CD (320 kbps)</string>
+  <string name="vip_recommend_rebuy">Odnowienie abonamentu na kolejne 30 dni kosztuje 5 MiKredytów</string>
   <string name="vip_recommend_sub_title">Tylko RMB 5 na miesiąc</string>
-  <string name="vip_recommend_summary">"Streamuj albo pobieraj muzykę z Baidu Music w najwyższej jakości 320 kbps.
+  <string name="vip_recommend_summary">"Przesyłaj lub pobieraj muzykę z Baidu Music w najwyższej jakości 320 kbps.
   Do płatności można wykorzystać Mi Kredyty."</string>
   <string name="vip_recommend_title">Wybierz najwyższą jakość muzyki</string>
   <string name="where_is_barcode">"Gdzie jest kod QR?"</string>

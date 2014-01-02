@@ -59,6 +59,12 @@
     UWAGA: aplikacja nie działa w Europie."</string>
   <string name="binded">Powiązany</string>
   <string name="btn_activate">Aktywuj</string>
+  <string name="btn_count_down_wait">%1$s seconds to wait</string>
+  <string name="btn_voucher">Karta MiKredyt (%1$s)</string>
+  <string name="btn_wait_call">Oczekiwanie</string>
+  <string name="btn_wait_call_count">Oczekiwanie (%1$s)</string>
+  <string name="btn_wait_confirm">Oczekiwanie...</string>
+  <string name="btn_wait_confirm_count">Oczekiwanie (%1$s)</string>
   <string name="button_cancel">Anuluj</string>
   <string name="captcha">Kod Captcha</string>
   <string name="check_phone_error_title">Nie udało się uruchomić usługi synchronizacji</string>
@@ -83,8 +89,11 @@
   <string name="enableAll">Włącz wszystko</string>
   <string name="enable_find_device_error">%1$s, nieudane włączenie z lokalizacją telefonu</string>
   <string name="enable_micloud">Włącz usługi w chmurze</string>
+  <string name="enable_sync">Włącz synchronizację</string>
+  <string name="enable_sync_dspt">Synchr. wyłączona</string>
   <string name="error_dup_phone">Telefon zarejestrowany</string>
   <string name="error_invalid_dev_id">Nieprawidłowe ID telefonu</string>
+  <string name="error_mili_title">Brak MiKredytów</string>
   <string name="error_network">Błąd sieci</string>
   <string name="error_no_sms_service">Usługa SMS niedostępna</string>
   <string name="error_server">Błąd serwera</string>
@@ -116,6 +125,8 @@
   <string name="int_phone_user_notice">Wprowadź numer telefonu wg formatu: +48xxxxxxxxx</string>
   <string name="internet_comm">Wiadomości</string>
   <string name="internet_message">Wiadomości w chmurze</string>
+  <string name="label_order_name">Product name:</string>
+  <string name="label_order_price">Quantity:</string>
   <string name="login">Wpisz się</string>
   <string name="login_failed">Wpisanie się nieudane</string>
   <string name="login_instead_reg">Zaloguj używając numeru telefonu</string>
@@ -124,7 +135,12 @@
 
  W przypadku zgubienia telefonu, te dane zostaną bezpowrotnie stracone. Zalecane jest przywrócenie synchronizacji danych"</string>
   <string name="master_alert_notif_title">Dane nie są synchronizowane od %s dni</string>
+  <string name="memu_refresh">Odśwież</string>
+  <string name="mibi_license_message">Usługi Xiaomi na MiKredyty. Naciskając OK zgadzasz się na %1$s.</string>
+  <string name="mibi_license_message_span">Umowa Użytkownika MIKredyty</string>
+  <string name="mibi_license_title">Umowa Użytkownika MIKredyty</string>
   <string name="micloud_account">Xiaomi</string>
+  <string name="micloud_account_details">Szczegóły konta</string>
   <string name="micloud_account_label">Konto: %1$s</string>
   <string name="micloud_account_name">Xiaomi</string>
   <string name="micloud_account_not_actived">Konto nieaktywne</string>
@@ -141,8 +157,10 @@
   <string name="micloud_activing_account">Aktywacja konta</string>
   <string name="micloud_activing_account_delayed">"Potrzeba około 30 sekund do ukończenia procesu"</string>
   <string name="micloud_activing_account_failed">Nie udało się aktywować konta</string>
+  <string name="micloud_app_data">Kopie aplikacji</string>
   <string name="micloud_click_email">Kliknij na link by aktywować konto Xiaomi</string>
   <string name="micloud_click_email_to_valid">Kliknij link aktywacyjny w skrzynce odbiorczej</string>
+  <string name="micloud_data_loading">Wczytywanie...</string>
   <string name="micloud_delete_account">Usuń konto</string>
   <string name="micloud_dspt">Usługi w chmurze to m.in wiadomości online, synchronizacja czy lokalizacja urządzenia.  Możesz także zarządzać swoimi danymi online w każdej chwili!</string>
   <string name="micloud_email">Adres E-mail</string>
@@ -152,6 +170,16 @@
   <string name="micloud_error_empty_username">Puste pole użytkownika</string>
   <string name="micloud_error_empty_vcode">Wpisz kod weryfikacyjny.</string>
   <string name="micloud_error_illegal_pwd">Nieprawidłowe hasło</string>
+  <string name="micloud_full_influence_dspt">"Wszystkie zdjęcia, filmy, notatki i aplikacje są kopiowane do Chmury.
+
+W przypadku zgubienia telefonu możesz te dane odzyskać.
+
+Gdy miejsce w Chmurze Xiaomi zostanie wyczerpane nowe dane nie będą mogły być synchronizowane.
+
+Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
+  <string name="micloud_full_influence_title">Gdy zabraknie miejsca...</string>
+  <string name="micloud_gallery_image">Zdjęcia</string>
+  <string name="micloud_gallery_video">Filmy</string>
   <string name="micloud_input_password_prompt">Wpisz hasło</string>
   <string name="micloud_intro_01_part_01">Oszczędzaj na kosztach SMS</string>
   <string name="micloud_intro_01_part_02">MIUI pozwala na wysyłanie darmowych wiadomości w chmurze przez Internet</string>
@@ -161,16 +189,35 @@
   <string name="micloud_intro_03_part_02">Możesz także zdalnie zlokalizować urządzenie, zablokować lub nawet usunąć dane przez stronę i.xiaomi.com</string>
   <string name="micloud_is_what">Czym jest Chmura Xiaomi?</string>
   <string name="micloud_more">Dowiedz się więcej</string>
+  <string name="micloud_none">Brak</string>
   <string name="micloud_password_confirm_hint">Potwierdź hasło</string>
   <string name="micloud_password_error_inconsistent">Niezgodne hasła</string>
   <string name="micloud_password_req_notice">8~16 znaków, zawiera liczby, litery alfabetu, wielkość liter</string>
   <string name="micloud_proceed">Kontynuuj</string>
   <string name="micloud_reg_new">Nowe</string>
   <string name="micloud_resend_active_email">Wyślij ponownie E-mail aktywacyjny</string>
+  <string name="micloud_space_full_influence">Gdy zabraknie miejsca...</string>
+  <string name="micloud_storage_space">Pojemność konta Xiaomi</string>
   <string name="micloud_summary">Zaloguj do konta Xiaomi.</string>
+  <string name="micloud_title_dspt" formatted="false">"Całkowita pojemność: %s
+ W użyciu %s | Pozostało %s"</string>
+  <string name="micloud_title_full_dspt">Osiągnięto limit pojemności!</string>
   <string name="micloud_use_existing">Istniejące</string>
+  <string name="micloud_user_base_info">Użytkownik</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Nazwa</string>
+  <string name="micloud_user_phone">Numer telefonu</string>
+  <string name="micloud_user_space_usage">Pojemność: </string>
   <string name="micloud_via_int_sms_alert">Na telefon zostanie wysłany SMS. Koszt SMS wg taryfy operatora</string>
   <string name="micloud_via_sms_alert">Zostanie wysłany SMS aby zweryfikować numer telefonu. Kontynuować?</string>
+  <string name="micloud_warn_full_msg">Osiągnięto limit pojemności!</string>
+  <string name="micloud_warn_full_sum">"Nowe dane nie będą synchronizowane z kontem Xiaomi."</string>
+  <string name="micloud_warn_full_title">Pojemność Chmury Xiaomi się wyczerpała!</string>
+  <string name="micloud_warn_low_sum">Przestrzeń na dysku użyta w 90%.</string>
+  <string name="micloud_warn_low_title">Pozostało niewiele pamięci na dysku Xiaomi!</string>
+  <string name="micloud_web_discription_01">Dostęp z PC na:</string>
+  <string name="micloud_web_discription_02">"http://i.xiaomi.com"</string>
   <string name="micloud_welcome_skip_login">Pomiń krok</string>
   <string name="mili_center">Mi Kredyty</string>
   <string name="my_xiaomi_account">Moje konto Xiaomi</string>

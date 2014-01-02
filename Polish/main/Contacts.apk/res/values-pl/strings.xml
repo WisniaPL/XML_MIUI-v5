@@ -1148,6 +1148,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="wipe_data">Usuń dane aplikacji Osoby</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowpage_navigation_menu_order">" "</string>
   <string name="yellowpage_navigation_no_content">No search result</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_hint">Search</string>

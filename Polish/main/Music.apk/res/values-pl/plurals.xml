@@ -56,10 +56,6 @@
         <item quantity="other">%d utworów dodanych do playlisty.</item>
         <item quantity="one">1 utwór dodany do playlisty.</item>
     </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d usuniętych z playlisty.</item>
-        <item quantity="one">1 utwór usunięty z playlisty.</item>
-    </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d utworów dodanych do playlisty.</item>
         <item quantity="one">1 utwór dodany do playlisty.</item>
@@ -76,6 +72,10 @@
         <item quantity="other">" kategorii"</item>
         <item quantity="one">" kategoria"</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d dni do wygaśnięcia abonamentu</item>
+        <item quantity="one">%d dzień do wygaśnięcia abonamentu</item>
+    </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d utworów</item>
         <item quantity="one">%1$s, %2$d utwór</item>
@@ -87,5 +87,8 @@
     <plurals name="NTrackstoDownload">
         <item quantity="other">Piosenek do pobrania: %d.</item>
         <item quantity="one">1 piosenka zostanie pobrana.</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Abonament na Muzykę Online niedługo wygaśnie (pozostało %d dni)</item>
     </plurals>
 </resources>
