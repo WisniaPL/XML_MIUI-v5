@@ -703,7 +703,6 @@ Czy włączyć funkcję?"</string>
   <string name="current_backup_pw_prompt">Wpisz tutaj bieżące hasło pełnych kopii zapasowych.</string>
   <string name="current_input_method">Domyślna</string>
   <string name="custom_mark_category">Custom</string>
-  <string name="current_input_method">Default</string>
   <string name="current_use_ese">Using embedded secure element</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="data_size_label">Dane</string>
@@ -973,6 +972,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="edit_whitelist">Edytuj notatkę</string>
   <string name="emergency_tone_summary">Skonfiguruj sposób działania w przypadku połączenia alarmowego</string>
   <string name="emergency_tone_title">Sygnał alarmowy</string>
+  <string name="empty_folder_title">Pusty katalog (%d)</string>
   <string name="empty_list_msg">Nie masz zainstalowanych żadnych aplikacji firm zewnętrznych.</string>
   <string name="emptylist_fwlog_call">Blokowane połączenia będą tu pokazywane.</string>
   <string name="emptylist_fwlog_ms">Blokowane wiadomości SMS/MMS będą tu pokazywane.</string>
@@ -1285,6 +1285,11 @@ w tym:
   <string name="line_breaking_summary">Polepsz zawijanie tekstu paragrafów przy wielu liniach</string>
   <string name="line_breaking_title">Zawijanie tekstu</string>
   <string name="link_speed_label">Prędkość połączenia:</string>
+  <string name="list_sub_view_item_clean">Wyczyść</string>
+  <string name="list_sub_view_item_install">Instaluj</string>
+  <string name="list_sub_view_item_lock">Zablokuj</string>
+  <string name="list_sub_view_item_unlock">Odblokuj</string>
+  <string name="list_sub_view_item_view">Szczegóły</string>
   <string name="loading">Wczytywanie...</string>
   <string name="local_backup_password_summary_change">Wybierz, aby zmienić lub usunąć hasło pełnych kopii zapasowych na komputerze stacjonarnym.</string>
   <string name="local_backup_password_summary_none">Pełne kopie zapasowe na komputerze nie są obecnie chronione.</string>
