@@ -40,4 +40,8 @@
         <item quantity="other">Hasło musi zawierać znaki inne niż litery (co najmniej %d).</item>
         <item quantity="one">Hasło musi zawierać co najmniej jeden znak niebędący literą.</item>
     </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikacji może czytać powiadomienia</item>
+        <item quantity="one">%d aplikacja może czytać powiadomienia</item>
+    </plurals>
 </resources>

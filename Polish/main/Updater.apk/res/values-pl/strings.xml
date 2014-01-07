@@ -8,9 +8,9 @@
   <string name="app_name">Aktualizacje</string>
   <string name="apply_buddy_update_info_message">" AKTUALIZACJA SYSTEMU MIUI
 
-Tylko dla MI-1, MI-2, MI-2A, MI-3.
+Tylko dla Xiaomi.
 
-Wybierz 'Instaluj' aby rozpocząć aktualizację. Gdy proces zostanie zakończony telefon uruchomi się ponownie."</string>
+Gdy proces zostanie zakończony uruchom ponownie telefon"</string>
   <string name="apply_existing_update_md5error_title">MD5 się nie zgadza.</string>
   <string name="apply_later_button_text">Anuluj</string>
   <string name="apply_now_button_text">Instaluj</string>
@@ -18,8 +18,7 @@ Wybierz 'Instaluj' aby rozpocząć aktualizację. Gdy proces zostanie zakończon
   <string name="apply_update_dialog_cancel_button">Anuluj</string>
   <string name="apply_update_dialog_update_button">Aktualizuj</string>
   <string name="apply_update_fail">Aktualizacja systemu nieudana</string>
-  <string name="apply_update_timer">"Aktualizacja systemu zakończona. 
-Ponowne uruchomienie za: %d sekund."</string>
+  <string name="apply_update_timer">"Restart za %d s."</string>
   <string name="apply_upload_info_message">Zastosować aktualizację?</string>
   <string name="apply_upload_info_message_manually">Wyłącz telefon i ręcznie uruchom w Recovery by zastosować aktualizację z SD w %s.</string>
   <string name="applying_rom_message">Instalacja ROMu</string>
@@ -67,14 +66,19 @@ Ponowne uruchomienie za: %d sekund."</string>
   <string name="get_update_error">Failed to get update information</string>
   <string name="install_email">Zainstaluj aplikację E-mail</string>
   <string name="install_file_explorer">Zainstaluj przeglądarkę plików</string>
+  <string name="install_qq">Install QQ app</string>
   <string name="install_rom_from_sd">Instalacja z pamięci</string>
+  <string name="install_sina">Install Sina app</string>
   <string name="install_whole_rom">Zalecane jest pobranie pełnego ROMu</string>
+  <string name="internal_build">Internal Build</string>
+  <string name="kernel_upgrade_link"/>
+  <string name="kernel_upgrade_version"/>
   <string name="later">Później</string>
   <string name="loading">Łączenie z MIUI</string>
   <string name="md5_check_cancelled">Sprawdzanie MD5 anulowane</string>
   <string name="mione_update_fail_description">Spróbuj ponownie</string>
   <string name="mione_update_fail_title">Aktualizacja nieudana</string>
-  <string name="mione_update_success_title">Aktualizacja udana</string>
+  <string name="mione_update_success_title">Aktualizacja</string>
   <string name="monthly_build">Miesięczna kompilacja</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Potrzeba przenieść ok, %d Mb, lecz miejsce na karcie SD jest niewystarczające.</string>
   <string name="move_data_to_sdcard_title">Przenieś dane na kartę SD</string>
@@ -98,7 +102,7 @@ Ponowne uruchomienie za: %d sekund."</string>
   <string name="no_updates_warning">Nie znaleziono aktualizacji</string>
   <string name="no_updates_warning2">Nie znaleziono aktualizacji!</string>
   <string name="not_recommend">"Nie polecaj"</string>
-  <string name="now">Teraz</string>
+  <string name="now">Restart</string>
   <string name="paused_queued_for_network">Oczekiwanie na połączenie z siecią</string>
   <string name="paused_queued_for_wifi">Oczekiwanie na połączenie z Wi-Fi</string>
   <string name="previous">Poprzedni</string>
@@ -156,9 +160,9 @@ Ponowne uruchomienie za: %d sekund."</string>
   <string name="update_happy">Zadowolony</string>
   <string name="update_monthly_build_only">Aktualizuj do wersji miesięcznej</string>
   <string name="update_sad">Niezadowolony</string>
-  <string name="update_success">Instalacja aktualizacji zakończona!</string>
-  <string name="update_success_body">Aktualizacja do %s udana</string>
-  <string name="update_success_title">Instalacja aktualizacji zakończona!</string>
+  <string name="update_success">Aktualizacja zakończona!</string>
+  <string name="update_success_body">%s</string>
+  <string name="update_success_title">Aktualizacja zakończona!</string>
   <string name="updater_finish_download">Ukończono pobieranie romu</string>
   <string name="upgrade_close">Zamknij</string>
   <string name="upgrade_kernel">Aktualny kernel wymaga aktualizacji</string>

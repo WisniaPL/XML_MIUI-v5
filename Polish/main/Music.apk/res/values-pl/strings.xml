@@ -18,8 +18,7 @@
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
   <string name="album_select">Wybierz okładkę</string>
   <string name="albums_title">"Albumy "</string>
-  <string name="albumsongseparator">" 
-"</string>
+  <string name="albumsongseparator"/>
   <string name="all_tracks">"Utwory "</string>
   <string name="android_album_settings">Okładki z plików audio</string>
   <string name="android_album_summary">System automatycznie zastosuje okładki dołączone do plików audio</string>
@@ -32,17 +31,17 @@
   <string name="auto_correct_id3_summary">Automatyczna korekta danych ID3 podczas odtwarzania muzyki</string>
   <string name="batch_correct_id3_completed">Grupowa korekta ID3 ukończona!</string>
   <string name="billboard">Toplisty</string>
-  <string name="bind_baidu_account_setting">Bind Baidu Account</string>
+  <string name="bind_baidu_account_setting">Powiąż konto Baidu</string>
   <string name="bind_baidu_account_summary">Get your playlist and value-added service by binding Baidu music accout if you already have one</string>
   <string name="buffering">Buforowanie...</string>
   <string name="cancel">Anuluj</string>
-  <string name="cancel_sleep_mode">Zatrzymaj uśpienie odtwarzacza</string>
+  <string name="cancel_sleep_mode">Uśpienie odtwarzacza zatrzymane</string>
   <string name="cancle_warining">Uśpienie odtwarzacza anulowane</string>
   <string name="channel">Radio FM</string>
-  <string name="channel_format" formatted="false">"%s %s MHz"</string>
+  <string name="channel_format" formatted="false">"%s  %s MHz"</string>
   <string name="channel_postfix">MHz</string>
   <string name="choose_download_quality">Wybierz jakość przy pobieraniu</string>
-  <string name="choose_stream_quality">Wybierz jakość przesyłanego obrazu</string>
+  <string name="choose_stream_quality">Wybierz jakość przesyłanego dźwięku</string>
   <string name="click_to_shuffle">Wszystkie losowo</string>
   <string name="complete">Ukończono</string>
   <string name="confirm">OK</string>
@@ -75,14 +74,14 @@
   <string name="disconnect">Rozłączone</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
-  <string name="download_album_summary">Włącz pobieranie okładek albumów</string>
+  <string name="download_album_summary">"Pobieranie okładek albumów może zużyć więcej danych pakietowych. Rozważ korzystanie z Wi-Fi"</string>
   <string name="download_all_album">Pobierz okładki albumów</string>
   <string name="download_all_avatar">Pobierz zdjęcia wykonawców</string>
   <string name="download_all_track">Pobierz wszystkie utwory</string>
   <string name="download_batch_start">Rozpocznij wszystko</string>
   <string name="download_completed">Pobrane</string>
   <string name="download_lyric_settings">Pobierz teksty utworów</string>
-  <string name="download_lyric_summary">Włącz pobieranie tekstów utworów</string>
+  <string name="download_lyric_summary">"Pobieranie tekstów utworów przez sieć mobilną nie zużywa dużo transferu"</string>
   <string name="download_processing">Pobieranie</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
@@ -150,7 +149,7 @@
   <string name="id3_edit_failed">Edycja metadanych nieudana</string>
   <string name="id3_modify_confirm_check">Zmodyfikować tag ID3?</string>
   <string name="id3_modify_confirm_text">Zapisz</string>
-  <string name="impunity_declaration">Muzyka online wykorzystuje usługę Baidu Online Music. Kliknij \"OK\" aby potwierdzić chęć korzystania, kliknij \"Anuluj\" by wyjść</string>
+  <string name="impunity_declaration">Muzyka Online wykorzystuje usługę Baidu Online Music. Kliknij \"OK\" aby potwierdzić chęć korzystania. Kliknij \"Anuluj\" aby wyjść.</string>
   <string name="impunity_declaration_title">Deklaracja</string>
   <string name="keep_quit_position_settings">Pamiętaj ostatni utwór</string>
   <string name="keep_quit_position_summary">Aplikacja zapamięta ostatnio odtwarzany utwór</string>
@@ -201,12 +200,12 @@ Spróbuj ponownie później"</string>
   <string name="lyric_picker_not_found">Menedżer plików nieznaleziony</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Muzyka</string>
-  <string name="menu_higher_quality_music">Jakość CD (miesięczny abonament)</string>
+  <string name="menu_higher_quality_music">Muzyka najwyższej jakości</string>
   <string name="mi_effect">Dekodowanie Dirac</string>
   <string name="mi_effect_summary">Wykorzystuje technologię Dirac do polepszania dźwięku w słuchawkach</string>
   <string name="mi_effect_title">Włącz dekodowanie Dirac</string>
   <string name="min_interval">1</string>
-  <string name="mobile_connect_settings">Łączność z siecią</string>
+  <string name="mobile_connect_settings">Łączność z siecią 3G</string>
   <string name="modify_id3_for_list">Dane ID3 z listy utworów zostaną edytowane</string>
   <string name="modify_id3_for_selected">Zaznaczone dane ID3 będą edytowane</string>
   <string name="modify_meta">Informacje o utworze</string>
@@ -276,8 +275,8 @@ Spróbuj ponownie później"</string>
   <string name="rename_album_menu">Zmień nazwę albumu</string>
   <string name="rename_artist_menu">Zmień nazwę wykonawcy</string>
   <string name="rename_playlist_menu">Zmień nazwę</string>
-  <string name="request_fail">Request failed!</string>
-  <string name="requesting">Requesting…</string>
+  <string name="request_fail">Odczytanie informacji nieudane!</string>
+  <string name="requesting">Czytanie informacji…</string>
   <string name="retry">Ponów</string>
   <string name="ringtone_menu">Ustaw jako dzwonek telefonu</string>
   <string name="ringtone_not_support">Format pliku nie jest wspierany</string>
@@ -325,9 +324,9 @@ Spróbuj ponownie później"</string>
   <string name="synchronize_playlist_summary">Synchronizuje listy odtwarzania z chmurą.</string>
   <string name="synchronize_to_baidu_cloud">Skopiuj utwory pobrane online na listy odtwarzania w chmurze Baidu</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
-  <string name="track_bit_rate_hd">Wysoki</string>
-  <string name="track_bit_rate_standard">Dobry</string>
-  <string name="track_bit_rate_uhd">Najwyższy</string>
+  <string name="track_bit_rate_hd">Wysoka jakość</string>
+  <string name="track_bit_rate_standard">Dobra jakość</string>
+  <string name="track_bit_rate_uhd">Najwyższa jakość</string>
   <string name="track_edit">Utwór</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">"Utwory "</string>
@@ -336,17 +335,17 @@ Spróbuj ponownie później"</string>
   <string name="unknown_artist_name">Nieznany wykonawca</string>
   <string name="use_local_album">Dodaj zapisaną okładkę</string>
   <string name="use_local_lyric">Dodaj zapisane słowa piosenek</string>
-  <string name="valid_period">"Ważne do: "</string>
+  <string name="valid_period">"Ważność: "</string>
   <string name="vip_bought">"Już zakupiono abonament"</string>
   <string name="vip_expired">Abonament się skończył</string>
   <string name="vip_rebuy">Odnów</string>
-  <string name="vip_recommend_buy">Kup (RMB 5 na 1 miesiąc)</string>
+  <string name="vip_recommend_buy">Kup (5 MiKredytów/miesiąc)</string>
   <string name="vip_recommend_exchange">Użyj kodu podarunkowego</string>
   <string name="vip_recommend_main_title">Muzyka w jakości CD (320 kbps)</string>
-  <string name="vip_recommend_rebuy">Odnowienie abonamentu na kolejne 30 dni kosztuje 5 MiKredytów</string>
-  <string name="vip_recommend_sub_title">Tylko RMB 5 na miesiąc</string>
-  <string name="vip_recommend_summary">"Przesyłaj lub pobieraj muzykę z Baidu Music w najwyższej jakości 320 kbps.
-  Do płatności można wykorzystać Mi Kredyty."</string>
+  <string name="vip_recommend_rebuy">Odnów na następne 30 dni za 5 MiKredytów</string>
+  <string name="vip_recommend_sub_title">5 MiKredytów na miesiąc</string>
+  <string name="vip_recommend_summary">"Przesyłaj lub pobieraj muzykę z Baidu Online Music w najwyższej jakości 320 kbps.
+  Do płatności można wykorzystać MiKredyty."</string>
   <string name="vip_recommend_title">Wybierz najwyższą jakość muzyki</string>
   <string name="where_is_barcode">"Gdzie jest kod QR?"</string>
   <string name="xiaomi_account_setting">Konto Xiaomi</string>

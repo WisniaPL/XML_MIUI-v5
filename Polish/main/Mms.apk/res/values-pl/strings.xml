@@ -123,7 +123,7 @@
   <string name="edit_slideshow_activity">Edytuj pokaz slajdów</string>
   <string name="enable_password_protect">Włącz ochronę hasłem</string>
   <string name="enable_visible_pattern_title">Wzór widoczny</string>
-  <string name="enter_edit_mode">Usuwanie</string>
+  <string name="enter_edit_mode">Edycja</string>
   <string name="error_code_label">"Kod błędu: "</string>
   <string name="error_state">Niekompletny stan</string>
   <string name="error_state_text">Stan wątków i odbiorców jest niekompletny. Wyślij raport o błędzie na android-sms-bugs@google.com</string>
