@@ -101,6 +101,8 @@ Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokow
   <string name="active_input_method_subtypes">Aktywne metody wprowadzania</string>
   <string name="activity_not_found">Aplikacja nie jest zainstalowana na telefonie.</string>
   <string name="activity_picker_label">Wybierz działanie</string>
+  <string name="activity_title_create_shortcut">Skróty</string>
+  <string name="activity_title_settings">Ustawienia</string>
   <string name="adb_warning_message">Debugowanie USB jest przeznaczone wyłącznie do celów programistycznych. Może służyć do kopiowania danych między komputerem a urządzeniem, instalowania aplikacji na urządzeniu bez powiadamiania, a także odczytu danych dziennika.</string>
   <string name="adb_warning_title">Czy zezwalać na debugowanie USB?</string>
   <string name="add_account_label">Dodaj konto</string>
@@ -431,6 +433,8 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_enter_passkey_msg">"Aby sparować z urządzeniem : %1$s , wpisz wymagane hasło klucz urządzenia:"</string>
   <string name="bluetooth_enter_passkey_other_device">Może być również konieczne wpisanie tego klucza na drugim urządzeniu.</string>
   <string name="bluetooth_enter_pin_msg">Aby sparować z urządzeniem  %1$s , wpisz wymagany kod PIN urządzenia:</string>
+  <string name="bluetooth_enter_pin_msg_hs">"
+Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło: 16 znaków]"</string>
   <string name="bluetooth_enter_pin_other_device">Może być również konieczne wpisanie tego kodu PIN na drugim urządzeniu.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
@@ -702,9 +706,9 @@ Czy włączyć funkcję?"</string>
   <string name="cryptkeeper_return_to_call">Powrót do połączenia</string>
   <string name="current_backup_pw_prompt">Wpisz tutaj bieżące hasło pełnych kopii zapasowych.</string>
   <string name="current_input_method">Domyślna</string>
-  <string name="custom_mark_category">Custom</string>
   <string name="current_use_ese">Using embedded secure element</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="custom_mark_category">Custom</string>
   <string name="data_size_label">Dane</string>
   <string name="data_summary">Select Subscription for Data Call</string>
   <string name="data_title">Data Call</string>
@@ -819,8 +823,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="deep_cleaning">Zaawansowane</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Domyślna metoda wprowadzania</string>
-  <string name="default_usb_mode">Domyślne połączenie USB</string>
   <string name="default_sdcard_select_msg">"Jeśli wybierzesz %1$s, aplikacje zainstalowane na %2$s nie będą mogły być użyte, a urządzenie uruchomi się ponownie. Na pewno zmienić na %3$s?"</string>
+  <string name="default_usb_mode">Domyślne połączenie USB</string>
   <string name="delete">Usuń</string>
   <string name="details_subtitle">Szczegóły użycia</string>
   <string name="details_title">Szczegóły użycia</string>
@@ -1143,7 +1147,7 @@ w tym:
   <string name="global_change_warning">To ustawienie obowiązuje wszystkich użytkowników tego telefonu.</string>
   <string name="global_font_change_title">Zmień rozmiar czcionki</string>
   <string name="global_locale_change_title">Zmień język</string>
-  <string name="gsm_to_wifi_connect_type_title">Mobilna->Wi-Fi</string>
+  <string name="gsm_to_wifi_connect_type_title">Mobilna-&gt;Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Wibracje przy dotknięciu</string>
   <string name="haptic_feedback_level">Siła wibracji</string>
   <string name="hardkeyboard_category">Ustawienia klawiatury fizycznej</string>
@@ -1444,8 +1448,14 @@ w tym:
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_edit">Edytuj</string>
-  <string name="menu_item_about_content">Panel Sterowania. Wersja: %s</string>
+  <string name="menu_item_about_content">Panel Sterowania: %s</string>
+  <string name="menu_item_about_summary">Wersja：%s</string>
   <string name="menu_item_about_title">Informacje o aplikacji</string>
+  <string name="menu_item_settings_title">Ustawienia</string>
+  <string name="menu_item_shortcut">Utwórz skróty</string>
+  <string name="menu_item_shortcut_summary">Dodaj na pulpit wybrane moduły Panelu Sterowania</string>
+  <string name="menu_item_shortcut_title">Dodaj skróty</string>
+  <string name="menu_item_shortcut_uninstall">Usuń skróty</string>
   <string name="menu_key">Przycisk Menu</string>
   <string name="menu_new">Nowy APN</string>
   <string name="menu_restore">Resetuj ustawienia</string>
@@ -1486,19 +1496,19 @@ w tym:
   <string name="misc_files">Różne pliki</string>
   <string name="misc_files_selected_count">wybrano %1$d z %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
+  <string name="miui_device_default_name">Android</string>
   <string name="miui_screensaver_show_time">Czas trwania wygaszacza</string>
   <string name="miui_screensaver_show_time_select_title">Ustaw czas trwania</string>
   <string name="miui_screensaver_state_off">Wył</string>
   <string name="miui_screensaver_state_on">Wł</string>
   <string name="miui_screensaver_title">Wygaszacz ekranu</string>
-  <string name="miui_screensaver_usage">Zdjęcie z albumu będzie pokazywane przez 5 sekund od wyłączenia ekranu.</string> 
+  <string name="miui_screensaver_usage">Zdjęcie z albumu będzie pokazywane przez 5 sekund od wyłączenia ekranu.</string>
   <string name="mms_log_tab_title">Rejestr SMS/MMS</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">SMS/MMS</string>
-  <string name="mobile_connect_to_internet">Please connect to the internet</string>
-  <string name="mobile_insert_sim_card">Please insert SIM card and restart</string>
+  <string name="mobile_connect_to_internet">Połącz się z internetem</string>
+  <string name="mobile_insert_sim_card">Włóż kartę SIM i uruchom ponownie</string>
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
-  <string name="mobile_unknown_sim_operator">Uknown SIM operator</string>
+  <string name="mobile_unknown_sim_operator">Nieznany operator SIM</string>
   <string name="model_number">Model</string>
   <string name="move_app">Przenieś</string>
   <string name="move_app_failed_dlg_text">"Nie udało się przenieść aplikacji %1$s"</string>
@@ -1517,11 +1527,11 @@ w tym:
   <string name="msd_install_next">Dalej</string>
   <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
 na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
-<a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
+&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
 
 Uwaga: Ubuntu 13.04 i nowsze posiada
-już wbudowany tryb MTP. 
-Wystarczy podłączyć urządzenie do USB.
+ju&amp;#380; wbudowany tryb MTP. 
+Wystarczy pod&amp;#322;&amp;#261;czy&amp;#263; urz&amp;#261;dzenie do USB.
 
 Acid"</string>
   <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
@@ -1562,7 +1572,7 @@ Przeinstalować sterownik."</string>
   <string name="networkid_label">ID sieci:</string>
   <string name="networks">Wybór operatora</string>
   <string name="new_backup_pw_prompt">Wpisz tutaj nowe hasło pełnych kopii zapasowych.</string>
-  <string name="new_bw_list_button">Add contact</string>
+  <string name="new_bw_list_button">Dodaj kontakt</string>
   <string name="next_button_label">Dalej</string>
   <string name="next_label">Dalej</string>
   <string name="nfc_category_title">NFC</string>
@@ -1593,7 +1603,6 @@ Przeinstalować sterownik."</string>
   <string name="onscreen_keyboard_settings_summary">Ustawienia klawiatury ekranowej</string>
   <string name="open_wifi_connect_summary">Kliknij aby przejść do opcji połączenia</string>
   <string name="open_wifi_connect_title">Połącz z otwartą siecią %1$s</string>
-  <string name="osb_settings">Klawisze ekranowe</string>
   <string name="opt_accept_whitelist">Akceptuj połączenia od numerów z listy</string>
   <string name="opt_cancel_desc">Anuluj</string>
   <string name="opt_clean_garbage">Usunięto %d MB</string>
@@ -1637,16 +1646,12 @@ Przeinstalować sterownik."</string>
   <string name="optimize_now">Rozpocznij</string>
   <string name="optimize_residual_header_left">Pozostałości: %d</string>
   <string name="optimize_residual_list_empty_content">Nie znaleziono pozostałości.</string>
-  <string name="optimize_tips_ad">iconReklamy w postaci obrazków lub tekstu zachowane na urządzeniu.</string>
   <string name="optimize_tips_ad_content">Reklamy w postaci obrazków lub tekstu zachowane na urządzeniu.</string>
   <string name="optimize_tips_ad_title">Reklamy</string>
-  <string name="optimize_tips_apk">"iconInstalatory aplikacji z plików APK. Te pliki zajmują tylko miejsce kiedy aplikacje zostały już zainstalowane."</string>
   <string name="optimize_tips_apk_content">"Instalatory aplikacji z plików APK. Te pliki zajmują tylko miejsce kiedy aplikacje zostały już zainstalowane."</string>
   <string name="optimize_tips_apk_title">Aplikacje</string>
-  <string name="optimize_tips_cache">iconPliki cache generowane tymczasowo przez procesy (np. miniaturki).</string>
   <string name="optimize_tips_cache_content">Pliki cache generowane tymczasowo przez procesy (np. miniaturki).</string>
   <string name="optimize_tips_cache_title">Cache</string>
-  <string name="optimize_tips_residual">"iconPozostałości w postaci plików wideo, tapet czy muzyki pobranych do pamięci urządzenia, które zostały po odinstalowaniu aplikacji."</string>
   <string name="optimize_tips_residual_content">Pozostałości w postaci plików wideo, tapet czy muzyki pobranych do pamięci urządzenia, które zostały po odinstalowaniu aplikacji.</string>
   <string name="optimize_tips_residual_title">Pozostałości</string>
   <string name="optimize_tips_title">Pomoc</string>
@@ -1656,6 +1661,7 @@ Przeinstalować sterownik."</string>
   <string name="optimize_title_residual">Pozostałości</string>
   <string name="optimizing">Optymalizowanie</string>
   <string name="optimizing_virus">Usuwanie wirusów...</string>
+  <string name="osb_settings">Klawisze ekranowe</string>
   <string name="other_relative">Inne uprawnienia</string>
   <string name="overlay_display_devices_title">Symuluj ekrany dodatkowe</string>
   <string name="owner_info_settings_edit_text_hint">Wpisz tekst do wyświetlenia na ekranie blokady.</string>
@@ -1782,7 +1788,6 @@ Przeinstalować sterownik."</string>
   <string name="perm_operating">Przetważanie...</string>
   <string name="perm_optimize">Optymalizowanie</string>
   <string name="perm_privacy_app_count">%1$d uprawnień</string>
-  <string name="perm_root_manage_empty">Brak aplikacji z ROOT</string>
   <string name="perm_privacy_app_finish">Gotowe</string>
   <string name="perm_privacy_app_installed">Instalacja zakończona!</string>
   <string name="perm_privacy_app_launch">Launch</string>
@@ -1796,6 +1801,7 @@ Przeinstalować sterownik."</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI nie będzie monitorował aplikacji</string>
   <string name="perm_privacy_app_uninstall">Odinstaluj</string>
   <string name="perm_privacy_count">Zezwolono: %1$d Odmówiono: %2$d</string>
+  <string name="perm_root_manage_empty">Brak aplikacji z ROOT</string>
   <string name="perm_service_disabled">Usługa wyłączona</string>
   <string name="perm_service_enabled">Usługa włączona</string>
   <string name="perm_shortcut">Menu kontekstowe</string>
@@ -1870,7 +1876,7 @@ Przeinstalować sterownik."</string>
   <string name="power_center_custom_title">Oszczędzanie energii</string>
   <string name="power_center_low_battery_summary_default">Przełącz tryb jeśli jest niski poziom ładowania</string>
   <string name="power_center_low_battery_summary_dynamic">Kiedy pozostało %1$d%% baterii przełącz na %2$s</string>
-  <string name="power_center_low_battery_title">Autom. przełączanie</string>
+  <string name="power_center_low_battery_title">Automatyczne przełączanie</string>
   <string name="power_center_on_time_summary_default">Przełącz tryb w zaplanowanym czasie</string>
   <string name="power_center_on_time_summary_dynamic">Od %1$s do %2$s przełącz na %3$s</string>
   <string name="power_center_on_time_title">Zaplanowane przełączenie</string>
@@ -1884,9 +1890,9 @@ Przeinstalować sterownik."</string>
   <string name="power_chooser_sleep_summary">Wyłącza wszystkie podstawowe funkcje (telefon, wiadomości, Internet) z wyjątkiem budzika</string>
   <string name="power_chooser_sleep_title">Uśpienie</string>
   <string name="power_chooser_smart_summary">Standardowe ustawienia. Usuwa procesy po zablokowaniu ekranu</string>
-  <string name="power_chooser_smart_title">Tryb standardowy</string>
+  <string name="power_chooser_smart_title">Standardowy</string>
   <string name="power_chooser_standby_summary">Wyłączone funkcje internetowe</string>
-  <string name="power_chooser_standby_title">Tryb oszczędny</string>
+  <string name="power_chooser_standby_title">Oszczędny</string>
   <string name="power_chooser_title">Oszczędzanie energii</string>
   <string name="power_chooser_user_define_summary">Dostosuj własny plan działania na baterii</string>
   <string name="power_chooser_user_define_title">Dodaj własny profil</string>
@@ -1920,6 +1926,10 @@ Przeinstalować sterownik."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Nie można usunąć używanego aktualnie profilu."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Nie można usunąć: urządzenie jest ustawione by przełączyć się na ten profil gdy jest niski poziom ładowania. 
  Musisz zmienić te ustawienia przed usunięciem tego profilu."</string>
+ <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Nie można usunąć: urządzenie jest ustawione by przełączyć się na ten profil jeśli bateria się podładuje. 
+ Musisz zmienić te ustawienia przed usunięciem tego profilu."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Nie można usunąć: urządzenie jest ustawione by przełączyć się na ten profil po zaplanowanym czasie. 
+ Musisz zmienić te ustawienia przed usunięciem tego profilu.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Nie można usunąć: urządzenie jest ustawione by przełączyć się na ten profil o zaplanowanym czasie. 
  Musisz zmienić te ustawienia przed usunięciem tego profilu."</string>
   <string name="power_dialog_delete_dialog_delete">"Usunąć własny profil i powiązane z nim ustawienia?"</string>
@@ -1942,6 +1952,7 @@ Przeinstalować sterownik."</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Po 10 minutach</string>
   <string name="power_mode_auto_clean_memory_never">Nigdy</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
+  <string name="power_mode_chooser_button_text">Zastosuj</string>
   <string name="power_mode_cpu_state">Profil zasilania</string>
   <string name="power_mode_cpu_state_balance">Normalny</string>
   <string name="power_mode_cpu_state_balance_desc">Zwiększa wydajność CPU w razie potrzeby</string>
@@ -1970,12 +1981,15 @@ Przeinstalować sterownik."</string>
   <string name="power_mode_vibration_silence">W trybie cichym</string>
   <string name="power_mode_vibration_yes">Włączone</string>
   <string name="power_mode_wifi">Wi-Fi</string>
+  <string name="power_new_choose_mode">Wybierz konfigurację</string>
   <string name="power_perm_logs_empty">Brak rejestru</string>
   <string name="power_phone">Połączenia głosowe</string>
   <string name="power_save_choose_mode">Wybierz profil</string>
-  <string name="power_save_low_battery_auto_save_title">Oszczędzanie energii</string>
+  <string name="power_save_choose_recovery_mode">Wybierz konfigurację</string>
+  <string name="power_save_low_battery_auto_save_title">Automatyczne przełączanie</string>
+  <string name="power_save_low_battery_option_recovery_title">Przełącz gdy powyżej poziomu</string>
   <string name="power_save_low_battery_option_summary">Jeśli poziom ładowania będzie powyżej dolnego limitu urządzenie przełączy się na ostatnio używany profil</string>
-  <string name="power_save_low_battery_option_title">Przełącz na</string>
+  <string name="power_save_low_battery_option_title">Przełącz gdy poniżej poziomu</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
   <string name="power_save_low_battery_percentage_ten">10%</string>
@@ -1987,6 +2001,8 @@ Przeinstalować sterownik."</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Koniec</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
+  <string name="power_save_on_time_goout_title">Przywróć na profil</string>
+  <string name="power_save_on_time_option_recovery_title">Przełączanie profilu</string>
   <string name="power_save_on_time_option_summary">Pod koniec zaplanowanego włączenia urządzenie przełączy się na ostatnio używany profil</string>
   <string name="power_save_on_time_option_title">Użyj profilu</string>
   <string name="power_save_on_time_start_time_summary">Początek</string>
@@ -2013,25 +2029,18 @@ Przeinstalować sterownik."</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Podświetlenie przycisków</string>
   <string name="pref_button_light_summary">Podświetlenie przycisków nawigacyjnych pod ekranem telefonu.</string>
-  <string name="pref_key_last_check_canceled">last_check_canceled</string>
-  <string name="pref_key_last_scan_data">lastScanDate</string>
-  <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
-  <string name="pref_key_need_update_app_count">need_update_app_count</string>
-  <string name="pref_key_package_synced">package_synced</string>
-  <string name="pref_key_risk_amount">riskAmount</string>
-  <string name="pref_key_scan_type">scanType</string>
-  <string name="pref_key_virus_amount">virusAmount</string>
-  <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
-  <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
-  <string name="pref_key_virus_cloud">virusScanCloud</string>
-  <string name="pref_key_virus_install">virusScanInstall</string>
-  <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
-  <string name="pref_key_virus_lib_version">virusLibVersion</string>
   <string name="pref_operational_key">Przyciski nawigacyjne</string>
-  <string name="pref_volume_category_title">Przycisk głośności</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
   <string name="preference_change_password_title">Zmień hasło</string>
+  <string name="preference_key_about_version">key_about_version</string>
+  <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
+  <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
+  <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
+  <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
+  <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
+  <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preferred_app_settings">Domyślne aplikacje</string>
   <string name="preferred_app_settings_default">Domyślne</string>
   <string name="preferred_app_settings_reset">Przywróć domyślne</string>
@@ -2581,6 +2590,8 @@ Przeinstalować sterownik."</string>
   <string name="title_virus_update_yes">Autom. aktualizacja bazy wirusów włączona</string>
   <string name="title_virus_yes">Nie wykryto wirusów</string>
   <string name="toast_qucik_scan_list_empty">Wszystko wygląda dobrze!</string>
+  <string name="toast_shortcut_install">Skrót dodany</string>
+  <string name="toast_shortcut_uninstall">Skrót usunięty</string>
   <string name="total_size">Razem: %s</string>
   <string name="total_size_label">Razem</string>
   <string name="touch_sensitive_summary">Włącza czuły dotyk wyświetlacza</string>
@@ -2746,9 +2757,9 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="user_confirm_remove_self_message">Utracisz swój obszar i dane na tym telefonie. Tej czynności nie można cofnąć.</string>
   <string name="user_confirm_remove_self_title">Chcesz usunąć siebie?</string>
   <string name="user_confirm_remove_title">Usunąć użytkownika?</string>
-  <string name="user_details_title">Edytuj szczegóły</string>
   <string name="user_delete_button">Usuń</string>
   <string name="user_delete_user_description">Usuń użytkownika</string>
+  <string name="user_details_title">Edytuj szczegóły</string>
   <string name="user_dict_multiple_settings_title">Osobiste słowniki</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
   <string name="user_dict_settings_add_dialog_less_options">Mniej opcji</string>

@@ -88,6 +88,10 @@
         <item quantity="other">Piosenek do pobrania: %d.</item>
         <item quantity="one">1 piosenka zostanie pobrana.</item>
     </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Pozostało %d dni</item>
+        <item quantity="one">Pozostał %d dzień</item>
+    </plurals>
     <plurals name="Nvip_expired_remind">
         <item quantity="other">Abonament na Muzykę Online niedługo wygaśnie (pozostało %d dni)</item>
     </plurals>

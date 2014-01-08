@@ -74,7 +74,7 @@
   <string name="disconnect">Rozłączone</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
-  <string name="download_album_summary">"Pobieranie okładek albumów może zużyć więcej danych pakietowych. Rozważ korzystanie z Wi-Fi"</string>
+  <string name="download_album_summary">"Pobieranie okładek albumów może powodować wysokie użycie danych mobilnych. Rozważ korzystanie z Wi-Fi"</string>
   <string name="download_all_album">Pobierz okładki albumów</string>
   <string name="download_all_avatar">Pobierz zdjęcia wykonawców</string>
   <string name="download_all_track">Pobierz wszystkie utwory</string>
@@ -268,7 +268,7 @@ Spróbuj ponownie później"</string>
   <string name="recommend">Polecane</string>
   <string name="refresh_finish">Odświeżono pomyślnie</string>
   <string name="refresh_in_processing">Odświeżanie...</string>
-  <string name="refresh_media_db">Odśwież</string>
+  <string name="refresh_media_db">Odśwież bibliotekę</string>
   <string name="refresh_start">Odświeżanie rozpoczęte, proszę czekać...</string>
   <string name="remove_from_favorite">Usuń z ulubionych</string>
   <string name="remove_item">Usuń</string>
@@ -297,7 +297,7 @@ Spróbuj ponownie później"</string>
   <string name="search_hint">Wyszukiwanie Muzyki</string>
   <string name="search_settings_description">Wykonawcy, albumy i utwory</string>
   <string name="search_suggestion">Podpowiedzi:</string>
-  <string name="search_title">Wyszukaj</string>
+  <string name="search_title">Wyszukaj utwory</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="select_folder">Zaznacz katalog</string>
   <string name="select_quit_time">Ustaw uśpienie odtwarzacza (w minutach)</string>

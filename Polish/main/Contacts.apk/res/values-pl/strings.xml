@@ -410,6 +410,7 @@ Możesz wyłączyć przypomnienie w ustawieniach kontaktów"</string>
   <string name="group_delete_success_toast">Grupa pomyślnie usunięta</string>
   <string name="group_edit_field_hint_text">Nazwa grupy</string>
   <string name="group_member_remove_toast">Kontakt pomyślnie usunięty z grupy</string>
+  <string name="group_name">Moje grupy</string>
   <string name="group_name_hint">"Nazwa grupy"</string>
   <string name="group_read_only">Nie można edytować na tym urządzeniu.</string>
   <string name="group_rename_dialog_title">Zmień nazwę grupy</string>
@@ -815,6 +816,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Przeglądarka zasobów</string>
   <string name="resource_apply">Zastosuj</string>
+  <string name="resource_apply_trial">Przetestuj</string>
   <string name="resource_buy">Kup</string>
   <string name="resource_can_not_selected">%1$s nie może zostać zaznaczonych!</string>
   <string name="resource_category">Kategorie</string>
@@ -870,6 +872,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_detail_update_log_title">Aktualizacje</string>
   <string name="resource_detail_window_title">%1$s szczegóły</string>
   <string name="resource_download">Pobierz</string>
+  <string name="resource_download_trial">Okres próbny</string>
   <string name="resource_downloaded_title">Pobrane elementy</string>
   <string name="resource_downloading">Pobieranie</string>
   <string name="resource_exchange">Redeem</string>
@@ -897,6 +900,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_get_auth_missing">Motyw nie został pobrany z marketu MIUI. Zaloguj się do konta Xiaomi i pobierz motyw z oficjalnego marketu.</string>
   <string name="resource_get_auth_retrieving">Autoryzacja...</string>
   <string name="resource_hint">Wiadomość</string>
+  <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Pomyślnie pobrano.</string>
   <string name="resource_importing">Wczytywanie</string>
   <string name="resource_list_title">Ostatnie</string>
@@ -906,6 +910,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_my">Lokalnie</string>
   <string name="resource_no_result">Brak wyników</string>
   <string name="resource_notification_default">Powiadomienia</string>
+  <string name="resource_on_trial">Okres próbny: %1$s</string>
   <string name="resource_online">W sieci</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, but current price is still more favorable than purchase individually for left items, continue?</string>
   <string name="resource_pack_discount_info">%1$s Saved!</string>
@@ -922,6 +927,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_ranking_free">Darmowe</string>
   <string name="resource_ranking_purchase">Płatne</string>
   <string name="resource_ringtone_default">Dzwonki</string>
+  <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Dzwonek jest obecnie wyciszony</string>
   <string name="resource_save_to_note">Save to Notes</string>
   <string name="resource_see_more">Więcej</string>
@@ -938,6 +944,11 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_tip_select_ringtone">Nie wybrano dzwonka</string>
   <string name="resource_title">Szczegóły</string>
   <string name="resource_title_select_ringtone">Wybierz dzwonek</string>
+  <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
+  <string name="resource_trial_end_purchase">Kup</string>
+  <string name="resource_trial_end_restore">Zakończ okres próbny</string>
+  <string name="resource_trial_end_title">Okres próbny minął</string>
+  <string name="resource_trial_time">Próbny na %1$d minut</string>
   <string name="resource_unable_to_access">"Szukana treść nie jest obecnie dostępna w twoim regionie."</string>
   <string name="resource_unknow_error">Nieznany bł.</string>
   <string name="resource_update">Aktualizuj</string>

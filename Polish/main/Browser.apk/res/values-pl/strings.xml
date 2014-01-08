@@ -325,6 +325,7 @@
   <string name="new_folder">Nowy folder</string>
   <string name="new_incognito_tab">Nowa karta incognito</string>
   <string name="new_tab">Nowa karta</string>
+  <string name="no">Anuluj</string>
   <string name="no_subfolders">Brak podfolderów</string>
   <string name="not_enough_disk_space_alert">Brak miejsca na urządzeniu</string>
   <string name="not_remind_again">"Nie przypominaj więcej"</string>
@@ -374,7 +375,6 @@
   <string name="pref_content_open_in_background">Otwieraj w tle</string>
   <string name="pref_content_open_in_background_summary">Otwieraj nowe karty za bieżącą</string>
   <string name="pref_content_plugins">Obsługa wtyczek</string>
-  <string name="pref_content_preload_title">Przeładuj treść</string>
   <string name="pref_content_search_engine">Ustaw wyszukiwarkę</string>
   <string name="pref_content_search_engine_summary">Wybierz wyszukiwarkę.</string>
   <string name="pref_content_title">Treść strony</string>
