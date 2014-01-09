@@ -20,11 +20,12 @@
     <string name="setup_complete_label">Gotowe!</string>
     <string name="setup_complete_start">Rozpocznij</string>
     <string name="setup_complete_summary">Instalacja zakończona</string>
-    <string name="shutdown">Zamykanie</string>
+    <string name="shutdown">Wyłącz telefon</string>
     <string name="sim_card_detection_dialog_message">Wykrywanie karty SIM. Proszę czekać.</string>
-    <string name="sim_card_detection_info">"Nie można założyć konta Xiaomi bez karty SIM. Włóż kartę SIM"</string>
+    <string name="sim_card_detection_info">"Bez karty SIM nie będzie można założyć konta Xiaomi"</string>
     <string name="sim_card_detection_label">Karta SIM</string>
-    <string name="sim_card_detection_status_absent">Karta SIM niewykryta. Włóż kartę SIM i uruchom ponownie.</string>
+    <string name="sim_card_detection_status_absent">"Nie wykryto karty SIM.
+Włóż kartę SIM i uruchom ponownie telefon."</string>
     <string name="traffic_protection_label">Ochrona danych mobilnych</string>
     <string name="traffic_protection_summary">System przypomni kiedy zostanie osiągnięty limit transmisji danych w Twoim planie taryfowym.</string>
     <string name="traffic_protection_text_hint">Wprowadź obecny limit transmisji.</string>

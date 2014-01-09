@@ -540,14 +540,14 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="brightness_auto_adjust_on">Automatyczna jasność może być dostosowana przez ustawienie suwaka. Jasność ekranu dostosuje się do warunków oświetleniowych otoczenia.</string>
   <string name="brightness_summary">Dostosuj jasność ekranu</string>
   <string name="bssid_label">BSSID:</string>
-  <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
-  <string name="bt_hci_snoop_log_summary">Capture all bluetooth HCI packets in a file</string>
-  <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-  <string name="bt_trace_log_summary">Enable Bluetooth Trace log</string>
-  <string name="bugreport_in_power">Power menu bug reports</string>
-  <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
-  <string name="bugreport_tool_log_toast">Log saved to %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
+  <string name="bt_hci_snoop_log">Włącz dziennik analizatora snoop Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log_summary">Przechwyć wszystkie pakiety Bluetooth HCI do pliku</string>
+  <string name="bt_trace_log">Włącz śledzenie Bluetooth</string>
+  <string name="bt_trace_log_summary">Włącza i zapisuje do rejestru śledzenie Bluetooth</string>
+  <string name="bugreport_in_power">Błędy w menu zasilania</string>
+  <string name="bugreport_in_power_summary">Dodaj w menu zasilania opcję zgłaszania błędów</string>
+  <string name="bugreport_tool_log_toast">Log zapisany do %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Generowanie raportu...</string>
   <string name="build_author">Rom autorstwa</string>
   <string name="build_number">Numer kompilacji</string>
   <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
@@ -1291,8 +1291,8 @@ w tym:
   <string name="link_speed_label">Prędkość połączenia:</string>
   <string name="list_sub_view_item_clean">Wyczyść</string>
   <string name="list_sub_view_item_install">Instaluj</string>
-  <string name="list_sub_view_item_lock">Zablokuj</string>
-  <string name="list_sub_view_item_unlock">Odblokuj</string>
+  <string name="list_sub_view_item_lock">Zablokowane</string>
+  <string name="list_sub_view_item_unlock">Odblokowane</string>
   <string name="list_sub_view_item_view">Szczegóły</string>
   <string name="loading">Wczytywanie...</string>
   <string name="local_backup_password_summary_change">Wybierz, aby zmienić lub usunąć hasło pełnych kopii zapasowych na komputerze stacjonarnym.</string>
@@ -1452,7 +1452,7 @@ w tym:
   <string name="menu_item_about_summary">Wersja：%s</string>
   <string name="menu_item_about_title">Informacje o aplikacji</string>
   <string name="menu_item_settings_title">Ustawienia</string>
-  <string name="menu_item_shortcut">Utwórz skróty</string>
+  <string name="menu_item_shortcut">Utwórz skrót</string>
   <string name="menu_item_shortcut_summary">Dodaj na pulpit wybrane moduły Panelu Sterowania</string>
   <string name="menu_item_shortcut_title">Dodaj skróty</string>
   <string name="menu_item_shortcut_uninstall">Usuń skróty</string>
@@ -1527,31 +1527,26 @@ w tym:
   <string name="msd_install_next">Dalej</string>
   <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
 na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
-&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
+<a href='http://tinyurl.com/Ubuntu-MTP'>Ubuntu-MTP</a>
 
-Uwaga: Ubuntu 13.04 i nowsze posiada
-ju&amp;#380; wbudowany tryb MTP. 
-Wystarczy pod&amp;#322;&amp;#261;czy&amp;#263; urz&amp;#261;dzenie do USB.
+"Uwaga: Ubuntu 13.04 i nowsze posiada
+już wbudowany tryb MTP. Wystarczy podłączyć telefon do USB."
 
 Acid"</string>
-  <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
-Try the following:
-"Do a computer search for
-Android File Transfer
-for MAC"
-"Disconnect the MI 2 to computer USB cable and reconnect."
-"Re-install the driver.</string>
+  <string name="msd_install_retry_mac">"Jeśli komputer nie wykryje MI 2,
+spróbuj:
+1) Odłączyć MI 2 od USB i ponownie podłączyć do PC."</string>
   <string name="msd_install_retry_windows_vista">"Jeśli komputer nie wykryje MI 2,
 spróbuj:
-Odłączyć MI 2 od USB i ponownie podłączyć do PC."</string>
+1) Odłączyć MI 2 od USB i ponownie podłączyć do PC."</string>
   <string name="msd_install_retry_windows_xp">"Jeśli komputer nie wykryje MI 2,
 spróbuj:
-Odłączyć MI 2 od USB i ponownie podłączyć do PC.
-Przeinstalować sterownik."</string>
+1) Odłączyć MI 2 od USB i ponownie podłączyć do PC.
+2) Przeinstalować sterownik."</string>
   <string name="msd_install_status_done">Sterownik zainstalowany</string>
   <string name="msd_install_status_undo">Zainstaluj sterownik</string>
   <string name="msd_install_succeed">Sterownik zainstalowany</string>
-  <string name="msd_install_windows_xp_step_2_1">"1.Jeśli pojawi się Kreator dodawania sprzętu, postępuj zgodnie z podanymi krokami"</string>
+  <string name="msd_install_windows_xp_step_2_1">"1. Jeśli pojawi się Kreator dodawania sprzętu, postępuj zgodnie z podanymi krokami"</string>
   <string name="msg_wlan_signal_found">Found WLAN AP %s, would you like to use this WLAN network? Using this network will interrupt the data service partially.</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
@@ -1785,7 +1780,7 @@ Przeinstalować sterownik."</string>
   <string name="perm_mian_name">Uprawnienia</string>
   <string name="perm_monitored_app">Monitorowane aplikacje (%1$d)</string>
   <string name="perm_notice">Powiadomienie bezpieczeństwa</string>
-  <string name="perm_operating">Przetważanie...</string>
+  <string name="perm_operating">Przetwarzanie...</string>
   <string name="perm_optimize">Optymalizowanie</string>
   <string name="perm_privacy_app_count">%1$d uprawnień</string>
   <string name="perm_privacy_app_finish">Gotowe</string>
@@ -1821,6 +1816,7 @@ Przeinstalować sterownik."</string>
   <string name="perm_su_switch">Uprawnienia ROOT</string>
   <string name="perm_summary_disabled">Wył</string>
   <string name="perm_summary_enabled">Wł</string>
+  <string name="perm_support_hints">Powered by LBE</string>
   <string name="perm_sysopt_boost_auto_start">Uprawnienia na autostart</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
   <string name="perm_sysopt_boost_auto_start_summary">Zezwalanie na autostart procesów</string>
@@ -2118,7 +2114,7 @@ Przeinstalować sterownik."</string>
   <string name="quick_scan_done_title">Skanowanie ukończone!</string>
   <string name="quick_scan_list_loading_hits">Skanowanie...</string>
   <string name="quick_scan_result_summary">Oczyszczanie za %d sek.</string>
-  <string name="quick_scan_result_title">Znaleziono %s elementów</string>
+  <string name="quick_scan_result_title">Znaleziono %s</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Połączony</string>
   <string name="radioInfo_data_connecting">Łączenie</string>
