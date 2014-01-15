@@ -313,10 +313,6 @@
   <string name="navigation_button_newtab">Nowa</string>
   <string name="navigation_button_tab">Karta</string>
   <string name="navigation_button_view">Pokaż</string>
-  <string name="navigator_permissions_prompt_dont_share">Odmów</string>
-  <string name="navigator_permissions_prompt_message" formatted="false">%s prosi o dostęp do %s na twoim urządzeniu</string>
-  <string name="navigator_permissions_prompt_remember">Pamiętaj wybór</string>
-  <string name="navigator_permissions_prompt_share">Zezwól</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Dostępna jest sieć Wi-Fi. Połączyć?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Zapamiętaj wybór</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Powiadomienie o Wi-Fi</string>
@@ -643,4 +639,5 @@
   <string name="webstorage_origin_summary_mb_stored">Liczba MB danych zapisanych w telefonie</string>
   <string name="webstorage_outofspace_notification_text">Dotknij, aby zwolnić miejsce.</string>
   <string name="webstorage_outofspace_notification_title">Pamięć przeglądarki jest pełna</string>
+  <string name="yes">Tak</string>
 </resources>

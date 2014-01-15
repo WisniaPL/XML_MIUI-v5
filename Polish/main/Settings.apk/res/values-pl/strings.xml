@@ -1175,17 +1175,17 @@ w tym:
   <string name="header_data_and_synchronization">Dane i synchronizacja</string>
   <string name="headset_calibrate">Kalibracja przycisków</string>
   <string name="headset_calibrate_apply">Zastosuj</string>
-  <string name="headset_calibrate_confirm">Funkcje przycisków zmodyfikowane. Zastosuj zmiany？</string>
+  <string name="headset_calibrate_confirm">Funkcje przycisków zmodyfikowane. Zastosować zmiany?</string>
   <string name="headset_calibrate_hint">Naciśnij przycisk góra</string>
   <string name="headset_calibrate_next_track">Następny utwór</string>
   <string name="headset_calibrate_prev_track">Poprzedni utwór</string>
   <string name="headset_calibrate_success">Ustawienia zapisane</string>
-  <string name="headset_calibrate_volume_down">Głośność dół</string>
-  <string name="headset_calibrate_volume_up">Głośność góra</string>
+  <string name="headset_calibrate_volume_down">Ciszej</string>
+  <string name="headset_calibrate_volume_up">Głośniej</string>
   <string name="headset_calibrate_wrong_key">Przycisk nie jest prawidłowy. Wprowadź ponownie</string>
   <string name="headset_function">Funkcje przycisków</string>
-  <string name="headset_mode_music">Muzyka - poprzedni/następny</string>
-  <string name="headset_mode_volume">Głośność - góra/dół</string>
+  <string name="headset_mode_music">Muzyka: poprzedni/następny</string>
+  <string name="headset_mode_volume">Głośność: głośniej/ciszej</string>
   <string name="headset_no_contected">Nie podłączono słuchawek</string>
   <string name="headset_settings">Słuchawki</string>
   <string name="heavy_weight_stop_description">Nie można bezpiecznie zatrzymać tej aplikacji. Może to spowodować utratę części Twojej bieżącej pracy.</string>
@@ -1669,18 +1669,18 @@ spróbuj:
   <string name="perm_app">Aplikacje</string>
   <string name="perm_app_enable">Monitoruje prośby o uprawnienia</string>
   <string name="perm_app_header">Menedżer uprawnień</string>
-  <string name="perm_app_manage_empty">Brak monitorowanych aplikacji</string>
+  <string name="perm_app_manage_empty">"Brak monitorowanych aplikacji"</string>
   <string name="perm_app_name">Uprawnienia</string>
-  <string name="perm_app_title">Zarządzanie uprawnieniami</string>
+  <string name="perm_app_title">Uprawnienia aplikacji</string>
   <string name="perm_auto_start">Autostart aplikacji</string>
-  <string name="perm_auto_start_desc">WŁ/WYŁ autostart</string>
+  <string name="perm_auto_start_desc">"Włącz lub wyłącz autostart aplikacji"</string>
   <string name="perm_canceling">Anulowanie...</string>
   <string name="perm_check">Zaznacz</string>
   <string name="perm_clean">Wyczyść</string>
   <string name="perm_configuration">Ustawienia</string>
   <string name="perm_copyright">" "</string>
   <string name="perm_disable">Wyłącz</string>
-  <string name="perm_enable">Uprawnienia ROOT</string>
+  <string name="perm_enable">Dostęp do ROOT</string>
   <string name="perm_good">Dobrze</string>
   <string name="perm_header">Monitorowanie %1$d aplikacji</string>
   <string name="perm_header_disabled">Monitor aplikacji wyłączony</string>
@@ -1688,10 +1688,10 @@ spróbuj:
   <string name="perm_hips">Zarządzaj uprawnieniami aplikacji</string>
   <string name="perm_hips_action_accept_count">Zezwolono: %1$d</string>
   <string name="perm_hips_action_reject_count">Odmówiono: %1$d</string>
-  <string name="perm_hips_adjust_ringer_volume">głośność dzwonka</string>
-  <string name="perm_hips_adjust_volume_incall">głośność w połączeniu</string>
+  <string name="perm_hips_adjust_ringer_volume">Głośność dzwonka</string>
+  <string name="perm_hips_adjust_volume_incall">Głośność w połączeniu</string>
   <string name="perm_hips_allow_all">Zezwól wszystko</string>
-  <string name="perm_hips_answer_call">answer current ringing call</string>
+  <string name="perm_hips_answer_call">odbieranie nadchodzących połączeń</string>
   <string name="perm_hips_call_number">połączenie %1$s</string>
   <string name="perm_hips_calllog_access">czytanie rejestru połączeń</string>
   <string name="perm_hips_cancel_missed_calls">clear missed calls notification</string>
@@ -1801,19 +1801,19 @@ spróbuj:
   <string name="perm_service_enabled">Usługa włączona</string>
   <string name="perm_shortcut">Menu kontekstowe</string>
   <string name="perm_show_system_app">Pokaż aplikacje systemowe</string>
-  <string name="perm_su">Zarządzaj uprawnieniami ROOT</string>
+  <string name="perm_su">Aplikacje z prawami ROOT</string>
   <string name="perm_su_desc">Monitorowanie %1$d aplikacji</string>
-  <string name="perm_su_desc1">Zarządzaj uprawnieniami ROOT</string>
-  <string name="perm_su_disabled">Uprawnienia ROOT wyłączone</string>
-  <string name="perm_su_disabled_desc">Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu.</string>
-  <string name="perm_su_disabled_in_stable">Uprawnienia ROOT nie są dostępne w wersji MIUI Stable</string>
-  <string name="perm_su_disabled_in_stable_desc">"Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
+  <string name="perm_su_desc1">Aplikacje z prawami ROOT</string>
+  <string name="perm_su_disabled">Dostęp ROOT wyłączony</string>
+  <string name="perm_su_disabled_desc">Udzielanie dostępu do ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu.</string>
+  <string name="perm_su_disabled_in_stable">Dostęp do ROOT nie jest dostępny w wersji MIUI Stable</string>
+  <string name="perm_su_disabled_in_stable_desc">"Udzielanie dostępu do ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Przejdź na wersję rozwojową MIUI (dev) aby korzystać z uprawnień ROOT."</string>
   <string name="perm_su_disabled_in_stable_download">Pobierz MIUI</string>
-  <string name="perm_su_enable_content">"Udzielanie uprawnień ROOT aplikacjom, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Wciśnij 'OK' aby aktywować uprawnienia ROOT."</string>
-  <string name="perm_su_enable_dialog">%1$s próbuje uzyskać uprawnienia ROOT, które są obecnie wyłączone. Aktywuj uprawnienia ROOT w aplikacji Uprawnienia.</string>
-  <string name="perm_su_enable_summary">Zezwolenie aplikacji na uzyskiwanie uprawnień ROOT</string>
-  <string name="perm_su_enable_title">Uprawnienia ROOT</string>
-  <string name="perm_su_switch">Uprawnienia ROOT</string>
+  <string name="perm_su_enable_content">"Udzielanie dostępu ROOT aplikacjom, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Wciśnij 'OK' aby aktywować uprawnienia ROOT."</string>
+  <string name="perm_su_enable_dialog">%1$s próbuje uzyskać dostęp do ROOT, który jest obecnie wyłączony. Aktywuj dostęp do ROOT w aplikacji Panel Sterowania > Uprawnienia.</string>
+  <string name="perm_su_enable_summary">Zezwolenie aplikacji na uzyskiwanie dostępu do ROOT</string>
+  <string name="perm_su_enable_title">Dostęp do ROOT</string>
+  <string name="perm_su_switch">Dostęp do ROOT</string>
   <string name="perm_summary_disabled">Wył</string>
   <string name="perm_summary_enabled">Wł</string>
   <string name="perm_support_hints">Powered by LBE</string>
@@ -1823,7 +1823,7 @@ spróbuj:
   <string name="perm_sysopt_boost_boot">Uruch.</string>
   <string name="perm_sysopt_boost_receiver">Tło</string>
   <string name="perm_system_app">Aplikacje systemowe (%d)</string>
-  <string name="perm_system_app_label">Uprawnienia</string>
+  <string name="perm_system_app_label">[Aplikacja systemowa]</string>
   <string name="perm_trusted_app">Zaufane aplikacje (%1$d)</string>
   <string name="perm_update">Aktualizacje</string>
   <string name="perm_user_app">Pobrane (%d)</string>
@@ -1947,6 +1947,7 @@ spróbuj:
   <string name="power_mode_auto_clean_memory_in_one_minute">Po 1 minucie</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Po 10 minutach</string>
   <string name="power_mode_auto_clean_memory_never">Nigdy</string>
+  <string name="power_mode_balanced_title">Włącz tryb zrównoważony</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
   <string name="power_mode_chooser_button_text">Zastosuj</string>
   <string name="power_mode_cpu_state">Profil zasilania</string>
@@ -2047,10 +2048,6 @@ spróbuj:
   <string name="preferred_application_warning_title">Przywróć domyślne %s</string>
   <string name="preferred_application_warning_use_system">Ustaw domyślną %s</string>
   <string name="preferred_launcher_title">Domyślny Launcher</string>
-  <string name="preferred_launcher_warning_message">Zamiana domyślnego launchera może powodować większe użycie zasobów. Kontynuować?</string>
-  <string name="preferred_launcher_warning_replace">Zamień launcher</string>
-  <string name="preferred_launcher_warning_title">Zamiana standardowego launchera</string>
-  <string name="preferred_launcher_warning_use_system">Użyj domyślnego</string>
   <string name="preferred_media_app_summary">Wybierz aplikację muzyki</string>
   <string name="privacy_mode_enable_sum">Ukryj rejestr połączeń, wiadomości i inne dane podczas korzystania z trybu poufnego</string>
   <string name="privacy_mode_enable_title">Tryb poufny</string>
@@ -2068,6 +2065,7 @@ spróbuj:
   <string name="process_mediaserver_label">Serwer mediów</string>
   <string name="process_provider_in_use_description">Dostawca %1$s jest w użyciu.</string>
   <string name="process_service_in_use_description">Usługa %1$s jest w użyciu.</string>
+  <string name="profile_info_settings_title">Dane profilu</string>
   <string name="progress_scanning">Wyszukiwanie</string>
   <string name="protection_adb">Debugowanie USB</string>
   <string name="protection_category_dangerous_title">Zagrożeń (%d)</string>
@@ -2084,8 +2082,8 @@ spróbuj:
   <string name="proxy_error_empty_host_set_port">Pole port musi być puste, jeśli pole host jest puste.</string>
   <string name="proxy_error_empty_port">Musisz wypełnić pole portu.</string>
   <string name="proxy_error_invalid_exclusion_list">Wpisana lista wykluczeń jest niepoprawnie sformatowana. Wykluczone domeny muszą być rozdzielone przecinkami.</string>
-  <string name="proxy_error_invalid_host">Wpisana nazwa hosta jest nieprawidłowa.</string>
-  <string name="proxy_error_invalid_port">Wpisany port jest nieprawidłowy.</string>
+  <string name="proxy_error_invalid_host">"Wpisana nazwa hosta jest nieprawidłowa."</string>
+  <string name="proxy_error_invalid_port">"Wpisany port jest nieprawidłowy."</string>
   <string name="proxy_exclusionlist_hint">example.com,mojkomputer.test.com,localhost</string>
   <string name="proxy_exclusionlist_label">Pomiń proxy dla</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -2137,7 +2135,7 @@ spróbuj:
   <string name="radioInfo_service_emergency">Tylko połączenia alarmowe</string>
   <string name="radioInfo_service_in">Działa</string>
   <string name="radioInfo_service_off">Radio wyłączone</string>
-  <string name="radioInfo_service_out">Nie działa</string>
+  <string name="radioInfo_service_out">Usługa niedostępna</string>
   <string name="radioInfo_unknown">nieznane</string>
   <string name="radio_controls_summary">Zarządzaj połączeniami Wi-Fi i Bluetooth, trybem samolotowym, sieciami komórkowymi i VPN.</string>
   <string name="radio_controls_title">Więcej...</string>
@@ -2171,7 +2169,6 @@ spróbuj:
   <string name="radio_info_smsc_refresh_label">Odśwież</string>
   <string name="radio_info_smsc_update_label">Aktualizuj</string>
   <string name="radio_info_toggle_dns_check_label">Przełącz sprawdzanie DNS</string>
-  <string name="read_only">" (Tylko do odczytu)"</string>
   <string name="really_remove_account_message">Usunięcie tego konta spowoduje usunięcie z telefonu wszystkich powiązanych z nim wiadomości, kontaktów i innych danych.</string>
   <string name="really_remove_account_title">Usunąć konto?</string>
   <string name="realtime_protection">Ochrona</string>
@@ -2180,6 +2177,8 @@ spróbuj:
   <string name="recognizer_settings_title">Wyszukiwanie głosowe</string>
   <string name="recognizer_title">Moduł rozpoznawania mowy</string>
   <string name="recompute_size">Przeliczanie rozmiaru...</string>
+  <string name="regulatory_info_text"/>
+  <string name="regulatory_information">Regulatory information</string>
   <string name="remove">Usuń</string>
   <string name="remove_account_failed">To konto jest wymagane przez niektóre aplikacje. Możesz je usunąć wyłącznie przez przywrócenie ustawień fabrycznych telefonu (co spowoduje usunięcie wszystkich Twoich danych osobistych) w sekcji Ustawienia &gt; Kopia i kasowanie danych.</string>
   <string name="remove_account_label">Usuń konto</string>
@@ -2199,6 +2198,7 @@ spróbuj:
 "wyłączone powiadomienia aplikacji,"
 "aplikacje używane domyślnie do wykonania czynności,"
 "ograniczenia użycia danych w tle w aplikacjach."
+
  Nie utracisz żadnych danych aplikacji."</string>
   <string name="reset_app_preferences_title">Zresetować opcje aplikacji?</string>
   <string name="residual_cancel">Anuluj</string>
@@ -2207,6 +2207,17 @@ spróbuj:
   <string name="restore_default_apn">Przywracanie domyślnych ustawień APN</string>
   <string name="restore_default_apn_completed">Przywracanie domyślnych ustawień APN zostało ukończone.</string>
   <string name="restore_default_settings">Przywróć domyślne ustawienia</string>
+  <string name="restrict_background_data_dialog_summary">"Applicaitons run Background cann't receive message, are you sure to restrict Background data?"</string>
+  <string name="restrict_background_data_notification_summary">"Applications cann't connect to network if background data restricted"</string>
+  <string name="restrict_background_data_title">Background data restricted</string>
+  <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
+  <string name="restriction_bluetooth_config_title">Bluetooth</string>
+  <string name="restriction_location_enable_summary">Let apps use your location information</string>
+  <string name="restriction_location_enable_title">Location access</string>
+  <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
+  <string name="restriction_nfc_enable_title">NFC</string>
+  <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
+  <string name="restriction_wifi_config_title">WLAN and Mobile</string>
   <string name="retry">Ponów</string>
   <string name="ring_summary">Dzwonek</string>
   <string name="ring_vibrate_summary">Dzwonek i wibracja</string>
@@ -2221,6 +2232,8 @@ spróbuj:
   <string name="roaming_turn_it_on_button">Włącz</string>
   <string name="roaming_warning">Z zezwoleniem na roaming danych mogą się wiązać wysokie opłaty roamingowe.</string>
   <string name="rubbish_cleaning">Oczyszczanie systemu</string>
+  <string name="running_process_item_removed_user_label">Removed user</string>
+  <string name="running_process_item_user_label">User: %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d procesy, %2$d usługi</string>
   <string name="running_processes_item_description_p_s">%1$d procesy, %2$d usługa</string>
   <string name="running_processes_item_description_s_p">%1$d proces, %2$d usługi</string>
@@ -2254,7 +2267,6 @@ spróbuj:
   <string name="screen_on_proximity_sensor_summary">Zapobiegaj aktywacji funkcji telefonu gdy urządzenie jest w kieszeni.</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
   <string name="screen_saturation">Nasycenie kolorów</string>
-  <string name="screen_saturation_adjust">Dostosuj nasycenie kolorów</string>
   <string name="screen_timeout">Uśpienie</string>
   <string name="screen_timeout_summary">Po %1$s bezczynności</string>
   <string name="screen_timeout_title">Uśpienie ekranu</string>
@@ -2397,7 +2409,6 @@ spróbuj:
   <string name="show_password">Hasła są widoczne</string>
   <string name="show_profile_info_on_lockscreen_label">Pokaż informacje o profilu na ekranie blokady</string>
   <string name="show_rounded_corners">Pokaż zaokrąglone rogi</string>
-  <string name="show_rounded_corners_summary">Wymagane jest ponowne uruchomienie aby zastosować efekt</string>
   <string name="show_running_services">Pokaż działające usługi</string>
   <string name="show_screen_updates">Pokaż zmiany powierzchni</string>
   <string name="show_screen_updates_summary">Podświetlaj całe aktualizowane powierzchnie okien</string>
@@ -2545,6 +2556,7 @@ spróbuj:
   <string name="system">System</string>
   <string name="system_cache_title">Cache systemu</string>
   <string name="system_package">Aktualizacji systemu nie można instalować na nośniku zewnętrznym.</string>
+  <string name="system_storage">Pamięć wewnętrzna</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Aktualizacje systemowe</string>
   <string name="terms_title">Warunki i zasady korzystania</string>
@@ -2590,7 +2602,7 @@ spróbuj:
   <string name="toast_shortcut_uninstall">Skrót usunięty</string>
   <string name="total_size">Razem: %s</string>
   <string name="total_size_label">Razem</string>
-  <string name="touch_sensitive_summary">Włącza czuły dotyk wyświetlacza</string>
+  <string name="touch_sensitive_summary">"Włącza czuły dotyk wyświetlacza"</string>
   <string name="touch_sensitive_title">Dotyk w rękawiczkach</string>
   <string name="touch_sensitive_turn_off_cancel">Anuluj</string>
   <string name="touch_sensitive_turn_off_confirm">Potwierdź</string>
@@ -2655,6 +2667,7 @@ spróbuj:
   <string name="turn_on_smart_antispam_summary_on">Dostępne tylko przy połączeniu Wi-Fi lub 3G</string>
   <string name="turn_on_smart_antispam_title">Identyfikuj nieznane numery</string>
   <string name="under_keyguard">Na ekranie blokady</string>
+  <string name="uninstall_all_users_text">Odinstaluj dla wszytkich użytkowników</string>
   <string name="uninstall_text">Odinstaluj</string>
   <string name="unknown">Nieznana</string>
   <string name="unlock_backup_info_summary">Wybierz sposób odblokowania w przypadku, gdy Face Unlock Cię nie rozpozna.</string>
@@ -2800,6 +2813,8 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="user_summary_active">Aktywny</string>
   <string name="user_summary_inactive">Nieaktywny</string>
   <string name="user_summary_not_set_up">Nieskonfigurowany</string>
+  <string name="user_summary_restricted_not_set_up">Not set up - Restricted profile</string>
+  <string name="user_summary_restricted_profile">Restricted profile</string>
   <string name="user_system_apps_heading">Aplikacje systemowe</string>
   <string name="user_you_section">Ty</string>
   <string name="valuation">Zalecane oczyszczanie</string>
@@ -3007,7 +3022,7 @@ zakończone"</string>
   <string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Autom. połączenie</string>
-  <string name="wifi_available_title">Connect to WLAN</string>
+  <string name="wifi_available_title">Połącz z siecią Wi-Fi</string>
   <string name="wifi_cancel">Anuluj</string>
   <string name="wifi_certificate">Certyfikat Wi-Fi</string>
   <string name="wifi_config_info">Konfiguracja Wi-Fi</string>
@@ -3053,6 +3068,7 @@ zakończone"</string>
   <string name="wifi_eap_identity">Tożsamość</string>
   <string name="wifi_eap_method">Metoda EAP</string>
   <string name="wifi_eap_user_cert">Certyfikat użytkownika</string>
+  <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
   <string name="wifi_empty_list_wifi_off">Aby zobaczyć dostępne sieci, włącz obsługę Wi-Fi.</string>
   <string name="wifi_empty_list_wifi_on">Wyszukiwanie sieci Wi-Fi…</string>
   <string name="wifi_enable">Włącz Wi-Fi</string>
@@ -3129,11 +3145,14 @@ zakończone"</string>
   <string name="wifi_remembered">Zapisana</string>
   <string name="wifi_required_info_text">Do ukończenia konfiguracji tablet potrzebuje połączenia z Wi-Fi. Potem będziesz mieć możliwość przełączania między przesyłaniem danych przez sieć komórkową i Wi-Fi.</string>
   <string name="wifi_save">Zapisz</string>
+  <string name="wifi_scan_always_available">Skanowanie zawsze dostępne</string>
+  <string name="wifi_scan_always_available_summary">"Pozwól usłudze lokalizacji Google i innym aplikacjom szukać sieci, nawet gdy sieć Wi-Fi jest wyłączona"</string>
+  <string name="wifi_scan_always_confirm_allow">Zezwól</string>
   <string name="wifi_scan_always_confirm_deny">Wyłączone</string>
   <string name="wifi_scan_always_turnon_message">"To improve location accuracy and for other purposes, %1$s wants to turn on network scanning, even when WLAN is off.
 
 Allow this for all apps that want to scan?"</string>
-  <string name="wifi_scan_notify_remember_choice">"Don't show again"</string>
+  <string name="wifi_scan_notify_remember_choice">"Nie pokazuj ponownie"</string>
   <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
   <string name="wifi_scan_notify_text_location_on">"Pozwól usłudze lokalizacji Google i innym aplikacjom szukać sieci nawet gdy sieć Wi-Fi jest wyłączona"</string>
   <string name="wifi_secured_first_item">Zabezpieczone %1$s</string>
@@ -3227,7 +3246,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_show_advanced">Opcje zaawansowane</string>
   <string name="wifi_show_password">Pokaż hasło</string>
   <string name="wifi_signal">Siła sygnału</string>
-  <string name="wifi_signal_found_msg">Found available WLAN AP, connect now？</string>
+  <string name="wifi_signal_found_msg">Znaleziono punkt dostępowy Wi-Fi. Połączyć?？</string>
   <string name="wifi_skip_anyway">Pomiń</string>
   <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges. Phone setup can require significant network activity."</string>
   <string name="wifi_speed">Szybkość połączenia</string>
@@ -3296,6 +3315,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wimax_settings_summary">Konfiguruj sieć i modem 4G oraz zarządzaj nimi</string>
   <string name="window_animation_scale_title">Skala animacji okna</string>
   <string name="wireless_networks_settings_title">Sieci zwykłe i bezprzewodowe</string>
+  <string name="wizard_back">Wstecz</string>
+  <string name="wizard_finish">Gotowe</string>
+  <string name="wizard_next">Dalej</string>
   <string name="work_done">Gotowe</string>
   <string name="wps_category">Szybkie połączenia</string>
   <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
