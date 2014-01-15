@@ -104,6 +104,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="callrecordview_item_op_time_short_incoming">"Przychodzące: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Wychodzące: "</string>
   <string name="callrecordview_menu_add_call_note">Dodaj notatkę</string>
+  <string name="callrecordview_menu_batch_delete">Usuń wiele</string>
   <string name="callrecordview_menu_delete">Usuń</string>
   <string name="callrecordview_menu_delete_accepted">Usuń odebrane połączenia z rejestru</string>
   <string name="callrecordview_menu_delete_all">Usuń rejestr połączeń</string>
@@ -125,7 +126,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="callrecordview_menu_show_stranger">Pokaż nieznane połączenia</string>
   <string name="callrecordview_menu_show_title">Wybierz dane do wyświetlania w rejestrze</string>
   <string name="cancel_confirmation_dialog_message">Odrzucić zmiany?</string>
-  <string name="cancel_confirmation_dialog_title">Odrzucenie zmian</string>
   <string name="cancel_export_confirmation_message">Anulować kopiowanie: %s?</string>
   <string name="cancel_import_confirmation_message">Anulować przywracanie: %s?</string>
   <string name="cancel_import_dialog_message">Na pewno zatrzymać przywracanie kontaktów?</string>
@@ -213,6 +213,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="deleteConfirmation">Ten kontakt zostanie usunięty.</string>
   <string name="deleteConfirmationDetail">\"%s\" zostanie usunięty.</string>
   <string name="deleteConfirmation_title">Usunąć kontakt?</string>
+  <string name="delete_call_log_selected_title">Usunąć zaznaczone połączenie?</string>
   <string name="delete_call_log_title">Usunąć rejestr połączeń?</string>
   <string name="delete_contact_calllog_title">"Potwierdzić usunięcie rejestru połączeń z kontaktów?"</string>
   <string name="delete_dial_input">Usuń</string>
@@ -825,7 +826,6 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_comment_3_star">3 gwiazdki</string>
   <string name="resource_comment_4_star">4 gwiazdki</string>
   <string name="resource_comment_5_star">5 gwiazdek</string>
-  <string name="resource_comment_account_need_activitied">Twoje konto nie jest aktywowane. Włączyć?</string>
   <string name="resource_comment_all_comments">Wszystkie</string>
   <string name="resource_comment_average_score">Średnia</string>
   <string name="resource_comment_bad_comments">Negatywne</string>
@@ -939,7 +939,6 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_share_subject">Udostępnij motyw: %1$s</string>
   <string name="resource_share_text">Sprawdź motyw, który mi się spodobał: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Udostępnij</string>
-  <string name="resource_switch_account">Przełącz</string>
   <string name="resource_system_title">Elementy online</string>
   <string name="resource_tip_select_ringtone">Nie wybrano dzwonka</string>
   <string name="resource_title">Szczegóły</string>
@@ -1102,6 +1101,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="toast_copying">Kopiowanie...</string>
   <string name="toast_displaying_all_contacts">Wszystkie kontakty</string>
   <string name="toast_finish_delete_call_log">Rejestr połączeń usunięty</string>
+  <string name="toast_finish_delete_selected_call_log">Wpis usunięty</string>
   <string name="toast_for_failed_saving_nickname">Nie udało się zapisać pseudonimu!</string>
   <string name="toast_for_saving_nickname">Pseudonim zapisany</string>
   <string name="toast_join_with_empty_contact">Wpisz w kontakcie imię i nazwisko, zanim połączysz go z innym kontaktem.</string>
