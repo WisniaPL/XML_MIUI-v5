@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <clock version="1" type="awesome" update_interval="60000" screenWidth="720">
 
 	<VariableBinders>
@@ -43,32 +43,38 @@
 	<Var name="short_location" expression="ifelse(isnull(@weather_location),0,le(len(@weather_location),10))"/>
 	
 	<Group>
-		<Time name="time" x="35" y="100" align="left" alignV="top" src="time.png"/>
+		<Time name="time" x="#screen_width-44" y="154" align="right" alignV="center" src="time.png"/>
 		<Group visibility="#short_location">
-		<DateTime x="35" y="222+4" align="left" alignV="top" color="#000000" alpha="25" size="32" format="@long_date_time" name="datetime"/>
-		<DateTime x="35" y="222" align="left" alignV="top" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
-		<DateTime x="35" y="264+4" align="left" alignV="top" color="#000000" alpha="25" size="32" format="EEEE" name="datetime"/>
-		<DateTime x="35" y="264" align="left" alignV="top" color="#ffffff" alpha="234" size="32" format="EEEE"/>
-		<Group visibility="#show_weather">
-			<Text textExp="''+@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="#view_width-44" y="264+4" align="right" alignV="top" color="#000000" alpha="25" size="32"/>
-			<Text textExp="''+@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="#view_width-44" y="264" align="right" alignV="top" color="#ffffff" alpha="234" size="32"/>
+			<DateTime x="#view_width-44" y="222+4" align="right" alignV="top" color="#000000" alpha="25" size="32" format="@long_date_time" name="datetime"/>
+			<DateTime x="#view_width-44" y="222" align="right" alignV="top" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
+			<DateTime x="#view_width-44" y="264+4" align="right" alignV="top" color="#000000" alpha="25" size="32" format="EEEE" name="datetime"/>
+			<DateTime x="#view_width-44" y="264" align="right" alignV="top" color="#ffffff" alpha="234" size="32" format="EEEE"/>
+			<Group visibility="#show_weather">
+				<Text textExp="''+@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="60" y="264+4" align="left" alignV="top" color="#000000" alpha="25" size="32"/>
+				<Text textExp="''+@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="60" y="264" align="left" alignV="top" color="#ffffff" alpha="234" size="32"/>
 			</Group>
 		</Group>
 		<Group visibility="not(#short_location)">
-			<DateTime x="45" y="254+4" align="left" alignV="top" color="#000000" alpha="25" size="32" format="@long_date_time" name="datetime"/>
-			<DateTime x="45" y="254" align="left" alignV="top" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
-			<DateTime x="45" y="294+4" align="left" alignV="top" color="#000000" alpha="25" size="32" format="EEEE" name="datetime"/>
-			<DateTime x="45" y="294" align="left" alignV="top" color="#ffffff" alpha="234" size="32" format="EEEE"/>
+			<DateTime x="#view_width-44" y="254+4" align="right" alignV="top" color="#000000" alpha="25" size="32" format="@long_date_time" name="datetime"/>
+			<DateTime x="#view_width-44" y="254" align="right" alignV="top" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
+			<DateTime x="#view_width-44" y="294+4" align="right" alignV="top" color="#000000" alpha="25" size="32" format="EEEE" name="datetime"/>
+			<DateTime x="#view_width-44" y="294" align="right" alignV="top" color="#ffffff" alpha="234" size="32" format="EEEE"/>
 			<Group visibility="#show_weather">
-				<Text textExp="@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="45" y="290+4" align="right" alignV="top" color="#000000" alpha="25" size="32"/>
-				<Text textExp="@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="45" y="290" align="right" alignV="top" color="#ffffff" alpha="234" size="32"/>
+				<Text textExp="@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="60" y="290+4" align="right" alignV="top" color="#000000" alpha="25" size="32"/>
+				<Text textExp="@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="60" y="290" align="right" alignV="top" color="#ffffff" alpha="234" size="32"/>
 			</Group>
 		</Group>
 		<Group visibility="#show_weather">
-			<Image x="#screen_width-20" y="70" align="right" alignV="top" srcExp="'weather_'+#icon_index+'.png'"/>
+			<Image x="35" y="70" align="left" alignV="top" srcExp="'weather_'+#icon_index+'.png'"/>
 		</Group>
 	</Group>
 	
-	<Button name="clock_button" x="35" y="85" align="left" alignV="top" w="#time.actual_w+20" h="#time.actual_h+10"/>
-
+	<Button name="clock_button" x="#view_width-#time.actual_w-39" y="74" w="#time.actual_w" h="#time.actual_h/2+138"/>
+	<Button x="35" y="70" w="200" h="180" >
+		<Triggers>
+			<Trigger action="up">
+			<IntentCommand action="android.intent.action.MAIN" package="com.miui.weather2" class="com.miui.weather2.ActivityWeatherCycle"/>
+			</Trigger>
+		</Triggers>
+	</Button>
 </clock>
