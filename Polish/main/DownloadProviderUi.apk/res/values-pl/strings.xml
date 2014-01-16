@@ -70,6 +70,9 @@
   <string name="select_all">Zaznacz wszystko</string>
   <string name="select_operation_items">Zaznacz</string>
   <string name="selected_count">Zaznaczonych %1$d z %2$d</string>
-  <string name="xunlei_brand">Powered by Xunlei</string>
+  <string name="turn_off_xunlei_message">Pobieranie plików może być wolniejsze gdy wyłączysz tę funkcję.</string>
+  <string name="turn_off_xunlei_title">Wyłącz szybkie pobieranie</string>
+  <string name="xunlei_brand">" "</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_switch">Szybkie pobieranie</string>
 </resources>
