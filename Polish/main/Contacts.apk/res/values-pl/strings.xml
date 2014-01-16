@@ -104,7 +104,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="callrecordview_item_op_time_short_incoming">"Przychodzące: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Wychodzące: "</string>
   <string name="callrecordview_menu_add_call_note">Dodaj notatkę</string>
-  <string name="callrecordview_menu_batch_delete">Usuń wiele</string>
+  <string name="callrecordview_menu_batch_delete">Edycja</string>
   <string name="callrecordview_menu_delete">Usuń</string>
   <string name="callrecordview_menu_delete_accepted">Usuń odebrane połączenia z rejestru</string>
   <string name="callrecordview_menu_delete_all">Usuń rejestr połączeń</string>
@@ -223,7 +223,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="delete_group_dialog_title">Usuń grupę</string>
   <string name="delete_selected_sim_entry_miui">Usunąć zaznaczone kontakty?</string>
   <string name="delete_sim_entries_finish">Usunięto zaznaczone kontakty z SIM</string>
-  <string name="delete_sim_entry_miui">Usuń kontakty</string>
+  <string name="delete_sim_entry_miui">Usuń</string>
   <string name="delete_unknown_contact_calllog_title">"Potwierdzić usunięcie nieznanych kontaktów z rejestru połączeń?"</string>
   <string name="deleting">Usuwanie...</string>
   <string name="deleting_sim_entry_miui">Usuwanie kontaktów z SIM</string>
