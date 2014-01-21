@@ -48,12 +48,11 @@
   <string name="lockstyle_personal_settings">Własne</string>
   <string name="long_ringtone_resource">Długi</string>
   <string name="maml_component_customization_title">Ustawienia elementów</string>
-  <string name="menu_refresh">Odśwież</string>
   <string name="mi_wallpaper">Tapeta Mi</string>
   <string name="online_no_network">Nie można połączyć się z siecią</string>
   <string name="online_search_hint">Wyszukaj zasoby online</string>
   <string name="payment_info">MiKredyty</string>
-  <string name="processing">Przetwarzanie ...</string>
+  <string name="purchased_list">Moje motywy</string>
   <string name="resource_account_abnormal_state">Błąd konta: Spróbuj ponownie później.</string>
   <string name="resource_account_current">Konto: %1$s</string>
   <string name="resource_account_fail_to_add">Nie udało się dodać konta.</string>
@@ -73,14 +72,11 @@
   <string name="resource_comment_3_star">***</string>
   <string name="resource_comment_4_star">****</string>
   <string name="resource_comment_5_star">*****</string>
-  <string name="resource_comment_account_need_activitied">Twoje konto nie jest aktywne. Aktywować konto teraz?</string>
   <string name="resource_comment_all_comments">Wszystkie</string>
   <string name="resource_comment_average_score">Średnia</string>
   <string name="resource_comment_bad_comments">Negatywne</string>
-  <string name="resource_comment_count">%1$s ocen, %2$s komentarzy (wersja %3$s)</string>
   <string name="resource_comment_current_version">Aktualna wersja</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
-  <string name="resource_comment_description">%1$s komentarz do %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Napisz komentarz</string>
   <string name="resource_comment_edit_comment_waiting">Sprawdzanie czy już komentowałeś...</string>
   <string name="resource_comment_edit_text_default">Treść komentarza</string>
@@ -105,7 +101,6 @@
   <string name="resource_comment_upload_not_bought">"Musisz zastosować motyw zanim zaczniesz komentować."</string>
   <string name="resource_comment_upload_not_logined">Zaloguj się</string>
   <string name="resource_comment_upload_success">Komentarz wysłany!</string>
-  <string name="resource_comment_version_name">(%1$s)</string>
   <string name="resource_default">Domyślny dzwonek</string>
   <string name="resource_default_name">Element</string>
   <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
@@ -201,7 +196,7 @@
   <string name="resource_trial_end_title">Okres próbny minął</string>
   <string name="resource_trial_time">（Okres próbny na %1$d minut）</string>
   <string name="resource_unable_to_access">"Szukana treść nie jest obecnie dostępna w twoim regionie."</string>
-  <string name="resource_unknow_error">Unkown error.</string>
+  <string name="resource_unknow_error">Nieznany błąd.</string>
   <string name="resource_update">Aktualizuj</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Oczekiwanie...</string>

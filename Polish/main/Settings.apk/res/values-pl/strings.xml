@@ -1941,8 +1941,8 @@ spróbuj:
   <string name="power_mgr">Zasilanie</string>
   <string name="power_mode">Plan zasilania</string>
   <string name="power_mode_airplane_mode">Tryb samolotowy</string>
-  <string name="power_mode_auto_clean_memery_lock_screen">Blokada ekranu po %1$d min.</string>
-  <string name="power_mode_auto_clean_memory">Autom. czyszczenie pamięci</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">Po %1$d min.</string>
+  <string name="power_mode_auto_clean_memory">Czyszczenie pamięci</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Po 5 minutach</string>
   <string name="power_mode_auto_clean_memory_in_one_minute">Po 1 minucie</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Po 10 minutach</string>
