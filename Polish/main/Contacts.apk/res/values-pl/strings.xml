@@ -13,7 +13,7 @@
   <string name="account_unactivated">Konto nieaktywne.</string>
   <string name="actionIncomingCall">Przychodzące</string>
   <string name="action_menu_overflow_description">Więcej opcji</string>
-  <string name="activity_not_found_uri">Nie znaleziono wspieranej aplikacji!</string>
+  <string name="activity_not_found_uri">Nie można znaleźć aplikacji</string>
   <string name="activity_title_confirm_add_detail">Dodaj do kontaktów</string>
   <string name="activity_title_contacts_filter">Kontakty do wyświetlenia</string>
   <string name="activity_title_settings">Ustawienia</string>
@@ -27,7 +27,6 @@
   <string name="add_new_account">Dodaj nowe konto</string>
   <string name="add_new_entry_for_section">Dodaj nowy</string>
   <string name="add_organization">Dodaj organizację</string>
-  <string name="add_slide_before">Dodaj slajd</string>
   <string name="add_to_my_contacts">Dodaj do moich kontaktów</string>
   <string name="add_wait">Dodaj pauzę</string>
   <string name="add_xiaomi_account_dialog_btn">Użyj konta Xiaomi</string>
@@ -113,6 +112,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="callrecordview_menu_delete_missed">Usuń nieodebrane połączenia</string>
   <string name="callrecordview_menu_delete_new">Usuń rejestr połączeń z nowych kontaktów</string>
   <string name="callrecordview_menu_delete_one">Usuń z rejestru połączeń</string>
+  <string name="callrecordview_menu_delete_sim">Usuń %s rejestrów połączeń</string>
   <string name="callrecordview_menu_delete_stranger">Usuń nieznane numery</string>
   <string name="callrecordview_menu_edit_call_note">Edytuj notatkę</string>
   <string name="callrecordview_menu_paste">Wklej</string>
@@ -123,6 +123,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="callrecordview_menu_show_called">Pokaż wybrane połączenia</string>
   <string name="callrecordview_menu_show_missed">Pokaż nieodebrane połączenia</string>
   <string name="callrecordview_menu_show_new">Nowe kontakty</string>
+  <string name="callrecordview_menu_show_sim">%s połączeń</string>
   <string name="callrecordview_menu_show_stranger">Pokaż nieznane połączenia</string>
   <string name="callrecordview_menu_show_title">Wybierz dane do wyświetlania w rejestrze</string>
   <string name="cancel_confirmation_dialog_message">Odrzucić zmiany?</string>
@@ -131,6 +132,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="cancel_import_dialog_message">Na pewno zatrzymać przywracanie kontaktów?</string>
   <string name="cancel_import_dialog_title">Zatrzymaj przywracanie</string>
   <string name="cancel_vcard_import_or_export_failed">"Nie można anulować przywracanie/kopia vCard"</string>
+  <string name="cannot_insert_null_number">"Nie można zapisać kontaktu z pustą nazwą lub numerem."</string>
   <string name="chat">Czat</string>
   <string name="chat_aim">AIM</string>
   <string name="chat_gtalk">Google Talk</string>
@@ -285,12 +287,12 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="device_import_progress_message">Przywracanie…</string>
   <string name="device_import_progress_toast">Przywróconych kontaktów: %1$d </string>
   <string name="device_import_title">Przywracanie</string>
-  <string name="device_list_title">Wybierz zdjęcie</string>
-  <string name="device_other_guide">Jeśli Twojego telefonu nie ma na liście, spróbuj wg poniższego poradnika</string>
-  <string name="device_other_title">inny telefon</string>
-  <string name="device_paired_dialog_message">You may need to confirm on the other phone</string>
+  <string name="device_list_title">Wybierz widoczne urządzenie</string>
+  <string name="device_other_guide">Jeśli Twojego telefonu nie ma na liście, spróbuj wg poniższego poradnika:</string>
+  <string name="device_other_title">Inny telefon</string>
+  <string name="device_paired_dialog_message">Możesz zatwierdzić kod na innym urządzeniu</string>
   <string name="device_paired_dialog_title">Urządzenie sparowane. Przetwarzanie kontaktów...</string>
-  <string name="device_pairing_dialog_message">You may need to confirm on the other phone</string>
+  <string name="device_pairing_dialog_message">Możesz zatwierdzić kod na innym urządzeniu</string>
   <string name="device_pairing_dialog_title">Parowanie urządzenia</string>
   <string name="device_version_header_bluetooth">Włącz Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Przywróć kontakty z SIM</string>
@@ -307,7 +309,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="dialer_useDtmfDialpad">Użyj dźwięku wybierania</string>
   <string name="dialog_import">Przywróć kontakty</string>
   <string name="dialog_import_export">Kopiuj/przywróć kontakty</string>
-  <string name="dialog_new_contact_account">Utwórz kontakt na koncie</string>
+  <string name="dialog_new_contact_account">Utwórz kontakty na koncie</string>
   <string name="dialog_new_group_account">Utwórz grupę na koncie</string>
   <string name="dialog_phone_call_prohibited_message">Połączenie nie zostało wysłane</string>
   <string name="dialog_sync_add">Dodaj grupę synchronizacji</string>
@@ -506,8 +508,8 @@ Możesz wyłączyć przypomnienie w ustawieniach kontaktów"</string>
   <string name="local_profile_title">Mój profil lokalny</string>
   <string name="local_search_label">Wszystkie kontakty</string>
   <string name="locale_change_in_progress">Lista kontaktów jest aktualizowana, aby odzwierciedlić zmianę języka.</string>
-  <string name="login_before_recharging">You need to sign in before you can top up.</string>
-  <string name="login_ok">Sign in</string>
+  <string name="login_before_recharging">Musisz się wcześniej zalogować.</string>
+  <string name="login_ok">Zaloguj się</string>
   <string name="lunarBirthdayLabelsGroup">Urodziny księżycowe</string>
   <string name="make_primary">Zapamiętaj ten wybór</string>
   <string name="map_custom">Wyświetl adres: %s</string>
@@ -573,8 +575,8 @@ Możesz wyłączyć przypomnienie w ustawieniach kontaktów"</string>
   <string name="msg_loading_sim_contacts_toast">Wczytywanie kontaktów SIM w tle. Proszę czekać.</string>
   <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie danych z wielu kont.</string>
   <string name="multipleContactDeleteConfirmationDetail">Usunięcie \"%s\" spowoduje usunięcie danych z wielu kont.</string>
-  <string name="my_phone_not_provider_bluetooth">Telefon nie posiada nazwy Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">Telefon posiada nazwę w Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Telefon nie ma Bluetooth</string>
+  <string name="my_phone_provider_bluetooth">Telefon ma Bluetooth</string>
   <string name="nameLabelsGroup">Nazwa</string>
   <string name="name_family">Nazwisko</string>
   <string name="name_given">Imię</string>
@@ -682,17 +684,17 @@ Aby dodać kontakt do listy ulubionych:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
-  <string name="phone_book_busy">Aplikacja Kontakty jest zajęta. Spróbuj ponownie później.</string>
+  <string name="phone_book_busy">Proces książki telefonicznej jest zajęty.</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Podstawowy</string>
   <string name="photoPickerNotFoundText">W telefonie brak dostępnych zdjęć.</string>
   <string name="photo_package_activity_title">Pakiet zdjęć</string>
   <string name="pick_favorites_contacts_list_title">Razem %1$d ulubionych kontaktów</string>
-  <string name="pick_favorites_list_title">%1$d ulubionych numerów kontaktów</string>
+  <string name="pick_favorites_list_title">Razem %1$d numerów</string>
   <string name="pick_new_photo">Wybierz nowe zdjęcie z galerii</string>
   <string name="pick_photo">Wybierz zdjęcie z galerii</string>
-  <string name="pick_recent_contacts_list_title">Razem ostatnich kontaktów: %1$d</string>
-  <string name="pick_recent_list_title">Liczba ostatnich kontaktów %1$d</string>
+  <string name="pick_recent_contacts_list_title">Razem %1$d ulubionych kontaktów</string>
+  <string name="pick_recent_list_title">Razem %1$d numerów</string>
   <string name="pickerNewContactHeader">Utwórz nowy kontakt</string>
   <string name="pickerNewContactText">Utwórz nowy kontakt</string>
   <string name="picker_all_list_empty">Brak kontaktów</string>
@@ -714,7 +716,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="postal_postcode">Kod pocztowy</string>
   <string name="postal_region">Województwo</string>
   <string name="postal_street">Ulica</string>
-  <string name="pref_forward_title">Przekażj</string>
+  <string name="pref_forward_title">Przekaż</string>
   <string name="pref_key_photo">Zdjęcia kontaktów</string>
   <string name="pref_key_photo_word_summary">Jeśli nie ustawiono własnego zdjęcia kontaktu system ustawi domyślne</string>
   <string name="pref_key_photo_word_title">Domyślne zdjęcia kontaktu</string>
@@ -975,8 +977,6 @@ Aby dodać kontakt do listy ulubionych:
   <string name="scanning_sdcard_failed_title">"Wyszukiwanie nieudane"</string>
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now."</string>
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
-  <string name="sdcard_status_changed_dialog_message">App will now exit. Please re-open app to refresh resources.</string>
-  <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
   <string name="searchHint">Przeszukuj kontakty</string>
   <string name="search_results_searching">Wyszukiwanie…</string>
   <string name="search_settings_description">Imiona i nazwiska oraz nazwy w Twoich kontaktach</string>
@@ -1169,5 +1169,6 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unknown error</string>
   <string name="yellowpage_navigation_search_select_city">Please select a city</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na pulpit</string>
   <string name="zero_items_selected">Nic nie zaznaczono</string>
 </resources>

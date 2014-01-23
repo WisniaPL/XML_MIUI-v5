@@ -148,6 +148,9 @@
     <string name="notification_otg_unknow_out">Urządzenie OTG odłączone</string>
     <string name="notifications_off_text">Kliknij tutaj, by przywrócić powiadomienia.</string>
     <string name="notifications_off_title">Powiadomienia wyłączone</string>
+    <string name="oldman_airplane_mode_text">Samolotowy</string>
+    <string name="oldman_incall_text">incall</string>
+    <string name="oldman_status_bar_time_format">HH:mm</string>
     <string name="recent_apps_key">Ostatnio używane</string>
     <string name="recent_apps_key_show">Pokaż ostatnio używane</string>
     <string name="return_to_incall_screen">Powróć do połączenia</string>

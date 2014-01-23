@@ -10,7 +10,6 @@
   <string name="alert_title_new_station">Nowa stacja</string>
   <string name="alert_title_save_station">Zapisywanie stacji - %s</string>
   <string name="app_name">Radio FM</string>
-  <string name="aud_output_mode">Wyjście audio</string>
   <string name="audio_db_album_name">"Nagrania FM "</string>
   <string name="audio_db_artist_name">"Moje Nagrania Radia FM "</string>
   <string name="audio_db_playlist_name">"Nagrania FM "</string>
@@ -69,7 +68,6 @@
   <string name="menu_record_stop">Zatrzymaj nagrywanie</string>
   <string name="menu_rename_list">Zmień nazwę listy</string>
   <string name="menu_reorder_list">Zmień kolejność na liście</string>
-  <string name="menu_save_station">Zapisz stację</string>
   <string name="menu_save_station_list">Dodaj do listy stacji</string>
   <string name="menu_save_station_presets">Dodaj stację</string>
   <string name="menu_scan_for_preset">Szukaj zapisanych stacji</string>
@@ -101,16 +99,15 @@
   <string name="preset_tune">Strojenie</string>
   <string name="presetlist_autoselect_title">Potwierdź Autom. wybór</string>
   <string name="radio_text_string">This is the long Radio Text String Message that needs to scroll</string>
+  <string name="record_completed">Nagrywanie ukończone</string>
   <string name="record_error_file_removed">Nagrywanie zatrzymane. Plik został usunięty.</string>
   <string name="record_error_unknown">Nagrywanie zatrzymane. Nieznany błąd.</string>
   <string name="record_fail">Nagrywanie nieudane</string>
   <string name="record_file_format">%1$s_%2$s</string>
-  <string name="record_file_location_format">Kliknij by odtworzyć %s</string>
-  <string name="record_sucess">Pomyślnie zakończono nagrywanie</string>
+  <string name="record_file_location_format">Zapisany do %s</string>
   <string name="reduce_af">Zmniejsz częstotliwość</string>
   <string name="regional_band">Regionalne pasmo nadawania (usuwa zapisane stacje)</string>
   <string name="search_dialog_title">Wyszukaj stacje</string>
-  <string name="sel_audio_output">Wybierz wyjście audio</string>
   <string name="sel_band_menu">Regionalne pasmo nadawania</string>
   <string name="set">Ustaw</string>
   <string name="set_rmmsi_delta">Configure RMSSI Delta</string>
@@ -139,6 +136,7 @@
   <string name="toast_channel_searched">Przeskanowano %1$d stacji.</string>
   <string name="toast_delete_station">Usunięto %sMHz.</string>
   <string name="toast_edit_station">Zapisano zmiany</string>
+  <string name="toast_fm_error_startfailed">Błąd nagrywania. Inna aplikacja może aktualnie korzystać z funkcji nagrywania. </string>
   <string name="toast_fm_not_stated">Radio nie zostało uruchomione</string>
   <string name="toast_fm_recorder_internal_error">Błąd radia.</string>
   <string name="toast_fm_recorder_storage_full">Pamięć jest pełna. Nie można nagrywać</string>
