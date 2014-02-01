@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_agps_message">" A-GPS (Assisted GPS) to system, który skraca czas wymagany do uzyskania pierwszego stałego punktu TTFF (Time-To-First-Fix). Urządzenie z aktywnym A-GPS może łączyć się z serwerami serwisu poprzez transmisję danych w sieci komórkowej w celu uzyskania danych pomocniczych. 
-
   Należy pamiętać, że transmisja danych w roamingu może powodować naliczenie dodatkowych opłat. Aby uzyskać szczegółowe informacje, należy skontaktować się z operatorem sieci."</string>
   <string name="about_settings">Informacje o telefonie</string>
   <string name="about_settings_summary">Wyświetl informacje prawne, stan, wersję oprogramowania</string>
@@ -40,6 +39,7 @@ Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokow
   <string name="accessibility_no_services_installed">Brak zainstalowanych usług</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk kończy rozmowę</string>
   <string name="accessibility_power_button_ends_call_title">Przycisk kończy rozmowę</string>
+  <string name="accessibility_screen_magnification_enable">Gesty powiększania</string>
   <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran."</string>
   <string name="accessibility_screen_magnification_title">Gesty powiększania</string>
   <string name="accessibility_script_injection_allowed">Dozwolone</string>
@@ -103,6 +103,7 @@ Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokow
   <string name="activity_picker_label">Wybierz działanie</string>
   <string name="activity_title_create_shortcut">Skróty</string>
   <string name="activity_title_settings">Ustawienia</string>
+  <string name="adb_keys_warning_message">"Odwołać dostęp wszystkich poprzednio autoryzowanych komputerów do debugowania USB?"</string>
   <string name="adb_warning_message">Debugowanie USB jest przeznaczone wyłącznie do celów programistycznych. Może służyć do kopiowania danych między komputerem a urządzeniem, instalowania aplikacji na urządzeniu bez powiadamiania, a także odczytu danych dziennika.</string>
   <string name="adb_warning_title">Czy zezwalać na debugowanie USB?</string>
   <string name="add_account_label">Dodaj konto</string>
@@ -140,8 +141,8 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="android_beam_off_summary">Wyłączona</string>
   <string name="android_beam_on_summary">Gotowy do przesyłania danych między aplikacjami przez NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
-  <string name="android_beam_witch_label">Enable Android Beam</string>
+  <string name="android_beam_tips">Zbliż do siebie dwa urządzenia i dotknij na ekranie treści do przesłania.</string>
+  <string name="android_beam_witch_label">Włącz Android Beam</string>
   <string name="animator_duration_scale_title">Skala długości animacji</string>
   <string name="anti_private_summary">Blokuje numery prywatne</string>
   <string name="anti_private_title">Blokuj prywatne</string>
@@ -190,8 +191,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="app_factory_reset">Odinstaluj aktualizacje</string>
   <string name="app_factory_reset_dlg_text">Wszystkie aktualizacje tej aplikacji systemowej Androida zostaną odinstalowane.</string>
   <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
-  <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
-  <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. 
+ <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. 
 Na pewno wyłączyć?"</string>
   <string name="app_floating_window_dlg_enable">"Włączenie okien Pop-up dla aplikacji %1$s wymaga jej restartu. Możesz sam zatrzymać aplikacje. 
 Czy włączyć funkcję?"</string>
@@ -210,6 +210,8 @@ Czy włączyć funkcję?"</string>
   <string name="app_ops_running">Uruchomione</string>
   <string name="app_ops_settings">App ops</string>
   <string name="app_process_limit_title">Limit procesów w tle</string>
+  <string name="app_restrictions_custom_label">Ustaw ograniczenia aplikacji</string>
+  <string name="app_sees_restricted_accounts">Aplikacja może mieć dostęp do Twoich kont</string>
   <string name="app_special_disable_dlg_text">Jeśli wyłączysz wbudowaną aplikację, pozostałe programy mogą działać nieprawidłowo. Zostaną też usunięte Twoje dane.</string>
   <string name="app_special_disable_dlg_title">Usunąć dane i wyłączyć aplikację?</string>
   <string name="app_uninstall_residual">Usunąć pozostałości po odinstalowanych aplikacjach?</string>
@@ -218,7 +220,7 @@ Czy włączyć funkcję?"</string>
   <string name="application_item_already_permission">Zezwolone</string>
   <string name="application_item_disable">Wyłącz</string>
   <string name="application_item_permission">Zezwól</string>
-  <string name="application_restrictions">Allow apps and content</string>
+  <string name="application_restrictions">Zezwolenia aplikacji</string>
   <string name="application_size_label">Aplikacja</string>
   <string name="applications_settings">Aplikacje</string>
   <string name="applications_settings_header">Ustawienia aplikacji</string>
@@ -291,6 +293,7 @@ Czy włączyć funkcję?"</string>
   <string name="battery_desc_other_apps">Użycie baterii przez inne aplikacje</string>
   <string name="battery_desc_radio">Użycie baterii przez radio komórkowe</string>
   <string name="battery_desc_standby">Użycie baterii przy nieaktywnym telefonie</string>
+  <string name="battery_desc_users">Użycie baterii przez użytkownika</string>
   <string name="battery_desc_voice">Użycie baterii przez połączenia głosowe</string>
   <string name="battery_desc_wifi">Użycie baterii przez Wi-Fi</string>
   <string name="battery_history_days">%1$dd %2$dg %3$dm %4$ds</string>
@@ -437,7 +440,7 @@ Czy włączyć funkcję?"</string>
 Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło: 16 znaków]"</string>
   <string name="bluetooth_enter_pin_other_device">Może być również konieczne wpisanie tego kodu PIN na drugim urządzeniu.</string>
   <string name="bluetooth_error_title"/>
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s chce uzyskać dostęp do Twoich plików. Udzielić dostępu do %2$s?</string>
   <string name="bluetooth_ftp_connection_permission_request">Połączenie FTP</string>
   <string name="bluetooth_ftp_remember_choice">"Nie pytaj ponownie"</string>
   <string name="bluetooth_ftp_request">Ftp request</string>
@@ -479,7 +482,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_pan_profile_summary_use_for">Użyj na potrzeby dostępu do internetu</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Połączone w celu dostępu do internetu</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s chce uzyskać dostęp do Twoich kontaktów i historii połączeń. Zezwolić %2$s na dostęp?</string>
-  <string name="bluetooth_pb_remember_choice">Nie pytaj ponownie</string>
+  <string name="bluetooth_pb_remember_choice">"Nie pytaj ponownie"</string>
   <string name="bluetooth_pbap_connection_permission_request">Prośba o pozwolenie na włączenie modułu Bluetooth</string>
   <string name="bluetooth_permission_request">Prośba o uprawnienia Bluetooth</string>
   <string name="bluetooth_phonebook_request">Żądanie dotyczące książki telefonicznej</string>
@@ -490,7 +493,6 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_preference_scan_title">Wyszukaj urządzenia</string>
   <string name="bluetooth_profile_a2dp">Dźwięk multimediów</string>
   <string name="bluetooth_profile_details">Ustawienia profilów</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
   <string name="bluetooth_profile_headset">Dźwięk telefonu</string>
   <string name="bluetooth_profile_hid">Urządzenie wejściowe</string>
   <string name="bluetooth_profile_name">"MIUI - %1$s"</string>
@@ -552,7 +554,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="build_number">Numer kompilacji</string>
   <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
   <string name="builtin_keyboard_settings_title">Klawiatura fizyczna</string>
-  <string name="button_disconnect_network">Disconnect from network</string>
+  <string name="button_disconnect_network">Rozłącz z siecią</string>
   <string name="button_light_timeout">Czas podświetlenia przycisków</string>
   <string name="button_start_optimize">Sprawdź</string>
   <string name="button_text_a_key_clean_up">Wyczyść</string>
@@ -656,9 +658,9 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="copyright_title">Prawa autorskie</string>
   <string name="cp_settings">Panel sterowania</string>
   <string name="create">Utwórz</string>
-  <string name="credential_storage_type">Storage type</string>
-  <string name="credential_storage_type_hardware">Hardware-backed</string>
-  <string name="credential_storage_type_software">Software only</string>
+  <string name="credential_storage_type">Rodzaj magazynu danych</string>
+  <string name="credential_storage_type_hardware">Sprzętowy</string>
+  <string name="credential_storage_type_software">Programowy</string>
   <string name="credentials_configure_lock_screen_hint">Aby korzystać z magazynu danych logowania, musisz ustawić kod PIN lub hasło blokady ekranu.</string>
   <string name="credentials_enabled">Magazyn danych logowania jest włączony.</string>
   <string name="credentials_erased">Wyczyszczono magazyn danych logowania.</string>
@@ -706,12 +708,10 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="cryptkeeper_return_to_call">Powrót do połączenia</string>
   <string name="current_backup_pw_prompt">Wpisz tutaj bieżące hasło pełnych kopii zapasowych.</string>
   <string name="current_input_method">Domyślna</string>
-  <string name="current_use_ese">Using embedded secure element</string>
-  <string name="current_use_uicc_se">Using secure element on SIM card</string>
-  <string name="custom_mark_category">Custom</string>
+  <string name="current_use_ese">Korzystanie z wbudowanego układu zabezpieczającego</string>
+  <string name="current_use_uicc_se">Korzystanie z układu zabezpieczającego w karcie SIM</string>
+  <string name="custom_mark_category">Własne</string>
   <string name="data_size_label">Dane</string>
-  <string name="data_summary">Select Subscription for Data Call</string>
-  <string name="data_title">Data Call</string>
   <string name="data_usage_app_restrict_background">Ogranicz przesył danych w tle</string>
   <string name="data_usage_app_restrict_background_summary">Wyłącz dane w tle w sieciach komórkowych (nadal używaj w innych sieci).</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Transmisję danych w tle możesz ograniczyć po ustawieniu limitu.</string>
@@ -784,7 +784,6 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="date_and_time_settings_title">Data i czas</string>
   <string name="date_and_time_settings_title_setup_wizard">Ustaw datę i godzinę</string>
   <string name="date_picker_title">Data</string>
-  <string name="date_time_12_hour_sample">1:00 (po południu)</string>
   <string name="date_time_24_hour_sample">13:00</string>
   <string name="date_time_24hour">Format 24-godzinny</string>
   <string name="date_time_auto">Czas sieciowy</string>
@@ -801,7 +800,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="debug_applications_category">Aplikacje</string>
   <string name="debug_debugging_category">Debugowanie</string>
   <string name="debug_drawing_category">Rysowanie</string>
-  <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
+  <string name="debug_hw_drawing_category">Sprzętowa akceleracja renderowania</string>
   <string name="debug_input_category">Wprowadzanie</string>
   <string name="debug_intent_sender_label">Debugowanie intent (dla programistów)</string>
   <string name="debug_layout">Pokaż granice układu</string>
@@ -826,6 +825,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="default_sdcard_select_msg">"Jeśli wybierzesz %1$s, aplikacje zainstalowane na %2$s nie będą mogły być użyte, a urządzenie uruchomi się ponownie. Na pewno zmienić na %3$s?"</string>
   <string name="default_usb_mode">Domyślne połączenie USB</string>
   <string name="delete">Usuń</string>
+  <string name="deny">Odmów</string>
   <string name="details_subtitle">Szczegóły użycia</string>
   <string name="details_title">Szczegóły użycia</string>
   <string name="dev_settings_warning_message">Te ustawienia są przeznaczone wyłącznie dla programistów. Ich użycie może spowodować uszkodzenie lub nieprawidłowe działanie urządzenia i zainstalowanych na nim aplikacji.</string>
@@ -863,7 +863,6 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="device_status_activity_title">Informacje o telefonie</string>
   <string name="device_status_summary">Numer telefonu, sygnał itd.</string>
   <string name="dialog_title_color_calibration">Ustaw korekcję kolorów ekranu</string>
-  <string name="dialog_title_entryvalues_dolby_control">Kontrola Dolby Mobile</string>
   <string name="dialog_title_font_size">Rozmiar czcionki</string>
   <string name="dialog_title_hdmi_color_calibration">Ustaw korekcję kolorów przez HDMI</string>
   <string name="dirac_control">Dekodowanie Dirac</string>
@@ -881,8 +880,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="disable_overlays">Wyłącz nakładki HW</string>
   <string name="disable_overlays_summary">Zawsze używaj GPU do komponowania ekranu</string>
   <string name="disable_power_key_long_press_under_keyguard">Wyłącz okno zasilania</string>
-  <string name="disable_service_message">Touching OK will stop %1$s.</string>
-  <string name="disable_service_title">Stop %1$s?</string>
+  <string name="disable_service_message">Dotknięcie OK zatrzyma %1$s.</string>
+  <string name="disable_service_title">Zatrzymać %1$s?</string>
   <string name="disable_text">Wyłącz</string>
   <string name="disabled">Wyłączone</string>
   <string name="disconnect">Rozłącz</string>
@@ -943,6 +942,10 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dock_sounds_enable_summary_on">Odtwarzaj dźwięk podczas umieszczania telefon w doku i wyjmowania go</string>
   <string name="dock_sounds_enable_title">Dźwięk włożenia do stacji dokującej</string>
   <string name="does_not_exist">Aplikacja nie istnieje.</string>
+  <string name="dolby_bassboost_high">Silne</string>
+  <string name="dolby_bassboost_low">Miękkie</string>
+  <string name="dolby_bassboost_normal">Normalne</string>
+  <string name="dolby_bassboost_title">Bas：</string>
   <string name="dolby_dialogue_enhancer">Poprawa dialogów</string>
   <string name="dolby_effects">Efekty przestrzenne</string>
   <string name="dolby_eq_enter_alert_msg">Otworzyć Equalizer?</string>
@@ -954,7 +957,14 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dolby_mode_movie">Film</string>
   <string name="dolby_mode_music">Muzyka</string>
   <string name="dolby_mode_off">Wyłączony</string>
+  <string name="dolby_movie_advance">Polepszanie filmów</string>
+  <string name="dolby_music_advance">Polepszanie muzyki</string>
   <string name="dolby_preset_select">Wybierz tryb Equalizera</string>
+  <string name="dolby_roomsize_high">Na zewnątrz</string>
+  <string name="dolby_roomsize_low">Wewnątrz</string>
+  <string name="dolby_roomsize_normal">Normalnie</string>
+  <string name="dolby_roomsize_summary">Dźwięk przestrzenny dostępny podczas korzystania ze słuchawek</string>
+  <string name="dolby_roomsize_title">Przestrzenny：</string>
   <string name="dolby_surround_virtualizer">Dźwięk przestrzenny</string>
   <string name="dolby_volume_leveler">Regulator głośności</string>
   <string name="downloaded_rom_title">Uaktualnij zasoby</string>
@@ -995,6 +1005,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="enable_drive_mode">Tryb samochodowy</string>
   <string name="enable_firewall">Blokuj niechciane połączenia</string>
   <string name="enable_opengl_traces_title">Włącz śledzenia OpenGL</string>
+  <string name="enable_service_title">Użyć %1$s?</string>
   <string name="enable_sim">Aktywuj</string>
   <string name="enable_snapshot_screenlock">Szybkie zdjęcie</string>
   <string name="enable_text">Włącz</string>
@@ -1022,8 +1033,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="erase_personal_data_description">"Zostaną usunięte wszystkie dane z wewnętrznej pamięci telefonu,
 w tym:
 - Dane konta Xiaomi i Google
-- Dane i ustawienia systemu oraz aplikacji
-</string>
+- Dane i ustawienia systemu oraz aplikacji"</string>
   <string name="erase_sure">Dane osobiste</string>
   <string name="error_apn_empty">Nazwa APN nie może być pusta.</string>
   <string name="error_mcc_not3">Pole MMC musi zawierać 3 cyfry.</string>
@@ -1035,14 +1045,17 @@ w tym:
   <string name="examination_score_80_100">Niektóre funkcje mogą być optymalizowane.</string>
   <string name="examination_score_80_60">Niektóre funkcje mogą być optymalizowane.</string>
   <string name="examination_score_has_virus">Wykryto podejrzane aplikacje!</string>
+  <string name="experimental_webview">Użyj WebView</string>
+  <string name="experimental_webview_summary">Aplikacje będą używać silnika (beta) WebView</string>
   <string name="external_code_size_label">Aplikacja w pamięci USB</string>
   <string name="external_data_size_label">Dane na karcie SD</string>
-  <string name="factory_reset_summary">Możesz wymazać swoje osobiste dane przez format telefonu, lub wybrać usuwanie zainstalowanych aplikacji i format karty SD by przywrócić ustawienia fabryczne</string>
+  <string name="factory_reset_summary">"Możesz wymazać swoje osobiste dane przez format telefonu, lub wybrać usuwanie zainstalowanych aplikacji i format pamięci USB by przywrócić ustawienia fabryczne"</string>
   <string name="failed_to_open_app_settings_toast">Nie udało się otworzyć ustawień aplikacji %1$s</string>
   <string name="fcc_equipment_id">ID Sprzętu</string>
   <string name="filter">Filtr</string>
   <string name="filter_apps_all">Wszystkie</string>
   <string name="filter_apps_cached">W pamięci</string>
+  <string name="filter_apps_disabled">Wyłączone</string>
   <string name="filter_apps_onsdcard">Nośnik USB</string>
   <string name="filter_apps_running">Pracują</string>
   <string name="filter_apps_third_party">Pobrane</string>
@@ -1136,7 +1149,20 @@ w tym:
   <string name="fw_time_settings">Scheduled</string>
   <string name="fw_whitelist">Exceptions</string>
   <string name="fw_whitelist_hint">Calls and messages will not be blocked by default</string>
+  <string name="gadget_bluetooth">Bluetooth</string>
+  <string name="gadget_brightness_state_auto">auto</string>
+  <string name="gadget_brightness_state_full">full</string>
+  <string name="gadget_brightness_state_half">half</string>
+  <string name="gadget_brightness_state_off">off</string>
+  <string name="gadget_brightness_template">Jasność %1$s</string>
+  <string name="gadget_gps">GPS</string>
   <string name="gadget_picker_title">Wybierz gadżet</string>
+  <string name="gadget_state_off">off</string>
+  <string name="gadget_state_on">on</string>
+  <string name="gadget_state_template">%1$s %2$s</string>
+  <string name="gadget_state_turning_off">turning off</string>
+  <string name="gadget_state_turning_on">turning on</string>
+  <string name="gadget_sync">Sync</string>
   <string name="gadget_title">Zarządzanie energią</string>
   <string name="gadget_toggle_bluetooth">Aktualizowanie ustawień Bluetooth</string>
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
@@ -1204,12 +1230,8 @@ w tym:
   <string name="input_method">Sposób wprowadzania tekstu</string>
   <string name="input_method_selector">Wybór sposobu wprowadzania tekstu</string>
   <string name="input_method_selector_always_hide_title">Zawsze ukrywaj</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Zawsze pokazuj</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatycznie</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Ustawienia</string>
   <string name="input_method_settings_button">Ustawienia</string>
   <string name="input_methods_and_subtype_enabler_title">Wybierz aktywne metody wprowadzania</string>
@@ -1380,6 +1402,7 @@ w tym:
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Zbyt wiele nieudanych prób!</string>
   <string name="lockpattern_tutorial_cancel_label">Anuluj</string>
   <string name="lockpattern_tutorial_continue_label">Dalej</string>
+  <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Wyłącz zrzut pamięci RAM LTE</string>
   <string name="lte_ram_dump_on">Włącz zrzut pamięci RAM LTE</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -1396,13 +1419,22 @@ w tym:
   <string name="manually_add_network">Dodawanie sieci</string>
   <string name="mark_number_dialog_maintitle">Blokuj i zapisz numer</string>
   <string name="mark_number_dialog_subtitle">Developed in conjunction with Sogou</string>
-  <string name="master_clear_accounts">" Zalogowano się na konta: "</string>
+  <string name="master_clear_accounts">" Zalogowano się na konta: 
+"</string>
   <string name="master_clear_all">"Wymazać wszystkie dane i przywrócić ustawienia fabryczne? Tej czynności nie można cofnąć."</string>
   <string name="master_clear_button_text">Resetuj telefon</string>
   <string name="master_clear_confirm_title">Zresetować?</string>
-  <string name="master_clear_desc">Powrót do ustawień fabrycznych spowoduje wymazanie wszystkich danych z pamięci wewnętrznej telefonu, w tym: danych Twojego konta Google, danych i ustawienia systemu oraz aplikacji, a także pobranych aplikacji.</string>
-  <string name="master_clear_desc_also_erases_external">Muzyka, Zdjęcia, inne dane użytkownika</string>
-  <string name="master_clear_desc_erase_external_storage">Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać nośnik USB.</string>
+  <string name="master_clear_desc">Powrót do ustawień fabrycznych spowoduje wymazanie wszystkich danych z pamięci wewnętrznej telefonu, w tym:
+
+"&lt;li&gt;Konto Googlet&lt;/li&gt;"
+"&lt;li&gt;Ustawienia systemu i aplikacji&lt;/li&gt;"
+"&lt;li&gt;Pobrane aplikacje&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Muzyka&lt;/li&gt;"
+"&lt;li&gt;Zdjęcia&lt;/li&gt;"
+"&lt;li&gt;Pozostałe dane użytkownika&lt;/li&gt;</string>
+  <string name="master_clear_desc_erase_external_storage">"
+
+Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="master_clear_erase_application_progress">Usuwanie aplikacji...</string>
   <string name="master_clear_failed">"Nie wykonano resetowania, ponieważ usługa czyszczenia systemu jest niedostępna."</string>
   <string name="master_clear_final_button_text">Wymaż wszystko</string>
@@ -1415,7 +1447,7 @@ w tym:
   <string name="master_clear_summary">Wymazuje wszystkie dane w telefonie</string>
   <string name="master_clear_title">Ustawienia fabryczne</string>
   <string name="media_button">Przycisk multimedialny</string>
-  <string name="media_feedback_enable_title">Wibruj w rytmie</string>
+  <string name="media_feedback_enable_title">Wibracje w rytmie</string>
   <string name="media_format_button_text">Wyczyść nośnik USB</string>
   <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz wszystkie  zapisane dane.</string>
   <string name="media_format_final_button_text">Wymaż wszystko</string>
@@ -1464,39 +1496,38 @@ w tym:
   <string name="menu_stats_refresh">Odśwież</string>
   <string name="menu_stats_total">Łączne użycie</string>
   <string name="menu_stats_unplugged">%1$s od odłączenia</string>
-  <string name="miracast_PC2THOR_streaming_on">Miracast is unavailable because a PC is streaming to this device</string>
-  <string name="miracast_cancelconnect_dialog">Cancel connection</string>
-  <string name="miracast_connection_failed_generic">The connection was not successful</string>
+  <string name="miracast_PC2THOR_streaming_on">Miracast jest niedostępny ponieważ komputer PC przesyła na to urządzenie</string>
+  <string name="miracast_cancelconnect_dialog">Anuluj połączenie</string>
+  <string name="miracast_connection_failed_generic">Połączenie nieudane</string>
   <string name="miracast_dialog_title">%1$s</string>
-  <string name="miracast_disable_dhcp">Disable HDCP</string>
-  <string name="miracast_display_category">Displays</string>
-  <string name="miracast_enable_dhcp">Enable HDCP</string>
-  <string name="miracast_error_already_streaming">Already streaming to one display</string>
-  <string name="miracast_error_cancelconnect">The connection is currently busy</string>
-  <string name="miracast_error_connection_in_progress">Connection is in progress. Please wait</string>
-  <string name="miracast_menu_connect">Start streaming</string>
-  <string name="miracast_menu_disconnect">Stop streaming</string>
-  <string name="miracast_menu_forget">Forget display</string>
-  <string name="miracast_menu_rename">Rename display</string>
-  <string name="miracast_menu_search">Search</string>
-  <string name="miracast_menu_searching">Searching</string>
-  <string name="miracast_menu_teardown">Teardown</string>
-  <string name="miracast_nickname">Please set a new name:</string>
-  <string name="miracast_no_sinks_found">No nearby wireless display is available</string>
-  <string name="miracast_search_for_displays">Searching for wireless displays...</string>
-  <string name="miracast_settings_category">WLAN display settings</string>
-  <string name="miracast_setup_cancel">Cancel</string>
-  <string name="miracast_setup_save">Save</string>
-  <string name="miracast_sink_busy">Busy</string>
-  <string name="miracast_sink_connected">Connected</string>
-  <string name="miracast_sink_connecting">Connecting…</string>
-  <string name="miracast_sink_not_available">Not available</string>
-  <string name="miracast_sink_ready_to_connect">Ready to connect</string>
-  <string name="miracast_wifi_off">To use Miracast, turn WLAN on</string>
+  <string name="miracast_disable_dhcp">Wyłącz HDCP</string>
+  <string name="miracast_display_category">Ekrany</string>
+  <string name="miracast_enable_dhcp">Włącz HDCP</string>
+  <string name="miracast_error_already_streaming">Aktywne przesyłanie do jednego wyświetlacza</string>
+  <string name="miracast_error_cancelconnect">Aktualne połącznie jest zajęte</string>
+  <string name="miracast_error_connection_in_progress">Połączenie w trakcie, proszę czekać</string>
+  <string name="miracast_menu_connect">Rozpocznij przesyłanie</string>
+  <string name="miracast_menu_disconnect">Zatrzymaj przesyłanie</string>
+  <string name="miracast_menu_forget">Zapomnij wyświetlacz</string>
+  <string name="miracast_menu_rename">Zmień nazwę wyświetlacza</string>
+  <string name="miracast_menu_search">Wyszukaj</string>
+  <string name="miracast_menu_searching">Wyszukiwanie</string>
+  <string name="miracast_menu_teardown">Rozłącz</string>
+  <string name="miracast_nickname">Ustaw nową nazwę:</string>
+  <string name="miracast_no_sinks_found">Brak wyświetlaczy Wi-Fi w pobliżu</string>
+  <string name="miracast_search_for_displays">Wyszukiwanie wyświetlaczy Wi-Fi...</string>
+  <string name="miracast_settings_category">Ustawienia Wi-Fi Display</string>
+  <string name="miracast_setup_cancel">Anuluj</string>
+  <string name="miracast_setup_save">Zapisz</string>
+  <string name="miracast_sink_busy">Zajęty</string>
+  <string name="miracast_sink_connected">Połączony</string>
+  <string name="miracast_sink_connecting">Łączenie…</string>
+  <string name="miracast_sink_not_available">Niedostępne</string>
+  <string name="miracast_sink_ready_to_connect">Gotowy do połączenia</string>
+  <string name="miracast_wifi_off">By użyć Miracast włącz Wi-Fi</string>
   <string name="misc_files">Różne pliki</string>
   <string name="misc_files_selected_count">wybrano %1$d z %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="miui_screensaver_show_time">Czas trwania wygaszacza</string>
   <string name="miui_screensaver_show_time_select_title">Ustaw czas trwania</string>
   <string name="miui_screensaver_state_off">Wył</string>
@@ -1518,39 +1549,42 @@ w tym:
   <string name="move_app_to_where">Przenieś do %s</string>
   <string name="moving">Przenoszenie</string>
   <string name="msd_driver_download">Pobierz sterownik</string>
-  <string name="msd_driver_mac_download">Przejdź do http://miuiandroid.com/mac/ aby pobrać na MAC</string>
-  <string name="msd_driver_windows_xp_download">Przejdź do http://miuiandroid.com/windows/ aby pobrać na PC</string>
+  <string name="msd_driver_mac_download">"Przejdź do http://miui.com/mac/ aby pobrać AndroidFileTransfer.dmg na MAC"</string>
+  <string name="msd_driver_windows_xp_download">"Przejdź do http://miui.com/win aby pobrać Setup.exe na PC"</string>
   <string name="msd_help_summary">"Problemy z podłączeniem pamięci wewnętrznej urządzenia do PC? Wybierz swój system operacyjny:"</string>
   <string name="msd_help_title">Pomoc</string>
   <string name="msd_install">Zainstaluj sterownik</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Dalej</string>
-  <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
+  <string name="msd_install_retry_linux">"
+Jeśli komputer nie wykrywa telefonu
 na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
 <a href='http://tinyurl.com/Ubuntu-MTP'>Ubuntu-MTP</a>
 
-"Uwaga: Ubuntu 13.04 i nowsze posiada
-już wbudowany tryb MTP. Wystarczy podłączyć telefon do USB."
+Uwaga: Ubuntu 13.04 i nowsze posiada
+już wbudowany tryb MTP. 
+
+Wystarczy podłączyć telefon do USB.
 
 Acid"</string>
-  <string name="msd_install_retry_mac">"Jeśli komputer nie wykryje MI 2,
+  <string name="msd_install_retry_mac">"Jeśli komputer nie wykryje telefonu,
 spróbuj:
-1) Odłączyć MI 2 od USB i ponownie podłączyć do PC."</string>
-  <string name="msd_install_retry_windows_vista">"Jeśli komputer nie wykryje MI 2,
+1) Odłączyć telefon od USB i ponownie podłączyć do PC."</string>
+  <string name="msd_install_retry_windows_vista">"Jeśli komputer nie wykryje telefonu,
 spróbuj:
-1) Odłączyć MI 2 od USB i ponownie podłączyć do PC."</string>
-  <string name="msd_install_retry_windows_xp">"Jeśli komputer nie wykryje MI 2,
+1) Odłączyć telefon od USB i ponownie podłączyć do PC."</string>
+  <string name="msd_install_retry_windows_xp">"Jeśli komputer nie wykryje telefonu,
 spróbuj:
-1) Odłączyć MI 2 od USB i ponownie podłączyć do PC.
+1) Odłączyć telefon od USB i ponownie podłączyć do PC.
 2) Przeinstalować sterownik."</string>
   <string name="msd_install_status_done">Sterownik zainstalowany</string>
   <string name="msd_install_status_undo">Zainstaluj sterownik</string>
   <string name="msd_install_succeed">Sterownik zainstalowany</string>
   <string name="msd_install_windows_xp_step_2_1">"1. Jeśli pojawi się Kreator dodawania sprzętu, postępuj zgodnie z podanymi krokami"</string>
   <string name="msg_wlan_signal_found">Found WLAN AP %s, would you like to use this WLAN network? Using this network will interrupt the data service partially.</string>
-  <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
-  <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
-  <string name="multi_sim_settings_title">Multi Sim Settings</string>
+  <string name="mtp_ptp_mode_summary">Funkcja MTP lub PTP jest aktywna</string>
+  <string name="multi_sim_settings_summary">Zmień ustawienia dla wielu SIM do połączeń głosowych, danych i SMS</string>
+  <string name="multi_sim_settings_title">Ustawienia Multi SIM</string>
   <string name="multi_touch_points_category_title">Punkty Multi-touch</string>
   <string name="multi_touch_points_preference">Uruchom ponownie by aktywować</string>
   <string name="music_plus_summary">Polepszenie dźwięku w słuchawkach</string>
@@ -1573,7 +1607,7 @@ spróbuj:
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_quick_toggle_summary">Zezwalaj na wymianę danych, gdy telefon dotyka innego urządzenia.</string>
   <string name="nfc_quick_toggle_title">Komunikacja NFC</string>
-  <string name="nfc_se_route_title">Secure element position</string>
+  <string name="nfc_se_route_title">Układ zabezpieczający</string>
   <string name="no">Nie</string>
   <string name="no_application">Brak</string>
   <string name="no_applications">Brak aplikacji</string>
@@ -1585,6 +1619,8 @@ spróbuj:
   <string name="noise_suppression">Redukcja szumów</string>
   <string name="normal_date_format">Regionalny (%s)</string>
   <string name="not_installed">Nie zainstalowane</string>
+  <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
+  <string name="notification_listener_security_warning_title">Enable %1$s?</string>
   <string name="notification_pulse_title">Powiadomienie LED</string>
   <string name="notification_sound_dialog_title">Wybierz dzwonek powiadomienia</string>
   <string name="notification_sound_title">Powiadomienie</string>
@@ -1616,8 +1652,8 @@ spróbuj:
   <string name="opt_quickscan_ok">System jest czysty</string>
   <string name="opt_reject_all">Odrzuć wszystkie połączenia</string>
   <string name="opt_reject_blacklist">Odrzuć połączenia od numerów z listy</string>
-  <string name="opt_reject_blacklist_stranger">Reject calls from unknown numbers on blocklist</string>
-  <string name="opt_reject_blacklist_stranger_summary">Calls from blocked numbers will be rejected automatically</string>
+  <string name="opt_reject_blacklist_stranger">Odrzuć połączenia z nieznanych numerów na czarnej liście</string>
+  <string name="opt_reject_blacklist_stranger_summary">Rozmowy z blokowanych numerów zostaną automatycznie odrzucone</string>
   <string name="opt_restore_perm">Restored defalut privacy permissions of %d programs</string>
   <string name="opt_resume_desc">Dalej</string>
   <string name="opt_scanning">Skanowanie…：</string>
@@ -1816,7 +1852,7 @@ spróbuj:
   <string name="perm_su_switch">Dostęp do ROOT</string>
   <string name="perm_summary_disabled">Wył</string>
   <string name="perm_summary_enabled">Wł</string>
-  <string name="perm_support_hints">Powered by LBE</string>
+  <string name="perm_support_hints">" "</string>
   <string name="perm_sysopt_boost_auto_start">Uprawnienia na autostart</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
   <string name="perm_sysopt_boost_auto_start_summary">Zezwalanie na autostart procesów</string>
@@ -2311,8 +2347,8 @@ spróbuj:
   <string name="sdcard_settings_unmounted_status">Możesz teraz wyjąć nośnik USB.</string>
   <string name="sdcard_settings_used_bytes_label">Wykorzystanych bajtów:</string>
   <string name="sdcard_unmount">Odłącz nośnik USB</string>
-  <string name="se_route_ese">Embedded secure element</string>
-  <string name="se_route_uicc">Secure element on SIM card</string>
+  <string name="se_route_ese">Wbudowany układ zabezpieczający</string>
+  <string name="se_route_uicc">Układ zabezpieczający w karcie SIM</string>
   <string name="search_about">Informacje</string>
   <string name="search_accelerometer">Akcelerometr</string>
   <string name="search_access_control">Kontrola dostępu</string>
@@ -2391,7 +2427,7 @@ spróbuj:
   <string name="show_background_processes">Pokaż procesy z pamięci podręcznej</string>
   <string name="show_cpu_usage">Pokaż użycie procesora</string>
   <string name="show_cpu_usage_summary">Nakładka na ekranie pokazująca użycie procesora</string>
-  <string name="show_dev_already">No need, you are already a developer.</string>
+  <string name="show_dev_already">Już jesteś programistą!</string>
   <string name="show_dev_on">Jesteś programistą!</string>
   <string name="show_fc">Pokaż wszystkie FC</string>
   <string name="show_fc_summary">Pokaż okno Aplikacja Została Zatrzymana (Force Close)</string>
@@ -2520,10 +2556,6 @@ spróbuj:
   <string name="storageuse_settings_title">Użycie pamięci</string>
   <string name="strict_mode">Tryb ścisły włączony</string>
   <string name="strict_mode_summary">Miganie ekranu podczas długich operacji w wątku głównym</string>
-  <string name="subscription_01_summary">Set options for SUB1 network settings</string>
-  <string name="subscription_01_title">SUB 1</string>
-  <string name="subscription_02_summary">Set options for SUB2 network settings</string>
-  <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Wybierz operatora sieci</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Sprawdź aplikację przed instalacją</string>
@@ -2936,8 +2968,6 @@ zakończone"</string>
   <string name="voice_input_output_settings">Ustawienia głosowe</string>
   <string name="voice_input_output_settings_title">Ustawienia funkcji głosowych</string>
   <string name="voice_search_settings_title">Wyszukiwanie głosowe</string>
-  <string name="voice_summary">Select Subscription for Voice Call</string>
-  <string name="voice_title">Voice/USSD/MMI</string>
   <string name="volume_alarm_description">Alarmy</string>
   <string name="volume_alarm_mute">Wycisz alarmy</string>
   <string name="volume_bluetooth_description">Głośność Bluetooth</string>
@@ -3026,7 +3056,7 @@ zakończone"</string>
   <string name="wifi_cancel">Anuluj</string>
   <string name="wifi_certificate">Certyfikat Wi-Fi</string>
   <string name="wifi_config_info">Konfiguracja Wi-Fi</string>
-  <string name="wifi_configured_ap_list">Remembered access point list</string>
+  <string name="wifi_configured_ap_list">Lista punktów dostępu</string>
   <string name="wifi_connect">Połącz</string>
   <string name="wifi_connect_failed_message">Telefon nie mógł połączyć się z tą siecią Wi-Fi.</string>
   <string name="wifi_context_menu_change_password">Zmień hasło</string>
@@ -3082,7 +3112,7 @@ zakończone"</string>
   <string name="wifi_gateway">Brama</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">W trybie samolotowym</string>
-  <string name="wifi_install_credentials">Install certificates</string>
+  <string name="wifi_install_credentials">Zainstaluj certyfikaty</string>
   <string name="wifi_ip_address">Adres IP</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">Ustawienia IP</string>
@@ -3153,7 +3183,7 @@ zakończone"</string>
 
 Allow this for all apps that want to scan?"</string>
   <string name="wifi_scan_notify_remember_choice">"Nie pokazuj ponownie"</string>
-  <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
+  <string name="wifi_scan_notify_text_location_off">"Aplikacje mogą skanować w poszukiwaniu sieci nawet gdy sieć Wi-Fi jest wyłączona."</string>
   <string name="wifi_scan_notify_text_location_on">"Pozwól usłudze lokalizacji Google i innym aplikacjom szukać sieci nawet gdy sieć Wi-Fi jest wyłączona"</string>
   <string name="wifi_secured_first_item">Zabezpieczone %1$s</string>
   <string name="wifi_secured_second_item">, zabezpieczone %1$s</string>

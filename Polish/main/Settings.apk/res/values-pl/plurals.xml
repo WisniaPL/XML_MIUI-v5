@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">Od zostania programistą dzieli Cię już tylko tyle kroków: %1$d.</item>
-        <item quantity="one">Od zostania programistą dzieli Cię już tylko %1$d krok.</item>
-    </plurals>
-        <plurals name="power_center_battery_day">
+    <plurals name="power_center_battery_day">
         <item quantity="other">"%d dni "</item>
         <item quantity="one">"%d dzień "</item>
     </plurals>
@@ -15,6 +11,10 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min. "</item>
         <item quantity="one">"%d min. "</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Od zostania programistą dzieli Cię już tylko tyle kroków: %1$d.</item>
+        <item quantity="one">Od zostania programistą dzieli Cię już tylko %1$d krok.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Hasło musi zawierać litery (co najmniej %d).</item>

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="perm_hips_action">
+        <item>Zezwól</item>
+        <item>Pytaj</item>
+        <item>Odmów</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Wydajny</item>
         <item>Normalny</item>
@@ -132,9 +137,9 @@
         <item>Tymczasowo rozłączono, by uniknąć połączenia o niskiej jakości</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Otwarte</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa</item>
+        <item>@string/wifi_security_wpa2</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -173,7 +178,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Zawsze</item>
-        <item>Tylko, gdy podłączony</item>
+        <item>Tylko podczas ładowania</item>
         <item>Nigdy</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -233,6 +238,12 @@
         <item>eHRPD</item>
         <item>Nie określono</item>
     </string-array>
+    <string-array name="mvno_type_entries">
+        <item>None</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
     <string-array name="app_install_location_entries">
         <item>Wewnętrzna pamięć urządzenia</item>
         <item>Wymienna karta SD</item>
@@ -244,10 +255,38 @@
         <item>Wiadomości</item>
         <item>Urządzenie</item>
     </string-array>
-    <string-array name="silent_mode_entries">
-        <item>Wyłącz</item>
-        <item>Wibracje</item>
-        <item>Wycisz</item>
+    <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Location</item>
@@ -398,9 +437,9 @@
         <item>Słaba</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Mocna</item>
+        <item>Średnia</item>
+        <item>Słaba</item>
     </string-array>
    <string-array name="battery_indicator_style_entries">
         <item>Słupkowy</item>
@@ -438,6 +477,9 @@
         <item>Błękitny</item>
         <item>Biały</item>
         <item>Fioletowy</item>
+    </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Brak funkcji</item>
@@ -478,7 +520,7 @@
         <item>"Dla Windows XP lub starszych,
 sterownik musi być zainstalowany ręcznie"</item>
         <item>"Dla Windows Vista lub nowszych,
-Muzyka z MI-2 pojawi się na komputerze"</item>
+Muzyka z telefonu Xiaomi pojawi się na komputerze"</item>
         <item>"Dla OSX sterownik 
 musi być zainstalowany ręcznie"</item>
         <item></item>
@@ -488,23 +530,23 @@ musi być zainstalowany ręcznie"</item>
 Pamięć Xiaomi pojawi się na komputerze. 
 Otwórz plik Setup.exe i zainstaluj sterowniki"</item>
         <item></item>
-        <item>"XIAOMI storage device will appear on your computer
-Open and select AndroidFileTransfer.dmg for installation"</item>
+        <item>"W komputerze pojawi się nowy napęd: XIAOMI
+Przejdź do napędu i zaznacz plik: AndroidFileTransfer.dmg"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2. Pamięć wew. MI-2 pojawi się na komputerze
+        <item>"2. Pamięć wew. telefonu pojawi się na komputerze
 Możesz przenosić pliki"</item>
         <item></item>
-        <item>"Computer will auto open and read phone data
-You can now transfer files"</item>
+        <item>"Komputer automatycznie otworzy pamięć telefonu
+Możesz przenosić pliki"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>"Jeśli zainstalujesz ten sterownik
-pamięć wewnętrzna MI-2 pojawi się na komputerze"</item>
+pamięć wewnętrzna telefonu Xiaomi pojawi się na komputerze"</item>
         <item>"Dla Windows Vista lub nowszych,
-Muzyka z MI-2 pojawi się na komputerze"</item>
+Muzyka z telefonu Xiaomi pojawi się na komputerze"</item>
         <item>"Jeśli zainstalujesz ten sterownik
 komputer automatycznie odczyta zawartość telefonu"</item>
         <item></item>
@@ -518,20 +560,9 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Żywe</item>
         <item>Standardowe</item>
     </string-array>
-    <string-array name="perm_hips_action">
-        <item>Zezwól</item>
-        <item>Pytaj</item>
-        <item>Odmów</item>
-    </string-array>
     <string-array name="startup_hips_action">
         <item>Zezwól</item>
         <item>Odmów</item>
-    </string-array>
-        <string-array name="change_security_lock_picker">
-        <item>Odblokowanie twarzą</item>
-        <item>Wzór</item>
-        <item>Hasło numeryczne</item>
-        <item>Hasło alfanumeryczne</item>
     </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
@@ -541,15 +572,16 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Wyłącz redukcję szumów</item>
         <item>Włącz redukcję szumów (2 mikrofony)</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Krótkie opóźnienie</item>
-        <item>Standardowo</item>
-        <item>Najwyższa jakość</item>
+    <string-array name="change_security_lock_picker">
+        <item>Odblokowanie twarzą</item>
+        <item>Wzór</item>
+        <item>Hasło numeryczne</item>
+        <item>Hasło alfanumeryczne</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>Automatyczne łączenie</item>
+        <item>Ręczne łączenie</item>
+        <item>Zawsze pytaj</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minut</item>
@@ -567,5 +599,15 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Galeria</item>
         <item>Muzyka</item>
         <item>Poczta</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Krótkie opóźnienie</item>
+        <item>Standardowo</item>
+        <item>Najwyższa jakość</item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>Wyłącz</item>
+        <item>Wibracje</item>
+        <item>Wycisz</item>
     </string-array>
  </resources>

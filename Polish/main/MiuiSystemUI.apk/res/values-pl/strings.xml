@@ -70,6 +70,7 @@
     <string name="camera_key_action_shortcut_title">Skrót</string>
     <string name="camera_key_action_shortcut_wake">Zablokuj/Wybudź urządzenie</string>
     <string name="camera_key_action_toggle_title">Aktywacja przełącznika</string>
+    <string name="carrier_settings">Nazwa operatora</string>
     <string name="center_clock_title">Zegar na środku</string>
     <string name="chooseUsbActivity">Wybierz aplikację dla urządzenia USB</string>
     <string name="compat_mode_help_body">Jeśli aplikacja została przystosowana do mniejszego ekranu, obok zegara zostanie wyświetlony element sterujący powiększeniem.</string>
@@ -199,6 +200,7 @@
 d MMMM yyyy"</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Ustaw metodę wprowadzania</string>
+    <string name="status_bar_icon_style">Układ paska statusu</string>
     <string name="status_bar_network_flow">" Dziś: %1$s    |    Pozostało: %2$s/%3$s"</string>
     <string name="status_bar_network_flow_exceed">" Dziś: %1$s  |   Pozostało: %2$s/%3$s"</string>
     <string name="status_bar_network_flow_today">" Dziś: %1$s "</string>
