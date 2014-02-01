@@ -19,7 +19,7 @@ Opuść na chwilę widok"</string>
     <string name="camera_label">Aparat</string>
     <string name="cannot_connect_camera">"Nie można nawiązać połączenia z aparatem."</string>
     <string name="clear_effects">Usuń efekty</string>
-    <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
+    <string name="confirm_restore_message">Przywrócić domyślne ustawienia aparatu?</string>
     <string name="confirm_restore_title">Przywróć wartości domyślne</string>
     <string name="dialog_ok">OK</string>
     <string name="disable_video_snapshot_hint">Stopklatka nie działa, gdy są aktywne efekty specjalne.</string>

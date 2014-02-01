@@ -22,8 +22,8 @@
   <string name="confirm_change_mode_title">Przełącz widok funkcji aparatu</string>
   <string name="confirm_change_to_expert_mode_message">Przełączyć na zaawansowany widok funkcji aparatu?</string>
   <string name="confirm_change_to_simple_mode_message">Przełączyć na uproszczony widok funkcji aparatu?</string>
-  <string name="confirm_location_message">Czy przywrócić domyślne ustawienia aparatu?</string>
-  <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
+  <string name="confirm_location_message">Czy chcesz zapisywać lokalizację wykonywania zdjęć?</string>
+  <string name="confirm_restore_message">Przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć wartości domyślne</string>
   <string name="crop_saved">Przycięte zdjęcie zapisane do %s</string>
   <string name="delete">Usuń</string>

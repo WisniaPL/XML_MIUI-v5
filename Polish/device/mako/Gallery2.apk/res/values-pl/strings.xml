@@ -211,7 +211,7 @@ Inne aplikacje mają dostęp do tych informacji wraz z zapisanymi zdjęciami."</
     <string name="photo_saved">Edytowane zdjęcie zapisano w %s</string>
     <string name="discard_unsaved_photo">Odrzucić niezapisane zmiany?</string>
     <string name="yes">Tak</string>
-    <string name="save">Zapisz</string>
+    <string name="save">Przywróć</string>
     <string name="autofix">Autopoprawka</string>
     <string name="crossprocess">Proces krosowy</string>
     <string name="documentary">Dokument</string>

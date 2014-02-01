@@ -1236,9 +1236,13 @@ Słuchanie przy dużym poziomie głośności przez dłuższy czas może doprowad
   <string name="ssl_certificate_is_valid">Certyfikat jest ważny.</string>
   <string name="status_bar_device_locked">Urządzenie zablokowane.</string>
   <string name="status_bar_notification_info_overflow">&gt;999</string>
-  <string name="storage_external_usb">Zewnętrzny nośnik USB</string>
+  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
   <string name="storage_internal">Pamięć wewnętrzna</string>
-  <string name="storage_phone">Nośnik USB</string>
   <string name="storage_sd_card">Karta SD</string>
   <string name="storage_usb">Nośnik USB</string>
   <string name="submit">Prześlij</string>
@@ -1273,7 +1277,6 @@ Słuchanie przy dużym poziomie głośności przez dłuższy czas może doprowad
   <string name="turn_on_radio">Włącz połączenia bezprzewodowe</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Dotknij dwukrotnie, aby sterować powiększeniem.</string>
   <string name="twelve_hour_time_format">h:mm a</string>
-  <string name="twenty_four_hour_time_format">H:mm</string>
   <string name="unknownName">(Nieznany)</string>
   <string name="untitled">&lt;Bez nazwy&gt;</string>
   <string name="upload_file">Wybierz plik</string>
@@ -1356,5 +1359,4 @@ Zamknąć ją?"</string>
   <string name="year">rok</string>
   <string name="years">lat</string>
   <string name="yes">OK</string>
-  <string name="zz_keyguard_accessibility_voice_unlock">Odblokowanie głosem.</string>
 </resources>

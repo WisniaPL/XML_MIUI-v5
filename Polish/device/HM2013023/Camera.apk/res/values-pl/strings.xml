@@ -25,8 +25,8 @@
   <string name="confirm_change_mode_title">Przełącz widok funkcji aparatu</string>
   <string name="confirm_change_to_expert_mode_message">Przełączyć na zaawansowany widok funkcji aparatu?</string>
   <string name="confirm_change_to_simple_mode_message">Przełączyć na uproszczony widok funkcji aparatu?</string>
-  <string name="confirm_location_message">Czy przywrócić domyślne ustawienia aparatu?</string>
-  <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
+  <string name="confirm_location_message">Czy chcesz zapisywać lokalizację wykonywania zdjęć?</string>
+  <string name="confirm_restore_message">Przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć wartości domyślne</string>
   <string name="connect_wifi">Połącz z Wi-Fi</string>
   <string name="crop_saved">Przycięte zdjęcie zapisane do %s</string>
@@ -348,7 +348,7 @@
   <string name="review_cancel">Anuluj</string>
   <string name="rotate_left">Obróć w lewo</string>
   <string name="rotate_right">Obróć w prawo</string>
-  <string name="save">Zapisz</string>
+  <string name="save">Przywróć</string>
   <string name="scan_qrcode">Skanowanie kodu QR</string>
   <string name="secure_access_web_url">Przejdź do zawartości</string>
   <string name="see_app_details">Pokaż szczegóły</string>
