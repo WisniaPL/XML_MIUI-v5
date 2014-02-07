@@ -128,8 +128,6 @@
     <string name="mdb_restore_mode">Tryb przywracania</string>
     <string name="mdb_usb_disconnection_exit">USB odłączone. Przerywanie procesu</string>
     <string name="mount_storage">Tak</string>
-    <string name="move_data_to_sdcard_message">"Pliki mediów jak zrzuty ekranu, zdjęcia zostaną przeniesione na kartę SD z pamięci wewnętrznej w celu utrzymania płynności interfejsu."</string>
-    <string name="move_data_to_sdcard_title">Przenieś dane na kartę SD</string>
     <string name="no_notification_tips">Brak powiadomień</string>
     <string name="notification_otg_gamestick_in">Podłączony pad</string>
     <string name="notification_otg_gamestick_out">Odłączony pad</string>
@@ -170,19 +168,20 @@
     <string name="screenshot_saving_text">Zrzut ekranu zapisywany.</string>
     <string name="screenshot_saving_ticker">Zapisywanie zrzutu…</string>
     <string name="screenshot_saving_title">Zapisywanie zrzutu…</string>
+    <string name="settings_advanced">Dodatkowe ustawienia</string>
     <string name="settings_all_app_display_loading">Wczytywanie listy aplikacji…</string>
+    <string name="settings_basic_settings">Ustawienia</string>
+    <string name="settings_custom_carrier">Własna nazwa operatora</string>
     <string name="settings_custom_notification">Powiadomienia aplikacji</string>
-    <string name="settings_expandable_under_fullscreen">Rozwiń przy pełnym ekranie</string>
-    <string name="settings_expandable_under_fullscreen_summary">Możliwość wysunięcia paska powiadomień w aplikacjach na pełnym ekranie</string>
     <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
-    <string name="settings_expandable_under_keyguard_summary">Możliwość wysunięcia paska powiadomień na zablokowanym ekranie</string>
-    <string name="settings_expanded_view">Rozwijany pasek powiadomień</string>
+    <string name="settings_no_carrier">Bez nazwy</string>
     <string name="settings_notification_bar">Pasek powiadomień</string>
-    <string name="settings_notification_icon">Powiadomienia na pasku statusu</string>
-    <string name="settings_screenshot_notification_disabled">Ukryj powiadomienie o zrzucie</string>
+    <string name="settings_show_carrier">Pokaż nazwę operatora</string>
+    <string name="settings_show_carrier_summary">Tylko na ekranie blokady</string>
     <string name="settings_show_flow_info">Pokaż użycie danych</string>
     <string name="settings_show_network_speed">Pokaż prędkość transmisji</string>
     <string name="settings_show_notificationBar_notification">Pokaż powiadomienia</string>
+    <string name="settings_show_screenshot_notification">Pokaż powiadomienie o zrzucie</string>
     <string name="settings_show_statusBar_notification">Na pasku statusu</string>
     <string name="settings_status_bar">Pasek statusu</string>
     <string name="settings_statusbar_style">Styl paska statusu</string>
@@ -196,6 +195,7 @@
     <string name="settings_toggle_position_divider_page">%1$d przełączników powyżej jest aktywnych</string>
     <string name="settings_toggle_position_reset">Resetuj przełączniki</string>
     <string name="share">Udostępnij</string>
+    <string name="status_bar_and_notification_bar">Pasek statusu i powiadomień</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
     <string name="status_bar_date_formatter">%2$s</string>

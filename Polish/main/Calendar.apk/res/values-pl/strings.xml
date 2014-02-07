@@ -227,6 +227,7 @@
    <string name="timezone_label">Strefa czasowa</string>
    <string name="today">Dziś</string>
    <string name="today_at_time_fmt">Dziś o %s</string>
+   <string name="today_no_events">Brak wydarzeń na dziś</string>
    <string name="tomorrow">Jutro</string>
    <string name="tomorrow_at_time_fmt">Jutro o %s</string>
    <string name="view_event_calendar_label">Kalendarz:</string>

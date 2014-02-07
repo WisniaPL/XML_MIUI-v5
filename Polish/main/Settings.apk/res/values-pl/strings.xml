@@ -118,7 +118,6 @@ Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokow
   <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
   <string name="advanced_settings">Ustawienia zaawansowane</string>
   <string name="advanced_settings_summary">Włącz więcej opcji ustawień.</string>
-  <string name="age_settings">Kontrola gestami</string>
   <string name="airplane_mode">Tryb samolotowy</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">"Jeśli telefon nie będzie podłączony do ładowania podczas trwania wygaszacza, zwiększy się użycie energii. 
@@ -368,7 +367,6 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Połączono z funkcją audio multimediów</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Użyj dla funkcji audio multimediów</string>
-  <string name="bluetooth_advanced_settings">Zaawansowane</string>
   <string name="bluetooth_advanced_titlebar">Bluetooth – zaawansowane</string>
   <string name="bluetooth_ask_discovery">Aplikacja chce ustawić Twój telefon jako wykrywalny dla innych urządzeń Bluetooth przez %1$d s.</string>
   <string name="bluetooth_ask_enablement">Aplikacja chce włączyć Bluetooth.</string>
@@ -387,7 +385,6 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_connection_dialog_text">Czy chcesz nawiązać połączenie z urządzeniem „%1$s”?</string>
   <string name="bluetooth_connection_notif_message">Dotknij, aby połączyć się z urządzeniem „%1$s”.</string>
   <string name="bluetooth_connection_permission_request">Żądanie nawiązania połączenia Bluetooth</string>
-  <string name="bluetooth_default_name">Telefon Xiaomi</string>
   <string name="bluetooth_device">Urządzenie Bluetooth bez nazwy</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Zezwalaj na odbieranie plików</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Połącz z urządzeniem Bluetooth</string>
@@ -566,6 +563,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="button_text_quick_scan">Rozpocznij skan</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_view">Pokaż</string>
+  <string name="button_text_view_power">Zasilanie</string>
   <string name="cache_garbage">Pliki cache</string>
   <string name="cache_header_label">Pamięć podręczna</string>
   <string name="cache_list_empty_hints">Brak plików cache.</string>
@@ -616,6 +614,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="clean_confirm_title">Usunąć zaznaczone pliki?</string>
   <string name="cleaner">Czyszczenie</string>
   <string name="cleaner_support_hints">Powered by Clean Master</string>
+  <string name="cleanning_prefix">Czyszczenie: %s</string>
   <string name="clear_activities">Wyczyść domyślne</string>
   <string name="clear_activities_summary">Pozwól tej aplikacji na wykonywanie akcji domyślnych</string>
   <string name="clear_adb_keys">Odwołaj autoryzację do debugowania USB</string>
@@ -784,7 +783,6 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="date_and_time_settings_title">Data i czas</string>
   <string name="date_and_time_settings_title_setup_wizard">Ustaw datę i godzinę</string>
   <string name="date_picker_title">Data</string>
-  <string name="date_time_24_hour_sample">13:00</string>
   <string name="date_time_24hour">Format 24-godzinny</string>
   <string name="date_time_auto">Czas sieciowy</string>
   <string name="date_time_auto_summaryOff">Użyj czasu podanego przez sieć</string>
@@ -807,13 +805,10 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="debug_layout_summary">Pokaż granice przycięcia, marginesy itd.</string>
   <string name="debug_log">Rejestr debugowania</string>
   <string name="debug_monitoring_category">Monitorowanie</string>
-  <string name="deep_clean_tips_cache">"iconNiektóre aplikacje mogą wykorzystywać pliki cache do pobierania zasobów (np. teksty piosenek, muzykę czy zdjęcia). Pliki te mogą być jeszcze przydatne."</string>
   <string name="deep_clean_tips_cache_content">"Niektóre aplikacje mogą wykorzystywać pliki cache do pobierania zasobów (np. teksty piosenek, muzykę czy zdjęcia)."</string>
   <string name="deep_clean_tips_cache_title">Pliki cache</string>
-  <string name="deep_clean_tips_large_file">"iconDuże pliki o wielkości powyżej 10MB zachowane w pamięci urządzenia. Pliki te mogą być dla ciebie przydatne."</string>
   <string name="deep_clean_tips_large_file_content">Duże pliki o wielkości powyżej 10MB zachowane w pamięci urządzenia.</string>
   <string name="deep_clean_tips_large_file_title">Duże pliki</string>
-  <string name="deep_clean_tips_residual">"iconPozostałości (np. filmy, tapety, muzyka itp.) po pobranych aplikacjach, które zostały odinstalowane. Pliki te mogą być jeszcze przydatne."</string>
   <string name="deep_clean_tips_residual_content">"Pozostałości po pobranych aplikacjach, które zostały odinstalowane."</string>
   <string name="deep_clean_tips_residual_title">Pozostałości</string>
   <string name="deep_clean_title_cache">Pliki cache</string>
@@ -1466,6 +1461,7 @@ Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="memory_apps_usage">Aplikacje (dane aplikacji i multimedia)</string>
   <string name="memory_available">Wolne</string>
   <string name="memory_available_read_only">Dostępne (tylko do odczytu)</string>
+  <string name="memory_available_suffix">Dostępne</string>
   <string name="memory_calculating_size">Obliczanie...</string>
   <string name="memory_clear_cache_message">Spowoduje to wyczyszczenie danych z pamięci podręcznej wszystkich aplikacji.</string>
   <string name="memory_clear_cache_title">Wyczyścić dane z pamięci podręcznej?</string>
@@ -1476,13 +1472,21 @@ Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="memory_media_usage">Multimedia</string>
   <string name="memory_music_usage">Dźwięk (muzyka, dzwonki, podcasty itp.)</string>
   <string name="memory_size">Całkowita pojemność</string>
+  <string name="memory_suffix">GB</string>
   <string name="memory_title">Dostępne: %1$s\u0009\u0009Razem: %2$s</string>
+  <string name="memory_used_suffix">Użyte</string>
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_edit">Edytuj</string>
   <string name="menu_item_about_content">Panel Sterowania: %s</string>
   <string name="menu_item_about_summary">Wersja：%s</string>
   <string name="menu_item_about_title">Informacje o aplikacji</string>
+  <string name="menu_item_notification_antispam_text_avail">Spam</string>
+  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_garbage_text">%s</string>
+  <string name="menu_item_notification_garbage_text_error">Błąd</string>
+  <string name="menu_item_notification_power_text">Zasilanie</string>
+  <string name="menu_item_notification_title">Pokaż na pasku powiadomień</string>
   <string name="menu_item_settings_title">Ustawienia</string>
   <string name="menu_item_shortcut">Utwórz skrót</string>
   <string name="menu_item_shortcut_summary">Dodaj na pulpit wybrane moduły Panelu Sterowania</string>
@@ -1581,7 +1585,13 @@ spróbuj:
   <string name="msd_install_status_undo">Zainstaluj sterownik</string>
   <string name="msd_install_succeed">Sterownik zainstalowany</string>
   <string name="msd_install_windows_xp_step_2_1">"1. Jeśli pojawi się Kreator dodawania sprzętu, postępuj zgodnie z podanymi krokami"</string>
-  <string name="msg_wlan_signal_found">Found WLAN AP %s, would you like to use this WLAN network? Using this network will interrupt the data service partially.</string>
+  <string name="msg_cleanup_db_update_checking">Sprawdzanie...</string>
+  <string name="msg_cleanup_db_update_time_unknown">Nieznany czas aktualizacji</string>
+  <string name="msg_update_error_code_already_running">Aktualizacja</string>
+  <string name="msg_update_error_code_network_error">Network error,try later!</string>
+  <string name="msg_update_error_code_no_newer_db">Newest no need to update</string>
+  <string name="msg_update_error_code_success">Update success</string>
+  <string name="msg_update_error_code_unknown_error">Unknown error,try later!</string>
   <string name="mtp_ptp_mode_summary">Funkcja MTP lub PTP jest aktywna</string>
   <string name="multi_sim_settings_summary">Zmień ustawienia dla wielu SIM do połączeń głosowych, danych i SMS</string>
   <string name="multi_sim_settings_title">Ustawienia Multi SIM</string>
@@ -1614,6 +1624,7 @@ spróbuj:
   <string name="no_device_admins">Brak dostępnych administratorów urządzenia</string>
   <string name="no_media_button_receiver">Brak</string>
   <string name="no_nearby_wifi">Nie wykryto pobliskich sieci Wi-Fi</string>
+  <string name="no_notification_listeners">No notification listeners are installed.</string>
   <string name="no_running_services">Brak uruchomionych usług.</string>
   <string name="no_services">Nieaktywne</string>
   <string name="noise_suppression">Redukcja szumów</string>
@@ -1624,7 +1635,8 @@ spróbuj:
   <string name="notification_pulse_title">Powiadomienie LED</string>
   <string name="notification_sound_dialog_title">Wybierz dzwonek powiadomienia</string>
   <string name="notification_sound_title">Powiadomienie</string>
-  <string name="notification_vibrate_abbreviation">Powiadomienie</string>
+  <string name="notification_title_firewall_blocked">Blokowane</string>
+  <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
   <string name="notification_volume_title">Powiadomienie</string>
   <string name="nsd_quick_toggle_summary">Zezwól aplikacjom z innych urządzeń wykrywać aplikacje na tym urządzeniu</string>
   <string name="nsd_quick_toggle_title">Wykrywanie usług sieciowych</string>
@@ -2063,6 +2075,9 @@ spróbuj:
   <string name="pref_button_light">Podświetlenie przycisków</string>
   <string name="pref_button_light_summary">Podświetlenie przycisków nawigacyjnych pod ekranem telefonu.</string>
   <string name="pref_operational_key">Przyciski nawigacyjne</string>
+  <string name="pref_summary_auto_update_cleanup_db">Aktualizacja o：%s</string>
+  <string name="pref_title_auto_update_cleanup_db">Autom. aktualizacja</string>
+  <string name="pref_title_manual_check_cleanup_db_update">Aktualizuj teraz</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
   <string name="preference_change_password_title">Zmień hasło</string>
@@ -2130,6 +2145,7 @@ spróbuj:
   <string name="proxy_settings_title">Ustawienia serwera proxy</string>
   <string name="proxy_warning_limited_support">Serwer proxy HTTP jest używany przez przeglądarkę, ale inne aplikacje mogą go nie używać.</string>
   <string name="quick_clean">Wyczyść</string>
+  <string name="quick_cleanup">Wyczyść</string>
   <string name="quick_launch_assign_application">Przypisz aplikację</string>
   <string name="quick_launch_clear_cancel_button">Anuluj</string>
   <string name="quick_launch_clear_dialog_message">Skrót do %1$s (%2$s) zostanie usunięty.</string>
@@ -2285,6 +2301,8 @@ spróbuj:
   <string name="save_button">Zapisz</string>
   <string name="scan_done">Skanowanie ukończone</string>
   <string name="scan_list_label">Wyniki skanowania:</string>
+  <string name="scanning_prefix">Skanowanie: %s</string>
+  <string name="scanning_start_hints">Przygotowywanie...</string>
   <string name="scanning_virus">Skanowanie...</string>
   <string name="score">Wynik</string>
   <string name="score_good_state">Telefon jest zoptymalizowany</string>
