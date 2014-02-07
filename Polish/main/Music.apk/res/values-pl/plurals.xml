@@ -93,6 +93,6 @@
         <item quantity="one">Pozostał %d dzień</item>
     </plurals>
     <plurals name="Nvip_expired_remind">
-        <item quantity="other">Abonament na Muzykę Online niedługo wygaśnie (pozostało %d dni)</item>
+        <item quantity="other">"Pozostało %d dni do końca abonamentu na pobieranie Muzyki w jakości CD"</item>
     </plurals>
 </resources>

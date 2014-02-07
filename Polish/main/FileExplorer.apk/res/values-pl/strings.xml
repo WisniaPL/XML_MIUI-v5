@@ -235,7 +235,7 @@ niepotrzebne pliki"</string>
     <string name="send_to_midrive_failed_message">MiDrive nie wspiera tego typu treści.</string>
     <string name="server_control_advanced_settings">Zaawansowane</string>
     <string name="server_control_charset">Kodowanie transferu</string>
-    <string name="server_control_settings">Ustawienia serwera</string>
+    <string name="server_control_settings">Opcje</string>
     <string name="share_link_failed">Nie udało się udostępnić linku. Spróbuj ponownie!</string>
     <string name="show_message">Plik nie może zostać otwarty bez pobierania</string>
     <string name="sign_description">Logowanie...</string>

@@ -141,7 +141,7 @@
   <string name="crop_label">Przytnij zdjęcie</string>
   <string name="crop_save_text">Przytnij</string>
   <string name="crop_tooltip">Przesuń znaczniki by uciąć zdjęcie</string>
-  <string name="crossprocess">Przeplatanie</string>
+  <string name="crossprocess">Przeplot</string>
   <string name="cut">Wycinanie</string>
   <string name="damaged_file">Plik uszkodzony</string>
   <string name="dcim_100media">Taobao TMall</string>
@@ -234,7 +234,7 @@
   <string name="group_by_time">Czas</string>
   <string name="has_invalid_recipient">Nieprawidłowi odbiorcy: %1$s</string>
   <string name="height">Wysokość</string>
-  <string name="highlight">Prześwietlenie</string>
+  <string name="highlight">Jasność</string>
   <string name="home_my_captured_items">wszystkich zdjęć</string>
   <string name="how_many_pics">Zdjęcia: %d</string>
   <string name="how_many_sub_folders">Katalogi: %d</string>
@@ -449,7 +449,7 @@
   <string name="sharer_status_refused">Odrzucony</string>
   <string name="sharer_status_waiting">Oczekiwanie</string>
   <string name="sharer_status_waitting">waiting</string>
-  <string name="sharpen">Wyostrzenie</string>
+  <string name="sharpen">Ostrość</string>
   <string name="show_all">Zdjęcia i filmy</string>
   <string name="show_hidden_album">Pokaż ukryte albumy</string>
   <string name="show_hidden_albums">Pokaż ukryte albumy</string>

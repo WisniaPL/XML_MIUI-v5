@@ -200,7 +200,7 @@
 d MMMM yyyy"</string>
     <string name="status_bar_date_formatter">%2$s</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Ustaw metodę wprowadzania</string>
-    <string name="status_bar_icon_style">Układ paska statusu</string>
+    <string name="status_bar_icon_style">Układ ikon</string>
     <string name="status_bar_network_flow">" Dziś: %1$s    |    Pozostało: %2$s/%3$s"</string>
     <string name="status_bar_network_flow_exceed">" Dziś: %1$s  |   Pozostało: %2$s/%3$s"</string>
     <string name="status_bar_network_flow_today">" Dziś: %1$s "</string>

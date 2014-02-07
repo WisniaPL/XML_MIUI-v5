@@ -2915,8 +2915,8 @@ zakończone"</string>
   <string name="virus_scan_list_loading_hits">Skanowanie...</string>
   <string name="virus_scan_monitoring">Monitor instalacji</string>
   <string name="virus_scan_never_scaned">Zalecane skanowanie</string>
-  <string name="virus_scan_not_found_risk">not found risk</string>
-  <string name="virus_scan_not_found_virus">not found virus</string>
+  <string name="virus_scan_not_found_risk">Nie wykryto zagrożeń</string>
+  <string name="virus_scan_not_found_virus">Nie wykryto wirusów</string>
   <string name="virus_scan_others_title">Powiązane ustawienia</string>
   <string name="virus_scan_package_label_unknown">nieznane</string>
   <string name="virus_scan_parpare">Uruchamianie...</string>

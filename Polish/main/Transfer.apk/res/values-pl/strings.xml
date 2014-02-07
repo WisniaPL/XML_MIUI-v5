@@ -199,7 +199,7 @@
   <string name="trasfer_list">Lista transferów</string>
   <string name="unselect_all">Odznacz wszystko</string>
   <string name="upload_complete">Ukończono: %1$s | %2$s</string>
-  <string name="upload_failed_msg">Failed to upload file!</string>
+  <string name="upload_failed_msg">Niepowodzenie!</string>
   <string name="use_start">Rozpocznij</string>
   <string name="video">Video</string>
   <string name="voice_assist_match">Szybkie dopasowanie</string>
@@ -208,7 +208,7 @@
   <string name="wait_for_upload_to_download">Waiting for download to complete, download will be automatically downloaded, please wait.</string>
   <string name="wait_for_upload_to_restore">Waiting for restore to upload to MiDrive, please wait</string>
   <string name="wait_login">Waiting for login</string>
-  <string name="wait_net">Waiting for network</string>
+  <string name="wait_net">Oczekiwanie na sieć</string>
   <string name="wait_sdcard">Waiting for SD card</string>
   <string name="wait_wifi">Oczekiwanie na Wi-Fi</string>
   <string name="wait_wifi_to_download">Wait for Wi-Fi to automatically download files</string>
@@ -216,7 +216,8 @@
   <string name="waiting_receive">Oczekiwanie na pliki</string>
   <string name="waitting">Oczekiwanie...</string>
   <string name="wanna_receive">Odbieraj</string>
-  <string name="welcome_tip1">Możesz szybko przesłać pliki wykorzystując jedynie połączenie bezprzewodowe między telefonami!</string>
-  <string name="welcome_tip2">Wysyłaj pliki, muzykę, kontakty itp.</string>
+  <string name="welcome_tip1">"Możesz szybko przesłać pliki wykorzystując
+połączenie bezprzewodowe między telefonami!"</string>
+  <string name="welcome_tip2">"Wysyłaj pliki, muzykę, kontakty itp."</string>
   <string name="you_can">Mogę</string>
 </resources>
