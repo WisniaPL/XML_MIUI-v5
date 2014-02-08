@@ -170,14 +170,14 @@
     <string name="screenshot_saving_title">Zapisywanie zrzutu…</string>
     <string name="settings_advanced">Dodatkowe ustawienia</string>
     <string name="settings_all_app_display_loading">Wczytywanie listy aplikacji…</string>
-    <string name="settings_basic_settings">Ustawienia</string>
+    <string name="settings_basic_settings">Powiadomienia na pasku statusu</string>
     <string name="settings_custom_carrier">Własna nazwa operatora</string>
     <string name="settings_custom_notification">Powiadomienia aplikacji</string>
     <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
     <string name="settings_no_carrier">Bez nazwy</string>
     <string name="settings_notification_bar">Pasek powiadomień</string>
     <string name="settings_show_carrier">Pokaż nazwę operatora</string>
-    <string name="settings_show_carrier_summary">Tylko na ekranie blokady</string>
+    <string name="settings_show_carrier_summary">Gdy wyłączone nazwa operatora pokazywana jest na ekranie blokady</string>
     <string name="settings_show_flow_info">Pokaż użycie danych</string>
     <string name="settings_show_network_speed">Pokaż prędkość transmisji</string>
     <string name="settings_show_notificationBar_notification">Pokaż powiadomienia</string>

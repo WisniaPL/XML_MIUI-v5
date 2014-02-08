@@ -613,7 +613,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="choose_timezone">Wybierz strefę czasową</string>
   <string name="clean_confirm_title">Usunąć zaznaczone pliki?</string>
   <string name="cleaner">Czyszczenie</string>
-  <string name="cleaner_support_hints">Powered by Clean Master</string>
+  <string name="cleaner_support_hints" />
   <string name="cleanning_prefix">Czyszczenie: %s</string>
   <string name="clear_activities">Wyczyść domyślne</string>
   <string name="clear_activities_summary">Pozwól tej aplikacji na wykonywanie akcji domyślnych</string>
@@ -1588,10 +1588,11 @@ spróbuj:
   <string name="msg_cleanup_db_update_checking">Sprawdzanie...</string>
   <string name="msg_cleanup_db_update_time_unknown">Nieznany czas aktualizacji</string>
   <string name="msg_update_error_code_already_running">Aktualizacja</string>
-  <string name="msg_update_error_code_network_error">Network error,try later!</string>
-  <string name="msg_update_error_code_no_newer_db">Newest no need to update</string>
-  <string name="msg_update_error_code_success">Update success</string>
+  <string name="msg_update_error_code_network_error">Błąd sieci spróbuj ponownie później!</string>
+  <string name="msg_update_error_code_no_newer_db">Zainstalowana jest najnowsza baza</string>
+  <string name="msg_update_error_code_success">Pomyślnie zaktualizowano</string>
   <string name="msg_update_error_code_unknown_error">Unknown error,try later!</string>
+  <string name="msg_wlan_signal_found">Found WLAN AP %s, would you like to use this WLAN network? Using this network will interrupt the data service partially.</string>
   <string name="mtp_ptp_mode_summary">Funkcja MTP lub PTP jest aktywna</string>
   <string name="multi_sim_settings_summary">Zmień ustawienia dla wielu SIM do połączeń głosowych, danych i SMS</string>
   <string name="multi_sim_settings_title">Ustawienia Multi SIM</string>
@@ -2074,9 +2075,10 @@ spróbuj:
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Podświetlenie przycisków</string>
   <string name="pref_button_light_summary">Podświetlenie przycisków nawigacyjnych pod ekranem telefonu.</string>
+  <string name="pref_category_title_auto_update_cleanup_db">Aktualizacje bazy danych</string>
   <string name="pref_operational_key">Przyciski nawigacyjne</string>
-  <string name="pref_summary_auto_update_cleanup_db">Aktualizacja o：%s</string>
-  <string name="pref_title_auto_update_cleanup_db">Autom. aktualizacja</string>
+  <string name="pref_summary_auto_update_cleanup_db">Aktualizacja: %s</string>
+  <string name="pref_title_auto_update_cleanup_db">Automatyczna aktualizacja</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualizuj teraz</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
