@@ -1160,6 +1160,10 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
   <string name="yellowpage_navigation_menu_order">"_______________"</string>
+  <string name="yellowpage_navigation_network_location_enable">Enable now</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Enable later</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of services.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Włącz usługi lokalizacji</string>
   <string name="yellowpage_navigation_no_content">No search result</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_hint">Search</string>
