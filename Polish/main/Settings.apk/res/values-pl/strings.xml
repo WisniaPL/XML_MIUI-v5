@@ -2906,6 +2906,7 @@ zakończone"</string>
   <string name="virus_scan_app_uninstall">Grupowa deinstalacja (%d)</string>
   <string name="virus_scan_app_waiting">Oczekiwanie</string>
   <string name="virus_scan_can_use_wifi">Użyj definicji online</string>
+  <string name="virus_scan_clean_dialog_message">Czyszczenie...</string>
   <string name="virus_scan_clear">Wyczyść</string>
   <string name="virus_scan_dangerous">Zagrożenie</string>
   <string name="virus_scan_description">"Ta aplikacja stanowi poważne zagrożenie dla bezpieczeństwa telefonu."</string>

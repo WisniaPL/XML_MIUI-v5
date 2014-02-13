@@ -46,4 +46,10 @@
         <item>Grad</item>
         <item>Burza z gradem</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Układ ikon</item>
+        <item>Widżety</item>
+        <item>Tapeta</item>
+        <item>Efekty</item>
+    </string-array>
 </resources>

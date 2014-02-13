@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="send_item">
-        <item>Text message</item>
-        <item>Email</item>
+        <item>SMS</item>
+        <item>E-mail</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:</item>
-        <item>UV index:　</item>
-        <item>Clothing:</item>
-        <item>Comfort:</item>
+        <item>Wiatr:</item>
+        <item>UV:　</item>
+        <item>Ubrania:</item>
+        <item>Komfortowo:</item>
         <item>Car wash index:</item>
         <item>Drying index:</item>
-        <item>Morning exercise:</item>
-        <item>Leisure:</item>
+        <item>Ćwiczenia:</item>
+        <item>Odpoczynek:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snow storm</item>
-        <item>Patches of snow fall</item>
-        <item>Heavy snow fall</item>
-        <item>Snow fall</item>
-        <item>Light snow fall</item>
-        <item>Strong sand storm</item>
-        <item>Sand storm</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
+        <item>Bezchmurnie</item>
+        <item>Pochmurnie</item>
+        <item>Mgiełka</item>
+        <item>Mglisto</item>
+        <item>Burza</item>
+        <item>Burza</item>
+        <item>Duże opady</item>
+        <item>Burze z piorunami</item>
+        <item>Ulewy</item>
+        <item>Ciężkie ulewy</item>
+        <item>Deszcze</item>
+        <item>Mżawka</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Burza śnieżna</item>
+        <item>Płatki śniegu</item>
+        <item>Duże opady śniegu</item>
+        <item>Opady śniegu</item>
+        <item>Lekki śnieg</item>
+        <item>Silna burza piaskowa</item>
+        <item>Burza piaskowa</item>
+        <item>Lekka burza piaskowa</item>
+        <item>Burza piaskowa</item>
+        <item>Grad</item>
+        <item>Pył</item>
+        <item>Mgła</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Unavailable</item>
