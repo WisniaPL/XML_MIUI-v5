@@ -94,7 +94,7 @@ Opuść na chwilę widok"</string>
   <string name="error_app_unsupported_hfr_720p">W 720p można wykorzystać do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Tylko kodek H264 może być wykorzystany jeśli HFR jest WŁ</string>
   <string name="error_app_unsupported_raw_wavelet">wavelet de-noise will not take effect when capturing raw pictures</string>
-  <string name="error_fail_to_start_audio_capture">Failed to start audio capture: Microphone may be in use by another application.</string>
+  <string name="error_fail_to_start_audio_capture">Nie można przechwycić dźwięku: mikrofon może być używany przez inną aplikację</string>
   <string name="exposure_time">Czas ekspozycji</string>
  <string name="face_analyze_info">%1$s %2$s lat</string>
   <string name="face_analyze_info_female">Kobieta</string>
@@ -194,6 +194,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_focus_title_entry_off">Wył</string>
   <string name="pref_camera_auto_focus_title_entry_on">Wł</string>
+  <string name="pref_camera_auto_scene_title">Detekcja sceny</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralnie-ważony</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Matrycowy</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Punktowy</string>
@@ -275,7 +276,6 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_multilevel_entry_low">-1</string>
   <string name="pref_camera_multilevel_entry_lower">-2</string>
   <string name="pref_camera_multilevel_entry_lowest">-3</string>
-  <string name="pref_camera_multilevel_entry_middle">Domyślnie</string>
   <string name="pref_camera_multilevel_entry_normal">Domyślnie</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Jedna twarz</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dwie twarze</string>
@@ -294,6 +294,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_picturesize_entry_2880x1728">Pełny ekran 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x1800">Pełny ekran 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">Standardowy 4:3</string>
+  <string name="pref_camera_picturesize_entry_3264x1836">Pełny ekran 16:9</string>
   <string name="pref_camera_picturesize_entry_3264x1840">Pełny ekran 16:9</string>
   <string name="pref_camera_picturesize_entry_3264x2448">Standardowy 4:3</string>
   <string name="pref_camera_picturesize_entry_3600x2160">Pełny ekran 16:9</string>
@@ -338,6 +339,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_scenedetect_title">Autom. detekcja sceny</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
   <string name="pref_camera_scenemode_entry_backlight">Podświetlenie</string>
+  <string name="pref_camera_scenemode_entry_backlight_portrait">Portret (podśw)</string>
   <string name="pref_camera_scenemode_entry_beach">Plaża</string>
   <string name="pref_camera_scenemode_entry_fireworks">Fajerwerki</string>
   <string name="pref_camera_scenemode_entry_flowers">Kwiaty</string>

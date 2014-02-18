@@ -234,7 +234,7 @@ Spróbuj ponownie później"</string>
   <string name="other_settings">Pozostałe opcje</string>
   <string name="overwrite_confirm">Nadpisz</string>
   <string name="pay_service_guide_dowload">Jakość muzyki</string>
-  <string name="pay_service_guide_listen">Jakość muzyki przesyłanej</string>
+  <string name="pay_service_guide_listen">Jakość przesyłanej muzyki</string>
   <string name="pay_service_guide_new">Pobierz w wyższej jakości</string>
   <string name="payment_fail">Płatność nieudana</string>
   <string name="payment_success">Płatność zakończona</string>

@@ -131,6 +131,7 @@
   <string name="login_failed">Wpisanie się nieudane</string>
   <string name="login_instead_reg">Zaloguj używając numeru telefonu</string>
   <string name="login_notice">Wpisywanie...</string>
+  <string name="logout_failed">Wylogowanie nieudane</string>
   <string name="master_alert_notif_dspt" formatted="false">"W tym czasie dodano %s kontaktów, %s SMS, %s zdjęć, %s notatek. 
 
  W przypadku zgubienia telefonu, te dane zostaną bezpowrotnie stracone. Zalecane jest przywrócenie synchronizacji danych"</string>

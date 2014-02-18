@@ -87,6 +87,9 @@ Please log in again."</string>
   <string name="error_auth_summary">Account login error, please log in again.</string>
   <string name="error_auth_title">Login error</string>
   <string name="error_bankcard_verify_summary">Failed to verify card no.</string>
+  <string name="error_cert_date_summary">"Certificate date error. 
+Please check your local date and try again."</string>
+  <string name="error_cert_date_title">Certificate date error</string>
   <string name="error_common_summary">System error. Please try again later.</string>
   <string name="error_common_title">System error</string>
   <string name="error_expired_summary">Your order has expired</string>
@@ -314,12 +317,16 @@ SMS confirmation and click 'purchase complete', thank you!"</string>
   <string name="mili_center">MiKredyty</string>
   <string name="msg_denomination_type">MiKredyty</string>
   <string name="msg_error">Doładowanie nieudane</string>
+  <string name="msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
+  <string name="msg_order_hint_1_2">Automatically contact your service provider.</string>
   <string name="msg_picker_hint_1_1">1.</string>
   <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive:  MiCredit</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Carriers charge a ￥%1$s service fee per top-up</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maximum monthly top-up: ￥300</string>
+  <string name="msg_progress_hint_2_1">Your network provider has been contacted!</string>
+  <string name="msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="msg_send_no_net_error">"Failed to send message: couldn't connect to network provider."</string>
   <string name="msg_send_no_sim_error">Failed to send message: try reinserting your SIM card.</string>
   <string name="msg_send_send_fail_error">Failed to send message</string>
@@ -410,6 +417,7 @@ We will check again within two working days."</string>
   <string name="recharge_voucher_title">Karta MiKredyt</string>
   <string name="scan_prompt_number">Skanuj numer karty prepaid %1$s</string>
   <string name="scan_prompt_password">Skanuj %1$s hasło karty prepaid</string>
+  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="scan_prompt_voucher">Skanuj kod MiKredyt</string>
   <string name="security_setting">Bezpieczeństwo</string>
   <string name="summary_lockpattern">Wymagaj podania wzoru odblokowania aplikacji MiKredyty</string>
