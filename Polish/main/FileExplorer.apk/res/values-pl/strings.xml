@@ -70,7 +70,6 @@
     <string name="delete_failed">Usuwanie nieudane</string>
     <string name="delete_file">Usunąć plik?</string>
     <string name="delete_files">" Usunąć pliki: %1$d?"</string>
-    <string name="delete_files_and_folders">Usunąć plików: %1$d, katalogów: %2$d?</string>
     <string name="delete_folder">"Usunąć katalog?"</string>
     <string name="delete_folders">"Usunąć katalogi: %1$d?"</string>
     <string name="des_running_trans">W kolejce do przeniesienia jest wciąż %1$d plików</string>
@@ -271,8 +270,6 @@ niepotrzebne pliki"</string>
     <string name="trash_box_link">Przejdź do i.xiaomi.com by opróżnić kosz</string>
     <string name="trash_box_message1">Możesz usunąć niepotrzebne pliki by zwolnić miejsce</string>
     <string name="trash_box_message2">Możesz usunąć pliki lub opróżnić kosz by zwolnić miejsce</string>
-    <string name="ui_bar_txt_download_progress">%1$d plików do pobrania</string>
-    <string name="ui_bar_txt_upload_progress">%1$d plików do skopiowania</string>
     <string name="ui_filechange_btn_download">Pobierz pliki</string>
     <string name="ui_filechange_btn_upload">Skopiuj pliki</string>
     <string name="ui_main_menu_option_sign_in">Zaloguj</string>

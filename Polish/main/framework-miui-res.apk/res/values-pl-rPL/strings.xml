@@ -27,8 +27,8 @@
   <string name="days">"%d dni"</string>
   <string name="delete">Usuń</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
-  <string name="device_hongmi">Telefon Hongmi</string>
-  <string name="device_xiaomi">Telefon Xiaomi</string>
+  <string name="device_hongmi">Redmi</string>
+  <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Wielkanoc</string>
   <string name="emergency_call_string">Alarmowe</string>
@@ -198,10 +198,10 @@ Czujnik zasłonięty!"</string>
   <string name="select_all">Wszystko</string>
   <string name="send">Wyślij</string>
   <string name="send_sms_for_sync_notice">System wyśle aktywacyjną wiadomość SMS, kontynuować?</string>
-  <string name="send_sms_for_sync_title">Wyślij SMS aktywacyjny</string>
+  <string name="send_sms_for_sync_title">"Synchronizacja nie została aktywowana"</string>
   <string name="share">Udostępnij</string>
   <string name="short_pincode_error_msg">Wpisz 4–8 znaków</string>
-  <string name="short_pukcode_error_msg">Wpisz co najmniej 8 znaków</string>
+  <string name="short_pukcode_error_msg">Wpisz co najmniej 8 cyfr</string>
   <string name="shutdown_confirm_title">Wyłączyć telefon?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Aktualna karta SIM nie jest aktywna. Wymagany jest SMS by aktywować Usługi synchronizacji. Aktywować teraz?</string>
@@ -245,9 +245,9 @@ Czujnik zasłonięty!"</string>
   <string name="unlockscreen_recharge_completed">Naładowany</string>
   <string name="unlockscreen_recharging_message">Ładowanie %d%%</string>
   <string name="user_agreement1">"Aby zacząć korzystać z systemu i usług online dostarczanych przez Xiaomi zapoznaj się z: "</string>
-  <string name="user_agreement2">"Umowa użytkownika"</string>
+  <string name="user_agreement2">"Umowa Użytkownika"</string>
   <string name="user_agreement3">" i "</string>
-  <string name="user_agreement4">"Polityka prywatności"</string>
+  <string name="user_agreement4">"Polityka Prywatności"</string>
   <string name="user_agreement5">" Kliknięcie OK oznacza zgodę na powyższe warunki."</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
@@ -272,6 +272,7 @@ Czujnik zasłonięty!"</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yellow_page_module_sms_sent">Wiadomość tekstowa wysłana.</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"Nie można wysłać wiadomości w trybie chronionym."</string>
   <string name="yellow_page_sms_send_failed">Nie udało się wysłać wiadomości.</string>

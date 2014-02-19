@@ -11,8 +11,8 @@
   <string name="apply_lockscreen_paper_tips">Ekran blokady jest w użyciu, tapeta ekranu blokady może się nie zastosować.</string>
   <string name="apply_theme_no_select_message">Wybierz z modułów!</string>
   <string name="apply_theme_with_ringtones">Zastosuj motywy z dzwonkami</string>
-  <string name="backup_preference_title">Zapisz kopię obecnego motyw</string>
-  <string name="backup_theme_dialog_message">"Zapisać kopię obecnego motywu?"</string>
+  <string name="backup_preference_title">Zapisz kopię obecnego motywu</string>
+  <string name="backup_theme_dialog_message">"Utworzyć kopię obecnego motywu?"</string>
   <string name="backup_theme_dialog_ok">OK</string>
   <string name="backup_theme_name">Moja kopia</string>
   <string name="backup_theme_progress_message">Kopiowanie plików motywu...</string>
