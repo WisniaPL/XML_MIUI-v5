@@ -47,6 +47,7 @@
     <string name="cleanup_complete">Gotowe</string>
     <string name="cleanup_stopped">Oczyszczanie zakończone</string>
     <string name="close">Zamknij</string>
+    <string name="colon">": "</string>
     <string name="compress_fail">Pakowanie nieudane. Plik wynikowy już istnieje</string>
     <string name="compress_message">Pakowanie do:</string>
     <string name="compress_title">Pakowanie</string>

@@ -135,7 +135,7 @@
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">Uprawnienia ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Niedostępne w wersji Stabilnej MIUI</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s aplikacji ma pozwolenie ROOT</string>
+  <string name="HIPS_Perm_ROOT_Hint">Brak aplikacji z dostępem ROOT</string>
   <string name="HIPS_Perm_ROOT_Title">uzyskiwanie uprawnień ROOT</string>
   <string name="HIPS_Perm_RejectAll">Odmów wszystko</string>
   <string name="HIPS_Perm_SMS">SMS</string>

@@ -162,7 +162,6 @@
     <string name="screen_key_recent_apps">Ostatnio używane</string>
     <string name="screen_rotation_freeze_message">Obracanie ekranu zablokowane w trybie poziomym</string>
     <string name="screenshot_failed_text">"Nie udało się zapisać zrzutu ekranu. Nośnik może być w użyciu."</string>
-    <string name="screenshot_failed_title">"Nie udało się zapisać zrzutu ekranu."</string>
     <string name="screenshot_saved_text">Dotknij by zobaczyć zrzut ekranu.</string>
     <string name="screenshot_saved_title">Zrzut ekranu utworzony.</string>
     <string name="screenshot_saving_text">Zrzut ekranu zapisywany.</string>
@@ -225,8 +224,6 @@ d MMMM yyyy"</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi połączone</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_style_settings">Ustawienia powiadomień</string>
-    <string name="status_bar_time_format_12">h:mma</string>
-    <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_toggle_ac">Kontrola dostępu</string>
     <string name="status_bar_toggle_auto_brightness">Auto. jasność</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>

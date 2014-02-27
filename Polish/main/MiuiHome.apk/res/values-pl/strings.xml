@@ -2,6 +2,8 @@
 <resources>
   <string name="activity_not_found">"Aplikacja nie jest zainstalowana w telefonie"</string>
   <string name="application_name">MiHome</string>
+  <string name="apply_as_lock_wallpaper">Zastosuj</string>
+  <string name="apply_as_lock_wallpaper_message">Zastosować wybraną tapetę także na ekranie blokady?</string>
   <string name="aqi_quality_index_dangerous">Dangerous</string>
   <string name="aqi_quality_index_good">Good</string>
   <string name="aqi_quality_index_hazardous">Hazardous</string>
@@ -93,6 +95,8 @@
   <string name="install">Instaluj</string>
   <string name="invalid_contact_shortcut">Nieprawidłowy skrót kontaktu</string>
   <string name="loading_desktop">Ładowanie pulpitu...</string>
+  <string name="lock_screen_failed_message">Nie udało się zastosować</string>
+  <string name="lock_screen_success_message">Pomyślnie zastosowano</string>
   <string name="maml_component_customization_title">Ustawienia</string>
   <string name="menu_add">Dodaj skrót</string>
   <string name="menu_back_desktop">Pulpit</string>

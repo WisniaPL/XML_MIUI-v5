@@ -91,6 +91,7 @@ Gdy proces zostanie zakończony uruchom ponownie telefon."</string>
   <string name="my_update_feel">Moje odczucia</string>
   <string name="my_worst_update">Najgorsza aktualizacja</string>
   <string name="network_error">Nie udało się połączyć z siecią</string>
+  <string name="new_update_content_notification_shade"/>
   <string name="new_update_content_title">Znaleziono nową wersję</string>
   <string name="new_update_download_complete_body">Znaleziono nową wersję: %s</string>
   <string name="new_update_downloading_body">Pobieranie nowej wersji: %s</string>
