@@ -2,7 +2,6 @@
 <spnOverrides>
 	<spnOverride numeric="26001" spn="Plus"/>
 	<spnOverride numeric="26002" spn="T-Mobile"/>
-	<spnOverride numeric="26003" spn="Orange"/>
 	<spnOverride numeric="26006" spn="Play"/>
 	<spnOverride numeric="26017" spn="Aero2"/>
 </spnOverrides>
