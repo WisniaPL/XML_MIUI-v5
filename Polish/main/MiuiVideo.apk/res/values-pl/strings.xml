@@ -57,7 +57,7 @@
   <string name="clear_offline">Wyczyść pamięć podręczną plików lokalnych</string>
   <string name="clear_offline_summary">Czyści pamięć podręczną plików wideo</string>
   <string name="clear_playhistory">Wyczyść historię odtwarzania</string>
-  <string name="clear_playhistory_tip">Hostoria oglądanych wideo zostanie usunięta.</string>
+  <string name="clear_playhistory_tip">Historia oglądanych wideo zostanie usunięta.</string>
   <string name="clearplayhistory">Wyczyść historię</string>
   <string name="comment">Komentarze</string>
   <string name="comment_can_input_prefix"/>

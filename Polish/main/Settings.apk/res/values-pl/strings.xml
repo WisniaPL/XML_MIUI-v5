@@ -203,14 +203,14 @@ Czy włączyć funkcję?"</string>
   <string name="app_name_label">Aplikacja</string>
   <string name="app_not_found_dlg_text">Aplikacji nie znaleziono na liście zainstalowanych.</string>
   <string name="app_not_found_dlg_title"/>
-  <string name="app_not_supported_in_limited">This app is not supported in restricted profiles</string>
+  <string name="app_not_supported_in_limited">Ta aplikacja nie jest obsługiwana w profilach z ograniczeniami</string>
   <string name="app_notifications_switch_label">Pokaż powiadomienia</string>
-  <string name="app_ops_never_used">(Never used)</string>
-  <string name="app_ops_running">Uruchomione</string>
-  <string name="app_ops_settings">App ops</string>
+  <string name="app_ops_never_used">(Nieużywana)</string>
+  <string name="app_ops_running">Trwa</string>
+  <string name="app_ops_settings">Działania aplikacji</string>
   <string name="app_process_limit_title">Limit procesów w tle</string>
   <string name="app_restrictions_custom_label">Ustaw ograniczenia aplikacji</string>
-  <string name="app_sees_restricted_accounts">Aplikacja może mieć dostęp do Twoich kont</string>
+  <string name="app_sees_restricted_accounts">Ta aplikacja może uzyskać dostęp do Twoich kont</string>
   <string name="app_special_disable_dlg_text">Jeśli wyłączysz wbudowaną aplikację, pozostałe programy mogą działać nieprawidłowo. Zostaną też usunięte Twoje dane.</string>
   <string name="app_special_disable_dlg_title">Usunąć dane i wyłączyć aplikację?</string>
   <string name="app_uninstall_residual">Usunąć pozostałości po odinstalowanych aplikacjach?</string>
@@ -353,7 +353,7 @@ Czy włączyć funkcję?"</string>
   <string name="battery_stats_wake_lock_label">Aktywność</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_title">Stan baterii</string>
-  <string name="battery_sugg_apps_gps">Włączaj i wyłączaj GPS ręcznie, aby kontrolować jego użycie w aplikacjach.</string>
+  <string name="battery_sugg_apps_gps">Wybierz tryb oszczędzania baterii</string>
   <string name="battery_sugg_apps_info">Zatrzymaj lub odinstaluj aplikację.</string>
   <string name="battery_sugg_apps_settings">Aplikacja może oferować ustawienia pozwalające zmniejszyć użycie baterii.</string>
   <string name="battery_sugg_bluetooth_basic">Wyłącz moduł Bluetooth, gdy nie jest używany.</string>
@@ -400,7 +400,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_device_context_disconnect">Rozłącz</string>
   <string name="bluetooth_device_context_disconnect_unpair">Rozłącz i anuluj parowanie</string>
   <string name="bluetooth_device_context_pair_connect">Sparuj i połącz</string>
-  <string name="bluetooth_device_context_unpair">Rozłącz sparowane urządzenia</string>
+  <string name="bluetooth_device_context_unpair">Rozłącz parę</string>
   <string name="bluetooth_device_details">Ustawienia urządzenia</string>
   <string name="bluetooth_device_name">Nazwa urządzenia</string>
   <string name="bluetooth_device_searchable">Urządzenie widoczne</string>
@@ -453,10 +453,10 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_is_discoverable_always">Widoczne dla wszystkich urządzeń Bluetooth</string>
   <string name="bluetooth_lock_voice_dialing">Zablokuj wybieranie głosowe</string>
   <string name="bluetooth_lock_voice_dialing_summary">Zapobiegaj używaniu wybierania Bluetooth, gdy ekran jest zablokowany</string>
-  <string name="bluetooth_map_connection_permission_request">Map connection request</string>
-  <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
-  <string name="bluetooth_mas_remember_choice">"Nie pytaj ponownie"</string>
-  <string name="bluetooth_mas_request">Message Access request</string>
+  <string name="bluetooth_map_acceptance_dialog_text">%1$s chce uzyskać dostęp do Twoich wiadomości. Zezwolić na dostęp?</string>
+  <string name="bluetooth_map_profile_summary_connected">Połączono z mapą</string>
+  <string name="bluetooth_map_profile_summary_use_for">Używaj dla mapy</string>
+  <string name="bluetooth_map_request">Żądanie dostępu do wiadomości</string>
   <string name="bluetooth_menu_advanced">Zaawansowane</string>
   <string name="bluetooth_name_not_set">Nie ustawiono nazwy, wykorzystywana jest nazwa konta</string>
   <string name="bluetooth_no_devices_found">Brak urządzeń Bluetooth w pobliżu</string>
@@ -465,7 +465,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_notif_message">Dotknij, by sparować z %1$s.</string>
   <string name="bluetooth_notif_ticker">Żądanie parowania Bluetooth</string>
   <string name="bluetooth_notif_title">Żądanie parowania</string>
-  <string name="bluetooth_on_time">Wi-Fi na czas</string>
+  <string name="bluetooth_on_time">Czas z wł. Wi-Fi</string>
   <string name="bluetooth_only_visible_to_paired_devices">Widoczne tylko dla urządzeń sparowanych</string>
   <string name="bluetooth_opp_profile_summary_connected">Połączono z serwerem transferu plików</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Brak połączenia z serwerem transferu plików</string>
@@ -482,17 +482,16 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_pan_profile_summary_use_for">Użyj na potrzeby dostępu do internetu</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Połączone w celu dostępu do internetu</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s chce uzyskać dostęp do Twoich kontaktów i historii połączeń. Zezwolić %2$s na dostęp?</string>
-  <string name="bluetooth_pb_remember_choice">"Nie pytaj ponownie"</string>
-  <string name="bluetooth_pbap_connection_permission_request">Prośba o pozwolenie na włączenie modułu Bluetooth</string>
-  <string name="bluetooth_permission_request">Prośba o uprawnienia Bluetooth</string>
-  <string name="bluetooth_phonebook_request">Żądanie dotyczące książki telefonicznej</string>
+  <string name="bluetooth_pb_remember_choice">Nie pytaj ponownie</string>
+  <string name="bluetooth_permission_request">Prośba o pozwolenie na włączenie modułu Bluetooth</string>
+  <string name="bluetooth_phonebook_request">Żądanie dostępu do książki telefonicznej</string>
   <string name="bluetooth_pin_values_hint">Zazwyczaj 0000 lub 1234</string>
   <string name="bluetooth_preference_device_settings">Ustawienia urządzenia</string>
   <string name="bluetooth_preference_found_devices">Dostępne urządzenia</string>
   <string name="bluetooth_preference_paired_devices">Powiązane urządzenia</string>
   <string name="bluetooth_preference_scan_title">Wyszukaj urządzenia</string>
   <string name="bluetooth_profile_a2dp">Dźwięk multimediów</string>
-  <string name="bluetooth_profile_details">Ustawienia profilów</string>
+  <string name="bluetooth_profile_details">Ustawienia profilu</string>
   <string name="bluetooth_profile_headset">Dźwięk telefonu</string>
   <string name="bluetooth_profile_hid">Urządzenie wejściowe</string>
   <string name="bluetooth_profile_name">"MIUI - %1$s"</string>
@@ -664,9 +663,9 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="copyright_title">Prawa autorskie</string>
   <string name="cp_settings">Panel sterowania</string>
   <string name="create">Utwórz</string>
-  <string name="credential_storage_type">Rodzaj magazynu danych</string>
-  <string name="credential_storage_type_hardware">Sprzętowy</string>
-  <string name="credential_storage_type_software">Programowy</string>
+  <string name="credential_storage_type">Typ pamięci</string>
+  <string name="credential_storage_type_hardware">Wspomagana sprzętowo</string>
+  <string name="credential_storage_type_software">Tylko programowa</string>
   <string name="credentials_configure_lock_screen_hint">Aby korzystać z magazynu danych logowania, musisz ustawić kod PIN lub hasło blokady ekranu.</string>
   <string name="credentials_enabled">Magazyn danych logowania jest włączony.</string>
   <string name="credentials_erased">Wyczyszczono magazyn danych logowania.</string>
@@ -1063,7 +1062,7 @@ w tym:
   <string name="external_data_size_label">Dane na karcie SD</string>
   <string name="factory_reset_summary">"Możesz wymazać swoje osobiste dane przez format telefonu, lub wybrać usuwanie zainstalowanych aplikacji i format pamięci USB by przywrócić ustawienia fabryczne"</string>
   <string name="failed_to_open_app_settings_toast">Nie udało się otworzyć ustawień aplikacji %1$s</string>
-  <string name="fcc_equipment_id">ID Sprzętu</string>
+  <string name="fcc_equipment_id">Identyfikator sprzętu</string>
   <string name="filter">Filtr</string>
   <string name="filter_apps_all">Wszystkie</string>
   <string name="filter_apps_cached">W pamięci</string>
@@ -1162,19 +1161,19 @@ w tym:
   <string name="fw_whitelist">Exceptions</string>
   <string name="fw_whitelist_hint">Calls and messages will not be blocked by default</string>
   <string name="gadget_bluetooth">Bluetooth</string>
-  <string name="gadget_brightness_state_auto">auto</string>
-  <string name="gadget_brightness_state_full">full</string>
-  <string name="gadget_brightness_state_half">half</string>
-  <string name="gadget_brightness_state_off">off</string>
+  <string name="gadget_brightness_state_auto">automatyczna</string>
+  <string name="gadget_brightness_state_full">pełna</string>
+  <string name="gadget_brightness_state_half">do połowy</string>
+  <string name="gadget_brightness_state_off">wyłączona</string>
   <string name="gadget_brightness_template">Jasność %1$s</string>
   <string name="gadget_gps">GPS</string>
   <string name="gadget_picker_title">Wybierz gadżet</string>
-  <string name="gadget_state_off">off</string>
-  <string name="gadget_state_on">on</string>
+  <string name="gadget_state_off">wył.</string>
+  <string name="gadget_state_on">wł.</string>
   <string name="gadget_state_template">%1$s %2$s</string>
-  <string name="gadget_state_turning_off">turning off</string>
-  <string name="gadget_state_turning_on">turning on</string>
-  <string name="gadget_sync">Sync</string>
+  <string name="gadget_state_turning_off">wyłączanie</string>
+  <string name="gadget_state_turning_on">włączanie</string>
+  <string name="gadget_sync">Synchronizacja</string>
   <string name="gadget_title">Zarządzanie energią</string>
   <string name="gadget_toggle_bluetooth">Aktualizowanie ustawień Bluetooth</string>
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
@@ -1381,7 +1380,7 @@ w tym:
   <string name="lockpassword_confirm_your_password_header">Potwierdź hasło</string>
   <string name="lockpassword_confirm_your_pattern_header">Potwierdź wzór</string>
   <string name="lockpassword_confirm_your_pin_header">Potwierdź kod PIN</string>
-  <string name="lockpassword_continue_label">Kontynuuj</string>
+  <string name="lockpassword_continue_label">Dalej</string>
   <string name="lockpassword_illegal_character">Hasło zawiera niedozwolony znak.</string>
   <string name="lockpassword_ok_label">OK</string>
   <string name="lockpassword_password_recently_used">Administrator urządzenia nie zezwala na ustawianie niedawno używanego hasła.</string>
@@ -1396,28 +1395,26 @@ w tym:
   <string name="lockpassword_pin_recently_used">Administrator urządzenia nie zezwala na ustawianie niedawno używanego kodu PIN.</string>
   <string name="lockpassword_pin_set_toast">Kod PIN został ustawiony</string>
   <string name="lockpassword_pin_too_long">Kod PIN musi mieć mniej cyfr niż %d.</string>
-  <string name="lockpassword_pin_too_short">PIN musi mieć co najmniej %d cyfr</string>
-  <string name="lockpassword_press_continue">Gdy skończysz, wybierz Kontynuuj</string>
+  <string name="lockpassword_pin_too_short">PIN musi mieć co najmniej %d cyfr(y)</string>
+  <string name="lockpassword_press_continue">Gdy skończysz, wybierz Dalej</string>
   <string name="lockpattern_change_lock_pattern_label">Zmień wzór odblokowania</string>
   <string name="lockpattern_change_lock_pin_label">Zmień kod PIN odblokowania</string>
   <string name="lockpattern_confirm_button_text">Potwierdź</string>
   <string name="lockpattern_continue_button_text">Dalej</string>
-  <string name="lockpattern_need_to_confirm">Narysuj wzór ponownie, aby potwierdzić:</string>
+  <string name="lockpattern_need_to_confirm">Narysuj wzór ponownie, by potwierdzić</string>
   <string name="lockpattern_need_to_unlock">Potwierdź zapisany wzór</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Spróbuj ponownie:</string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Nowy wzór odblokowania:</string>
-  <string name="lockpattern_pattern_entered_header">Wzór został nagrany.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Połącz co najmniej %d kropki. Spróbuj jeszcze raz:</string>
-  <string name="lockpattern_recording_inprogress">Puść palec, gdy gotowe.</string>
+  <string name="lockpattern_pattern_confirmed_header">Nowy wzór odblokowania</string>
+  <string name="lockpattern_pattern_entered_header">Wzór zapisany</string>
+  <string name="lockpattern_recording_incorrect_too_short">Połącz kropki (co najmniej %d). Spróbuj ponownie.</string>
+  <string name="lockpattern_recording_inprogress">Odsuń palec, gdy skończysz</string>
   <string name="lockpattern_recording_intro_footer">Naciśnij Menu, aby uzyskać pomoc.</string>
   <string name="lockpattern_recording_intro_header">Narysuj wzór odblokowania</string>
   <string name="lockpattern_restart_button_text">Narysuj ponownie</string>
   <string name="lockpattern_retry_button_text">Ponów próbę</string>
   <string name="lockpattern_settings_change_lock_pattern">Zmień wzór odblokowania</string>
   <string name="lockpattern_settings_choose_lock_pattern">Ustaw wzór odblokowania</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Natychmiastowe blokowanie</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Blokada przyciskiem zasilania</string>
   <string name="lockpattern_settings_enable_summary">Trzeba narysować wzór, aby odblokować ekran</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Wibracje przy dotknięciu</string>
   <string name="lockpattern_settings_enable_title">Wymagaj wzoru</string>
@@ -1452,8 +1449,8 @@ w tym:
   <string name="master_clear_confirm_title">Zresetować?</string>
   <string name="master_clear_desc">Powrót do ustawień fabrycznych spowoduje wymazanie wszystkich danych z pamięci wewnętrznej telefonu, w tym:
 
-"&lt;li&gt;Konto Googlet&lt;/li&gt;"
-"&lt;li&gt;Ustawienia systemu i aplikacji&lt;/li&gt;"
+"&lt;li&gt;Dane konta Google&lt;/li&gt;"
+"&lt;li&gt;Dane i ustawienia systemu oraz aplikacji&lt;/li&gt;"
 "&lt;li&gt;Pobrane aplikacje&lt;/li&gt;</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Muzyka&lt;/li&gt;"
 "&lt;li&gt;Zdjęcia&lt;/li&gt;"
@@ -1572,10 +1569,10 @@ Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="mms_log_tab_title">Rejestr SMS/MMS</string>
   <string name="mms_vibrate_abbreviation">SMS/MMS</string>
   <string name="mobile_connect_to_internet">Połącz się z internetem</string>
-  <string name="mobile_insert_sim_card">Włóż kartę SIM i uruchom ponownie</string>
-  <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
-  <string name="mobile_unknown_sim_operator">Nieznany operator SIM</string>
-  <string name="model_number">Model</string>
+  <string name="mobile_insert_sim_card">Włóż kartę SIM i zrestartuj urządzenie</string>
+  <string name="mobile_no_provisioning_url">%1$s nie ma znanej witryny obsługi</string>
+  <string name="mobile_unknown_sim_operator">Nieznany operator karty SIM</string>
+  <string name="model_number">Numer modelu</string>
   <string name="move_app">Przenieś</string>
   <string name="move_app_failed_dlg_text">"Nie udało się przenieść aplikacji %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2743,7 +2740,7 @@ Rozważ przeprowadzenie czyszczenia niepotrzebnych plików."</string>
   <string name="tts_engine_name_is_disabled_summary">Mechanizm %s jest wyłączony</string>
   <string name="tts_engine_name_is_enabled_summary">Mechanizm %s jest włączony</string>
   <string name="tts_engine_name_settings">Ustawienia %s</string>
-  <string name="tts_engine_network_required">This language requires a working network connection for text-to-speech output.</string>
+  <string name="tts_engine_network_required">Do przetwarzania tekstu na mowę w tym języku wymagane jest działające połączenie sieciowe.</string>
   <string name="tts_engine_preference_section_title">Preferowany mechanizm</string>
   <string name="tts_engine_security_warning">Ten mechanizm syntezy mowy może gromadzić cały odczytywany tekst, w tym dane osobiste w postaci haseł i numerów kart kredytowych. Nazwa mechanizmu to %s. Włączyć ten mechanizm syntezy mowy?</string>
   <string name="tts_engine_settings_button">Otwórz ustawienia mechanizmu</string>

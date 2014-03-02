@@ -358,8 +358,8 @@
   <string name="pref_content_auto_light_mode">Automatyczna jasność</string>
   <string name="pref_content_autofit">Autodopasowanie stron</string>
   <string name="pref_content_autofit_summary">Formatuj strony internetowe, aby dopasować je do ekranu</string>
-  <string name="pref_content_block_popups">Blokuj wyskakujące okna</string>
   <string name="pref_content_block_float_popups">Blokuj pływające okna</string>
+  <string name="pref_content_block_popups">Blokuj wyskakujące okna</string>
   <string name="pref_content_fontsize_setting">Czcionka</string>
   <string name="pref_content_homepage">Ustaw stronę główną</string>
   <string name="pref_content_javascript">Skrypty JavaScript</string>

@@ -79,7 +79,7 @@ Wyłącz by odtworzyć dźwięk na tylnym głośniku telefonu"</string>
   <string name="sound_recorder_settings">Ustawienia nagrywania</string>
   <string name="start_recording">Rozpocznij nagrywanie</string>
   <string name="status_bar_anti_disturb">Telefon został wyciszony.</string>
-  <string name="status_bar_back">Kliknij aby powrócić do nagrywania</string>
+  <string name="status_bar_back">Powrót do nagrania</string>
   <string name="status_bar_recording">Nagrywanie...</string>
   <string name="status_bar_recording_pause">"Nagrywanie wstrzymane. "</string>
   <string name="stop_recording">Zatrzymaj nagrywanie</string>
