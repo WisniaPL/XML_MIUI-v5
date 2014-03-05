@@ -27,6 +27,7 @@
   <string name="custom_mark_category">Własne</string>
   <string name="data_error">Obecna usługa jest niedostępna. Spróbuj ponownie później</string>
   <string name="delete">Usuń</string>
+  <string name="do_not_remind_me">"Nie przypominaj"</string>
   <string name="express_inqiury_select_logistics">Courier company</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>

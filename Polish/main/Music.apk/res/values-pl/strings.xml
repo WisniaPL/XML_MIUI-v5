@@ -315,6 +315,7 @@ Spróbuj ponownie później"</string>
   <string name="sort_by_album">Albumy</string>
   <string name="sort_by_artist">Wykonawcy</string>
   <string name="sort_by_track">Utwory</string>
+  <string name="source_from">Źródło : %1$s</string>
   <string name="start_to_download_album">Pobieranie okładek albumów dla utworów</string>
   <string name="start_to_download_avatar">Pobieranie zdjęć wykonawców</string>
   <string name="streamloadingtext">Łączenie z %s</string>

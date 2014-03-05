@@ -377,7 +377,6 @@
   <string name="pref_data_preload_dialogtitle">Wstępne wczytywanie wyników</string>
   <string name="pref_data_preload_summary">Zezwalaj przeglądarce na wstępne wczytywanie wyników wyszukiwania w tle</string>
   <string name="pref_data_preload_title">Wstępne wczytywanie wyników</string>
-  <string name="pref_data_preload_value_never_summary">Nie zezwalaj przeglądarce na wstępne wczytywanie poufnych wyników wyszukiwania w tle</string>
   <string name="pref_data_title">Zarządzanie transferem</string>
   <string name="pref_default_text_encoding">Kodowanie tekstu</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>

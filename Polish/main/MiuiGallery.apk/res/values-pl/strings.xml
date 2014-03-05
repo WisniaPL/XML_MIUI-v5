@@ -263,11 +263,11 @@
   <string name="kick_sharer_failed">Usuwanie udziałów niemożliwe</string>
   <string name="kick_sharer_successfully">Usuwanie udziałów udane</string>
   <string name="loading">Ładowanie...</string>
-  <string name="loading_failure">Zdjęcie nie mogło zostać załadowane</string>
+  <string name="loading_failure">Zdjęcie nie mogło zostać wczytane</string>
   <string name="loading_image">Pobieranie…</string>
-  <string name="loading_members">Wczytywanie osób...</string>
-  <string name="loading_suspend">Pobieranie wstrzymane. Zostanie wzowione przy Wi-Fi</string>
-  <string name="loading_thumbnail">Ładowanie miniatur...</string>
+  <string name="loading_members">Wczytywanie osób…</string>
+  <string name="loading_suspend">Pobieranie wstrzymane: zostanie wznowione przy Wi-Fi</string>
+  <string name="loading_thumbnail">Wczytywanie miniatury…</string>
   <string name="loading_video">Pobieranie…</string>
   <string name="local_albums">Lokalne albumy</string>
   <string name="location">Lokacja</string>
