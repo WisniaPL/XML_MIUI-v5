@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="access_error">"Nie można nagrywać w trybie chronionym"</string>
   <string name="alert_message_delete_record">Usunąć wybrane nagranie?</string>
   <string name="app_name">Dyktafon</string>
   <string name="audio_db_album_name">Nagrania audio</string>
@@ -10,6 +11,7 @@
   <string name="button_ok">Ok</string>
   <string name="call_record">Nagrane połączenia (%d)</string>
   <string name="call_record_or">lub</string>
+  <string name="cloud_record">Nagrywanie w chmurze (%d)</string>
   <string name="default_record_name">Nowe nagranie</string>
   <string name="delete">Usuń</string>
   <string name="delete_dialog_message">Usunąć aktualne nagranie?</string>
@@ -31,6 +33,7 @@
   <string name="fm_record">Nagrania z FM (%d)</string>
   <string name="hour">%d godzin</string>
   <string name="insert_sd_card">Karta SD wymagana</string>
+  <string name="loading_recording">Wczytywanie nagrań</string>
   <string name="low_battery_error">Bateria jest bliska wyczerpaniu. Nagrywanie zostało zatrzymane aby zapobiec utracie danych.</string>
   <string name="low_battery_message_title">Niski poziom ładowania</string>
   <string name="low_battery_warning">Niespodziewane wyłączenie może powodować utratę danych nagrania. Zalecane jest nagrywanie przy pełnej baterii.</string>
@@ -59,11 +62,26 @@ Wyłącz by odtworzyć dźwięk na tylnym głośniku telefonu"</string>
   <string name="preference_record_type_title">Kodek nagrywania</string>
   <string name="preference_scenes">Typ nagrania</string>
   <string name="preference_silent_mode">Ciche nagrywanie</string>
-  <string name="preference_silent_mode_summary">Nagrywaj bez dźwięków interfejsu</string>
-  <string name="record_list">Lista nagrań</string>
-  <string name="record_loading">Ładowanie nagrania, proszę czekać.</string>
+  <string name="record_download">Pobierz z chmury Xiaomi</string>
+  <string name="record_download_activity">Pobieranie nagrań</string>
+  <string name="record_download_complete">Ukończone</string>
+  <string name="record_download_failed">Nieudane</string>
+  <string name="record_download_manager">Menedżer pobierania</string>
+  <string name="record_download_msg">Tylko ukończone nagrania mogą być odtworzone</string>
+  <string name="record_download_msg_reload">"Nagranie nie istnieje"</string>
+  <string name="record_download_paused">Wstrzymane</string>
+  <string name="record_download_progress">%d%%</string>
+  <string name="record_downloading_notification">Pobieranie…</string>
+  <string name="record_downloading_notification_complete">Pobieranie ukończone</string>
+  <string name="record_downloading_notification_count">Pobieranych: %d</string>
+  <string name="record_list">Nagrania</string>
+  <string name="record_list_call">Nagrane rozmowy</string>
+  <string name="record_list_cloud">Nagrania z chmury</string>
+  <string name="record_list_cloud_call">Nagrane rozmowy z chmury</string>
+  <string name="record_list_cloud_fm">Nagrane FM z chmury</string>
+  <string name="record_list_fm">Nagrania FM</string>
+  <string name="record_loading">Wczytywanie…</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute">min</string>
   <string name="record_picker_title">Wybierz nagranie</string>
   <string name="record_saving">Zapisywanie nagrania, proszę czekać...</string>
   <string name="recording">Nagrywanie</string>
@@ -72,11 +90,13 @@ Wyłącz by odtworzyć dźwięk na tylnym głośniku telefonu"</string>
   <string name="rename_dialog_title">Zmiana nazwy pliku</string>
   <string name="rename_duplicate">Nazwa pliku się powtarza. Spróbuj ponownie:</string>
   <string name="rename_illegal">Nieprawidłowa nazwa nagrania. Spróbuj ponownie:</string>
+  <string name="retry">Ponów</string>
   <string name="sd_card_not_available">Karta SD jest niedostępna</string>
   <string name="search_for_recordings_in_folders">Szukaj nagrań w katalogach</string>
   <string name="second">%d sekund</string>
   <string name="send_to">Wyślij do</string>
   <string name="sound_recorder_settings">Ustawienia nagrywania</string>
+  <string name="start">Odnów</string>
   <string name="start_recording">Rozpocznij nagrywanie</string>
   <string name="status_bar_anti_disturb">Telefon został wyciszony.</string>
   <string name="status_bar_back">Powrót do nagrania</string>
@@ -84,6 +104,10 @@ Wyłącz by odtworzyć dźwięk na tylnym głośniku telefonu"</string>
   <string name="status_bar_recording_pause">"Nagrywanie wstrzymane. "</string>
   <string name="stop_recording">Zatrzymaj nagrywanie</string>
   <string name="storage_is_full">Brak miejsca</string>
+  <string name="sync_only_in_wifi">Synchronizuj tylko z Wi-Fi</string>
+  <string name="sync_only_in_wifi_alert">Wyłączenie opcji może powodować wysokie użycie danych mobilnych.</string>
+  <string name="sync_only_in_wifi_summary">Zalecane do aktywacji by operator nie pobierał opłat za transmisję danych</string>
+  <string name="sync_records">Synchronizuj nagrania</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Aplikacja: %1$s maksymalny czas nagrania %2$s</string>
   <string name="toast_uninstall_fileexplorer">FileExplorer is not installed!</string>

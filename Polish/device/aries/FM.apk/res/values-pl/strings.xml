@@ -138,6 +138,7 @@
   <string name="toast_edit_station">Zapisano zmiany</string>
   <string name="toast_fm_error_startfailed">Błąd nagrywania. Inna aplikacja może aktualnie korzystać z funkcji nagrywania. </string>
   <string name="toast_fm_not_stated">Radio nie zostało uruchomione</string>
+  <string name="toast_fm_recorder_access_error">"Nie można nagrywać dźwięku w trybie chronionym"</string>
   <string name="toast_fm_recorder_internal_error">Błąd radia.</string>
   <string name="toast_fm_recorder_storage_full">Pamięć jest pełna. Nie można nagrywać</string>
   <string name="toast_fm_seeking">Wyszukiwanie stacji...</string>

@@ -151,7 +151,7 @@
   <string name="live_title">Na żywo</string>
   <string name="livetv">Na żywo</string>
   <string name="load_data_failed">"Nie można połączyć z siecią"</string>
-  <string name="load_failed_to_try">Failed to load</string>
+  <string name="load_failed_to_try">Nie można wczytać pliku</string>
   <string name="load_file_fail">Local file destroyed</string>
   <string name="load_offline_file_fail">Offline file destroyed, please recache</string>
   <string name="loading">" Ładowanie "</string>
@@ -165,7 +165,7 @@
   <string name="login_tip_content">Wpisanie się na konto Xiaomi pozwoli synchronizować i aktualizować treści.</string>
   <string name="login_tip_title">Wpisz się</string>
   <string name="manage">Manage</string>
-  <string name="media_source_unavailable">Source is unavailable</string>
+  <string name="media_source_unavailable">Źródło niedostępne</string>
   <string name="mediaset">Seriale</string>
   <string name="mediasetupdated">Seriale aktualizowane</string>
   <string name="menu_item_about_label">O aplikacji</string>
@@ -199,7 +199,7 @@
   <string name="no_comment_tip">"Can't submit an empty comment"</string>
   <string name="no_favorite">Brak ulubionych</string>
   <string name="no_filter_media">"Brak wyników. Zawęź swoje wyszukiwanie."</string>
-  <string name="no_login_xiaomi_account">Sign in with your Xiaomi Account to submit comments.</string>
+  <string name="no_login_xiaomi_account">Wpisz się na konto Xiaomi by komentować.</string>
   <string name="no_media">Puste</string>
   <string name="no_myfavorite">Brak ulubionych</string>
   <string name="no_myfavorite_advice">Polecane</string>
@@ -230,6 +230,7 @@ Kontynuować?"</string>
   <string name="offline_select_better_source">Has been switched to available caching source</string>
   <string name="offline_setting">Łączność z siecią</string>
   <string name="ok">OK</string>
+  <string name="online_video">Wideo Online</string>
   <string name="open_camera">Aparat</string>
   <string name="other_setting">Pozostałe</string>
   <string name="others">Inne</string>
@@ -276,6 +277,7 @@ Kontynuować?"</string>
   <string name="souhu">Souhu</string>
   <string name="special_subject">Specjalne</string>
   <string name="start_download">Rozpocznij pobieranie</string>
+  <string name="start_time">Rozpoczęcie emisji</string>
   <string name="subchannel_all">全部</string>
   <string name="success_add_myfavorite">Ulubione</string>
   <string name="success_cancel_myfavorite">Bez kategorii</string>

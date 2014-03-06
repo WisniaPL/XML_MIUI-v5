@@ -162,6 +162,7 @@
   <string name="call_lost">Połączenie zostało zerwane.</string>
   <string name="call_number">Do:</string>
   <string name="call_record_button_label">Nagrywanie %s</string>
+  <string name="call_record_error_access">"Nie można nagrywać w trybie chronionym"</string>
   <string name="call_record_notification_message_low_space_miui">Nagrywanie zatrzymane. Brak miejsca w pamięci urządzenia, kliknij aby wyświetlić %s.</string>
   <string name="call_record_notification_message_miui">Zapisano w: %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Zatrzymano nagrywanie, ponieważ pamięć USB jest odmontowana.</string>

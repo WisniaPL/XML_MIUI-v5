@@ -220,7 +220,7 @@ z numerem %s"</string>
   <string name="ext_media_badremoval_notification_message">Odłącz nośnik USB przed jego wyjęciem, aby uniknąć utraty danych.</string>
   <string name="ext_media_badremoval_notification_title">Nośnik USB został nagle wyjęty</string>
   <string name="ext_media_checking_notification_message">Sprawdzanie w poszukiwaniu błędów.</string>
-  <string name="ext_media_checking_notification_title">Przygotowywanie nośnika USB</string>
+  <string name="ext_media_checking_notification_title">Przygotowywanie %s</string>
   <string name="ext_media_nofs_notification_message">Nośnik USB jest pusty lub zawiera nieobsługiwany system plików.</string>
   <string name="ext_media_nofs_notification_title">Pusty nośnik USB</string>
   <string name="ext_media_nomedia_notification_message">Nośnik USB został wyjęty. Włóż nowy nośnik.</string>
