@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
+        <item>Poślizg</item>
         <item>Klasyczny</item>
-        <item>Klasyczny (bez odbijania)</item>
         <item>Przenikanie</item>
         <item>Karuzela</item>
         <item>Strona</item>

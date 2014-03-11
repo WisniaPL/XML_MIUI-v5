@@ -188,7 +188,7 @@
   <string name="menu_wh_item_using_4_3_label">4:3</string>
   <string name="minute">min</string>
   <string name="month">"m. "</string>
-  <string name="movie_comment">Comentarze</string>
+  <string name="movie_comment">Komentarze</string>
   <string name="music">Muzyka</string>
   <string name="mycamera">Moje wideo</string>
   <string name="mydlna">DLNA</string>
@@ -196,7 +196,7 @@
   <string name="myfavorite_onlylocal">Ulubione</string>
   <string name="netease">NetEase</string>
   <string name="network_setting">Sieć</string>
-  <string name="no_comment_tip">"Can't submit an empty comment"</string>
+  <string name="no_comment_tip">"Nie można wysłać pustego komentarza"</string>
   <string name="no_favorite">Brak ulubionych</string>
   <string name="no_filter_media">"Brak wyników. Zawęź swoje wyszukiwanie."</string>
   <string name="no_login_xiaomi_account">Wpisz się na konto Xiaomi by komentować.</string>
@@ -261,7 +261,7 @@ Kontynuować?"</string>
   <string name="reloading_tip">"Nie można połączyć się z siecią"</string>
   <string name="retrieving">Retrieving…</string>
   <string name="retry">Ponów</string>
-  <string name="review_success">Comment submitted</string>
+  <string name="review_success">Komentarz napisany</string>
   <string name="sdcard_storage">Pamięć wewnętrzna</string>
   <string name="search">Wyszukaj</string>
   <string name="search_result_recommend_hint">"Brak wyników wyszukiwania"</string>

@@ -17,7 +17,7 @@
   <string name="cant_remove_retained_app">Nie można usunąć aplikacji operatora</string>
   <string name="cant_remove_system_app">"Nie można odinstalować aplikacji systemowych"</string>
   <string name="chooser_wallpaper">Wybierz tapetę z</string>
-  <string name="confirm_btn_label">Tak</string>
+  <string name="confirm_btn_label">OK</string>
   <string name="custom_wallpaper_picker">Własne</string>
   <string name="default_folder_title_game">Gry</string>
   <string name="default_folder_title_recommend">Polecane</string>
@@ -81,8 +81,8 @@
   <string name="gadget_weather_theme_type">Rodzaj gadżetu</string>
   <string name="gadget_weather_time_format">dd.MM.yyyy</string>
   <string name="gadget_weather_title">Pogoda</string>
-  <string name="gadget_weather_title_14">Pogoda 1x4</string>
-  <string name="gadget_weather_title_24">Pogoda 2x4</string>
+  <string name="gadget_weather_title_14">Pogoda</string>
+  <string name="gadget_weather_title_24">Pogoda</string>
   <string name="global_search_hint">\u0020</string>
   <string name="group_folder">Nowy katalog</string>
   <string name="group_live_folders">Katalogi</string>
@@ -205,8 +205,8 @@
   <string name="title_select_shortcut">Wybierz skrót</string>
   <string name="toggle_select_title">Przełączniki</string>
   <string name="toggle_title">Przełączniki</string>
-  <string name="transformation_type_classic">Klasyczny</string>
-  <string name="transformation_type_classic_no_overshoot">Klasyczny (bez odbijania)</string>
+  <string name="transformation_type_classic">Poślizg</string>
+  <string name="transformation_type_classic_no_overshoot">Klasyczny</string>
   <string name="transformation_type_crossfade">Przenikanie</string>
   <string name="transformation_type_cube">Kostka</string>
   <string name="transformation_type_falldown">Karuzela</string>
