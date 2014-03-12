@@ -318,6 +318,7 @@ Kontynuować?"</string>
   <string name="video_info_video_coding_label">Kodek wideo:</string>
   <string name="video_library">Wideo</string>
   <string name="view_all_reviews">%d więcej komentarzy</string>
+  <string name="visit_postfix">| ostatnio odwiedzane</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Połączenie z siecią niedostępne</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Format strumieniowego wideo nie może zostać odtworzony</string>
