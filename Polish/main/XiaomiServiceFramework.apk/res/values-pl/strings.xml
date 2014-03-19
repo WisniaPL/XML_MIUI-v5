@@ -203,6 +203,7 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="micloud_title_dspt" formatted="false">"Całkowita pojemność: %s
  W użyciu %s | Pozostało %s"</string>
   <string name="micloud_title_full_dspt">Osiągnięto limit pojemności!</string>
+  <string name="micloud_upgrade_space">Zwiększ dostępną pojemność</string>
   <string name="micloud_use_existing">Istniejące</string>
   <string name="micloud_user_base_info">Użytkownik</string>
   <string name="micloud_user_email">E-mail</string>

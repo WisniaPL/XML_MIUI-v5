@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="continues"><u>Kontynuacja</u></string>
-    <string name="data_usage_summary">Zaleca się wyłączenie przesyłu danych jeśli nie posiadasz pakietu danych internetowych. Inaczej operator może pobierać dodatkowe opłaty za transfer.</string>
-    <string name="default_gprs_sim_name">Wprowadź limit transmisji danych dla \"%s\"</string>
     <string name="next">Dalej</string>
     <string name="other_service_google_location">Lokalizacja w sieci</string>
     <string name="other_service_google_location_use">Wyszukiwanie z Google</string>
@@ -27,8 +25,4 @@
     <string name="sim_card_detection_status_absent">"Nie wykryto karty SIM.
 Włóż kartę SIM i uruchom ponownie telefon."</string>
     <string name="traffic_protection_label">Ochrona danych mobilnych</string>
-    <string name="traffic_protection_summary">System przypomni kiedy zostanie osiągnięty limit transmisji danych w Twoim planie taryfowym.</string>
-    <string name="traffic_protection_text_hint">Wprowadź obecny limit transmisji.</string>
-    <string name="traffic_protection_unknown"><u>"Nie znam limitu. Wprowadzę później."</u></string>
-    <string name="use_data">Przesył danych włączony</string>
 </resources>

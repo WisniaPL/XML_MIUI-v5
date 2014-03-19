@@ -56,7 +56,7 @@ Wyłącz Tryb Samolotowy"</string>
   <string name="firewall_setting">Firewall</string>
   <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? 
 
-Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
+Włącz w Ustawienia &gt; System &gt; Przyciski sprzętowe"</string>
   <string name="fm_record_smaple_prefix_miui">Nagrywanie z FM</string>
   <string name="fools_day"/>
   <string name="force_exit_message">Pomyślnie zatrzymano \"%1$s\"</string>

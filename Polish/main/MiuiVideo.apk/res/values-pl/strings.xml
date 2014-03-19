@@ -4,7 +4,6 @@
   <string name="about_developer_label">Developer</string>
   <string name="about_developer_name">MIUI</string>
   <string name="about_title">O aplikacji</string>
-  <string name="about_version">1.0.1</string>
   <string name="about_version_label">Wersja:</string>
   <string name="actors_colon">"Obsada: "</string>
   <string name="add_review">Dodaj komentarz</string>
@@ -67,8 +66,8 @@
   <string name="comment_hint_tip">Your comment will be displayed after a brief review.</string>
   <string name="comment_max_error">Your comment cannot exceed 300 characters</string>
   <string name="comment_max_tip">300 character limit</string>
-  <string name="comment_publish">Submit</string>
-  <string name="comment_submiting">Submitting…</string>
+  <string name="comment_publish">Wyślij</string>
+  <string name="comment_submiting">Wysyłanie…</string>
   <string name="connecting">Łączenie…</string>
   <string name="continue_to_play_nextset">Wczytaj następny odcinek</string>
   <string name="continue_to_play_nextset_summary">"Automatycznie odtwarza następny odcinek w serii"</string>
@@ -97,8 +96,7 @@
   <string name="download_is_in_tasklist">Has been in caching list</string>
   <string name="download_is_success">Has been cached</string>
   <string name="end_live_status">Broadcast has ended</string>
-  <string name="episode_prefix">Odcinek</string>
-  <string name="episode_suffix"/>
+  <string name="episode_suffix">第%d集</string>
   <string name="favorite">Ulubione</string>
   <string name="favorited_cannot_hide">"Can't hide starred items"</string>
   <string name="fenghuang">iFeng</string>
@@ -221,7 +219,6 @@ Kontynuować?"</string>
   <string name="offline_alert_title">Caching Notification</string>
   <string name="offline_alert_wifi">Korzystasz z sieci mobilnej. Zadania pobierania zostaną wznowione przy połączeniu z Wi-Fi.</string>
   <string name="offline_continue">Kontynuuj</string>
-  <string name="offline_episode">%d</string>
   <string name="offline_max_promote">Oczekiwanie na pobieranie. Mogą być aktywne tylko 2 zadania pobierania.</string>
   <string name="offline_media">Dostępne offline</string>
   <string name="offline_media_more">Pobierz więcej</string>
@@ -256,6 +253,8 @@ Kontynuować?"</string>
   <string name="quarter_bell_alert_message_cancel">"After the lifting of reservation, you won't receive a reminder before the program begins"</string>
   <string name="quarter_bell_alert_title">reminder</string>
   <string name="rank">Oceny</string>
+  <string name="receive_ad_notify">Powiadomienia push</string>
+  <string name="receive_ad_notify_summary">Informuj mnie o nowościach i popularnych wideo podczas otwierania aplikacji</string>
   <string name="recentplay">Ostatnio odtwarzane</string>
   <string name="recommendation">Polecane</string>
   <string name="reloading_tip">"Nie można połączyć się z siecią"</string>
@@ -280,6 +279,7 @@ Kontynuować?"</string>
   <string name="start_time">Rozpoczęcie emisji</string>
   <string name="subchannel_all">全部</string>
   <string name="success_add_myfavorite">Ulubione</string>
+  <string name="success_add_waitfornewset">follow success</string>
   <string name="success_cancel_myfavorite">Bez kategorii</string>
   <string name="success_cancel_waitfornewset">Stopped following</string>
   <string name="success_to_cancel_myfavorite">Anulowane</string>

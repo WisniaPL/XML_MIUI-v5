@@ -54,7 +54,6 @@
   <string name="payment_info">MiKredyty</string>
   <string name="purchased_list">Moje motywy</string>
   <string name="resource_account_abnormal_state">Błąd konta: Spróbuj ponownie później.</string>
-  <string name="resource_account_current">Konto: %1$s</string>
   <string name="resource_account_fail_to_add">Nie udało się dodać konta.</string>
   <string name="resource_account_login">Wpisz się</string>
   <string name="resource_account_login_before_action">Należy najpierw wpisać się na konto Xiaomi.</string>
