@@ -2126,7 +2126,7 @@ spróbuj:
   <string name="power_perm_logs_empty">Brak rejestru</string>
   <string name="power_phone">Połączenia głosowe</string>
   <string name="power_recovery_mode">Przełączono na profil: %1$s</string>
-  <string name="power_save_choose_mode">Wybierz profi</string>
+  <string name="power_save_choose_mode">Wybierz profil</string>
   <string name="power_save_choose_recovery_mode">Wybierz konfigurację</string>
   <string name="power_save_low_battery_auto_save_title">Automatyczne przełączanie</string>
   <string name="power_save_low_battery_option_recovery_title">Przełącz gdy powyżej poziomu</string>
