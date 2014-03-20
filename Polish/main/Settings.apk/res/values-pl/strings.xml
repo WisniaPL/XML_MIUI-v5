@@ -1990,8 +1990,8 @@ spróbuj:
   <string name="pointer_settings_category">Mysz/touchpad</string>
   <string name="pointer_speed">Szybkość wskaźnika</string>
   <string name="polish_translation">Spolszczenie</string>
-  <string name="power_20s_enter_mode">Przełączenie trybu %1$d na tryb %2$s</string>
-  <string name="power_apply_toast">switch to %s mode and auto save your current status</string>
+  <string name="power_20s_enter_mode">Tryb %2$s za %1$d sekund</string>
+  <string name="power_apply_toast">Przełącz na %s i zachowaj aktualny profil</string>
   <string name="power_autorun_apps_empty">Bez aplikacji z autostartem</string>
   <string name="power_autorun_control_desc">"Zwiększenie ilości programów uruchamianych razem z systemem może zwiększyć użycie energii"</string>
   <string name="power_autorun_control_title">Autostart</string>
@@ -2009,7 +2009,7 @@ spróbuj:
   <string name="power_center_consume_time">Pozostało %1$s</string>
   <string name="power_center_custom_summary_default">Optymalne ustawienia, oszczędzanie energii</string>
   <string name="power_center_custom_title">Oszczędzanie energii</string>
-  <string name="power_center_low_battery_summary_default">Przełącz tryb jeśli jest niski poziom ładowania</string>
+  <string name="power_center_low_battery_summary_default">Przełącz tryb jeśli niski poziom ładowania</string>
   <string name="power_center_low_battery_summary_dynamic">Kiedy pozostało %1$d%% baterii przełącz na %2$s</string>
   <string name="power_center_low_battery_title">Automatyczne przełączanie</string>
   <string name="power_center_on_time_summary_default">Przełącz tryb w zaplanowanym czasie</string>
@@ -2077,7 +2077,7 @@ spróbuj:
   <string name="power_dialog_screen_brightness_title">Jasność</string>
   <string name="power_dialog_sleep_title">Uśpienie</string>
   <string name="power_dialog_vibration_title">Wibracje</string>
-  <string name="power_exitlowbattery_whencharge">Wyjdź z trybu podczas ładowania</string>
+  <string name="power_exitlowbattery_whencharge">Przywróć profil podczas ładowania</string>
   <string name="power_idle">Telefon w gotowości</string>
   <string name="power_mgr">Zasilanie</string>
   <string name="power_mode">Plan zasilania</string>
@@ -2125,8 +2125,8 @@ spróbuj:
   <string name="power_notify_lowbattery">Jeśli baterii jest mniej niż %1$d%%</string>
   <string name="power_perm_logs_empty">Brak rejestru</string>
   <string name="power_phone">Połączenia głosowe</string>
-  <string name="power_recovery_mode">Przywróć do trybu %1$s</string>
-  <string name="power_save_choose_mode">Wybierz profil</string>
+  <string name="power_recovery_mode">Przełączono na profil: %1$s</string>
+  <string name="power_save_choose_mode">Wybierz profi</string>
   <string name="power_save_choose_recovery_mode">Wybierz konfigurację</string>
   <string name="power_save_low_battery_auto_save_title">Automatyczne przełączanie</string>
   <string name="power_save_low_battery_option_recovery_title">Przełącz gdy powyżej poziomu</string>
@@ -2156,8 +2156,8 @@ spróbuj:
   <string name="power_settings_shape">Słupkowy</string>
   <string name="power_settings_title">Ustaw</string>
   <string name="power_settings_top">Liniowy</string>
-  <string name="power_subtitle_lowbattery">Tryb Oszczędny gdy niski poziom ładowania</string>
-  <string name="power_subtitle_ontime">Tryb Oszczędny zaplanowany</string>
+  <string name="power_subtitle_lowbattery">Niski poziom ładowania: oszczędzanie energii</string>
+  <string name="power_subtitle_ontime">Planowane przełączanie profilów zasilania: aktywne</string>
   <string name="power_usage_history">Historia użycia baterii</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">"Dane użycia baterii niedostępne"</string>
