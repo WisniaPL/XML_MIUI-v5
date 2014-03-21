@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Settings_title_anti_spam">Firewall - Ustawienia</string>
+  <string name="Settings_title_anti_virus">Antywirus - Ustawienia</string>
+  <string name="Settings_title_garbage_cleanup">Czyszczenie - Ustawienia</string>
+  <string name="Settings_title_network_assistants">Monitor Danych - Ustawienia</string>
+  <string name="Settings_title_power_center">Zasilanie - Ustawienia</string>
   <string name="about_agps_message">" A-GPS (Assisted GPS) to system, który skraca czas wymagany do uzyskania pierwszego stałego punktu TTFF (Time-To-First-Fix). Urządzenie z aktywnym A-GPS może łączyć się z serwerami serwisu poprzez transmisję danych w sieci komórkowej w celu uzyskania danych pomocniczych. 
   Należy pamiętać, że transmisja danych w roamingu może powodować naliczenie dodatkowych opłat. Aby uzyskać szczegółowe informacje, należy skontaktować się z operatorem sieci."</string>
   <string name="about_settings">Informacje o telefonie</string>
@@ -40,7 +45,16 @@ Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokow
   <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk kończy rozmowę</string>
   <string name="accessibility_power_button_ends_call_title">Przycisk kończy rozmowę</string>
   <string name="accessibility_screen_magnification_enable">Gesty powiększania</string>
-  <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran."</string>
+  <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran.
+
+  W trybie powiększania możesz:
+  - Przesuwać: przeciągnij palcami po ekranie.
+  - Regulować powiększenie: ściągnij lub rozsuń palce.
+
+  Możesz też tymczasowo powiększyć miejsce pod palcem, klikając trzykrotnie i przytrzymując palec na ekranie.
+  W takim widoku lupy możesz przesuwać palcem po ekranie i powiększać różne miejsca. Podniesienie palca spowoduje powrót do poprzedniego widoku.
+
+  Uwaga: trzykrotne kliknięcie powiększające działa wszędzie poza klawiaturą i paskiem nawigacji."</string>
   <string name="accessibility_screen_magnification_title">Gesty powiększania</string>
   <string name="accessibility_script_injection_allowed">Dozwolone</string>
   <string name="accessibility_script_injection_button_allow">Zezwalaj</string>
@@ -795,13 +809,13 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="date_and_time_settings_title_setup_wizard">Ustaw datę i godzinę</string>
   <string name="date_picker_title">Data</string>
   <string name="date_time_24hour">Format 24-godzinny</string>
-  <string name="date_time_auto">Czas sieciowy</string>
+  <string name="date_time_auto">Automatyczna data i czas</string>
   <string name="date_time_auto_summaryOff">Użyj czasu podanego przez sieć</string>
   <string name="date_time_auto_summaryOn">Użyj czasu podanego przez sieć</string>
   <string name="date_time_date_format">Wybierz format daty</string>
   <string name="date_time_set_date">Ustaw datę</string>
   <string name="date_time_set_time">Ustaw godzinę</string>
-  <string name="date_time_set_timezone">Strefa czasowa</string>
+  <string name="date_time_set_timezone">Wybierz strefę czasową</string>
   <string name="date_time_settings">Ustawienia daty i czasu</string>
   <string name="debug_app">Aplikacja do debugowania</string>
   <string name="debug_app_not_set">Nie ustawiono aplikacji do debugowania</string>
@@ -1209,6 +1223,7 @@ w tym:
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
   <string name="galaxy_settings">Ustawienia galaxy</string>
   <string name="game_controller_settings_category">Kontroler gier</string>
+  <string name="garbage_white_list_empty_content">Lista wyjątków jest pusta</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">To ustawienie obowiązuje wszystkich użytkowników tego telefonu.</string>
@@ -2174,18 +2189,20 @@ spróbuj:
   <string name="pref_button_light">Podświetlenie przycisków</string>
   <string name="pref_button_light_summary">Podświetlenie przycisków nawigacyjnych pod ekranem telefonu.</string>
   <string name="pref_category_title_auto_update_cleanup_db">Aktualizacje bazy danych</string>
-  <string name="pref_category_title_cleanup_white_list">Lista wyjątków</string>
+  <string name="pref_category_title_cleanup_white_list">Wyjątki</string>
   <string name="pref_category_title_garbage_cleanup_check">Czyszczenie</string>
   <string name="pref_category_title_module_settings">Opcje modułów Panelu Sterowania</string>
   <string name="pref_category_title_securitycenter_settings">Ustawienia Panelu Sterowania</string>
   <string name="pref_operational_key">Przyciski nawigacyjne</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualizacja: %s</string>
   <string name="pref_summary_cleanup_white_list">Śmieci z listy wyjątków będą ignorowane</string>
+  <string name="pref_summary_expand_cache_group">Lista plików cache aplikacji będzie domyślnie rozwinięta</string>
   <string name="pref_summary_garbage_cleanup_check_size">Powiadom gdy rozmiar plików śmieci osiągnie wybraną wartość</string>
   <string name="pref_title_auto_update_cleanup_db">Automatyczna aktualizacja</string>
   <string name="pref_title_cleanup_white_list">Lista wyjątków</string>
+  <string name="pref_title_expand_cache_group">Rozwiń grupy plików cache</string>
   <string name="pref_title_garbage_cleanup_check_size">Rozmiar plików śmieci</string>
-  <string name="pref_title_garbage_cleanup_check_time">Ostrzeżenie</string>
+  <string name="pref_title_garbage_cleanup_check_time">Powiadomienie</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualizuj teraz</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
@@ -2195,6 +2212,7 @@ spróbuj:
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
@@ -2737,7 +2755,7 @@ spróbuj:
   <string name="terms_title">Warunki i zasady korzystania</string>
   <string name="testing">Testowanie</string>
   <string name="testing_battery_info">Informacje o baterii</string>
-  <string name="testing_phone_info">Informacje o telefonie</string>
+  <string name="testing_phone_info">Informacje o Ftelefonie</string>
   <string name="testing_sim_toolkit">Narzędzia SIM</string>
   <string name="testing_usage_stats">Statystyki użytkowania</string>
   <string name="testing_wifi_info">Informacje Wi-Fi</string>
@@ -2780,10 +2798,11 @@ spróbuj:
   <string name="toast_backup_is_running">Kopia uruchomiona. Proszę czekać.</string>
   <string name="toast_backup_uninstall_failed">Nie udało się skopiować %d aplikacji. Proszę odczekać kilka minut i spróbować ponownie</string>
   <string name="toast_backup_uninstall_success">Skopia i odinstalowanie ukończone</string>
-  <string name="toast_cleanup_success">Dane wyczyszczone</string>
+  <string name="toast_cleanup_success">Dane wyczyszczone!</string>
+  <string name="toast_garbage_cleanup_success">Śmieci usunięte!</string>
   <string name="toast_qucik_scan_list_empty">Wszystko wygląda dobrze!</string>
   <string name="toast_removed_from_white_list">Plik usunięty z listy wyjątków</string>
-  <string name="toast_shortcut_install">Skrót dodany</string>
+  <string name="toast_shortcut_install">Skrót dodany na pulpit</string>
   <string name="toast_shortcut_uninstall">Skrót usunięty</string>
   <string name="total_size">Razem: %s</string>
   <string name="total_size_label">Razem</string>
@@ -3517,9 +3536,9 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="xiaomi_cloud_service">Xiaomi</string>
   <string name="xiaomi_money_service">Mi Kredyty</string>
   <string name="yes">Tak</string>
-  <string name="zone_auto">Autom. strefa czasowa</string>
+  <string name="zone_auto">Auto strefa czasowa</string>
   <string name="zone_auto_summaryOff">Użyj wybranej strefy czasowej</string>
-  <string name="zone_auto_summaryOn">Użyj strefy czasowej z sieci</string>
+  <string name="zone_auto_summaryOn">Użyj strefy czasowej podanej przez sieć</string>
   <string name="zone_list_menu_sort_alphabetically">Sortuj alfabetycznie</string>
   <string name="zone_list_menu_sort_by_timezone">Sortuj według strefy czasowej</string>
 </resources>

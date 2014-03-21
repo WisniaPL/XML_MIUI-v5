@@ -52,7 +52,7 @@
   <string name="accessibility_long_press_timeout_preference_title">Czas dotknięcia i przytrzymania</string>
   <string name="accessibility_menu_item_settings">Ustawienia</string>
   <string name="accessibility_no_services_installed">Brak zainstalowanych usług</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk zasilania kończy połączenie</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk zasilania rozłącza</string>
   <string name="accessibility_screen_magnification_title">Gesty powiększania</string>
   <string name="accessibility_script_injection_allowed">Dozwolone</string>
   <string name="accessibility_script_injection_button_allow">Zezwalaj</string>
