@@ -82,6 +82,8 @@ Pozostało"</string>
 Użyte"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Użycie danych</string>
+  <string name="network_assistant_upgraded_body">Dotknij by ograniczyć użycie danych.</string>
+  <string name="network_assistant_upgraded_title">Monitor Danych</string>
   <string name="network_control">Transmisja danych aplikacji</string>
   <string name="notification_content_title">Użyto po zablokowaniu ekranu: %1$s</string>
   <string name="notification_title">%1$s-%2$s: użyte ok. %3$s</string>
@@ -142,7 +144,7 @@ Użyte"</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_title_declaration">O Monitorze Danych</string>
   <string name="pref_title_mobile_traffic">Pokaż użycie na ekranie blokady</string>
-  <string name="pref_title_network_diagnostics">Network diagnostic</string>
+  <string name="pref_title_network_diagnostics">Diagnostyka sieci</string>
   <string name="pref_title_traffic_speed_state">Pokaż prędkość transmisji</string>
   <string name="pref_title_update_notification">Pokaż użycie danych</string>
   <string name="pref_version">Wersja %s</string>
@@ -159,7 +161,7 @@ Użyte"</string>
   <string name="traffic_correction_failed">"Can't get data usage info"</string>
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
-  <string name="traffic_correction_success">Data usage updated</string>
+  <string name="traffic_correction_success">Dane zaktualizowane</string>
   <string name="traffic_none">b.d.</string>
   <string name="traffic_protection_data_usage_summary">"Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
   <string name="traffic_protection_label">Ostrzeżenie o transmisji danych</string>
