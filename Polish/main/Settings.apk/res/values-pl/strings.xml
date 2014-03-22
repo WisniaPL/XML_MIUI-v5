@@ -2755,7 +2755,7 @@ spróbuj:
   <string name="terms_title">Warunki i zasady korzystania</string>
   <string name="testing">Testowanie</string>
   <string name="testing_battery_info">Informacje o baterii</string>
-  <string name="testing_phone_info">Informacje o Ftelefonie</string>
+  <string name="testing_phone_info">Informacje o telefonie</string>
   <string name="testing_sim_toolkit">Narzędzia SIM</string>
   <string name="testing_usage_stats">Statystyki użytkowania</string>
   <string name="testing_wifi_info">Informacje Wi-Fi</string>
