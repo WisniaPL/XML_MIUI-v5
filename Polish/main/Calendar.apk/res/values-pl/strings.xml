@@ -23,9 +23,12 @@
    <string name="acessibility_cal_notification">Powiadomienie kalendarza</string>
    <string name="acessibility_selected_marker_description">Wybrane wydarzenie</string>
    <string name="acessibility_snooze_notification">Uśpij powiadomienie</string>
+   <string name="action_bar_today">D</string>
    <string name="activity_summary">10</string>
    <string name="activity_title">MIUI</string>
    <string name="add_account">Dodaj konto</string>
+   <string name="add_calendar">Dodaj kalendarz</string>
+   <string name="add_topic_success">Dodano \"%s\"</string>
    <string name="agenda_today">DZIŚ, %1$s</string>
    <string name="agenda_tomorrow">JUTRO, %1$s</string>
    <string name="agenda_view">Plan dnia</string>
@@ -48,7 +51,9 @@
    <string name="button_day">D</string>
    <string name="button_month">M</string>
    <string name="calendar_refresh">Odśwież</string>
+   <string name="calendar_server_error">Błąd serwera</string>
    <string name="change_response_title">Zmień odpowiedź</string>
+   <string name="chongsha">冲煞</string>
    <string name="copy_db">Wyślij bazę danych</string>
    <string name="copy_email">Kopiuj adres email</string>
    <string name="copy_number">Kopiuj numer telefonu</string>
@@ -64,9 +69,12 @@
    <string name="day_view">Dzień</string>
    <string name="day_view_new_event_hint">+ Nowe wydarzenie</string>
    <string name="default_reminder_mode">Domyślne przypomnienie</string>
+   <string name="delete_calendar">Usuń kalendarz</string>
    <string name="delete_label">Usuń</string>
    <string name="delete_recurring_event_title">Usunąć %s?</string>
    <string name="delete_this_event_title">Usunąć wydarzenie?</string>
+   <string name="delete_topic_dialog_title">Usunąć \"%s\"?</string>
+   <string name="delete_topic_success">Usunięto \"%s\"</string>
    <string name="description_label">Opis</string>
    <string name="directory_searching_fmt">Trwa wyszukiwanie w witrynie %s…</string>
    <string name="discard_label">Anuluj</string>
@@ -85,6 +93,7 @@
    <string name="email_picker_label">Email z</string>
    <string name="email_subject_prefix">"Re: "</string>
    <string name="empty_event">Nie utworzono: puste wydarzenie.</string>
+   <string name="enter_calendar">Wpisz nazwę kalendarza</string>
    <string name="event_account">Kalendarz</string>
    <string name="event_all_day_label">Cały dzień</string>
    <string name="event_create">Nowe wydarzenie</string>
@@ -103,22 +112,22 @@
    <string name="event_show_more">Więcej</string>
    <string name="event_view">Wyświetl wydarzenie</string>
    <string name="every_weekday">Codziennie (pn-pt)</string>
+   <string name="exist_calendar">Wyjdź</string>
    <string name="gadget_no_events">Brak zbliżających się wydarzeń w kalendarzu</string>
    <string name="gadget_title">Kalendarz</string>
    <string name="goto_today">Dzisiaj</string>
-   <string name="gou_piao_event_title">Przypomnienia o pociągach %s</string>
-   <string name="gou_piao_item1">Remind me of times for trains</string>
-   <string name="gou_piao_item2">For telephone bookings call 12306</string>
-   <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
-   <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
-   <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
    <string name="hide_controls">Ukryj nawigację</string>
    <string name="hint_attendees">Goście</string>
    <string name="hint_description">Opis</string>
    <string name="hint_what">Nazwa wydarzenia</string>
    <string name="hint_where">Lokalizacja</string>
+   <string name="holiday_label">Wakacje</string>
+   <string name="huangli_bad_type">忌</string>
+   <string name="huangli_good_type">宜</string>
+   <string name="huangli_label">老黄历</string>
    <string name="jump_date">Skocz</string>
    <string name="jump_date_full">Skocz do daty</string>
+   <string name="label_recent_events">Ostatnie wydarzenia</string>
    <string name="loading">Trwa wczytywanie...</string>
    <string name="local_calendar_display_name">Kalendarz lokalny</string>
    <string name="local_owner_account_name">Konto lokalne</string>
@@ -127,8 +136,8 @@
    <string name="menu_general_preferences">Ustawienia ogólne</string>
    <string name="menu_preferences">Ustawienia</string>
    <string name="menu_select_visible_calendars">Kalendarze</string>
-   <string name="miui_chinese_week_range_double"/>
-   <string name="miui_chinese_week_range_single"/>
+   <string name="miui_chinese_week_range_single">%1$s.%2$s - %3$s</string>
+   <string name="miui_chinese_week_range_double">%2$s.%1$s - %4$s.%3$s</string>
    <string name="miui_menu_create_event">Nowe wydarzenie</string>
    <string name="modify_all">Zmień wszystkie wydarzenia w serii</string>
    <string name="modify_all_following">Zmień to i wszystkie przyszłe wydarzenia</string>
@@ -150,16 +159,24 @@
    <string name="monthly_on_day">Co miesiąc (%s. każdego miesiąca)</string>
    <string name="monthly_on_day_count">Co miesiąc (co %1$s %2$s)</string>
    <string name="more_string">%1$s więcej...</string>
+   <string name="movable_list_header_label">简介</string>
    <string name="new_event_dialog_label">Nowe wydarzenie</string>
    <string name="new_event_dialog_option">Nowe wydarzenie</string>
    <string name="no_calendars_found">Przed utworzeniem wydarzenia musisz dodać do urządzenia konto z
       Kalendarzem i ustawić wybrany kalendarz jako widoczny. Wybierz „Dodaj konto” (jeśli właśnie to
       zrobiłeś, poczekaj na zakończenie synchronizacji i spróbuj ponownie). Możesz też dotknąć
       Anuluj i upewnić się, że co najmniej jeden kalendarz jest widoczny.</string>
+   <string name="no_local_calendar">Brak lokalnych kalendarzy</string>
+   <string name="no_network">Brak połączenia sieciowego</string>
    <string name="no_syncable_calendars">Brak kalendarzy</string>
    <string name="no_title_label">(Bez tytułu)</string>
    <string name="not_synced">niezsynchronizowany</string>
+   <string name="online_calendar_activity_label">订阅日历</string>
+   <string name="pengzu">彭祖</string>
    <string name="prefDialogTitle_vibrateWhen">Wibracje</string>
+   <string name="pref_title_alert_remind">Okno pop-up</string>
+   <string name="pref_title_no_remind">Bez przypomnień</string>
+   <string name="pref_title_notification_remind">W pasku powiadomień</string>
    <string name="preferences_about_title">Informacje</string>
    <string name="preferences_alerts_popup_title">Wyświetl na ekranie</string>
    <string name="preferences_alerts_ringtone_title">Dźwięk</string>
@@ -196,6 +213,7 @@
    <string name="quick_response_settings_summary">Edytuj domyślne odpowiedzi przy wysyłaniu
       emaili</string>
    <string name="quick_response_settings_title">Edytuj szybkie odpowiedzi</string>
+   <string name="refresh">Odśwież</string>
    <string name="reminders_label">Dodaj przypomnienie</string>
    <string name="repeats_label">Powtarzanie</string>
    <string name="response_maybe">Może</string>
@@ -211,23 +229,25 @@
    <string name="select_synced_calendars_button">Kalendarze do synchronizacji</string>
    <string name="select_synced_calendars_title">Kalendarze do synchronizacji</string>
    <string name="select_visible_calendars_title">Kalendarze do wyświetlenia</string>
-   <string name="show_all_lunar">Kalendarz Księżycowy</string>
-   <string name="show_almanac">Pokaż almanach</string>
    <string name="show_controls">Pokaż nawigację</string>
    <string name="show_day_view">Pokaż dzień</string>
-   <string name="show_gou_piao">Pokaż Święto Wiosny</string>
    <string name="show_newer_events">Dotknij, aby wyświetlić wydarzenia po %1$s</string>
    <string name="show_older_events">Dotknij, aby wyświetlić wydarzenia przed %1$s</string>
    <string name="snooze_all_label">Odłóż wszystkie</string>
    <string name="snooze_label">Uśpij</string>
+   <string name="subscribe_all">Dodaj wszystko</string>
    <string name="synced">zsynchronizowany</string>
+   <string name="tab_local">Lokalnie</string>
+   <string name="tab_online">W sieci</string>
+   <string name="taishen">胎神</string>
    <string name="tardis">TARDIS</string>
-   <string name="template_announce_item_index" formatted="false">Wydarzenie %1$s z %2$s</string>
+   <string name="template_announce_item_index">Wydarzenie %1$s z %2$s</string>
    <string name="time_zone">Strefa czasowa</string>
    <string name="timezone_label">Strefa czasowa</string>
    <string name="today">Dziś</string>
    <string name="today_at_time_fmt">Dziś o %s</string>
    <string name="today_no_events">Brak wydarzeń na dziś</string>
+   <string name="today_weather_unavailable">Pogoda niedostępna</string>
    <string name="tomorrow">Jutro</string>
    <string name="tomorrow_at_time_fmt">Jutro o %s</string>
    <string name="view_event_calendar_label">Kalendarz:</string>
@@ -242,6 +262,8 @@
    <string name="widget_no_events">Brak wydarzeń</string>
    <string name="widget_select_style">Wybierz styl widżetu</string>
    <string name="work_day_indication"/>
-   <string name="yearly">Co rok (%s)</string>
+   <string name="wuxing">五行</string>
+   <string name="xingxiu">星宿</string>
+   <string name="yearly">Co rok (co %s)</string>
    <string name="yearly_plain">Co rok</string>
 </resources>

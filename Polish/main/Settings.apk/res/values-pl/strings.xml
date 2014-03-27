@@ -899,9 +899,11 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dialog_title_check_all">Zaznacz wszystko</string>
   <string name="dialog_title_cleanup_apps">Usunąć dane aplikacji?</string>
   <string name="dialog_title_cleanup_system_cache">Usunąć pamięć podręczną?</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Błąd modułu Czyszczenie! Coś się popsuło ale nie wiadomo co. MIUI zaleca full wipe...</string>
   <string name="dialog_title_color_calibration">Ustaw korekcję kolorów ekranu</string>
   <string name="dialog_title_font_size">Rozmiar czcionki</string>
   <string name="dialog_title_hdmi_color_calibration">Ustaw korekcję kolorów przez HDMI</string>
+  <string name="dialog_title_load_cleanup_engine_error">Błąd</string>
   <string name="dialog_title_uninstall_apps">Odinstaluj</string>
   <string name="dirac_control">Dekodowanie Dirac</string>
   <string name="dirac_mode_earbuds">"Douszne"</string>
@@ -954,7 +956,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dndm_repeated_call_summary_none">Odrzuć powtarzające się połączenia</string>
   <string name="dndm_special_call_setting_group">Opcje dodatkowe</string>
   <string name="dndm_summary">W trybie Godzin ciszy połączenia przychodzące i powiadomienia są wyciszone, a na pasku statusu wyświetlona jest ikona księżyca.</string>
-  <string name="dndm_twelve_hour_time_format">a h:mm</string>
+  <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Rób wyjątki dla kontaktów</string>
   <string name="dndm_vip_call_setting_title">Rób wyjątki</string>
@@ -1140,7 +1142,7 @@ w tym:
   <string name="free_wifi_connect_dialog_title">Dostępna darmowa sieć Wi-Fi</string>
   <string name="free_wifi_connect_fail">"Nie można połączyć się z siecią"</string>
   <string name="free_wifi_connect_fail2">Nie można się zalogować. Spróbuj ponownie.</string>
-  <string name="free_wifi_connect_summary">Darmowa sieć Wi-Fi zapewniana jest przez %1$s. Dotknij by połączyć.</string>
+  <string name="free_wifi_connect_summary">Dotknij by połączyć z %1$s.</string>
   <string name="free_wifi_connect_title">Dostępna sieć Wi-Fi </string>
   <string name="free_wifi_connected">Połączono z darmowym Wi-Fi</string>
   <string name="free_wifi_connected_count">Połączonych użytkowników: %1$s</string>
@@ -1980,7 +1982,7 @@ spróbuj:
   <string name="perm_user_app">Pobrane (%d)</string>
   <string name="perm_version">Wersja: %1$s</string>
   <string name="permission_detail_info">Szczegóły uprawnień</string>
-  <string name="permission_detail_info_summary">Bezpieczeństwo: %1$d，prywatność: %2$d，inne: %3$d</string>
+  <string name="permission_detail_info_summary">Bezpieczeństwo: %1$d | Prywatność: %2$d | Inne: %3$d</string>
   <string name="permission_manage">Zarządzanie uprawnieniami</string>
   <string name="permission_manage_summary">Autostart, uprawnienia bezpieczeństwa i prywatności</string>
   <string name="permission_manage_title">%s szczegółów uprawnień</string>
@@ -3040,7 +3042,7 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="virus_button_clear">Usuń</string>
   <string name="virus_scan">Antywirus</string>
   <string name="virus_scan_app_continue">Skanuj</string>
-  <string name="virus_scan_app_find_risk">Plik %d jest podejrzany，zaleca się odinstalowanie aplikacji.</string>
+  <string name="virus_scan_app_find_risk">Plik %d jest podejrzany.</string>
   <string name="virus_scan_app_finish">Zamknij</string>
   <string name="virus_scan_app_force_stop">Skanowanie zatrzymane.</string>
   <string name="virus_scan_app_is_stop_scan">Zatrzymać skanowanie?</string>
@@ -3055,7 +3057,7 @@ zakończone"</string>
   <string name="virus_scan_app_solve">Napraw wszystkie problemy</string>
   <string name="virus_scan_app_stop">Zatrzymaj skanowanie</string>
   <string name="virus_scan_app_stop_scan">Zatrzymaj skanowanie</string>
-  <string name="virus_scan_app_uninstall">Grupowa deinstalacja (%d)</string>
+  <string name="virus_scan_app_uninstall">Usuń %d</string>
   <string name="virus_scan_app_waiting">Oczekiwanie</string>
   <string name="virus_scan_can_use_wifi">Użyj definicji online</string>
   <string name="virus_scan_clean_dialog_message">Czyszczenie...</string>

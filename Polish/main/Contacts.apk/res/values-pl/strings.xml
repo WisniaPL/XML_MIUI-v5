@@ -4,16 +4,15 @@
   <string name="AirPlane_mode_on_edit">Nie można edytować kontaktu jeśli Tryb Samolotowy jest aktywny.</string>
   <string name="FDNEnabled">Nie można zapisać kontaktu jeśli ustalone numery są aktywne.</string>
   <string name="accessibility_calllog_detail">Szczegóły</string>
-  <string name="account_abnormal_state">Nieprawidłowe informacje o koncie. Spróbuj zalogować się lub spróbować ponownie później!</string>
   <string name="account_container_title">Kontakt zapisany jest na poniższych kontach</string>
   <string name="account_default">Telefon</string>
-  <string name="account_phone">lokalnie, niesynchronizowany</string>
-  <string name="account_sim">Karta SIM %s</string>
+  <string name="account_phone">Lokalnie, niesynchronizowany</string>
+  <string name="account_sim">Karta SIM</string>
+  <string name="account_sim2">Karta SIM %d</string>
   <string name="account_type_format">Kontakt %1$s</string>
   <string name="account_unactivated">Konto nieaktywne.</string>
   <string name="actionIncomingCall">Przychodzące</string>
   <string name="action_menu_overflow_description">Więcej opcji</string>
-  <string name="activity_not_found_uri">Nie można znaleźć aplikacji</string>
   <string name="activity_title_confirm_add_detail">Dodaj do kontaktów</string>
   <string name="activity_title_contacts_filter">Kontakty do wyświetlenia</string>
   <string name="activity_title_settings">Ustawienia</string>
@@ -22,7 +21,7 @@
   <string name="add_account">Dodaj konto</string>
   <string name="add_blacklist">Czarna lista</string>
   <string name="add_connection_button">Dodaj połączenie</string>
-  <string name="add_contact_dlg_message_fmt">Czy dodać adres \"%s\" do kontaktów?</string>
+  <string name="add_contact_dlg_message_fmt">Dodać adres \"%s\" do kontaktów?</string>
   <string name="add_field">Dodaj inne pole</string>
   <string name="add_new_account">Dodaj nowe konto</string>
   <string name="add_new_entry_for_section">Dodaj nowy</string>
@@ -143,7 +142,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="chat_skype">Skype</string>
   <string name="chat_yahoo">Yahoo</string>
   <string name="check_unsynchronized_accounts">Synchronizacja kontaktów</string>
-  <string name="checkhint">sprawdź inny telefon</string>
+  <string name="checkhint">Sprawdź inny telefon</string>
   <string name="clearCallLogConfirmation">Wszystkie dane połączeń zostaną usunięte.</string>
   <string name="clearCallLogConfirmation_title">Usunąć rejestr połączeń?</string>
   <string name="clearCallLogProgress_title">Czyszczenie rejestru połączeń…</string>
@@ -200,7 +199,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="contacts_unavailable_add_xiaomi_account">Przywróć kontakty z Xiaomi</string>
   <string name="contacts_unavailable_create_contact">Utwórz nowy kontakt</string>
   <string name="contacts_unavailable_import_contacts">Przywróć kontakty z pliku vCard</string>
-  <string name="context_menu_add_to_browser_favorite">Dodaj do ulubionych w przeglądarce</string>
   <string name="copy_text">Kopiuj do schowka</string>
   <string name="createContactShortcutSuccessful">Ikona z kontaktem została dodana na pulpit.</string>
   <string name="create_group_dialog_title">Utwórz nową grupę</string>
@@ -278,7 +276,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="device_import_account_dialog_title">Wybierz konto do przywracania</string>
   <string name="device_import_account_dialog_title_suffix">"
 (znalezionych %1$s kontaktów)"</string>
-  <string name="device_import_done_toast">%1$d kontaktów przywróconych</string>
   <string name="device_import_failed_message">Przywracanie nieudane!</string>
   <string name="device_import_local_account">Lokalne konto</string>
   <string name="device_import_message">Przywracanie</string>
@@ -723,6 +720,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="pref_key_rebuild_t9_index_message">Naprawia wyszukiwanie kontaktów w dialerze</string>
   <string name="pref_key_rebuild_t9_index_title">Przebuduj Indeks T9</string>
   <string name="pref_key_sim_manage">Zarządzanie SIM</string>
+  <string name="pref_key_sim_manage2">Zarządzanie SIM 2</string>
   <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google lub Exchange na konto Xiaomi</string>
   <string name="pref_title_account_import">Przenoszenie kontaktów</string>
   <string name="pref_title_card_format">Format udostępniania karty</string>

@@ -130,6 +130,7 @@ Użyte"</string>
   <string name="pref_month_begin_date">Odnowienie pakietu danych w dniu</string>
   <string name="pref_month_first_day">Pierwszy dzień miesiąca</string>
   <string name="pref_more_traffic_settings">Dodatkowe ustawienia</string>
+  <string name="pref_new_installed_preconfig_title">Domyślne ustawienia dla nowych aplikacji</string>
   <string name="pref_open_adjust_traffic">"Sync your data usage stats with your carrier's servers"</string>
   <string name="pref_package_traffic_leisure">%1$s | Poza limitem: %2$s</string>
   <string name="pref_package_traffic_normal">%s</string>
