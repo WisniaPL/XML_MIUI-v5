@@ -59,7 +59,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="callAgain">Wybierz ponownie</string>
   <string name="callBack">Oddzwoń</string>
   <string name="callDetailTitle">Szczegóły połączenia</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
   <string name="callShortcutActivityTitle">Wybierz numer, aby nawiązać połączenie</string>
   <string name="call_assistant">Zadzwoń – %s</string>
   <string name="call_callback">Zadzwoń – połączenie zwrotne</string>
@@ -158,7 +157,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
   <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
   <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Na pewno usunąć rejestr połączeń dla %s?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Na pewno usunąć rejestr połączeń dla kontaktu?"</string>
   <string name="confirm_delete_selected_call_log">Na pewno usunąć zaznaczone grupy: %1d z rejestru?</string>
@@ -337,7 +335,7 @@ Możesz wyłączyć przypomnienie w ustawieniach kontaktów"</string>
   <string name="editContactDescription">Edytuj kontakt</string>
   <string name="editGroupDescription">Edytuj grupę</string>
   <string name="edit_contact">Edytuj kontakt</string>
-  <string name="edit_contact_card_title">Edytuj kartę kontaktu</string>
+  <string name="edit_contact_card_title">Wybierz dane kontaktu</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
   <string name="email_2g_invalid">Nie można zapisać e-maila na 2G SIM, wybierz kartę 3G SIM aby zapisać.</string>
@@ -1107,7 +1105,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="today">Dziś</string>
   <string name="type_incoming">Połączenie</string>
   <string name="type_missed">Nieodebrane połączenia</string>
- <string name="type_mx_msg">Wiadomości w chmurze</string>
+  <string name="type_mx_msg">Wiadomości w chmurze</string>
   <string name="type_outgoing">Połączenie wychodzące</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Poczta głosowa</string>

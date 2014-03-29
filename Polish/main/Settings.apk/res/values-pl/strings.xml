@@ -773,10 +773,10 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
   <string name="data_usage_list_none">Brak</string>
   <string name="data_usage_menu_auto_sync">Autosynchronizacja danych</string>
   <string name="data_usage_menu_metered">Hotspoty komórkowe</string>
-  <string name="data_usage_menu_restrict_background">Ogranicz przesył danych w tle</string>
-  <string name="data_usage_menu_roaming">Dane w roamingu</string>
+  <string name="data_usage_menu_restrict_background">Ogranicz dane w tle</string>
+  <string name="data_usage_menu_roaming">Roaming danych</string>
   <string name="data_usage_menu_show_ethernet">Pokaż użycie sieci Ethernet</string>
-  <string name="data_usage_menu_show_wifi">Pokaż użycie Wi-Fi</string>
+  <string name="data_usage_menu_show_wifi">Pokaż wykorzystanie Wi-Fi</string>
   <string name="data_usage_menu_split_4g">Oddzielnie transmisja danych 4G</string>
   <string name="data_usage_metered_body">Wybierz sieci Wi-Fi, które są hotspotami komórkowymi. Możesz ograniczyć aplikacjom działającym w tle dostęp do tych sieci. Aplikacje mogą też ostrzegać, zanim użyją tych sieci do pobrania dużych ilości danych.</string>
   <string name="data_usage_metered_mobile">Sieci komórkowe</string>
@@ -2541,7 +2541,7 @@ spróbuj:
   <string name="search_unlock_set">Wzór odblokowania</string>
   <string name="search_vpn">VPN</string>
   <string name="search_wallpaper">tapeta</string>
-  <string name="search_wifi">WiFi</string>
+  <string name="search_wifi">Wi-Fi</string>
   <string name="security_passwords_title">Hasła</string>
   <string name="security_privacy_settings_title">Zabezpieczenia</string>
   <string name="security_relative">Bezpieczeństwo</string>
