@@ -93,7 +93,7 @@
    <string name="dlg_confirm_kill_storage_users_title">Włącz nośnik USB</string>
    <string name="dlg_error_title">Operacja USB nieudana</string>
    <string name="dlg_ok">OK</string>
-   <string name="drive_mode_tip">Jesteś w trybie samochodowym. Prowadź ostrożnie podczas korzystania z telefonu.</string>
+   <string name="drive_mode_tip">Tryb Samochód: Prowadź ostrożnie podczas korzystania z telefonu.</string>
    <string name="ext_media_badremoval_notification_message">Odmontuj nośnik USB przed odłączeniem by uniknąć utraty danych.</string>
    <string name="ext_media_badremoval_notification_title">Pamięć USB niespodziewanie wysunięta</string>
    <string name="ext_media_checking_notification_message">Sprawdzanie błędów.</string>
