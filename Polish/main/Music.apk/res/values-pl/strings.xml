@@ -224,6 +224,7 @@ Spróbuj ponownie później"</string>
   <string name="new_playlist">Nowa</string>
   <string name="new_playlist_name_template">Nowa playlista %d</string>
   <string name="no_effect">Wyłączone</string>
+  <string name="no_music_to_play">Brak plików muzyki</string>
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
   <string name="normal_quality">Dobra jakość</string>
   <string name="not_login">Wpisz się</string>

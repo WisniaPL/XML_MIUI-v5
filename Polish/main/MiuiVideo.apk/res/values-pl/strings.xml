@@ -89,6 +89,7 @@
   <string name="dlna_list_name">Urządzenia DLNA</string>
   <string name="dlna_name">Udostępnione</string>
   <string name="download_add_success">Dodano pobieranie wideo</string>
+  <string name="download_delete">Usuń zadanie</string>
   <string name="download_fail">Pobieranie nieudane</string>
   <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
   <string name="download_finish">Pobieranie ukończone</string>

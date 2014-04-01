@@ -168,7 +168,7 @@ Użyte"</string>
   <string name="traffic_protection_label">Ostrzeżenie o transmisji danych</string>
   <string name="traffic_protection_next">Dalej</string>
   <string name="traffic_protection_summary">Ustaw ostrzeżenia jeśli limit transmisji danych zostanie przekroczony</string>
-  <string name="traffic_protection_text_hint">Ustaw limit transmisji danych</string>
+  <string name="traffic_protection_text_hint">Ustaw limit transmisji danych dla %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Ustaw później&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Dane włączone</string>
   <string name="traffic_setting_fragment_area">Lokalnie</string>
