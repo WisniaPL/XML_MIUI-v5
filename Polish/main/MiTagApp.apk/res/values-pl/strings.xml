@@ -127,7 +127,7 @@ by zapisać zadanie."</string>
   <string name="pwd_prot_on">ON</string>
   <string name="read_a_tag">Odczytano tag</string>
   <string name="reading">Odczytywanie…</string>
-  <string name="remote_app">Oczekiwanie na pobieranie…</string>
+  <string name="remote_app">Aplikacje do pobrania</string>
   <string name="remove_alert">Usunąć zaznaczone zadania?</string>
   <string name="ringer_mode">Tryb dzwonka</string>
   <string name="ringer_normal">Normalny</string>
@@ -167,7 +167,7 @@ by zapisać zadanie."</string>
   <string name="tag_history_date_format">dd.MM</string>
   <string name="task">Wywołaj zadania</string>
   <string name="toast_import_failed">Wczytanie kontaktu nieudane</string>
-  <string name="toggle">Przełącznik</string>
+  <string name="toggle">"Przełącznik "</string>
   <string name="torch">Latarka</string>
   <string name="total_read_tag">Odczytane tagi:</string>
   <string name="total_write_tag">Zapisane tagi:</string>
