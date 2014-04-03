@@ -2711,7 +2711,7 @@ spróbuj:
   <string name="storage_settings_title">Ustawienia pamięci</string>
   <string name="storage_size_content">Użyte %1$s | Dostępne %2$s</string>
   <string name="storage_size_title">Pamięć wewnętrzna</string>
-  <string name="storage_title_usb">Połączenie USB z komputerem</string>
+  <string name="storage_title_usb">Połączenie USB</string>
   <string name="storageuse_settings_summary">Wyświetl pamięć używaną przez aplikacje</string>
   <string name="storageuse_settings_title">Użycie pamięci</string>
   <string name="strict_mode">Tryb ścisły włączony</string>

@@ -113,6 +113,7 @@ Wyłącz by odtworzyć dźwięk na tylnym głośniku telefonu"</string>
   <string name="sync_only_in_wifi_summary">Zalecane do aktywacji by operator nie pobierał opłat za transmisję danych</string>
   <string name="sync_records">Synchronizuj nagrania</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_file_is_downloading">Plik jest pobierany, proszę czekać...</string>
   <string name="toast_max_record_time">Aplikacja: %1$s maksymalny czas nagrania %2$s</string>
   <string name="toast_uninstall_fileexplorer">FileExplorer is not installed!</string>
   <string name="unknown_caller">Nieznany rozmówca</string>
