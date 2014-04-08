@@ -7,7 +7,7 @@
     <string name="calibrate_failed_no_location">Kalibracja nieudana: nie można uzyskać aktualnej pozycji geograficznej</string>
     <string name="calibrate_failed_timeout">Kalibracja nieudana: przekroczono limit czasu serwera</string>
     <string name="calibrate_success">Kalibracja zakończona</string>
-    <string name="cannot_get_location">Nie można określić lokalizacji</string>
+    <string name="cannot_get_location">Lokalizacja niedostępna</string>
     <string name="dialog_calibrat_altitude">Kalibracja wysokości za pomocą połączenia internetowego.</string>
     <string name="dialog_title_no_network">Nie wykryto sieci, połącz się z Wi-Fi lub siecią 3G</string>
     <string name="direction_east">E</string>
