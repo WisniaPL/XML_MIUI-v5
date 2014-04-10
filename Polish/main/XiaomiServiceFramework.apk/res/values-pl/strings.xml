@@ -4,7 +4,8 @@
   <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
   <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
   <string name="account">Konto</string>
-  <string name="account_dspt">"Synchronizuj z kontem Xiaomi wiadomości, kontakty, zdjęcia itp."</string>
+  <string name="account_dspt">"Zaloguj się na konto Xiaomi. 
+Synchronizuj z kontem SMS, kontakty, zdjęcia, aplikacje itp."</string>
   <string name="account_hint_text">E-mail/Numer telefonu</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="activate_phone_failed_notif_title">Nie udało się aktywować usługi Chmury Xiaomi</string>
@@ -220,7 +221,7 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="micloud_warn_low_title">Pozostało niewiele pamięci na dysku Xiaomi!</string>
   <string name="micloud_web_discription_01">Dostęp z PC na:</string>
   <string name="micloud_web_discription_02">"http://i.xiaomi.com"</string>
-  <string name="micloud_welcome_skip_login">Pomiń krok</string>
+  <string name="micloud_welcome_skip_login">Pomiń logowanie</string>
   <string name="mili_center">Mi Kredyty</string>
   <string name="my_xiaomi_account">Moje konto Xiaomi</string>
   <string name="next">Dalej</string>

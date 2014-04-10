@@ -285,8 +285,6 @@
   <string name="menu_item_sort_name_desc">Po nazwie (Z-A)</string>
   <string name="menu_item_sort_size_asc">Rozmiar rosnąco</string>
   <string name="menu_item_sort_size_desc">Rozmiar malejąco</string>
-  <string name="menu_item_sort_visit_asc">Oglądalność rosnąco</string>
-  <string name="menu_item_sort_visit_desc">Oglądalność malejąco</string>
   <string name="menu_view_contact">Wyświetl kontakt</string>
   <string name="message_no_delete_access">Odmowa dostępu. Nie można usunąć pliku lub katalogu: %s</string>
   <string name="message_no_delete_access_with_count">Nie można usunąć %d plików lub katalogów.</string>
@@ -527,5 +525,6 @@
   <string name="widget_type_photo">Wybierz zdjęcie</string>
   <string name="widget_type_shuffle">Losuj zdjęcia</string>
   <string name="width">Szerokość</string>
+  <string name="yellow_page">Katalog</string>
   <string name="yes">Zapisz</string>
 </resources>

@@ -1419,7 +1419,7 @@ w tym:
   <string name="location_neighborhood_level">Zezwalaj aplikacjom na używanie usługi lokalizacji Google do szybszego określania Twojego położenia. Anonimowe dane o lokalizacji będą zbierane i przesyłane do Google.</string>
   <string name="location_neighborhood_level_wifi">Lokalizacja określona na podstawie Wi-Fi</string>
   <string name="location_network_based">Przez Wi-Fi i sieć komórkową</string>
-  <string name="location_settings_title">Dostęp do lokalizacji</string>
+  <string name="location_settings_title">Lokalizacja</string>
   <string name="location_sources_heading">Źródła lokalizacji</string>
   <string name="location_street_level">Zezwalaj aplikacjom na określanie mojej lokalizacji przez GPS telefonu</string>
   <string name="location_title">Moja lokalizacja</string>
@@ -2729,7 +2729,8 @@ spróbuj:
   <string name="sync_automatically">Synchronizuj dane</string>
   <string name="sync_calendar">Kalendarz</string>
   <string name="sync_contacts">Kontakty</string>
-  <string name="sync_disabled">Synchronizacja jest wyłączona</string>
+  <string name="sync_disabled">"Dotknij, aby zsynchronizować
+  Synchronizacja jest wyłączona"</string>
   <string name="sync_enable">Włącz synchronizację</string>
   <string name="sync_enabled">Synchronizacja włączona</string>
   <string name="sync_error">Błąd synchronizacji</string>
@@ -2737,7 +2738,7 @@ spróbuj:
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synchronizuję…</string>
   <string name="sync_is_failing">W tej chwili występują problemy z synchronizacją. Synchronizacja będzie możliwa wkrótce.</string>
-  <string name="sync_item_title">Synchronizuj: %s</string>
+  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Anuluj synchronizację</string>
   <string name="sync_menu_sync_now">Synchronizuj teraz</string>
   <string name="sync_one_time_sync">"Dotknij, aby zsynchronizować %1$s"</string>

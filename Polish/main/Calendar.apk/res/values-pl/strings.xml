@@ -24,8 +24,6 @@
    <string name="acessibility_selected_marker_description">Wybrane wydarzenie</string>
    <string name="acessibility_snooze_notification">Uśpij powiadomienie</string>
    <string name="action_bar_today">D</string>
-   <string name="activity_summary">10</string>
-   <string name="activity_title">MIUI</string>
    <string name="add_account">Dodaj konto</string>
    <string name="add_calendar">Dodaj kalendarz</string>
    <string name="add_topic_success">Dodano \"%s\"</string>
@@ -50,6 +48,7 @@
    <string name="birthday_notification_type_term_lunar"/>
    <string name="button_day">D</string>
    <string name="button_month">M</string>
+   <string name="button_online">订</string>
    <string name="calendar_refresh">Odśwież</string>
    <string name="calendar_server_error">Błąd serwera</string>
    <string name="change_response_title">Zmień odpowiedź</string>
@@ -97,8 +96,10 @@
    <string name="event_account">Kalendarz</string>
    <string name="event_all_day_label">Cały dzień</string>
    <string name="event_create">Nowe wydarzenie</string>
+   <string name="event_date_format">dd.MM EEEE</string>
    <string name="event_delete">Usuń wydarzenie</string>
    <string name="event_edit">Edytuj wydarzenie</string>
+   <string name="event_full_date_format">dd.MM.yyyy</string>
    <string name="event_hide_more">Ukryj</string>
    <string name="event_info_descrip">"Opis: "</string>
    <string name="event_info_organizer">Organizator:</string>
@@ -136,8 +137,8 @@
    <string name="menu_general_preferences">Ustawienia ogólne</string>
    <string name="menu_preferences">Ustawienia</string>
    <string name="menu_select_visible_calendars">Kalendarze</string>
-   <string name="miui_chinese_week_range_single">%1$s.%2$s - %3$s</string>
-   <string name="miui_chinese_week_range_double">%2$s.%1$s - %4$s.%3$s</string>
+   <string name="miui_chinese_week_range_single"/>
+   <string name="miui_chinese_week_range_double"/>
    <string name="miui_menu_create_event">Nowe wydarzenie</string>
    <string name="modify_all">Zmień wszystkie wydarzenia w serii</string>
    <string name="modify_all_following">Zmień to i wszystkie przyszłe wydarzenia</string>
@@ -172,6 +173,11 @@
    <string name="no_title_label">(Bez tytułu)</string>
    <string name="not_synced">niezsynchronizowany</string>
    <string name="online_calendar_activity_label">订阅日历</string>
+   <string name="online_reminder_header_text">提醒</string>
+   <string name="online_reminder_primary_text">启用提醒</string>
+   <string name="online_reminder_secondary_text">提醒时间</string>
+   <string name="online_reminder_time_allday">上午9点</string>
+   <string name="online_reminder_time_text">提前%d分钟</string>
    <string name="pengzu">彭祖</string>
    <string name="prefDialogTitle_vibrateWhen">Wibracje</string>
    <string name="pref_title_alarm_remind">Alarm</string>
@@ -230,6 +236,7 @@
    <string name="select_synced_calendars_button">Kalendarze do synchronizacji</string>
    <string name="select_synced_calendars_title">Kalendarze do synchronizacji</string>
    <string name="select_visible_calendars_title">Kalendarze do wyświetlenia</string>
+   <string name="setting_load_images_under_data_conn">非WIFI网络下加载在线订阅大图</string>
    <string name="show_controls">Pokaż nawigację</string>
    <string name="show_day_view">Pokaż dzień</string>
    <string name="show_newer_events">Dotknij, aby wyświetlić wydarzenia po %1$s</string>
@@ -238,6 +245,7 @@
    <string name="snooze_label">Uśpij</string>
    <string name="subscribe_all">Dodaj wszystko</string>
    <string name="synced">zsynchronizowany</string>
+   <string name="tab_category">Kategorie</string>
    <string name="tab_local">Lokalnie</string>
    <string name="tab_online">W sieci</string>
    <string name="taishen">胎神</string>
@@ -248,9 +256,9 @@
    <string name="today">Dziś</string>
    <string name="today_at_time_fmt">Dziś o %s</string>
    <string name="today_no_events">Brak wydarzeń na dziś</string>
-   <string name="today_weather_unavailable">Pogoda niedostępna</string>
    <string name="tomorrow">Jutro</string>
    <string name="tomorrow_at_time_fmt">Jutro o %s</string>
+   <string name="topic_event_list_header_label">近期活动</string>
    <string name="view_event_calendar_label">Kalendarz:</string>
    <string name="view_event_organizer_label">Organizator:</string>
    <string name="view_event_response_label">Uczestnictwo</string>

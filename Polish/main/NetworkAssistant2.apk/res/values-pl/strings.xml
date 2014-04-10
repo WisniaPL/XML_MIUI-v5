@@ -28,8 +28,8 @@ Dalsze korzystanie z transmisji danych może powodować naliczenie opłat od ope
   <string name="data_usage_limit_snoozed_body">"Limit transmisji danych został przekroczony."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Limit transmisji danych został przekroczony</string>
   <string name="data_usage_mobile_limit_title">Transmisja danych mobilnych została wyłączona</string>
-  <string name="data_usage_no_total_package_body">Ustawić limit transmisji danych?</string>
-  <string name="data_usage_no_total_package_body_dual">Ustawić limit transmisji danych dla karty %s?</string>
+  <string name="data_usage_no_total_package_body">Ustal limit transmisji danych</string>
+  <string name="data_usage_no_total_package_body_dual">Ustal limit transmisji danych dla karty %s</string>
   <string name="data_usage_no_total_package_title">Użycie danych</string>
   <string name="data_usage_restricted_body">Włącz dane w tle</string>
   <string name="data_usage_restricted_title">Dane w tle ograniczone</string>
@@ -138,7 +138,7 @@ Użyte"</string>
   <string name="pref_package_traffic_settings">Limit danych mobilnych</string>
   <string name="pref_pkg_begin_date">Data resetowania cyklu</string>
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
-  <string name="pref_show_mobile_traffic">Pokaż użycie danych na ekranie blokady od momentu zablokowania telefonu (po 3 minutach)</string>
+  <string name="pref_show_mobile_traffic">Pokaż użycie danych na ekranie blokady od momentu zablokowania telefonu (po 5 minutach)</string>
   <string name="pref_special_traffic_exceed_limit">Powiadom o przekroczeniu limitu danych</string>
   <string name="pref_special_traffic_limit_warn">Ustaw ostrzeżenie o limicie danych</string>
   <string name="pref_specified_adjust">Set custom data limit</string>
@@ -164,12 +164,12 @@ Użyte"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Dane zaktualizowane</string>
   <string name="traffic_none">b.d.</string>
-  <string name="traffic_protection_data_usage_summary">"Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
+  <string name="traffic_protection_data_usage_summary">"Przekroczenie limitu danych mobilnych może powodować naliczenie opłat przez operatora."</string>
   <string name="traffic_protection_label">Ostrzeżenie o transmisji danych</string>
   <string name="traffic_protection_next">Dalej</string>
-  <string name="traffic_protection_summary">Ustaw ostrzeżenia jeśli limit transmisji danych zostanie przekroczony</string>
-  <string name="traffic_protection_text_hint">Ustaw limit transmisji danych dla %s</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Ustaw później&lt;/u&gt;</string>
+  <string name="traffic_protection_summary">Ustaw ostrzeżenia jeśli limit transmisji danych zostanie przekroczony.</string>
+  <string name="traffic_protection_text_hint">Ustaw limit transmisji dla %s</string>
+  <string name="traffic_protection_unknown">Ustaw później</string>
   <string name="traffic_protection_use_data">Dane włączone</string>
   <string name="traffic_setting_fragment_area">Lokalnie</string>
   <string name="traffic_setting_fragment_brand">Brand</string>

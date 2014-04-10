@@ -9,9 +9,7 @@ Czy zezwolić na to teraz i w przyszłości?"</string>
     <string name="app_name">Instalator pakietu</string>
     <string name="app_not_found_dlg_text">Nie znaleziono aplikacji na liście zainstalowanych aplikacji.</string>
     <string name="app_not_found_dlg_title">Nie znaleziono aplikacji</string>
-    <string name="auto_startup_dialog_msg">"MIUI chce pozwolić aplikacji na automatyczny start bez pytania.
-
-Zezwolić na autostart？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI pozwoli aplikacji na automatyczny start bez pytania."</string>
     <string name="caller_app">Wywołano od: %1$s</string>
     <string name="cancel">Anuluj</string>
     <string name="dlg_app_replacement_statement">"Instalowana aplikacja zastąpi inną aplikację.
@@ -66,9 +64,7 @@ Wszystkie dane użytkownika zostaną zapisane."</string>
     <string name="safe_relative">Bezpieczne uprawnienia</string>
     <string name="security_settings_desc">Zezwalaj tej aplikacji na:</string>
     <string name="settings">Ustawienia</string>
-    <string name="trust_switch_dialog_msg">"MIUI nie będzie pytać o kwestie bezpieczeństwa i prywatności od tej aplikacji. 
-
-Zaufać aplikacji?"</string>
+    <string name="trust_switch_dialog_msg">"MIUI nie będzie pytać o kwestie bezpieczeństwa i prywatności od tej aplikacji."</string>
     <string name="uninstall_activity_text">%1$s jest częścią następującej aplikacji:</string>
     <string name="uninstall_application_text">Ta aplikacja zostanie odinstalowana.</string>
     <string name="uninstall_application_title">Odinstaluj aplikację</string>
@@ -85,8 +81,9 @@ Zaufać aplikacji?"</string>
     <string name="unknown_apps_dlg_text">Ze względów bezpieczeństwa telefon jest ustawiony tak, aby blokować instalowanie aplikacji niepochodzących z usługi Android Market.</string>
     <string name="unknown_apps_dlg_title">Instalowanie zablokowane</string>
   <string name="unknown_installer">Nieznany instalator</string>
+  <string name="virus_scan_caller_unknown">Nieznany</string>
   <string name="virus_scan_clear">Usuń</string>
-  <string name="virus_scan_install">"  "</string>
+  <string name="virus_scan_install">Zainstaluj mimo to</string>
   <string name="virus_scan_is_risk">Ta aplikacja jest podejrzana!</string>
   <string name="virus_scan_is_virus">Ta aplikacja zawiera wirusa. Usuń ją natychmiast!</string>
 </resources>

@@ -157,8 +157,8 @@
   <string name="call_assistant_miui">Wspomaganie wybierania</string>
   <string name="call_barring_sum">Ograniczenie połączeń głosowych</string>
   <string name="call_forwarding_number_hint_miui">Wpisz numer do przekazania</string>
-  <string name="call_forwarding_settings">Przekazywanie połączeń</string>
-  <string name="call_forwarding_settings_miui">Przekazywanie połączeń</string>
+  <string name="call_forwarding_settings">Przekierowanie połączeń</string>
+  <string name="call_forwarding_settings_miui">Przekierowanie połączeń</string>
   <string name="call_lost">Połączenie zostało zerwane.</string>
   <string name="call_number">Do:</string>
   <string name="call_record_button_label">Nagrywanie %s</string>
@@ -196,7 +196,7 @@
   <string name="call_waiting_tone_title_miui">Ton połączenia oczekującego</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Wibruj i odtwórz ton</string>
   <string name="call_waiting_tone_twice_only_miui">Odtwórz ton dwa razy</string>
-  <string name="caller_id_sum_miui">Ukryj/pokaż numer dla połączeń wychodzących (jeśli wspierane przez operatora)</string>
+  <string name="caller_id_sum_miui">Użyj domyślnych ustawień operatora, aby wyświetlać mój numer w połączeniach wychodzących</string>
   <string name="caller_id_title_miui">ID rozmówcy</string>
   <string name="caller_manage_header">Połączenie konferencyjne %s</string>
   <string name="caller_manage_manage_done_text">Powrót do połączenia</string>
@@ -209,7 +209,7 @@
   <string name="card_title_call_ended">"Połączenie "</string>
   <string name="card_title_conf_call">Połączenie konferencyjne</string>
   <string name="card_title_dialing">Wybieranie</string>
-  <string name="card_title_forwarded_incoming_call_miui">Przekazywanie połączeń</string>
+  <string name="card_title_forwarded_incoming_call_miui">Przekierowanie połączeń</string>
   <string name="card_title_hanging_up">Trwa rozłączanie</string>
   <string name="card_title_in_call">W połączeniu</string>
   <string name="card_title_in_progress">Current call</string>
@@ -473,7 +473,7 @@ Czy na pewno zastosować?"</string>
   <string name="fdn">Ustalone numery</string>
   <string name="fdnListLabel">Lista ustalonych numerów</string>
   <string name="fdn_activation">Aktywacja ustalonych numerów</string>
-  <string name="fdn_change_pin_sum_miui">Zmień PIN, aby mieć dostęp do numerów ustalonych</string>
+  <string name="fdn_change_pin_sum_miui">Zmień kod PIN pozwalający na zarządzanie ustalonymi numerami</string>
   <string name="fdn_check_failure">W aplikacji Telefon włączone jest ustawienie Numery ustalone. W rezultacie niektóre funkcje związane z połączeniami nie działają.</string>
   <string name="fdn_contact_added">Dodano ustalony numer.</string>
   <string name="fdn_contact_deleted">Usunięto ustalony numer.</string>
@@ -499,8 +499,8 @@ Czy na pewno zastosować?"</string>
   <string name="get_smsc_address_timeout_miui">Przekroczono limit czasu podczas uzyskiwania numeru centrum SMS, spróbuj ponownie później.</string>
   <string name="goPrivate">prywatnie</string>
   <string name="go_private_miui">go private</string>
-  <string name="gsm_umts_network_preferences_dialogtitle">Tryb sieciowy</string>
-  <string name="gsm_umts_network_preferences_title">Tryb sieciowy</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Preferowany typ sieci</string>
+  <string name="gsm_umts_network_preferences_title">Preferowany typ sieci</string>
   <string name="gsm_umts_network_preferneces_summary">Not implemented yet!</string>
   <string name="gsm_umts_options">Opcje GSM/UMTS</string>
   <string name="hac_mode_summary">Włącz funkcje zgodności z aparatem słuchowym</string>
@@ -590,7 +590,7 @@ Czy na pewno zastosować?"</string>
   <string name="ip_prefix_sum_miui">"Prefiks operatora: %s"</string>
   <string name="jituan_number_format_error_message_miui">%s only supports numbers and wildcards</string>
   <string name="labelCDMAMore">Ustawienia połączenia CDMA</string>
-  <string name="labelCF">Przekazywanie połączeń</string>
+  <string name="labelCF">Przekierowanie połączeń</string>
   <string name="labelCFB">Przekieruj, gdy zajęty</string>
   <string name="labelCFC">Anuluj przekierowania</string>
   <string name="labelCFNRc">Przekieruj, gdy nieosiągalny</string>
@@ -644,7 +644,7 @@ Czy na pewno zastosować?"</string>
   <string name="manageConferenceLabel">Połączenia konferencyjne</string>
   <string name="manage_fdn_list">Ustalone numery</string>
   <string name="manage_fdn_list_miui">Lista numerów ustalonych</string>
-  <string name="manage_fdn_list_sum_miui">Zarządzaj listą numerów</string>
+  <string name="manage_fdn_list_sum_miui">Zarządzanie listą numerów telefonów</string>
   <string name="manual_select_dialog_msg">Telefon nie wybierze innych operatorów w trybie ręcznego wyboru. Jednak czasem będziesz musiał ponownie wybrać operatora ręcznie lub przełączyć na wybór automatyczny jeśli telefon utraci zasięg z siecią. Zalecane jest korzystanie z automatycznego wyboru operatora. Czy chcesz ręcznie wybrać operatora?</string>
   <string name="manual_select_title">Wybierz ręcznie operatora</string>
   <string name="menu_add">Dodaj kontakt</string>
@@ -893,7 +893,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Zmień tryb działania sieci</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Preferowany tryb sieci: LTE / WCDMA</string>
   <string name="preferred_network_mode_summary">Zmień tryb sieciowy</string>
-  <string name="preferred_network_mode_title">Tryb sieciowy</string>
+  <string name="preferred_network_mode_title">Preferowany typ sieci</string>
   <string name="preferred_network_mode_wcdma_only_summary">Preferowany tryb sieci: tylko WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Preferowany tryb sieci: preferowane WCDMA</string>
   <string name="preferred_network_type_3g_only_warning_miui">
@@ -908,7 +908,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="preferred_network_type_pref_entries_only_2g_miui">Tylko sieci 2G GSM (E)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Tylko sieci 3G WCDMA (H/H+)</string>
   <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
-  <string name="preferred_network_type_title_miui">Tryb sieciowy</string>
+  <string name="preferred_network_type_title_miui">Preferowany typ sieci</string>
   <string name="primary_account_summary_with">Podstawowe konto. %s</string>
   <string name="private_num">Numer prywatny</string>
   <string name="proceed">Dalej</string>
@@ -945,9 +945,9 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="registration_status_registering">Rejestrowanie...</string>
   <string name="registration_status_server_unreachable">Rejestracja konta zakończona niepowodzeniem: sprawdź nazwę serwera</string>
   <string name="registration_status_still_trying">Kontynuowanie prób...</string>
-  <string name="reject_via_sms_miui">Odpowiedź SMS</string>
+  <string name="reject_via_sms_miui">Szybkie odpowiedzi</string>
   <string name="reject_via_sms_summary_miui">Ustal treść wiadomości SMS wysyłanej do rozmówcy w przypadku odrzucenia połączenia</string>
-  <string name="reject_via_sms_title_miui">Odpowiedź SMS</string>
+  <string name="reject_via_sms_title_miui">Edytuj szybkie odpowiedzi</string>
   <string name="remember_my_choice">Zawsze używaj do połączeń przez internet</string>
   <string name="reminder">Przypomnienie</string>
   <string name="remove_miui">Usuń</string>
@@ -1120,7 +1120,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="t9_indexing_rebuilding_message">Przebudowa indeksu T9…</string>
   <string name="technology_news_disable">Wiadomości technologiczne wyłączone</string>
   <string name="technology_news_enable">Wiadomości technologiczne włączone</string>
-  <string name="telocation_setting_miui">Ustawienia lokalizacji</string>
+  <string name="telocation_setting_miui">Lokalizacja</string>
   <string name="telocation_setting_summary_countrycode_off">Nie dodawaj kierunkowego kraju</string>
   <string name="telocation_setting_summary_countrycode_on">Dodaj kierunkowy kraju</string>
   <string name="telocation_setting_summary_teloc_off">Ukryj lokalizację</string>
@@ -1157,7 +1157,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="turn_on_3g_service_message">Włączyć usługi 3G?</string>
   <string name="turnover_mute_summary_miui">Wycisza dzwonek przy odwróceniu telefonu</string>
   <string name="turnover_mute_title_miui">Odwróć by wyciszyć</string>
-  <string name="umts_preferred_network_mode_dialogtitle">Tryb sieciowy</string>
+  <string name="umts_preferred_network_mode_dialogtitle">Preferowany typ sieci</string>
   <string name="unblock_pin2">Unblock PIN2</string>
   <string name="undefined_miui">Niezdefiniowany</string>
   <string name="unknown">Nieznany</string>
