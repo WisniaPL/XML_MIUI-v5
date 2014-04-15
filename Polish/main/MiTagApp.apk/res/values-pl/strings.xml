@@ -50,6 +50,8 @@ by zapisać zadanie."</string>
   <string name="create">Utwórz</string>
   <string name="create_configs_prompt">Naciśnij Dodaj by stworzyć zadanie</string>
   <string name="create_tag">Nowy</string>
+  <string name="data">Dane mobilne</string>
+  <string name="data_net">Sieć mobilna</string>
   <string name="delete">Usuń</string>
   <string name="deleting">Usuwanie…</string>
   <string name="detect_empty_tag">Wykryto pusty tag</string>
@@ -78,6 +80,7 @@ by zapisać zadanie."</string>
     lub nie można zapisać zadania. Spróbuj ponownie z innym tagiem."</string>
   <string name="error_password">Błędne hasło</string>
   <string name="failed_install">Nie można zainstalować</string>
+  <string name="gps">GPS</string>
   <string name="help_title">Pomoc</string>
   <string name="hint_input_address">Adres</string>
   <string name="hint_input_alarm_label">Wpisz etykietę</string>
@@ -115,6 +118,7 @@ by zapisać zadanie."</string>
   <string name="open_xiaomi_web">Przejdź do Xiaomi.com</string>
   <string name="password_preference">Ochrona hasłem</string>
   <string name="percent">%s%%</string>
+  <string name="personal">Osobiste</string>
   <string name="phone">Telefon</string>
   <string name="phone_call">Zadzwoń</string>
   <string name="phone_to_tag">Aby edytować tag,</string>

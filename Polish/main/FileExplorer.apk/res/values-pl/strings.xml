@@ -203,7 +203,7 @@ niepotrzebne pliki"</string>
     <string name="operation_moving">Przenoszenie</string>
     <string name="operation_moving_detail">Przenoszenie plików (%1$d/%2$d)</string>
     <string name="operation_paste">Wklej</string>
-    <string name="operation_pasting">Wklejanie…</string>
+    <string name="operation_pasting">Kopiowanie…</string>
     <string name="operation_pause">Wstrzymaj</string>
     <string name="operation_pause_all">Zatrzymywanie</string>
     <string name="operation_refresh">Odśwież</string>

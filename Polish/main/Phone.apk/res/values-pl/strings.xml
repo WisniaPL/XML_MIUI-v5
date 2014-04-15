@@ -77,8 +77,8 @@
   <string name="auto_answer_setting_title_miui">Ustawienia autoodbierania</string>
   <string name="auto_answer_summary_delay">(opóźnienie:%ss)</string>
   <string name="auto_answer_summary_not_enabled">Wyłączone</string>
-  <string name="auto_country_code_miui">Dodaj kierunkowy</string>
-  <string name="auto_country_code_sum_miui">Dodawaj automatycznie kod kierunkowy kraju przed numerem telefonu znanych kontaktów. Numer będzie wybierany bezpośrednio.</string>
+  <string name="auto_country_code_miui">Dodaj kierunkowy kraju</string>
+  <string name="auto_country_code_sum_miui">Automatycznie dodaj kod kierunkowy kraju przed numerem telefonu znanych kontaktów. Numer będzie wybierany bezpośrednio.</string>
   <string name="auto_ip_add_exception_numbers_miui">Dodaj numery</string>
   <string name="auto_ip_exception_miui">"Numery niewymagające prefiksu IP"</string>
   <string name="auto_ip_exception_summary_miui">razem %d</string>
@@ -99,12 +99,12 @@
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numerów</string>
   <string name="auto_record_yellowpage_miui">Wyjątki (tylko w Chinach)</string>
-  <string name="auto_redial_pref_summary_miui">Jeśli nie połączono, system będzie próbował połączyć się 10 razy wybierając numer automatycznie</string>
+  <string name="auto_redial_pref_summary_miui">Ponów automatycznie próby łączenia z niepołączonym numerem</string>
   <string name="auto_redial_pref_title_miui">Ponowne wybieranie</string>
   <string name="auto_reject_sum">Block different incoming calls directly</string>
-  <string name="auto_reject_sum_sip">Set to block all Internet incoming calls directly</string>
-  <string name="auto_reject_sum_video">Set to block all video incoming calls directly</string>
-  <string name="auto_reject_sum_voice">Set to block all voice incoming calls directly</string>
+  <string name="auto_reject_sum_sip">Blokuj wszystkie przychodzące połączenia internetowe SIP</string>
+  <string name="auto_reject_sum_video">Blokuj wszystkie przychodzące połączenia wideo</string>
+  <string name="auto_reject_sum_voice">Blokuj wszystkie przychodzące połączenia głosowe</string>
   <string name="auto_reject_title">Blokuj przychodzące</string>
   <string name="auto_reject_title_sip">Połączenia Internetowe</string>
   <string name="auto_reject_title_video">Połączenia wideo</string>
@@ -306,7 +306,7 @@ Czy na pewno zastosować?"</string>
   <string name="deactivate_all">Anuluj wszystko</string>
   <string name="default_contacts_countrycode_hint_miui">Na przykład: 48</string>
   <string name="default_contacts_countrycode_miui">Kierunkowy kraju dla kontaktów</string>
-  <string name="default_contacts_countrycode_sum_miui">Ustaw domyślny kod kierunkowy kraju dla kontaktów: %s</string>
+  <string name="default_contacts_countrycode_sum_miui">Domyślny kod kierunkowy: %s</string>
   <string name="default_ims_call_type">Voice</string>
   <string name="default_notification_description">Domyślny dźwięk (%1$s)</string>
   <string name="default_port">5060</string>
@@ -446,7 +446,7 @@ Czy na pewno zastosować?"</string>
   <string name="enable_sim_pin">Włącz kod PIN do karty SIM</string>
   <string name="enable_sim_pin_miui">Włącz kod PIN do karty SIM</string>
   <string name="enable_sip_dialog_message">Połączenia internetowe wyłączone. Włączyć?</string>
-  <string name="enable_telocation_title_miui">Pokaż lokalizację kontaktu</string>
+  <string name="enable_telocation_title_miui">Pokaż lokalizację numeru</string>
   <string name="enforce_proximity_summary_miui">Zapobiega przypadkowym połączeniom jeśli telefon jest w kieszeni lub nieużywany</string>
   <string name="enforce_proximity_title_miui">Czujnik kieszeni</string>
   <string name="enterName">Wprowadź nazwę:</string>
