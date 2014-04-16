@@ -8,14 +8,19 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Biały</item>
+        <item>Żółty</item>
+        <item>Szary</item>
+        <item>Brązowy</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+        <item>Ciemny</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Zawsze</item>
         <item>Na życzenie</item>
         <item>Wyłączone</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Strona startowa</item>
-        <item>Własny adres strony</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Bardzo mały</item>
@@ -24,16 +29,13 @@
         <item>Duży</item>
         <item>Bardzo duży</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Małe</item>
-        <item>Średnie</item>
-        <item>Duże</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
+    <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
@@ -60,6 +62,10 @@
         <item>"Tylko przy Wi-Fi. "</item>
         <item>"Zawsze. "</item>
     </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Domyślna strona startowa</item>
+        <item>Własne</item>
+    </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Przełączenie stron</item>
         <item>Przełączenie kart</item>
@@ -68,18 +74,14 @@
         <item>Strona do przodu/do tyłu</item>
         <item>Przełączenie karty</item>
     </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Małe</item>
+        <item>Średnie</item>
+        <item>Duże</item>
+    </string-array>
     <string-array name="pref_images_preload_choices">
         <item>"Nigdy. "</item>
         <item>"Tylko przy Wi-Fi. "</item>
         <item>"Zawsze. "</item>
-    </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Biały</item>
-        <item>Żółty</item>
-        <item>Szary</item>
-        <item>Brązowy</item>
-        <item>Zielony</item>
-        <item>Niebieski</item>
-        <item>Ciemny</item>
     </string-array>
 </resources>
