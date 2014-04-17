@@ -2730,7 +2730,7 @@ spróbuj:
   <string name="sync_calendar">Kalendarz</string>
   <string name="sync_contacts">Kontakty</string>
   <string name="sync_disabled">"Dotknij, aby zsynchronizować
-  Synchronizacja jest wyłączona"</string>
+Synchronizacja jest wyłączona"</string>
   <string name="sync_enable">Włącz synchronizację</string>
   <string name="sync_enabled">Synchronizacja włączona</string>
   <string name="sync_error">Błąd synchronizacji</string>
