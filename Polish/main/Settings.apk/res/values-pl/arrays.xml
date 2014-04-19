@@ -316,6 +316,42 @@
         <item>Średnie</item>
         <item>Długie</item>
     </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Domyślna</item>
+        <item>Bezszeryfowa</item>
+        <item>Bezszeryfowa wąska</item>
+        <item>Szeryfowa</item>
+        <item>Równej szerokości</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Bardzo mały</item>
+        <item>Mały</item>
+        <item>Normalny</item>
+        <item>Duży</item>
+        <item>Bardzo duży</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Brak</item>
+        <item>Obrys</item>
+        <item>Z cieniem</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Biały na czarnym</item>
+        <item>Czarny na białym</item>
+        <item>Żółty na czarnym</item>
+        <item>Żółty na niebieskim</item>
+        <item>Niestandardowy</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (debugowanie)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Użyj Dalvik</item>
+        <item>Użyj ART</item>
+        <item>Użyj komplikacji debugowania ART</item>
+    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nigdy nie sprawdzaj</item>
         <item>Sprawdzaj tylko w przypadku treści chronionych DRM</item>
@@ -376,6 +412,12 @@
         <item>Na ekranie w postaci pasków</item>
         <item>Na ekranie w postaci linii</item>
         <item>W adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Wył.</item>
+        <item>Pokaż przerysowywane obszary</item>
+        <item>Pokaż obszary dostosowane do deuteranomalii</item>
+        <item>Pokaż licznik przerysowań</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardowy limit</item>

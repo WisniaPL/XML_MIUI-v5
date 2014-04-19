@@ -5,8 +5,10 @@
   <string name="action_clear_memory">Wyczyść pamięć</string>
   <string name="action_clear_sms_inbox">Wyczyść skrzynkę odbiorczą sms</string>
   <string name="action_close">Zamknij</string>
+  <string name="action_home">Na pulpit</string>
   <string name="action_lock_screen">Zablokuj ekran</string>
   <string name="action_open_camera">Aparat</string>
+  <string name="action_open_camera2">Szybkie zdjęcie</string>
   <string name="action_open_flashlight">Latarka</string>
   <string name="action_open_or_close_motion">Obracanie ekranu</string>
   <string name="action_open_other_app">Otwórz aplikację</string>
@@ -15,11 +17,14 @@
   <string name="action_phone">Połącz</string>
   <string name="action_screen_shot">Zrzut ekranu</string>
   <string name="action_send_text_message">Wyślij SMS</string>
+  <string name="action_share_to_miliao">Udostępnij na MiTalk</string>
+  <string name="action_share_to_miliao_wall">Udostępnij na MiTalk radio</string>
   <string name="action_share_to_moment">Udostępnij na Moment</string>
   <string name="action_share_to_wechat">Udostępnij na WeChat</string>
   <string name="action_share_to_weibo">Udostępnij na Weibo</string>
   <string name="add">Dodaj</string>
   <string name="app_name">MiKey</string>
+  <string name="back_camera">Tylny aparat</string>
   <string name="call_to">Połącz z</string>
   <string name="cancel">Anuluj</string>
   <string name="category_app">Aplikacje</string>
@@ -43,18 +48,23 @@
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
   <string name="confirm">Potwierdź</string>
+  <string name="default_action_title">Domyślna akcja</string>
   <string name="delete">Usuń</string>
   <string name="delete_confirm">Potwierdzić usunięcie?</string>
   <string name="delete_gesture">Usunąć?</string>
   <string name="device_not_recognized">Urządzenie nierozpoznane. Podłącz ponownie MiKey</string>
   <string name="earphone">Słuchawki</string>
+  <string name="font_name_all">Miui-Bold</string>
+  <string name="front_camera">Przedni aparat</string>
   <string name="input_phone">Wpisz numer telefonu</string>
   <string name="long_click">Długie przytrzymanie</string>
+  <string name="message_photo_end">Zdjęcia zostały zapisane</string>
   <string name="no_usage">...</string>
   <string name="rank_prefix">Ranking:</string>
   <string name="rank_suffix">Naciśnięć:</string>
   <string name="recommend"/>
   <string name="running_notification">Aplikacja MiKey uruchomiona</string>
+  <string name="select_camera">Wybierz aparat</string>
   <string name="select_device">Wybierz tryb audio jack:</string>
   <string name="short_click_1">1x</string>
   <string name="short_click_10">10x</string>
@@ -72,4 +82,5 @@
   <string name="splash_tip">Podłącz MiKey</string>
   <string name="task_title_prefix"/>
   <string name="times">" kliknięć"</string>
+  <string name="write_pic_fail">Zapis zdjęć nieudany</string>
 </resources>

@@ -44,4 +44,12 @@
         <item quantity="other">%d aplikacji może czytać powiadomienia</item>
         <item quantity="one">%d aplikacja może czytać powiadomienia</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d prób(y).</item>
+        <item quantity="one">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próbę, zanim będziesz musiał skontaktować się z operatorem, by odblokował Twoje urządzenie.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Znalezione drukarki: %1$s</item>
+        <item quantity="one">Znaleziono %1$s drukarkę</item>
+    </plurals>
 </resources>
