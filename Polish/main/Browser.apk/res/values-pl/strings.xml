@@ -422,7 +422,6 @@
   <string name="pref_setting_title">Ustawienia strony</string>
   <string name="pref_text_zoom">Skalowanie tekstu</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">Tekst user agenta</string>
   <string name="pref_ua_title">User agent</string>
   <string name="pref_version_summary">"Wersja aplikacji: %s"</string>

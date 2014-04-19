@@ -209,7 +209,6 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_jpegquality_entry_normal">Normalna</string>
   <string name="pref_camera_jpegquality_entry_superfine">Bardzo dobra</string>
   <string name="pref_camera_jpegquality_title">Jakość zdjęć</string>
-  <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Wył</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Wł</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Zdjęcia seryjne</string>

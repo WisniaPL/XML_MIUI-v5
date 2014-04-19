@@ -83,7 +83,7 @@ Opuść na chwilę widok"</string>
   <string name="effect_goofy_face_small_eyes">Małe oczy</string>
   <string name="effect_goofy_face_small_mouth">Małe usta</string>
   <string name="effect_goofy_face_squeeze">Ściśnięcie</string>
-  <string name="effect_none">Brak</string>
+  <string name="effect_none"/>
   <string name="effect_silly_faces">Śmieszne twarze</string>
   <string name="empty">" "</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
@@ -172,12 +172,11 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Matrycowy</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Punktowy</string>
   <string name="pref_camera_autoexposure_title">Tryb automatycznej ekspozycji</string>
-  <string name="pref_camera_coloreffect_entry_aqua">Woda</string>
-  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
-  <string name="pref_camera_coloreffect_entry_negative">Negatyw</string>
-  <string name="pref_camera_coloreffect_entry_none">Brak</string>
-  <string name="pref_camera_coloreffect_entry_posterize">Posteryzacja</string>
-  <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
+  <string name="pref_camera_coloreffect_entry_aqua"/>
+  <string name="pref_camera_coloreffect_entry_negative"/>
+  <string name="pref_camera_coloreffect_entry_none"/>
+  <string name="pref_camera_coloreffect_entry_posterize"/>
+  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_title">Efekty</string>
   <string name="pref_camera_contrast_entry_level0">Poziom 0</string>
   <string name="pref_camera_contrast_entry_level1">Poziom 1</string>

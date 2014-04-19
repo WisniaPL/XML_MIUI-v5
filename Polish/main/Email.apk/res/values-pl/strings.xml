@@ -14,7 +14,6 @@
   <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
   <string name="abc_shareactionprovider_share_with">Podziel się</string>
   <string name="abc_shareactionprovider_share_with_application">Podziel się z %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Używasz już tej nazwy użytkownika na koncie „%s”.</string>
   <string name="account_duplicate_dlg_title">Zduplikowane konto</string>
   <string name="account_folder_list_summary_drafts">Kopie robocze</string>
@@ -278,7 +277,6 @@
   <string name="contextmenu_send_mail">Wyślij e-maila</string>
   <string name="contextmenu_sharelink">Udostępnij link</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Przeniesiono do: %1$s</string>
   <string name="conversation_photo_welcome_text">Kliknij zdjęcie nadawcy, by wybrać tę rozmowę.</string>
   <string name="copy_email">Kopiuj adres e-mail</string>
@@ -347,7 +345,6 @@
   <string name="forward_attribution_no_headers">---------- Wiadomość przekazana dalej ----------</string>
   <string name="forward_download_failed_ticker">Co najmniej jednego załącznika nie można przekazać dalej.</string>
   <string name="forward_download_failed_title">Nie przekazano załącznika</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">Od</string>
   <string name="from_heading">"Od: "</string>
   <string name="general_preference_confirm_delete_label">Potwierdź usuwanie</string>
@@ -460,7 +457,6 @@ DW: %4$s
   <string name="message_invite_title">Zaproszenie z Kalendarza</string>
   <string name="message_saved">Wiadomość została zapisana jako wersja robocza.</string>
   <string name="message_view_attachment_background_load">Co najmniej jeden załącznik w przekazywanej wiadomości zostanie pobrany przed wysłaniem.</string>
-  <string name="mock_content_provider">Pozoruj nazwę dostawcy treści</string>
   <string name="more_atts_total">Razem załączników: %1$d</string>
   <string name="more_info_attachment">Informacje</string>
   <string name="more_string">+%1$s</string>
@@ -561,14 +557,9 @@ DW: %4$s
   <string name="reply">Odpowiedz</string>
   <string name="reply_all">Odp. wsz.</string>
   <string name="reply_attribution" formatted="false">%s %s napisał(a):</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Odpowiedź do: "</string>
   <string name="report">Zgłoś</string>
   <string name="report_phishing">Zgłoś próbę wyłudzenia informacji</string>
-  <string name="report_rendering_improvement">Wygląda dobrze</string>
-  <string name="report_rendering_improvement_desc">Ta wiadomość wygląda dobrze.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Zgłoś spam</string>
   <string name="require_manual_sync_message">Synchronizacja w tle z tym kontem jest podczas roamingu wyłączona.</string>
   <string name="respond_inline">Odpowiedz w tekście</string>
