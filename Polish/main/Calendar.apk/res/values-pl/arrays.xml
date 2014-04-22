@@ -14,11 +14,27 @@
         <item>15 minut</item>
         <item>30 minut</item>
         <item>1 godzina</item>
+        <item>12 godzin</item>
         <item>1 dzień</item>
         <item>2 dni</item>
         <item>1 tydzień</item>
+        <item>2 tygodnie</item>
     </string-array>
-<string-array name="preferences_default_reminder_labels">
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
         <item>Bez przypomnienia</item>
         <item>0 minut</item>
         <item>5 minut</item>
@@ -26,9 +42,25 @@
         <item>15 minut</item>
         <item>30 minut</item>
         <item>1 godzina</item>
+        <item>12 godzin</item>
         <item>1 dzień</item>
         <item>2 dni</item>
         <item>1 tydzień</item>
+        <item>2 tygodnie</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+         <item>-1</item>
+         <item>0</item>
+         <item>5</item>
+         <item>10</item>
+         <item>15</item>
+         <item>30</item>
+         <item>60</item>
+         <item>720</item>
+         <item>1440</item>
+         <item>2880</item>
+         <item>10080</item>
+         <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Domyślny dla regionu</item>
