@@ -226,6 +226,7 @@
   <string name="auto_sync_off">Autosynchronizacja jest wyłączona.</string>
   <string name="bcc">UDW</string>
   <string name="bcc_heading">"UDW: "</string>
+  <string name="blank_feedback_toast">Treść jest pusta!</string>
   <string name="body_hint">Napisz e-maila.</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Anuluj</string>
@@ -264,6 +265,7 @@
   <string name="contact_list_add_btn">Dodaj</string>
   <string name="contact_list_search_hint">Szukaj kontaktów</string>
   <string name="contact_list_title">Lista kontaktów</string>
+  <string name="contact_select">Wybierz kontakty</string>
   <string name="content_description">%1$s na temat %2$s, %3$s w dniu %4$s, %5$s</string>
   <string name="content_description_today">%1$s na temat %2$s, %3$s o %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Dodaj kontakt</string>
@@ -278,6 +280,8 @@
   <string name="contextmenu_sharelink">Udostępnij link</string>
   <string name="contextmenu_sms_dot">SMS…</string>
   <string name="conversation_folder_moved">Przeniesiono do: %1$s</string>
+  <string name="conversation_item_mark_read">Przeczytane</string>
+  <string name="conversation_item_mark_unread">Nieprzeczytane</string>
   <string name="conversation_photo_welcome_text">Kliknij zdjęcie nadawcy, by wybrać tę rozmowę.</string>
   <string name="copy_email">Kopiuj adres e-mail</string>
   <string name="copy_number">Kopiuj numer telefonu</string>
@@ -293,6 +297,7 @@
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DOMYŚLNE USTAWIENIA</string>
+  <string name="default_signature">Wysłano z Poczty MIUI</string>
   <string name="delete">Usuń</string>
   <string name="deleted">Usunięty</string>
   <string name="device_admin_description">Włącza zasady zabezpieczeń określone na serwerze</string>
@@ -317,6 +322,7 @@
   <string name="drawer_close">Zamknij szufladę nawigacji</string>
   <string name="drawer_open">Otwórz szufladę nawigacji</string>
   <string name="edit_quick_response_dialog">Szybka odpowiedź</string>
+  <string name="empty_email_tip">Nie można wysłać pustej wiadomości</string>
   <string name="empty_spam">Opróżnij spam</string>
   <string name="empty_spam_dialog_title">Opróżnić spam?</string>
   <string name="empty_trash">Opróżnij kosz</string>
@@ -490,6 +496,10 @@ DW: %4$s
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="other_mail">Inne konto</string>
+  <string name="outbox_alert_button_confirm">Edytuj</string>
+  <string name="outbox_alert_description_sent_failed">"Powód: Załącznik przekracza
+limit skrzynki odbiorczej"</string>
+  <string name="outbox_alert_title_sent_failed">Failed sending email</string>
   <string name="password_changed_prompt">"Logowanie do konta zakończone niepowodzeniem."</string>
   <string name="password_expire_warning_content_title">Hasło ekranu blokady wkrótce wygaśnie</string>
   <string name="password_expire_warning_dialog_content_fmt">Musisz wkrótce zmienić PIN lub hasło ekranu blokady. W przeciwnym razie dane konta %s zostaną usunięte. Zmienić je teraz?</string>

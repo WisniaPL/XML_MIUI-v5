@@ -555,7 +555,6 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_visibility_timeout_summary">Ustaw czas, przez jaki urządzenie będzie wykrywalne</string>
   <string name="breathing_light_color_menu_title">Kolor diody</string>
   <string name="breathing_light_color_summary">Kolor diody gdy otrzymano nowe powiadomienie</string>
-  <string name="breathing_light_color_title">" - Kolor LED "</string>
   <string name="breathing_light_freq_summary">Oczekiwanie między pulsowaniem diody LED</string>
   <string name="breathing_light_freq_title">" - Częstość pulsowania LED"</string>
   <string name="brightness">Jasność ekranu</string>
@@ -1325,8 +1324,9 @@ w tym:
   <string name="immediately_destroy_activities_summary">Przerwij każde działanie, gdy użytkownik je porzuci</string>
   <string name="ims_reg_required_off">Wyłącz wymóg rejestracji IMS</string>
   <string name="ims_reg_required_on">Włącz wymóg rejestracji IMS</string>
+  <string name="incoming_call_breathing_light_color_title">Kolor LED dla połączeń</string>
+  <string name="incoming_call_breathing_light_freq_title">Częstość pulsowania LED</string>
   <string name="incoming_call_app_name">Połączenia</string>
-  <string name="incoming_call_vibrate_abbreviation">"Połączenia "</string>
   <string name="incoming_call_volume_title">Dzwonek</string>
   <string name="input_method">Sposób wprowadzania tekstu</string>
   <string name="input_method_selector">Wybór sposobu wprowadzania tekstu</string>
@@ -1704,8 +1704,9 @@ Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="miui_screensaver_state_on">Wł</string>
   <string name="miui_screensaver_title">Wygaszacz ekranu</string>
   <string name="miui_screensaver_usage">Zdjęcie z albumu będzie pokazywane przez 5 sekund od wyłączenia ekranu.</string>
+  <string name="mms_breathing_light_color_title">Kolor LED dla SMS/MMS</string>
+  <string name="mms_breathing_light_freq_title">Częstość pulsowania LED</string>
   <string name="mms_log_tab_title">Rejestr SMS/MMS</string>
-  <string name="mms_vibrate_abbreviation">SMS/MMS</string>
   <string name="mobile_connect_to_internet">Połącz się z internetem</string>
   <string name="mobile_insert_sim_card">Włóż kartę SIM i zrestartuj urządzenie</string>
   <string name="mobile_no_provisioning_url">%1$s nie ma znanej witryny obsługi</string>
@@ -1807,6 +1808,8 @@ Menu cannot be accessed"</string>
   <string name="noise_suppression">Redukcja szumów</string>
   <string name="normal_date_format">Regionalny (%s)</string>
   <string name="not_installed">Nie zainstalowane</string>
+  <string name="notification_breathing_light_color_title">Kolor LED dla powiadomień</string>
+  <string name="notification_breathing_light_freq_title">Częstość pulsowania LED</string>
   <string name="notification_button_text_of_low_memory">Zwolnij pamięć</string>
   <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
   <string name="notification_listener_security_warning_title">Włączyć %1$s?</string>
@@ -1818,7 +1821,6 @@ Menu cannot be accessed"</string>
   <string name="notification_title_firewall_blocked">Blokowane</string>
   <string name="notification_title_of_garbage_cleanup">Maksymalny rozmiar plików śmieci</string>
   <string name="notification_title_of_low_memory">Użyta pamięć wewnętrzna: %s</string>
-  <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
   <string name="notification_volume_title">Powiadomienie</string>
   <string name="nsd_quick_toggle_summary">Zezwól aplikacjom z innych urządzeń wykrywać aplikacje na tym urządzeniu</string>
   <string name="nsd_quick_toggle_title">Wykrywanie usług sieciowych</string>

@@ -20,6 +20,10 @@
         <item quantity="other">%d GB</item>
         <item quantity="one">%d GB</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Zaznaczonych: %d</item>
+        <item quantity="one">1 zaznaczony</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">Zaznaczonych: %d</item>
         <item quantity="one">1 zaznaczony</item>
@@ -53,32 +57,32 @@
         <item quantity="one">Cofanie oznaczenia gwiazdką %1$d wątku.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> zignorowano.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> zignorowano.</item>
+        <item quantity="other">%1$d zignorowano.</item>
+        <item quantity="one">%1$d zignorowano.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> zgłoszono jako spam.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> zgłoszono jako spam.</item>
+        <item quantity="other">%1$d zgłoszono jako spam.</item>
+        <item quantity="one">%1$d zgłoszono jako spam.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Zgłoszone jako nie spam: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Zgłoszone jako nie spam: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Zgłoszone jako nie spam: %1$d.</item>
+        <item quantity="one">Zgłoszone jako nie spam: %1$d.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> oznaczono jako mało ważny.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> oznaczono jako mało ważny.</item>
+        <item quantity="other">%1$d oznaczono jako mało ważny.</item>
+        <item quantity="one">%1$d oznaczono jako mało ważny.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Zgłoszone jako wyłudzanie informacji: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Zgłoszone jako wyłudzanie informacji: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Zgłoszone jako wyłudzanie informacji: %1$d.</item>
+        <item quantity="one">Zgłoszone jako wyłudzanie informacji: %1$d.</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> zarchiwizowane(ych).</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> zarchiwizowany.</item>
+        <item quantity="other">%1$d zarchiwizowane(ych).</item>
+        <item quantity="one">%1$d zarchiwizowany.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> usunięte(ych).</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> usunięty.</item>
+        <item quantity="other">%1$d usunięte(ych).</item>
+        <item quantity="one">%1$d usunięty.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Zmieniono foldery.</item>
