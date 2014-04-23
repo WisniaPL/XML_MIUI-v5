@@ -2290,6 +2290,10 @@ Menu cannot be accessed"</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualizuj teraz</string>
   <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
   <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
+  <string name="preferred_sms_warning_message">\"%1$s\" zostanie użyta jako domyślna aplikacja SMS.</string>
+  <string name="preferred_sms_warning_use_system">Informacja</string>
+  <string name="preferred_sms_settings">Zmień domyślną aplikację SMS.</string>
+  <string name="preferred_sms_title">Domyślna aplikacja do SMS-ów.</string>
   <string name="preference_change_password_title">Zmień hasło</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
@@ -3154,6 +3158,7 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="user_dict_settings_more_languages">Więcej języków...</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">Słownik użytkownika</string>
+  <string name="user_dict_settings_title">Słownik użytkownika</string>
   <string name="user_dict_single_settings_title">Słownik osobisty</string>
   <string name="user_image_choose_photo">Wybierz zdjęcie z galerii</string>
   <string name="user_image_take_photo">Zrób zdjęcie</string>
