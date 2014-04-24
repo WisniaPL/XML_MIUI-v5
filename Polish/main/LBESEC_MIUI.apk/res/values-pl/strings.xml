@@ -199,11 +199,11 @@
   <string name="HIPS_SecurityPrompt_Next">Dalej</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Ostrzeżenie</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Zezwolić aplikacji %1$s na dostęp ROOT?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">Uprawnienia ROOT mogą powodować niestabilność systemu</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">Dostęp do ROOT może powodować niestabilność systemu</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Prywatne dane np. konta i hasła mogą zostać ujawnione</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Możliwe jest także uszkodzenie systemu</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Zalecana jest ostrożność!</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Na pewno zezwolić aplikacji %1$s na dostęp ROOT?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Na pewno zezwolić aplikacji %1$s na dostęp do ROOT?</string>
   <string name="HIPS_SecurityPrompt_Reject">Odmów (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Pamiętaj mój wybór</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s prosi o pozwolenie na %2$s</string>
@@ -221,7 +221,7 @@
   <string name="Privacy_App_Trust_Summary_On">MIUI będzie ufał aplikacji</string>
   <string name="Privacy_App_Uninstall">Odinstaluj</string>
   <string name="Privacy_Perm_Count">Zezwolono: %1$d Odmówiono: %2$d</string>
-  <string name="Su_Enable_Dialog">%1$s próbuje uzyskać uprawnienia ROOT. Uprawnienia są domyślnie wyłączone. Możesz je włączyć w ustawieniach aplikacji Uprawnienia.</string>
+  <string name="Su_Enable_Dialog">%1$s próbuje uzyskać dostęp do ROOT. Uprawnienia są domyślnie wyłączone. Możesz je włączyć w Panel Sterowania > Uprawnienia > Dostęp do ROOT.</string>
   <string name="Su_Unavailable">Uprawnienia ROOT nie są dostępne w stabilnej wersji MIUI. Zainstaluj wersję BETA MIUI (tygodniową) aby korzystać z uprawnień ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Uprawnienia autostartu</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
