@@ -13,6 +13,7 @@
   <string name="accessibility_more_ptions_closed">Więcej opcji wył</string>
   <string name="accessibility_more_ptions_opened">Więcej opcji wł</string>
   <string name="accessibility_open_more_ptions">Więcej opcji</string>
+  <string name="accessibility_opti_zoom_button">Opti_Zoom</string>
   <string name="accessibility_review_thumbnail">Ostatnie zdjęcia</string>
   <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
   <string name="accessibility_show_setting_panel_button">SettingButton</string>
@@ -35,12 +36,14 @@ Opuść na chwilę widok"</string>
   <string name="cancel">Anuluj</string>
   <string name="cannot_connect_camera_once">"Nie można nawiązać połączenia z aparatem, uruchom ponownie aplikację"</string>
   <string name="cannot_connect_camera_twice">"Nie można nawiązać połączenia z aparatem, uruchom ponownie telefon"</string>
+  <string name="chroma_flash_exit_button_text">Wyjdź z trybu Chroma Flash</string>
   <string name="clear_effects">Usuń efekty</string>
   <string name="close">Zamknij</string>
   <string name="cloud_album_details">Szczegóły albumu:</string>
   <string name="confirm_change_mode_title">Przełącz widok funkcji aparatu</string>
   <string name="confirm_change_to_expert_mode_message">Przełączyć na zaawansowany widok funkcji aparatu?</string>
   <string name="confirm_change_to_simple_mode_message">Przełączyć na uproszczony widok funkcji aparatu?</string>
+  <string name="confirm_enable_opti_zoom_message">Włączyć Opti-Zoom?</string>
   <string name="confirm_location_message">Czy chcesz zapisywać lokalizację wykonywania zdjęć?</string>
   <string name="confirm_restore_message">Przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć wartości domyślne</string>
@@ -87,6 +90,7 @@ Opuść na chwilę widok"</string>
   <string name="effect_none">Brak</string>
   <string name="effect_silly_faces">Śmieszne twarze</string>
   <string name="empty">" "</string>
+  <string name="enable_feature">Tak</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
   <string name="error_app_unsupported_hfr_720p">W 720p można wykorzystać do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Tylko kodek H264 może być wykorzystany jeśli HFR jest WŁ</string>
@@ -162,9 +166,11 @@ Opuść na chwilę widok"</string>
   <string name="no_save">"Nie"</string>
   <string name="no_storage">Zamontuj pamięć wewnętrzną USB przed użyciem.</string>
   <string name="no_thumbnail">Brak miniaturek</string>
+  <string name="not_enable_feature">Przypomnij później</string>
   <string name="not_enough_space">Pamięć wewnętrzna jest pełna.</string>
   <string name="not_selectable_in_scene_mode">Nie można tego wybrać w trybie sceny</string>
   <string name="ok">OK</string>
+  <string name="opti_zoom_exit_button_text">Wyjdź z trybu OptiZoom</string>
   <string name="orientation">Orientacja</string>
   <string name="pano_dialog_panorama_failed">"Nie udało się zapisać panoramy."</string>
   <string name="pano_dialog_prepare_preview">Przygotowanie panoramy</string>
@@ -195,6 +201,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Matrycowy</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Punktowy</string>
   <string name="pref_camera_autoexposure_title">Tryb automatycznej ekspozycji</string>
+  <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Świt</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Jesień</string>
@@ -291,6 +298,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">Jedna twarz</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dwie twarze</string>
   <string name="pref_camera_multiple_face_beauty_title">Tryb Pięknej Twarzy</string>
+  <string name="pref_camera_opti_zoom_title">Opti Zoom</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -367,6 +375,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_touchafaec_entry_off">Wył</string>
   <string name="pref_camera_touchafaec_entry_on">Wł</string>
   <string name="pref_camera_touchafaec_title">Dotykowy AF/AEC</string>
+  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
   <string name="pref_camera_video_duration_entry_10">10 minut</string>
   <string name="pref_camera_video_duration_entry_120">Bez limitu</string>
   <string name="pref_camera_video_duration_entry_30">30 minut</string>
@@ -470,12 +479,15 @@ Opuść na chwilę widok"</string>
   <string name="show_on_map">Pokaż na mapie</string>
   <string name="show_videos_only">Pokaż filmy</string>
   <string name="simple_mode_button_text_audio_capture">Zamknij rejestrator dźwięku</string>
+  <string name="simple_mode_button_text_chroma_flash">Zakończ tryb Chroma Flash</string>
   <string name="simple_mode_button_text_color_effect">Zamknij Efekty</string>
   <string name="simple_mode_button_text_face_beauty">Zakończ tryb Twarzy</string>
   <string name="simple_mode_button_text_hand_night">Zakończ tryb Nocny</string>
   <string name="simple_mode_button_text_hdr">Zakończ tryb HDR</string>
+  <string name="simple_mode_button_text_opti_zoom">Zakończ tryb OptiZoom</string>
   <string name="simple_mode_button_text_panorama">Zakończ tryb Panoramy</string>
   <string name="simple_mode_button_text_slow_video">Zakończ tryb Poklatkowy</string>
+  <string name="simple_mode_button_text_ubi_focus">Zamknij Ubi Focus</string>
   <string name="simple_mode_title">Uproszczone wyświetlanie</string>
   <string name="slideshow">Pokaz slajdów</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current
@@ -499,6 +511,7 @@ Opuść na chwilę widok"</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Fotografowanie seryjne nie działa gdy HDR jest wł.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Fotografowanie w trybie seryjnym nie jest możliwe jeśli ISO jest 'auto'."</string>
    <string name="toast_start_audio_capture">Wydaj dźwięk aby wyzwolić migawkę</string>
+  <string name="ubi_focus_exit_button_text">Wyjdź z Ubi Focus</string>
   <string name="undo">UNDO</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Kamera</string>
