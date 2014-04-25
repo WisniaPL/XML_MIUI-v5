@@ -78,6 +78,7 @@ by zapisać zadanie."</string>
   <string name="err_no_nfc">"Telefon nie wspiera NFC. Aplikacja może nie działać."</string>
   <string name="err_tag_not_supported">"Telefon nie wspiera zapisywania tagów, 
     lub nie można zapisać zadania. Spróbuj ponownie z innym tagiem."</string>
+  <string name="err_tag_read_only">"Tag tylko do odczytu"</string>
   <string name="error_password">Błędne hasło</string>
   <string name="failed_install">Nie można zainstalować</string>
   <string name="gps">GPS</string>
@@ -124,6 +125,8 @@ by zapisać zadanie."</string>
   <string name="phone_to_tag">Aby edytować tag,</string>
   <string name="pick_contact">Wybierz kontakt</string>
   <string name="pick_contacts">Wybierz kontakty</string>
+  <string name="play_music_desc">Odtwórz/zatrzymaj muzykę</string>
+  <string name="play_song">Graj utwór</string>
   <string name="preference">Ustawienia</string>
   <string name="pwd_pref">Chroń tag przed nadpisaniem</string>
   <string name="pwd_pref_desc">" "</string>
