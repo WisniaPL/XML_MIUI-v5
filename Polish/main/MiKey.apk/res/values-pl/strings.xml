@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about">Informacje</string>
   <string name="action_capture_video">Nagraj wideo</string>
   <string name="action_clear_call_list">Wyczyść rejestr połączeń</string>
   <string name="action_clear_memory">Wyczyść pamięć</string>
@@ -22,6 +23,7 @@
   <string name="action_share_to_moment">Udostępnij na Moment</string>
   <string name="action_share_to_wechat">Udostępnij na WeChat</string>
   <string name="action_share_to_weibo">Udostępnij na Weibo</string>
+  <string name="action_zero_volume">Wycisz</string>
   <string name="add">Dodaj</string>
   <string name="app_name">MiKey</string>
   <string name="back_camera">Tylny aparat</string>
@@ -54,18 +56,29 @@
   <string name="delete_gesture">Usunąć?</string>
   <string name="device_not_recognized">Urządzenie nierozpoznane. Podłącz ponownie MiKey</string>
   <string name="earphone">Słuchawki</string>
-  <string name="font_name_all">Miui-Bold</string>
   <string name="front_camera">Przedni aparat</string>
   <string name="input_phone">Wpisz numer telefonu</string>
   <string name="long_click">Długie przytrzymanie</string>
   <string name="message_photo_end">Zdjęcia zostały zapisane</string>
   <string name="no_usage">...</string>
-  <string name="rank_prefix">Ranking:</string>
+  <string name="rank_prefix">"Ranking: "</string>
   <string name="rank_suffix">Naciśnięć:</string>
   <string name="recommend"/>
-  <string name="running_notification">Aplikacja MiKey uruchomiona</string>
+  <string name="running_notification">Xiaomi MiKey</string>
   <string name="select_camera">Wybierz aparat</string>
   <string name="select_device">Wybierz tryb audio jack:</string>
+  <string name="setting_feedback">Spostrzeżenia</string>
+  <string name="setting_instant_photo_desc">Ustal ostrość przed wykonaniem zdjęcia</string>
+  <string name="setting_instant_photo_text">Ustaw ostrość</string>
+  <string name="setting_keeplive_desc">"Zezwól aplikacji na pracę w tle.
+Może to powodować większe użycie baterii"</string>
+  <string name="setting_keeplive_text">Praca w tle</string>
+  <string name="setting_speed_desc">Szybkość naciskania</string>
+  <string name="setting_speed_quick">Szybko</string>
+  <string name="setting_speed_slow">Wolno</string>
+  <string name="setting_speed_text">Szybkość</string>
+  <string name="setting_vibrate_text">Wibruj</string>
+  <string name="settings">Ustawienia</string>
   <string name="short_click_1">1x</string>
   <string name="short_click_10">10x</string>
   <string name="short_click_2">2x</string>
