@@ -697,4 +697,9 @@
   <string name="wifi_tether_wps_pin_error">Nieprawidłowy PIN</string>
   <string name="wifi_tethering_title">Punkt dostępu Wi-Fi</string>
   <string name="wifi_wps_fail_error">WLAN protected setup failed, try again.</string>
+  <string name="breathing_light_color_title">" - Kolor LED "</string>
+  <string name="incoming_call_vibrate_abbreviation">"Połączenia "</string>
+  <string name="mms_vibrate_abbreviation">SMS/MMS</string>
+  <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
+  <string name="mtk_settings">Narzędzia MTK</string>
 </resources>
