@@ -5,7 +5,7 @@
         <item quantity="zero">Usunąć %1$d plików</item>
         <item quantity="one">Usunąć %1$d plik</item>
         <item quantity="two">Usunąć %1$d plików</item>
-        <item quantity="few">%1$Usunąć %1$d plików</item>
+        <item quantity="few">Usunąć %1$d plików</item>
         <item quantity="many">Usunąć %1$d plików</item>
     </plurals>
     <plurals name="delete_folders_confirm">
