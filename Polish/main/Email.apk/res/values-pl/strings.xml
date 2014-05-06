@@ -664,8 +664,14 @@ limit skrzynki odbiorczej"</string>
   <string name="view_more_conversations">Wyświetl więcej rozmów</string>
   <string name="wait_for_manual_sync_body">"Konto nie jest skonfigurowane do automatycznej synchronizacji.
 Kliknij "&lt;b&gt;Synchronizuj&lt;/b&gt;, by zsynchronizowa&amp;#263; poczt&amp;#281; jeden raz, lub &lt;b&gt;Zmie&amp;#324; ustawienia synchronizacji&lt;/b&gt;, by skonfigurowa&amp;#263; konto do automatycznej synchronizacji wiadomo&amp;#347;ci.</string>
-  <string name="wait_for_sync_body">E-maile pojawią się za chwilę.</string>
-  <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
+  <string name="wait_for_sync_body">Wiadomości pojawią się za chwilę.</string>
+  <string name="wait_for_sync_body_2">Serwer Exchange odpowie w ciągu 1-30 sekund.</string>
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
+  <string name="wait_for_sync_body_txt_array_2">1–30</string>
+  <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
+  <string name="wait_for_sync_body_txt_array_4">system alert</string>
+  <string name="wait_for_sync_body_txt_array_5">.</string>
+  <string name="wait_for_sync_note">Przesuń palcem z góry do dołu aby otrzymać powiadomienian. Kliknij by zakończyć ustawienia.</string>
   <string name="wait_for_sync_title">Czekam na synchronizację</string>
   <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">Poczta</string>

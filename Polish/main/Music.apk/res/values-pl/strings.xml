@@ -72,8 +72,12 @@
   <string name="deselect_all">Odznacz wszystko</string>
   <string name="dirac_mode_earbuds">Douszne</string>
   <string name="dirac_mode_general">Zwykłe</string>
+  <string name="dirac_mode_general_earbuds">Douszne</string>
+  <string name="dirac_mode_general_inear">Dokanałowe</string>
   <string name="dirac_mode_in_ear">Dokanałowe</string>
   <string name="dirac_mode_piston_100">Piston</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston v2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston Youth</string>
   <string name="disconnect">Rozłączone</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
@@ -178,6 +182,7 @@
   <string name="load_recommend_in_process">Wczytywanie…</string>
   <string name="loading">Ładowanie...</string>
   <string name="login">Wpisz się</string>
+  <string name="login_and_enable">Wpisz się na konto by synchronizować</string>
   <string name="login_first">Musisz wpisać się na konto Xiaomi</string>
   <string name="lrc_progress_modify">Prędkość przewijania tekstu</string>
   <string name="lrc_progress_modify_helper">Dostosuj prędkość tekstu przez przeciągnięcie w górę lub w dół</string>
@@ -221,6 +226,7 @@
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
   <string name="normal_quality">Dobra jakość</string>
   <string name="not_login">Wpisz się</string>
+  <string name="not_now">Nie teraz</string>
   <string name="not_selected">Wybierz utwór</string>
   <string name="notification_artist_album">"%2$s %1$s" </string>
   <string name="online_search_hint">Wyszukaj muzykę online</string>
@@ -313,6 +319,10 @@
   <string name="start_to_download_album">Pobieranie okładek albumów dla utworów</string>
   <string name="start_to_download_avatar">Pobieranie zdjęć wykonawców</string>
   <string name="streamloadingtext">Łączenie z %s</string>
+  <string name="sync_alert_message">Synchronizuj ulubioną muzykę z innymi urządzeniami za pomocą chmury Xiaomi.</string>
+  <string name="sync_alert_title">Synchronizacja muzyki</string>
+  <string name="sync_disable_toast">Zawsze możesz później zmienić te ustawienia w Ustawienia &gt; Konta &gt; Xiaomi</string>
+  <string name="sync_enable_toast">Możesz zmienić te ustawienia w Ustawienia &gt; Konta &gt; Xiaomi</string>
   <string name="synchronize_playlist_setting">Synchronizuj listy odtwarzania</string>
   <string name="synchronize_playlist_summary">Synchronizuje listy odtwarzania z chmurą.</string>
   <string name="track_album_format" formatted="false">%s - %s</string>

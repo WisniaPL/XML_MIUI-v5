@@ -940,11 +940,16 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dialog_title_load_cleanup_engine_error">Błąd</string>
   <string name="dialog_title_uninstall_apps">Odinstaluj</string>
   <string name="dirac_control">Dekodowanie Dirac</string>
-  <string name="dirac_mode_earbuds">"Douszne"</string>
+  <string name="dirac_mode_earbuds">Douszne</string>
   <string name="dirac_mode_general">Nauszne</string>
-  <string name="dirac_mode_in_ear">"Dokanałowe"</string>
+  <string name="dirac_mode_general_earbuds">Douszne</string>
+  <string name="dirac_mode_general_inear">Dokanałowe</string>
+  <string name="dirac_mode_in_ear">Dokanałowe</string>
   <string name="dirac_mode_off">Dirac Wył</string>
-  <string name="dirac_mode_piston_100">"Słuchawki Xiaomi Piston"</string>
+  <string name="dirac_mode_piston_100">"Xiaomi Piston"</string>
+  <string name="dirac_mode_piston_1">Xiaomi Piston v1</string>
+  <string name="dirac_mode_piston_2">Xiaomi Piston v2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi Piston Youth</string>
   <string name="dirac_switch_summary">Wykorzystuje technologię Dirac do polepszania dźwięku w słuchawkach</string>
   <string name="dirac_switch_title">Włącz dekodowanie Dirac</string>
   <string name="disableNetwork">disableNetwork</string>
@@ -1755,6 +1760,14 @@ spróbuj:
   <string name="msg_cleanup_db_update_checking">Sprawdzanie...</string>
   <string name="msg_cleanup_db_update_time_unknown">Nieznany czas aktualizacji</string>
   <string name="msg_system_cache_hints">"Czyszczenie pamięć podręcznej nie wpłynie na działanie aplikacji"</string>
+  <string name="msd_pc_system_install_start_summary_vista">"Dla Windows Vista i nowszych, 
+%1$s pojawi się automatycznie jako Magazyn USB"</string>
+  <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s pojawi się jako Magazyn USB
+podłączony do komputera."</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"Po instalacji sterownika
+%1$s pojawi się jako Magazyn USB podłączony do komputera."</string>
+  <string name="msd_pc_system_install_finish_summary_vista">"Dla Windows Vista i nowszych,
+odtwarzacz muzyczny %1$s pojawi się na komputerze automatycznie"</string>
   <string name="msg_update_error_code_already_running">Aktualizacja</string>
   <string name="msg_update_error_code_network_error">Błąd sieci spróbuj ponownie później!</string>
   <string name="msg_update_error_code_no_newer_db">Zainstalowana jest najnowsza baza</string>
@@ -1803,8 +1816,8 @@ spróbuj:
   <string name="no_notification_listeners">No notification listeners are installed.</string>
   <string name="no_running_services">Brak uruchomionych usług.</string>
   <string name="no_services">Nieaktywne</string>
-  <string name="no_sim_info">"SIM card info not available.
-Menu cannot be accessed"</string>
+  <string name="no_sim_info">"Karta SIM niedostępna.
+Nie można przejść do Menu"</string>
   <string name="noise_suppression">Redukcja szumów</string>
   <string name="normal_date_format">Regionalny (%s)</string>
   <string name="not_installed">Nie zainstalowane</string>

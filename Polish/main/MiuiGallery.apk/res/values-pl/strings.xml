@@ -61,6 +61,7 @@
   <string name="big_screen_alertdialog_title">Lista urządzeń</string>
   <string name="bigscreen_slide_exit">Wyjdź z pokazu slajdów</string>
   <string name="bigscreen_slide_fail_cause_loading">Ponów aby zacząć pokaz slajdów po wczytaniu zdjęcia.</string>
+  <string name="bigscreen_video_quit">Wyjdź z odtwarzania filmu</string>
   <string name="bigscrren_slide_exit">Wyjdź z pokazu slajdów przez TV</string>
   <string name="browse_category">Albumy</string>
   <string name="by_email">E-mail</string>
@@ -115,6 +116,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete">Na pewno usunąć %s?</string>
   <string name="confirm_delete_album" formatted="false">Usunąć %s albumów (%s zdjęć)?</string>
+  <string name="confirm_delete_home_merge_item">Usunąć %s zdjęć lokalnych i z chmury?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Na pewno chcesz usunąć %s zdjęć w %s albumach?</string>
   <string name="confirm_delete_folders_and_pictures">Na pewno usunąć %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s katalogów (zawierających %s)</string>
@@ -158,11 +160,13 @@
   <string name="demo_video_folder_display_name">Filmy Demo</string>
   <string name="deny">Odrzuć</string>
   <string name="description">Opis</string>
+  <string name="deselect_all">Odznacz wszystko</string>
   <string name="details">Szczegóły</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Udostępniony przez</string>
   <string name="details_title">%1$d z %2$d:</string>
+  <string name="device_model">Urządzenie</string>
   <string name="directory_info_divider">" | "</string>
   <string name="documentary">Dokument</string>
   <string name="done">Gotowe</string>
@@ -178,16 +182,20 @@
   <string name="email_picker_title">Dodaj udostępniony e-mail</string>
   <string name="empty_album">Brak zdjęć/filmów.</string>
   <string name="enable_cloud_for_sharing">Włącz Album w chmurze Xiaomi by przeglądać udostępnione zdjęcia.</string>
+  <string name="error_forbidden">Wystąpił problem z kontem: synchronizacja wyłączona.</string>
   <string name="enter_email_hint">"Wpisz adres E-mail "</string>
   <string name="error_album_not_exist">"Album nie istnieje."</string>
   <string name="error_cloud_not_active">Album w chmurze nie jest używany</string>
   <string name="error_invalid_link">Odnośnik jest nieprawidłowy. Należy wygenerować nowy</string>
+  <string name="error_not_acceptable">Błąd serwera: synchronizacja wyłączona.</string>
   <string name="error_repeat_apply">Już udostępniłeś ten album</string>
   <string name="error_share_with_creator">Już jesteś członkiem tego albumu</string>
   <string name="error_should_not_select_image">Warning: please do not select an image file.</string>
   <string name="error_should_not_select_video">Warning: please do not select a video file.</string>
   <string name="error_socket_timeout">Przekroczono limit czasu</string>
-  <string name="error_unknown_host">Hostname uknown, please check your network connection!</string>
+  <string name="error_title">Błąd synchronizacji</string>
+  <string name="error_unauthorized">Zbyt dużo połączeń: synchronizacja wyłączona.</string>
+  <string name="error_unknown_host">Nieznany host. Sprawdź połączenie!</string>
   <string name="exit">Wyjdź</string>
   <string name="exit_share">Opuść album</string>
   <string name="exit_share_failed">Opuszczenie albumu %1$s nieudane</string>
@@ -202,6 +210,7 @@
   <string name="fail_hint">Operacja nieudana.</string>
   <string name="fail_init_gallery_db_helper">Aplikacja zamknięta. Nie można otworzyć bazy danych Galerii: pamięć jest pełna.</string>
   <string name="fail_to_apply">Nie udało się dołączyć do albumu.</string>
+  <string name="fail_to_download_n_items">Pobieranie %s nieudane</string>
   <string name="fail_to_pick_email">Nie zaznaczono poprawnych adresów E-mail</string>
   <string name="fail_to_sync_album">Nie udało się synchronizować albumu z serwerem. Sprawdź swoje połączenie z siecią!</string>
   <string name="file_not_exist_message">Plik nie istnieje.</string>
@@ -237,6 +246,9 @@
   <string name="height">Wysokość</string>
   <string name="highlight">Jasność</string>
   <string name="home_my_captured_items">wszystkich zdjęć</string>
+  <string name="home_page_tab_cloud">Chmura</string>
+  <string name="home_page_tab_local">Lokalnie</string>
+  <string name="home_page_tab_photo">Zdjęcia</string>
   <string name="how_many_pics">Zdjęcia: %d</string>
   <string name="how_many_sub_folders">Katalogi: %d</string>
   <string name="how_many_videos">Filmy: %d</string>
@@ -296,6 +308,7 @@
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Zrzuty ekranu</string>
   <string name="model">Model</string>
+  <string name="modified_time">Modyfikacja</string>
   <string name="modify_allow_hint">Dodawanie nowych zdjęć do albumów jest możliwe</string>
   <string name="modify_disallow_hint">Dodawanie nowych zdjęć do albumów nie jest możliwe</string>
   <string name="more">Więcej</string>
@@ -486,6 +499,7 @@
   <string name="tab_lockscreen_text">Blokada</string>
   <string name="tab_wallpaper_text">Pulpit</string>
   <string name="tags">Tagi</string>
+  <string name="taken_time">Wykonano</string>
   <string name="temperature">Ciepło</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>

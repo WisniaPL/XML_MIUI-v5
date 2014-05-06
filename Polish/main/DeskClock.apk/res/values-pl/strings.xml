@@ -89,8 +89,8 @@
   <string name="timer_alert_alert_silenced">Minutnik zatrzymany po %d minutach.</string>
   <string name="timer_continue">Kontynuuj</string>
   <string name="timer_got_it">Ok</string>
-  <string name="timer_message">" Czas %1$d minut upłynął "</string>
-  <string name="timer_message_with_hour">" Czas %1$d godzin %2$d upłynął "</string>
+  <string name="timer_message">" %1$d minut "</string>
+  <string name="timer_message_with_hour">" %1$d godzin %2$d "</string>
   <string name="timer_start_alarm">Czas upłynął</string>
   <string name="timer_title">Minutnik</string>
   <string name="timezone_exist_error_message">Nie udało się dodać strefy czasowej. Strefa czasowa już istnieje</string>
