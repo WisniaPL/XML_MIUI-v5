@@ -234,9 +234,9 @@
   <string name="media_player_loading_video">Pobieranie wideo</string>
   <string name="menu_addtodesk">Dodaj na pulpit</string>
   <string name="menu_disable_night_mode">Wyłącz Tryb Nocny</string>
-  <string name="menu_disable_save_bandwidth_mode">Ograniczenia transmisji wyłączone</string>
+  <string name="menu_disable_save_bandwidth_mode">Wyłącz Ograniczenia Transmisji</string>
   <string name="menu_enable_night_mode">Włącz Tryb Nocny</string>
-  <string name="menu_enable_save_bandwidth_mode">Ograniczenia transmisji włączone</string>
+  <string name="menu_enable_save_bandwidth_mode">Włącz Ograniczenia Transmisji</string>
   <string name="menu_exit">Wyjście</string>
   <string name="menu_hv_swap">Przełącz na poziomy ekran</string>
   <string name="menu_hv_swap2">Przełącz na pionowy ekran</string>
