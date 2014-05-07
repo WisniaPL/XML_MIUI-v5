@@ -5,6 +5,7 @@
   <string name="all_resources">Wszystkie</string>
   <string name="all_ringtone_resource">Wszystkie</string>
   <string name="app_name">Motywy</string>
+  <string name="apply_default_font_tip">"Zachować aktualnie używaną czcionkę?"</string>
   <string name="apply_font_btn_exclude">Pomiń</string>
   <string name="apply_font_btn_reboot">Zastosuj</string>
   <string name="apply_font_tip">Motyw zawiera nową czcionkę. By zastosować konieczny będzie restart systemu. Lub wybierz Pomiń aby zastosować motyw bez czcionki</string>
@@ -102,6 +103,7 @@
   <string name="resource_comment_upload_success">Komentarz wysłany!</string>
   <string name="resource_default">Domyślny dzwonek</string>
   <string name="resource_default_name">Element</string>
+  <string name="resource_delete">Usuń</string>
   <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
   <string name="resource_delete_confirm">Usunąć te elementy?</string>
   <string name="resource_delta_update_failed">Aktualizacja motywu nieudana! Zostanie pobrany pełny pakiet</string>
@@ -201,7 +203,7 @@
   <string name="resource_waiting_download">Oczekiwanie...</string>
   <string name="restore_default_theme_alert">Motyw nie został pobrany z oficjalnego marketu MIUI lub jest modyfikacją oficjalnego. Pobierz lub kup ponownie motyw z zasobów online MIUI.</string>
   <string name="sdcard_not_mounted_dialog_message">"Wsuń kartę SD."</string>
-  <string name="sdcard_not_mounted_dialog_title">Nie wykryto karty SD</string>  
+  <string name="sdcard_not_mounted_dialog_title">Nie wykryto karty SD</string>
   <string name="selected_resource_file_invalid">Wybrany plik nie jest dostępny.</string>
   <string name="settings">Ustawienia</string>
   <string name="short_ringtone_resource">Krótkie</string>
@@ -239,11 +241,14 @@
   <string name="theme_current_using_has_update">Aktualny motyw został zaktualizowany, kliknij tu by zastosować zmiany</string>
   <string name="theme_description_title_customized">Własny</string>
   <string name="theme_description_title_default">Domyślny</string>
+  <string name="theme_fresh_man_notifaction">Wypróbuj nowe motywy!</string>
   <string name="theme_immediately_apply_tip">Zastosować zaktualizowany motyw?</string>
   <string name="theme_import_activity_label">Aktualizacje motywów</string>
   <string name="theme_import_from_sdcard">Wczytaj motyw z pamięci telefonu</string>
   <string name="theme_name">%1$s</string>
+  <string name="theme_no">Nie</string>
   <string name="theme_select_others">Inne</string>
+  <string name="theme_yes">Tak</string>
   <string name="third_party_pickers_activity_title">Ustaw %1$s</string>
   <string name="title_component">Własne</string>
   <string name="title_local">Lokalnie</string>

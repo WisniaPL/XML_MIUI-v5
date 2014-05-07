@@ -854,6 +854,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_comment_upload_success">Komentarz wysłany! </string>
   <string name="resource_default">Domyślny dzwonek</string>
   <string name="resource_default_name">Element</string>
+  <string name="resource_delete">Usuń</string>
   <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
   <string name="resource_delete_confirm">Usunąć te elementy?</string>
   <string name="resource_delta_update_failed">Aktualizacja motywu nieudana! Zostanie pobrany pełny pakiet</string>
