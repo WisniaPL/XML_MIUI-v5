@@ -657,4 +657,8 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Wibracje</item>
         <item>Wycisz</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+         <item>Zezwól</item>
+         <item>Odmów</item>
+    </string-array>
  </resources>

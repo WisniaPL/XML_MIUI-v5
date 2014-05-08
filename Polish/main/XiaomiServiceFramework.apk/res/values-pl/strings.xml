@@ -157,6 +157,7 @@ Synchronizuj z kontem SMS, kontakty, zdjęcia, aplikacje itp."</string>
   <string name="find_device_notice_p1">W przypadku zgubienia telefonu, odwiedź</string>
   <string name="find_device_notice_p2">i.Xiaomi.com</string>
   <string name="find_device_notice_p3">a następnie znajdź urządzenie, zablokuj lub usuń dane zdalnie</string>
+  <string name="find_device_notice_p4">Zmiana karty SIM może wymagać ponownej aktywacji usługi lokalizacji urządzenia</string>
   <string name="find_device_success_title">Lokalizacja urządzenia włączona</string>
   <string name="find_password_on_web_msg">Odwiedź account.xiaomi.com by odzyskać hasło</string>
   <string name="forget_password">Zapomniałem hasła</string>

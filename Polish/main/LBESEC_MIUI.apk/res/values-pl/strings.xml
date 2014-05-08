@@ -105,6 +105,9 @@
   <string name="HIPS_Perm_Contact_Access">odczytywanie listy kontaktów</string>
   <string name="HIPS_Perm_Contact_Desc">Dostęp do listy kontaktów</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s aplikacji ma uprawnienia na dostęp do listy kontaktów</string>
+  <string name="HIPS_Perm_DisableKeyguard">Odblokowywanie ekranu</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Odblokowywanie ekranu</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplikacji może odblokować ekran</string>
   <string name="HIPS_Perm_EndCall">zawieszanie połączeń</string>
   <string name="HIPS_Perm_GetCallState">otrzymywanie statusu aktualnego połączenia</string>
   <string name="HIPS_Perm_ListenCallState">monitorowanie statusu połączenia</string>
