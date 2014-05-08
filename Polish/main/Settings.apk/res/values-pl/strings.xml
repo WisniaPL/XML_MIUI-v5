@@ -571,7 +571,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bugreport_tool_log_toast">Log zapisany do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Generowanie raportu...</string>
   <string name="build_author">Rom autorstwa</string>
-  <string name="build_number">Numer kompilacji</string>
+  <string name="build_number">Baza Android</string>
   <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
   <string name="builtin_keyboard_settings_title">Klawiatura fizyczna</string>
   <string name="button_disconnect_network">Rozłącz z siecią</string>
@@ -1354,7 +1354,7 @@ w tym:
   <string name="insufficient_storage">Za mało miejsca w pamięci.</string>
   <string name="intent_sender_account_label">Konto:</string>
   <string name="intent_sender_action_label">Akcja:</string>
-  <string name="intent_sender_data_label">Data:</string>
+  <string name="intent_sender_data_label">Dane:</string>
   <string name="intent_sender_resource_label">Zasób:</string>
   <string name="intent_sender_sendbroadcast_text">Wyślij broadcast</string>
   <string name="intent_sender_startactivity_text">Rozpocznij aktywność</string>
@@ -1719,7 +1719,7 @@ Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="mobile_insert_sim_card">Włóż kartę SIM i zrestartuj urządzenie</string>
   <string name="mobile_no_provisioning_url">%1$s nie ma znanej witryny obsługi</string>
   <string name="mobile_unknown_sim_operator">Nieznany operator karty SIM</string>
-  <string name="model_number">Numer modelu</string>
+  <string name="model_number">Model</string>
   <string name="move_app">Przenieś</string>
   <string name="move_app_failed_dlg_text">"Nie udało się przenieść aplikacji %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
