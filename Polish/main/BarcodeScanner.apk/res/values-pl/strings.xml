@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_to_contacts">Dodaj do kontaktów</string>
+  <string name="address">Adres:</string>
+  <string name="app_name">Skaner kodów</string>
+  <string name="birthday">Urodziny:</string>
+  <string name="close_flash_error">Wyłączenie flesza nieudane</string>
+  <string name="company">Firma:</string>
+  <string name="copy">Kopiuj</string>
+  <string name="copy_succeed">Skopiowano pomyślnie</string>
+  <string name="email">E-mail:</string>
+  <string name="fail_generate_barcode">Nie udało się wygenerować kodu</string>
+  <string name="flash_lable">Flesz</string>
+  <string name="name">Imię:</string>
+  <string name="nickname">Pseudonim:</string>
+  <string name="note">Notatka:</string>
+  <string name="open_flash_error">Włączenie flesza nieudane</string>
+  <string name="phone">Telefon:</string>
+  <string name="picker_lable">Galeria</string>
+  <string name="place_barcode_into_rectangle">Umieść kod QR lub kod kreskowy wewnątrz ramki</string>
+  <string name="recognize">Odczytaj</string>
+  <string name="scan_fail">Niepowodzenie</string>
+  <string name="scan_result">Wynik</string>
+  <string name="title">Tytuł:</string>
+  <string name="vcard_prompt">Brak imienia w kontakcie. Nie można dodać kontaktu bez imienia</string>
+  <string name="web">Strona Web:</string>
+</resources>
