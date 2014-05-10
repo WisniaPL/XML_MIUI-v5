@@ -701,4 +701,5 @@
   <string name="incoming_call_vibrate_abbreviation">"Połączenia "</string>
   <string name="mms_vibrate_abbreviation">SMS/MMS</string>
   <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
+  <string name="mtk_settings">Narzędzia MTK</string>
 </resources>
