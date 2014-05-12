@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="sim_manage_call_via">Połącz z</string>
+    <string name="sim_picker_settings">Pick SIM card for settings</string>
+    <string name="sim_picker_timer_miui">(%1$ds)</string>
+    <string name="sim_slot_alert_title">SIM card slot hints</string>
+    <string name="sim_slot_alert_message_3g">Insert the %s SIM card into the first slot, you can enjoy high-speed 3G network.</string>
+    <string name="sim_slot_alert_message_disable">Keep the %s SIM card is inserted into the first slot, it may not work properly.</string>
+    <string name="sim_slot_alert_shutdown">Shutdown</string>
+    <string name="sim_slot_alert_cancel">Continue using</string>
+</resources>
