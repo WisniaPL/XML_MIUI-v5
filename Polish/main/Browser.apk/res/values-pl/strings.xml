@@ -25,8 +25,8 @@
   <string name="alert_tips">Ta strona WWW może być niebiezpieczna</string>
   <string name="allow">Zezwól</string>
   <string name="already_in_top_level">Zakładka już jest dodana</string>
-  <string name="app_new_version">Download complete: the latest version of this app is already installed</string>
-  <string name="app_update_install">Download complete! Ready to install upgraded version.</string>
+  <string name="app_new_version">Pobieranie ukończone: najnowsza wersja tej aplikacji już jest zainstalowana</string>
+  <string name="app_update_install">Pobieranie ukończone! Gotowy do instalacji najnowszej wersji.</string>
   <string name="application_name">Internet</string>
   <string name="autofill_profile_editor_address_line_1">Adres, wiersz 1</string>
   <string name="autofill_profile_editor_address_line_1_hint">Adres, skrzynka pocztowa, adres korespondencyjny</string>
@@ -225,10 +225,10 @@
   <string name="js_engine_flags">Set JS flags</string>
   <string name="local_bookmarks">Xiaomi</string>
   <string name="location">Adres</string>
-  <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
+  <string name="low_memory_error">Nie można zakończyć operacji z powodu braku pamięci</string>
   <string name="max_tabs_warning">Brak dostępnych kart</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Format wideo jest nieprawidłowy.</string>
   <string name="media_player_error_text_unknown">Wideo nie może być odtworzone.</string>
   <string name="media_player_error_title">Nie można odtworzyć wideo</string>
   <string name="media_player_loading_video">Pobieranie wideo</string>
@@ -263,6 +263,7 @@
   <string name="miuichromium_save_password_never">Nigdy</string>
   <string name="miuichromium_save_password_notnow">Nie tym razem</string>
   <string name="miuichromium_save_password_remember">Pamiętaj hasło</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">Wymagane jest podłączenie nośnika USB</string>
   <string name="month_picker_dialog_title">Ustaw miesiąc</string>
   <string name="move_to_up_folder">W górę</string>
   <string name="name">Etykieta</string>
@@ -508,11 +509,13 @@
   <string name="sign_in_to" formatted="false">Zaloguj jako %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading."</string>
   <string name="snapshot_go_live">Go live</string>
-  <string name="ssl_continue">Continue</string>
-  <string name="ssl_date_invalid">This certificate has an invalid date.</string>
-  <string name="ssl_expired">This certificate has expired.</string>
-  <string name="ssl_go_back">Go back</string>
-  <string name="ssl_invalid">This certificate is invalid.</string>
+  <string name="ssl_certificate">Certyfikat bezpieczeństwa</string>
+  <string name="ssl_certificate_is_valid">Certyfikat jest ważny.</string>
+  <string name="ssl_continue">Dalej</string>
+  <string name="ssl_date_invalid">Certyfikat ma nieważną datę.</string>
+  <string name="ssl_expired">Ważność certyfikatu wygasła.</string>
+  <string name="ssl_go_back">Wróć</string>
+  <string name="ssl_invalid">Certyfikat jest nieważny.</string>
   <string name="ssl_mismatch">"The name of the site doesn't match the name on the certificate."</string>
   <string name="ssl_not_yet_valid">"This certificate isn't valid yet."</string>
   <string name="ssl_unknown">Unknown certificate error.</string>
@@ -545,8 +548,8 @@
   <string name="title_bar_loading">Wczytywanie…</string>
   <string name="too_many_windows_dialog_message">"Przeglądarka nie może otworzyć więcej kart"</string>
   <string name="too_many_windows_dialog_title">Limit kart osiągnięty</string>
-  <string name="ua_switcher_desktop">Request desktop site</string>
-  <string name="uploads_disabled">File uploads are disabled.</string>
+  <string name="ua_switcher_desktop">Zmień na tryb PC</string>
+  <string name="uploads_disabled">Kopiowanie plików wyłączone.</string>
   <string name="url_copy_done">Skopiowano URL</string>
   <string name="url_hint">Wpisz URL lub wyszukaj tekst</string>
   <string name="user_defined_webpage">Dodaj do startowej</string>
@@ -582,4 +585,5 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="webview_today">Dziś</string>
   <string name="webview_yesterday">Wczoraj</string>
   <string name="week_picker_dialog_title">Wybierz tydzień</string>
+  <string name="xiaomi_bookmark_title">Xiaomi</string>
 </resources>

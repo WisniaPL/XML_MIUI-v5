@@ -2984,6 +2984,7 @@ Synchronizacja jest wyłączona"</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Wybudzenie Trackpadem</string>
   <string name="transition_animation_scale_title">Skala animacji przejścia</string>
+  <string name="translation_contributors_title">Autorzy tłumaczenia</string>
   <string name="trust_switch_dialog_msg">"MIUI nie będzie pytał o potwierdzenia uprawnień dla aplikacji. Upewnij się, że ufasz aplikacji. Zaufaj aplikacji？"</string>
   <string name="trusted_credentials">Zaufane dane uwierzytelniające</string>
   <string name="trusted_credentials_disable_confirmation">Wyłączyć systemowy certyfikat CA?</string>

@@ -903,6 +903,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">Typy połączeń sieci komórkowych</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">Preferowane sieci 3G WCDMA (E/H/H+)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferowane sieci 4G LTE</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatycznie</string>
   <string name="preferred_network_type_pref_entries_global_miui">Globalnie</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Tylko sieci 2G GSM (E)</string>

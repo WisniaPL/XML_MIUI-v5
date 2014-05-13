@@ -89,7 +89,7 @@
   <string name="conversation_style">bubble</string>
   <string name="converting_to_picture_message">Trwa konwertowanie na wiadomość multimedialną...</string>
   <string name="converting_to_text_message">Trwa konwertowanie na wiadomość tekstową...</string>
-  <string name="copy_message_text">Kopiuj tekst wiadomości</string>
+  <string name="copy_message_text">Kopiuj</string>
   <string name="copy_message_text_success">Skopiowano!</string>
   <string name="copy_to_sdcard">Zapisz załącznik</string>
   <string name="copy_to_sdcard_fail">"Nie można zapisać załącznika"</string>
@@ -177,7 +177,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="menu_compose_new">Stwórz</string>
   <string name="menu_delete_messages">Usuń wiadomości</string>
   <string name="menu_edit">Edytuj</string>
-  <string name="menu_forward">Prześlij dalej</string>
+  <string name="menu_forward">Przekaż</string>
   <string name="menu_lock">Zablokuj</string>
   <string name="menu_new_manual">Wpisz numer ręcznie</string>
   <string name="menu_pick_from_contact">Wybierz z kontaktów</string>
@@ -468,7 +468,7 @@ Prześlij do MIUI swoje spostrzeżenia i raporty błędów."</string>
   <string name="unsupported_media_format">Nieobsługiwany format elementu %1$s</string>
   <string name="view">Wyświetl</string>
   <string name="view_bookmark">Wyświetl wiadomość oryginalną</string>
-  <string name="view_message_details">Pokaż szczegóły wiadomości</string>
+  <string name="view_message_details">Szczegóły wiadomości</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
 </resources>

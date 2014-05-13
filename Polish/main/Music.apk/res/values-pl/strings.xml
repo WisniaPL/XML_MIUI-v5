@@ -13,12 +13,13 @@
   <string name="album_download">Pobierz okładki albumów</string>
   <string name="album_edit">Album</string>
   <string name="album_picker_not_found">Nie znaleziono galerii na urządzeniu</string>
-  <string name="album_search_failed">Nie znaleziono okładek albumów!</string>
+  <string name="album_search_failed">"Nie znaleziono okładek albumów!"</string>
   <string name="album_search_local_descript">Lokalnie | %1$d x %2$d</string>
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
   <string name="album_select">Wybierz okładkę</string>
   <string name="albums_title">"Albumy "</string>
-  <string name="albumsongseparator"/>
+  <string name="albumsongseparator"/>"
+  "</string>
   <string name="all_tracks">"Utwory "</string>
   <string name="android_album_settings">Okładki z plików audio</string>
   <string name="android_album_summary">System automatycznie zastosuje okładki dołączone do plików audio</string>
@@ -350,6 +351,8 @@
   <string name="vip_recommend_summary">"Przesyłaj lub pobieraj muzykę z Baidu Online Music w najwyższej jakości 320 kbps.
   Do płatności można wykorzystać MiKredyty."</string>
   <string name="vip_recommend_title">Wybierz najwyższą jakość muzyki</string>
+  <string name="volume_alert_playback_alert_title">Ostrzeżenie o głośności</string>
+  <string name="volume_alert_playback_message">Aby zapobiec utracie słuchu nie słuchaj głośnej muzyki przez długi czas.</string>
   <string name="where_is_barcode">"Gdzie jest kod QR?"</string>
   <string name="xiaomi_account_setting">Konto Xiaomi</string>
 </resources>

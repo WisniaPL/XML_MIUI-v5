@@ -57,8 +57,8 @@
         <item quantity="one">1 utwór dodany do playlisty.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d utworów dodanych do playlisty.</item>
-        <item quantity="one">1 utwór dodany do playlisty.</item>
+        <item quantity="other">%d utworów dodanych do Ulubionych.</item>
+        <item quantity="one">1 utwór dodany do Ulubionych.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
         <item quantity="other">Utworów usuniętych: %d</item>
