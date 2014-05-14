@@ -308,6 +308,7 @@
   <string name="pref_content_autofit_summary">Formatuj strony internetowe, aby dopasować je do ekranu</string>
   <string name="pref_content_block_float_popups">Blokuj pływające okna</string>
   <string name="pref_content_block_popups">Blokuj wyskakujące okna</string>
+  <string name="pref_content_cloud_speedup">Włącz cache w chmurze</string>
   <string name="pref_content_fontsize_setting">Rozmiar tekstu</string>
   <string name="pref_content_homepage">Strona domowa</string>
   <string name="pref_content_javascript">Włącz JavaScript</string>

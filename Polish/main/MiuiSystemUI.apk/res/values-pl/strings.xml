@@ -58,7 +58,8 @@
    <string name="battery_low_title">Podłącz ładowarkę</string>
    <string name="battery_low_why">Użycie baterii</string>
    <string name="bluetooth_tethered">Bluetooth tethered</string>
-   <string name="call_status_dialing">Połączenie</string>
+   <string name="call_status_dialing">Wybieranie</string>
+   <string name="call_status_ringing">Połączenie</string>
    <string name="camera_key_action_app_title">Otwórz aplikację</string>
    <string name="camera_key_action_category_title">Użyj jeśli aplikacja aparatu nie jest włączona</string>
    <string name="camera_key_action_none_title">Bez funkcji</string>
@@ -152,6 +153,7 @@
    <string name="oldman_status_bar_time_format">HH:mm</string>
    <string name="recent_apps_key">Ostatnio używane</string>
    <string name="recent_apps_key_show">Pokaż ostatnio używane</string>
+   <string name="reject_call">Odrzucanie połączenia</string>
    <string name="return_to_incall_screen">Powróć do połączenia</string>
    <string name="screen_button_custom">Opcje przycisków</string>
    <string name="screen_button_disabled_message">Funkcje klawiszy pod ekranem wyłączone. Możesz je ponownie włączyć naciskając razem \"Home\" i \"Power\"</string>

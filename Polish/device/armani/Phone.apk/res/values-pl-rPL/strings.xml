@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+	<string name="network_settings">" - ustawienia sieci"</string>
     <string name="sim_manage_call_via">Połącz z</string>
     <string name="sim_picker_settings">Ustawienia kart SIM</string>
     <string name="sim_picker_timer_miui">(%1$ds)</string>

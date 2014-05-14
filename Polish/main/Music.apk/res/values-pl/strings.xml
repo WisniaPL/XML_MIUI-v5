@@ -258,7 +258,6 @@
   <string name="playlist_renamed_message">Zmieniono nazwę playlisty.</string>
   <string name="playlists_title">"Playlisty "</string>
   <string name="powered_by">Opracowane przez</string>
-  <string name="project_device">Xiaomi MiBox</string>
   <string name="project_device_mobile">Urządzenie mobilne</string>
   <string name="queue">Bieżąca playlista</string>
   <string name="quit_player">Zakończ</string>
@@ -299,6 +298,7 @@
   <string name="search_suggestion">Podpowiedzi:</string>
   <string name="search_title">Wyszukaj utwory</string>
   <string name="select_all">Zaznacz wszystko</string>
+  <string name="select_device">Wybierz urządzenie</string>
   <string name="select_folder">Zaznacz katalog</string>
   <string name="select_quit_time">Ustaw uśpienie odtwarzacza (w minutach)</string>
   <string name="send_to">Wyślij do</string>

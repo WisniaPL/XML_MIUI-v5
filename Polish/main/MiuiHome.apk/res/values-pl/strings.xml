@@ -65,7 +65,7 @@
   <string name="gadget_weather_time_format">dd.MM.yyyy</string>
   <string name="gadget_weather_title">Pogoda</string>
   <string name="gadget_weather_title_24">Pogoda</string>
-  <string name="global_search_hint">Nowy katalog</string>
+  <string name="global_search_hint"/>
   <string name="guide_install_app_msg">"Aplikacja niezainstalowana. 
 Przejść do Google Play aby wyszukać aplikacje?"</string>
   <string name="guide_install_app_title">Zainstaluj aplikację</string>
