@@ -426,13 +426,13 @@
   <string name="mark_important">Oznacz jako ważne</string>
   <string name="mark_not_important">Oznacz jako mało ważne</string>
   <string name="mark_not_spam">Zgłoś jako nie spam</string>
-  <string name="mark_read">Oznacz jako przeczytane</string>
-  <string name="mark_unread">Oznacz jako nieprzeczytane</string>
+  <string name="mark_read">Przeczytane</string>
+  <string name="mark_unread">Nieprzeczytane</string>
   <string name="me_object_pronun">ja</string>
   <string name="me_subject_pronun">ja</string>
   <string name="meeting_accepted">Otrzymane: %s</string>
-  <string name="meeting_allday">When: %s (all day)</string>
-  <string name="meeting_allday_recurring">When: %s (all day, recurring)</string>
+  <string name="meeting_allday">Kiedy: %s (cały dzień)</string>
+  <string name="meeting_allday_recurring">Kiedy: %s (all day, recurring)</string>
   <string name="meeting_canceled">Canceled: %s</string>
   <string name="meeting_declined">Declined: %s</string>
   <string name="meeting_recurring">When: %s (recurring)</string>
@@ -452,7 +452,7 @@
   <string name="menu_compose">Utwórz</string>
   <string name="menu_folder_options">Opcje synchronizacji</string>
   <string name="menu_manage_folders">Ustawienia folderów</string>
-  <string name="menu_move_to">Przenieś do</string>
+  <string name="menu_move_to">Przenieś</string>
   <string name="menu_move_to_inbox">Przenieś do skrzynki odbiorczej</string>
   <string name="menu_photo_save_all">Zapisz wszystko</string>
   <string name="menu_photo_share">Udostępnij</string>
