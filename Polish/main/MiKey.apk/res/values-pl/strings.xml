@@ -16,6 +16,7 @@
   <string name="action_open_sound_recorder">Dyktafon</string>
   <string name="action_open_wechat">Otwórz WeChat</string>
   <string name="action_phone">Połącz</string>
+  <string name="action_qrcode">Skanuj kod QR</string>
   <string name="action_screen_shot">Zrzut ekranu</string>
   <string name="action_send_text_message">Wyślij SMS</string>
   <string name="action_share_to_miliao">Udostępnij na MiTalk</string>
@@ -23,6 +24,7 @@
   <string name="action_share_to_moment">Udostępnij na Moment</string>
   <string name="action_share_to_wechat">Udostępnij na WeChat</string>
   <string name="action_share_to_weibo">Udostępnij na Weibo</string>
+  <string name="action_toolbox">Narzędzia</string>
   <string name="action_zero_volume">Wycisz</string>
   <string name="add">Dodaj</string>
   <string name="app_name">MiKey</string>
@@ -80,13 +82,22 @@
 Może to powodować większe użycie baterii"</string>
   <string name="setting_keeplive_text">Praca w tle</string>
   <string name="setting_silent_mode">Tryb cichy</string>
-  <string name="setting_speed_desc">"Telefon będzie wibrował podczas akcji"</string>
+  <string name="setting_silent_mode_default">Tryb zestawu słuchawkowego</string>
+  <string name="setting_silent_mode_desc">"选择耳机模式后请务必拔出米键，否则会导致没有声音。
+
+选择防尘塞模式
+启动手机仍然需要对耳机孔内的设备做出选择，
+因为手机是无法识别的。
+如果你在一段时间中经常使用耳机，选择耳机模式手机会默认将耳机孔内设备识别为耳机，而不再弹出设备选择窗口。"</string>
+  <string name="setting_silent_mode_dust_cap">Tryb wtyczki antykurzowej</string>
+  <string name="setting_speed_desc">"Ustaw szybkość klikania"</string>
   <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_middle_time">500ms</string>
   <string name="setting_speed_min_time">0</string>
   <string name="setting_speed_quick">Szybko</string>
   <string name="setting_speed_slow">Wolno</string>
   <string name="setting_speed_text">Szybkość</string>
+  <string name="setting_vibrate_desc">"Telefon będzie wibrował podczas akcji"</string>
   <string name="setting_vibrate_text">Wibruj</string>
   <string name="settings">Ustawienia</string>
   <string name="short_click_1">1x</string>
@@ -107,6 +118,9 @@ Może to powodować większe użycie baterii"</string>
   <string name="sms_to">Wyślij do</string>
   <string name="splash_tip">Podłącz MiKey</string>
   <string name="task_title_prefix"/>
+  <string name="test_user_entry">Test</string>
   <string name="times">" kliknięć"</string>
+  <string name="toolbox_outer_desc">"Kliknij znak plus i ustaw swoje narzędzia"</string>
+  <string name="update_message">Aktualizacja udana</string>
   <string name="write_pic_fail">Zapis zdjęć nieudany</string>
 </resources>
