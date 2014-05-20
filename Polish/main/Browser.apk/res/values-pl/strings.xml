@@ -510,6 +510,7 @@
   <string name="sign_in_to" formatted="false">Zaloguj jako %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading."</string>
   <string name="snapshot_go_live">Go live</string>
+  <string name="snapshot_successed">Save for offline reading successed</string>
   <string name="ssl_certificate">Certyfikat bezpieczeństwa</string>
   <string name="ssl_certificate_is_valid">Certyfikat jest ważny.</string>
   <string name="ssl_continue">Dalej</string>

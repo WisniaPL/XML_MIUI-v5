@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ACaddnumcontent">输入开头号码,系统自动补通配符*</string>
   <string name="ACaddnumtitle">Dodaj prefiksy numerów do wyjątków</string>
   <string name="AD_ALLOW">Allow solicitations</string>
   <string name="AD_APPInfo">App info</string>
@@ -18,14 +19,17 @@
   <string name="AD_Unistall">Odinstaluj</string>
   <string name="Call_ADRESS">Blokowane adresy</string>
   <string name="Call_BLACKLIST">Połączenia</string>
+  <string name="Call_DEFAULT">Inteligentne blokowanie</string>
   <string name="Call_MODENAME">Domyślne blokowanie</string>
   <string name="Call_PREFIX">Prefiks</string>
   <string name="Call_PRIVATE_CALL">Prywatne</string>
+  <string name="NACaddnumcontent">输入电话号码</string>
   <string name="NACaddnumtitle">Dodaj numer do wyjątków</string>
   <string name="PAST_BLOCK">Blokowane</string>
   <string name="Phonepass">Zezwól na połączenia</string>
   <string name="SMS_ADRESS">Blokowane adresy</string>
   <string name="SMS_BLACKLIST">SMS</string>
+  <string name="SMS_DEFAULT">Inteligentne blokowanie</string>
   <string name="SMS_KEYWORDS">Blokowane słowa kluczowe</string>
   <string name="SMS_MODENAME">Domyślne blokowanie</string>
   <string name="SMS_PREFIX">Blokowane prefiksy</string>
@@ -41,6 +45,7 @@
   <string name="addwhitelist">Dodaj do wyjątków</string>
   <string name="all_address_choose_hint">Wszystkie lokalizacje</string>
   <string name="app_name">Firewall</string>
+  <string name="backsound_set_hint">Ustawić dźwięk połączenia na %s?</string>
   <string name="baidu_thanks"/>
   <string name="bl_block_info" formatted="false">Blokowanych: %d | SMS: %d</string>
   <string name="bl_no_blacklist">Lista blokowanych numerów jest pusta</string>
@@ -49,6 +54,7 @@
   <string name="blacklist_prefix_add_hint">Dodaj wszystkie numery z tym prefiksem do blokowanych</string>
   <string name="block_message_number">Niechciane wiadomości: %d</string>
   <string name="block_phone_number">Niechciane połączenia: %d</string>
+  <string name="call_delete_hint">Usunąć wszystkie blokowane rozmowy z tego numeru?</string>
   <string name="cancle">Anuluj</string>
   <string name="close_callwait">Wył</string>
   <string name="customizer_mode_user_define_name">Własne</string>
@@ -80,8 +86,10 @@
   <string name="dlg_remove_address_blacklist">Remove this location from blocklist and restore related messages to inbox?</string>
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">Usunąć numer z czarnej listy?</string>
+  <string name="dlg_remove_blacklist_ing">Usuwanie z czarnej listy…</string>
   <string name="dlg_remove_blacklist_ok">Usuń</string>
   <string name="dlg_remove_whitelist">Usunąć numery z wyjątków?</string>
+  <string name="dlg_remove_whitelist_ing">Usuwanie z wyjątków…</string>
   <string name="dlg_retore">Przywrócić wiadomości?</string>
   <string name="dlg_retore_ok">Przywróć</string>
   <string name="dlg_white_address_antispam_message">Dodać tę lokalizację do wyjątków?</string>
@@ -131,6 +139,7 @@
   <string name="note_sms_none">Brak wiadomości do edycji</string>
   <string name="one_address_choose_hint">%s1 lokalizacja</string>
   <string name="open_callwait">Wł</string>
+  <string name="sms_delete_hint">Usunąć wszystkie blokowane wiadomości z wybranego numeru?</string>
   <string name="st_advanced_setting_group">Zaawansowane</string>
   <string name="st_antispam_black_adress_add">Wybierz adres</string>
   <string name="st_antispam_bw_adress_add">Wybierz lokalizację</string>

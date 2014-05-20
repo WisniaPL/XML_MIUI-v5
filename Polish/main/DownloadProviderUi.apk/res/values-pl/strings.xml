@@ -51,6 +51,7 @@
   <string name="open_download">Otwórz</string>
   <string name="pause_download">Wstrzymaj</string>
   <string name="paused_by_app">Zatrzymane</string>
+  <string name="paused_insufficient_space">Oczekiwanie na dostępne miejsce w pamieci</string>
   <string name="paused_queued_for_wifi">Oczekiwanie na połączenie Wi-Fi</string>
   <string name="paused_unknown">Wstrzymane z nieznanego powodu</string>
   <string name="paused_waiting_for_network">Oczekiwanie na połączenie sieci</string>
