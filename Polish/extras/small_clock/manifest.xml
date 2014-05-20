@@ -79,7 +79,7 @@
 	</VarArray>
 	 
 	<Group y="-50">
-		<Time name="time" x="#view_width-39" y="174" align="right" alignV="center" src="time.png"/>
+		<Time name="time" x="#view_width-39" y="174" align="right" alignV="center" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/time.png'"/>
 		
 			<DateTime x="#view_width-44" y="254+4" align="right" alignV="center" color="#000000" alpha="25" size="32" format="@long_date_time"/>
 			<DateTime x="#view_width-44" y="254" align="right" alignV="center" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
