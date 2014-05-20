@@ -3,7 +3,7 @@
     <string name="app_name">Synchronizacja Xiaomi</string>
     <string name="find_device">Lokalizacja urządzenia</string>
     <string name="find_device_noise_title">Dźwięk zablokowanego telefonu</string>
-    <string name="find_device_stop_noise">Naciśnij \"OK\" aby zatrzymać dzwięk powiadomienia</string>
+    <string name="find_device_stop_noise">Naciśnij \"OK\" aby wyciszyć</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Zalecane do aktywacji by operator nie pobierał opłat za transmisję danych.</string>
     <string name="pref_title_sync_contacts_title">Synchronizuj kontakty</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Zdjęcia kontaktów tylko z Wi-Fi</string>

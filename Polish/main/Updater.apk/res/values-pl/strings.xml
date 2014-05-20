@@ -69,7 +69,6 @@ Gdy proces zostanie zakończony uruchom ponownie telefon."</string>
   <string name="install_file_explorer">Zainstaluj przeglądarkę plików</string>
   <string name="install_qq">Install QQ app</string>
   <string name="install_rom_from_sd">Instalacja z pamięci</string>
-  <string name="install_sina">Install Sina app</string>
   <string name="install_whole_rom">Zalecane jest pobranie pełnego ROMu</string>
   <string name="internal_build">Internal Build</string>
   <string name="kernel_upgrade_link"/>

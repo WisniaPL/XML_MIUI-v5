@@ -36,9 +36,9 @@ Synchronizuj z kontem SMS, kontakty, zdjęcia, aplikacje itp."</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Karty SIM zostały zmienione. Zostaną wysłane 2 SMSy międzynarodowe w celu aktywacji kart SIM i usług %s</string>
   <string name="activate_popup_desc_new_2_sim_cards">Karty SIM zostały zmienione. Zostaną wysłane 2 SMSy międzynarodowe w celu aktywacji kart SIM i usług %s</string>
   <string name="activate_popup_desc_new_intl_sim_card">Karta SIM została zmieniona. Zostanie wysłany SMS międzynarodowy w celu aktywacji nowej karty SIM i usług %s</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">Karty SIM zostały zmienione. An SMS and an international SMS will be sent to activate the 2 new SIM cards in order to enable features like %s (carrier rates apply)</string>
-  <string name="activate_popup_desc_new_sim_card">Karta SIM został zmieniona. An SMS will be sent to activate the new SIM card in order to enable features like %s (carrier rates apply)</string>
-  <string name="activate_popup_desc_new_sim_card_downlink">Karta SIM została zmieniona. Please enter the number for your SIM card, in order to enable features like %s</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">Karty SIM zostały zmienione. Zostanie wysłany SMS międzynarodowy w celu aktywacji nowych kart SIM i usług %s</string>
+  <string name="activate_popup_desc_new_sim_card">Karta SIM został zmieniona. Zostanie wysłany SMS w celu aktywacji nowej karty SIM i usług %s</string>
+  <string name="activate_popup_desc_new_sim_card_downlink">Karta SIM została zmieniona. Wpisz numer swojej karty SIM w celu aktywacji usług %s</string>
   <string name="activate_popup_desc_register_account">Zostanie wysłany SMS by zarejestrować konto Xiaomi</string>
   <string name="activate_popup_desc_register_account_downlink">Wpisz numer karty SIM by aktywować konto Xiaomi</string>
   <string name="activate_popup_desc_register_account_intl">Zostanie wysłany SMS międzynarodowy w celu aktywacji konta Xiaomi</string>

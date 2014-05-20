@@ -173,6 +173,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="loading_mms">Wczytywanie MMS…</string>
   <string name="me">Ja</string>
   <string name="menu_compose_new">Stwórz</string>
+  <string name="menu_delete_messages">Usuń wiadomości</string>
   <string name="menu_edit">Edytuj</string>
   <string name="menu_forward">Przekaż</string>
   <string name="menu_lock">Zablokuj</string>
@@ -211,6 +212,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="mx_auto_resend_mms_summary">Wyślij jako MMS gdy wiadomości w chmurze są niedostępne.</string>
   <string name="mx_auto_resend_sms">Wyślij jako SMS</string>
   <string name="mx_auto_resend_sms_summary">Wyślij jako SMS gdy wiadomości w chmurze są niedostępne</string>
+  <string name="mx_btn_enable">Aktywuj</string>
   <string name="mx_btn_enable_now">Włącz teraz</string>
   <string name="mx_count_dspt">Od momentu aktywacji, MIUI wysłało dla Ciebie %1$d wiadomości w chmurze (%2$s)</string>
   <string name="mx_current_status">Status: Online</string>
@@ -220,6 +222,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="mx_msg">Funkcje Online</string>
   <string name="mx_offline">Rozłączono</string>
   <string name="mx_online">Połączono</string>
+  <string name="mx_reactivate">Aktywuj ponownie usługi w chmurze</string>
   <string name="mx_recommend_msg">Wysyłaj darmowe SMS korzystając z wiadomości w chmurze</string>
   <string name="need_download">Oczekiwanie na synchronizację...</string>
   <string name="new_message">Nowa wiadomość</string>

@@ -124,11 +124,11 @@
   <string name="menu_restore">Przywróć wiadomość</string>
   <string name="menu_sms">Wyślij wiadomość</string>
   <string name="menu_wh_remove">移出白名单</string>
-  <string name="note_call_none">No call record to edit</string>
+  <string name="note_call_none">Brak rejestru do edycji</string>
   <string name="note_keyword_none">Brak słów kluczowych</string>
-  <string name="note_list_none">No list to edit</string>
-  <string name="note_preference_delete">The mode is in use,cannot be deleted</string>
-  <string name="note_sms_none">No message to edit</string>
+  <string name="note_list_none">Brak listy do edycji</string>
+  <string name="note_preference_delete">Tryb w użyciu. Nie może być usunięty</string>
+  <string name="note_sms_none">Brak wiadomości do edycji</string>
   <string name="one_address_choose_hint">%s1 lokalizacja</string>
   <string name="open_callwait">Wł</string>
   <string name="st_advanced_setting_group">Zaawansowane</string>

@@ -65,6 +65,7 @@ Dalsze korzystanie z transmisji danych może powodować naliczenie opłat od ope
   <string name="lock_screen_traffic_warn_title">Ostrzeżenie o transmisji danych</string>
   <string name="main_alert_message_no_imsi">Nie wykryto karty SIM</string>
   <string name="main_alert_message_no_mobile_package">"Nie ustawiono limitu danych"</string>
+  <string name="main_alert_message_slot_no_data_connection">"Slot karty SIM nie wspiera przesyłu danych mobilnych"</string>
   <string name="main_button_idel_traffic">Poza limitem</string>
   <string name="main_button_normal_traffic">Użycie</string>
   <string name="main_button_usage_adjust">Dostosuj użycie danych</string>
