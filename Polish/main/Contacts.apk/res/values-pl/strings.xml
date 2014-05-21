@@ -549,7 +549,7 @@ Możesz wyłączyć przypomnienie w ustawieniach kontaktów"</string>
   <string name="menu_not_redirect_calls_to_vm">Poczta głosowa nieaktywna</string>
   <string name="menu_redirect_calls_to_vm">Łącz na pocztę głosową</string>
   <string name="menu_refresh">Odśwież</string>
-  <string name="menu_removeStar">Usuń z ulubionych</string>
+  <string name="menu_removeStar">Nielubiane</string>
   <string name="menu_search">Szukaj</string>
   <string name="menu_select_all">Zaznacz wszystko</string>
   <string name="menu_select_none">Odznacz wszystko</string>
@@ -664,7 +664,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="option_delete_group">Usuń grupę</string>
   <string name="option_edit_contact">Edytuj kontakt</string>
   <string name="option_not_in_group">Bez grupy</string>
-  <string name="option_not_star">Usuń z ulubionych</string>
+  <string name="option_not_star">Nielubiane</string>
   <string name="option_rename_group">Zmień nazwę grupy</string>
   <string name="option_send_to_desktop">Wyślij na pulpit</string>
   <string name="option_send_to_others">Wyślij do...</string>

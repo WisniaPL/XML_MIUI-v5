@@ -73,6 +73,7 @@
   <string name="confirm_restore_positive">Przywróć</string>
   <string name="confirm_restore_title">Przywrócić wszystkie zaznaczone wiadomości?</string>
   <string name="confirm_send_mms">Do jednego z odbiorców wiadomości dodano adres e-mail. Wiadomość zostanie wysłana jako MMS.</string>
+  <string name="context_menu_add_calendar">Pokaż w kalendarzu</string>
   <string name="context_menu_add_contact">Dodaj do kontaktów</string>
   <string name="context_menu_add_to_browser_favorite">Dodaj do ulubionych w Przeglądarce</string>
   <string name="context_menu_browse_web">Przeglądarka</string>

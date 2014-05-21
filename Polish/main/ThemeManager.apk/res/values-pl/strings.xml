@@ -119,7 +119,7 @@
   <string name="resource_detail_update_log_title">Aktualizacje:</string>
   <string name="resource_detail_window_title">%1$s</string>
   <string name="resource_download">Pobierz</string>
-  <string name="resource_download_trial">Darmowy okres próbny</string>
+  <string name="resource_download_trial">Trial</string>
   <string name="resource_downloaded_title">Pobrane elementy</string>
   <string name="resource_downloading">Pobieranie</string>
   <string name="resource_exchange">Otrzymaj</string>
@@ -157,7 +157,7 @@
   <string name="resource_my">Lokalnie</string>
   <string name="resource_no_result">Brak wyników</string>
   <string name="resource_notification_default">Powiadomienia</string>
-  <string name="resource_on_trial">Próba: %1$s</string>
+  <string name="resource_on_trial">Motyw próbny: %1$s</string>
   <string name="resource_online">W sieci %1$s</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, but current price is still more favorable than purchase individually for left items, continue?</string>
   <string name="resource_pack_discount_info">%1$s mniej!</string>

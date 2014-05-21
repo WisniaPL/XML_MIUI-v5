@@ -147,6 +147,7 @@
   <string name="delete_folder">Usuń folder</string>
   <string name="delete_multi_bookmarks_alert_title">Usunąć %1$s zakładek?</string>
   <string name="disable_autofill">Wyłącz autouzupełnianie</string>
+  <string name="dont_remind_again">Pamiętaj mój wybór</string>
   <string name="download">Pobierz</string>
   <string name="download_complete">Pobieranie zakończone</string>
   <string name="download_default_path_txt">Pamiętaj wybór</string>
@@ -554,6 +555,8 @@
   <string name="uploads_disabled">Kopiowanie plików wyłączone.</string>
   <string name="url_copy_done">Skopiowano URL</string>
   <string name="url_hint">Wpisz URL lub wyszukaj tekst</string>
+  <string name="use_cellular_network_alert_message">Sieć Wi-Fi jest niedostępna. Użyć sieci mobilnej 2G/3G?</string>
+  <string name="use_cellular_network_alert_title">Ostrzeżenie</string>
   <string name="user_defined_webpage">Dodaj do startowej</string>
   <string name="user_defined_webpage_title">Dodaj do startowej</string>
   <string name="username">Imię</string>
