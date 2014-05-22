@@ -27,7 +27,7 @@
   <string name="check_code_title">Liczba kontrolna</string>
   <string name="context_menu_remove_account">Usuń</string>
   <string name="copy_to_clipboard">Kopiuj do schowka</string>
-  <string name="correct_enter_password">Wpisz hasło</string>
+  <string name="correct_enter_password">Hasło poprawne</string>
   <string name="correct_enter_update_password">Hasło wpisane poprawnie</string>
   <string name="counter_pin">Pobierz kod</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Twoje dane zostały pomyślnie zaimportowane z nieaktualnej aplikacji Google Authenticator. Kliknij poniżej, by bezpiecznie odinstalować przestarzałą wersję.</string>
