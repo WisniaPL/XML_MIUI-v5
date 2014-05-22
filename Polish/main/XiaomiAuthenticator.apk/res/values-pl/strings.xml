@@ -163,6 +163,6 @@ Możesz："</string>
   <string name="update_pattern_jump">Pomiń</string>
   <string name="version_preference_title">Wersja</string>
   <string name="welcome_page_alert" />
-  <string name="welcome_page_details">Tego będziesz potrzebować podczas każdego logowania na konto Xiaomi po włączeniu weryfikacji dwuetapowej:</string>
+  <string name="welcome_page_details">Tego będziesz potrzebować podczas każdego logowania na konto Xiaomi po włączeniu weryfikacji dwuetapowej.</string>
   <string name="welcome_page_title">Uwierzytelnianie dostępu do konta Xiaomi</string>
 </resources>
