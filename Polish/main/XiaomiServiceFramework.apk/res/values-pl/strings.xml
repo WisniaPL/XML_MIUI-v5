@@ -295,6 +295,11 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="sync_dspt">Włącz synchronizację</string>
   <string name="sync_off">Wył</string>
   <string name="sync_on">Wł</string>
+  <string name="sync_sub_1_intl_sms">A text message will be sent to activate your SIM card (international rates apply)</string>
+  <string name="sync_sub_1_sms">A text message will be sent to activate your SIM card (normal carrier rates apply)</string>
+  <string name="sync_sub_1_sms_1_intl_sms">2 text messages will be sent to activate your SIM cards (domestic and international carrier rates apply)</string>
+  <string name="sync_sub_2_intl_sms">2 text messages will be sent to activate your SIM cards (international carrier rates apply)</string>
+  <string name="sync_sub_2_sms">2 text messages will be sent to activate your SIM cards (normal carrier rates apply)</string>
   <string name="title_reg">Wpisz się na konto Xiaomi</string>
   <string name="trust_device">Zaufane urządzenie</string>
   <string name="unactivated_user">Bez aktywacji</string>

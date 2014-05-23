@@ -506,6 +506,7 @@ Opuść na chwilę widok"</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Fotografowanie seryjne nie działa gdy tryb Pięknej Twarzy jest wł.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Fotografowanie seryjne nie działa gdy HDR jest wł.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Fotografowanie w trybie seryjnym nie jest możliwe jeśli ISO jest 'auto'."</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nie można wyświetlić podglądu zdjęcia przy zablokowanym ekranie.</string>
   <string name="toast_start_audio_capture">Wydaj dźwięk aby wyzwolić migawkę</string>
   <string name="ubi_focus_exit_button_text">Wyjdź z Ubi Focus</string>
   <string name="undo">UNDO</string>
