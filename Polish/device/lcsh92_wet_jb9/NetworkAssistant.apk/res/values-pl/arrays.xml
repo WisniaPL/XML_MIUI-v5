@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>" B"</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Przesył danych wczoraj "</item>
+        <item>"Przesył danych dzisiaj "</item>
+        <item>"Przesył danych w tym miesiącu "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Przesył danych 2G/3G wczoraj</item>
+        <item>Przesył danych 2G/3G dzisiaj</item>
+        <item>Przesył danych 2G/3G w tym miesiącu</item>
+        <item>Przesył danych Wi-Fi wczoraj</item>
+        <item>Przesył danych Wi-Fi dzisiaj</item>
+        <item>Przesył danych Wi-Fi w tym miesiącu</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Przesył danych 2G/3G wczoraj</item>
+        <item>Przesył danych 2G/3G dzisiaj</item>
+        <item>Przesył danych 2G/3G w tym miesiącu</item>
+    </string-array>
+</resources>
