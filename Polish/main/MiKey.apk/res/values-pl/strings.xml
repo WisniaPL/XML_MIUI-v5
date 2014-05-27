@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about">Informacje</string>
   <string name="action_capture_video">Nagraj wideo</string>
   <string name="action_clear_call_list">Wyczyść rejestr połączeń</string>
   <string name="action_clear_memory">Wyczyść pamięć</string>
@@ -11,6 +10,7 @@
   <string name="action_open_camera">Aparat</string>
   <string name="action_open_camera2">Szybkie zdjęcie</string>
   <string name="action_open_flashlight">Latarka</string>
+  <string name="action_open_mi_route">Smart Box</string>
   <string name="action_open_or_close_motion">Obracanie ekranu</string>
   <string name="action_open_other_app">Otwórz aplikację</string>
   <string name="action_open_sound_recorder">Dyktafon</string>
@@ -27,8 +27,12 @@
   <string name="action_toolbox">Narzędzia</string>
   <string name="action_zero_volume">Wycisz</string>
   <string name="add">Dodaj</string>
+  <string name="add_to_contacts">Dodaj do kontaktów</string>
+  <string name="address">Adres:</string>
   <string name="app_name">MiKey</string>
   <string name="back_camera">Tylny aparat</string>
+  <string name="birthday">Urodziny:</string>
+  <string name="buy">Kup MiKey</string>
   <string name="call_to">Połącz z</string>
   <string name="cancel">Anuluj</string>
   <string name="category_app">Aplikacje</string>
@@ -36,6 +40,7 @@
   <string name="clean_memory">Pamięć zwolniona</string>
   <string name="click_to_open">Otwórz</string>
   <string name="close_all">Zamknij aplikację</string>
+  <string name="close_flash_error">Wyłączenie flesza nieudane</string>
   <string name="close_recorder">Zamknij kamerę</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
@@ -52,26 +57,63 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="company">Firma:</string>
   <string name="confirm">Potwierdź</string>
+  <string name="copy">Kopiuj</string>
+  <string name="copy_succeed">Kopiowanie pomyślne</string>
   <string name="default_action_title">Domyślna akcja</string>
   <string name="delete">Usuń</string>
   <string name="delete_confirm">Potwierdzić usunięcie?</string>
   <string name="delete_gesture">Usunąć?</string>
   <string name="device_not_recognized">Urządzenie nierozpoznane. Podłącz ponownie MiKey</string>
   <string name="earphone">Słuchawki</string>
+  <string name="email">E-mail:</string>
+  <string name="fail_generate_barcode">Nie udało się wygenerować kodu QR</string>
+  <string name="faq_comp_text">除小米1代之外的小米手机都能够使用。因为1代小米上有一个更牛X的米键。 米键目前仅支持MIUI-V5系统，同时需要下载米键App才能使用。</string>
+  <string name="faq_comp_title">哪些手机能用米键？</string>
+  <string name="faq_focus_text">闪拍对焦是默认开启的，对焦与测光会使得闪拍变慢，但能够得到清晰的影像。希望速度更快可以尝试关闭闪拍对焦，这会导致图片模糊曝光错误。</string>
+  <string name="faq_focus_title">闪拍模糊？太慢？</string>
+  <string name="faq_misreq_text">锁屏下按键短暂失灵是因为手机休眠所致。 未锁屏下变成了音乐等第三方软件的控制，是因为米键被劫持，请关闭音乐，清除内存和通知栏，在米键App中插入米键，选择米键就好。 这一问题工程师正在解决，由于比较复杂，一两个更新迭代无法完成，请各位米粉见谅，我们仍在不懈的努力。</string>
+  <string name="faq_misreq_title">失灵了怎么办？</string>
+  <string name="faq_plug_text">按此方法插入米键可以有效避免识别错误的问题。按住边缘插入，避免按到按键。</string>
+  <string name="faq_plug_title">识别总是错误？</string>
+  <string name="faq_quni_text">能够承受大于30000次的点击，想怎么按就怎么按。</string>
+  <string name="faq_quni_title">米键能用多久？</string>
+  <string name="faq_slow_text">可以将设置中的“点击速度”调整为“0”，这样能够给你想要的感觉～</string>
+  <string name="faq_slow_title">单击反应慢？</string>
+  <string name="faq_speed_text">由于手机差异，导致响应速度不同，可以在设置中调节点击速度，找到适合自己手机的节奏。</string>
+  <string name="faq_speed_title">连击不成功？</string>
+  <string name="faq_stat_text">排名每晚零时会清零，当你醒来又是一个新的开始。</string>
+  <string name="faq_stat_title">点击次数怎么变成了“0”？</string>
+  <string name="faq_title">米键问答</string>
+  <string name="faq_voice_text">把米键重新插入一次，确保选择了“米键”</string>
+  <string name="faq_voice_title">打电话没有声音？</string>
+  <string name="faq_vsm_text">确保在取下手机后盖前，先将米键拔出！</string>
+  <string name="faq_vsm_title">使用注意事项</string>
   <string name="front_camera">Przedni aparat</string>
+  <string name="goto_update">Aktualizuj</string>
   <string name="input_phone">Wpisz numer telefonu</string>
   <string name="long_click">Długie przytrzymanie</string>
   <string name="message_photo_end">Zdjęcia zostały zapisane</string>
+  <string name="name">Imię:</string>
+  <string name="nickname">Pseudonim:</string>
   <string name="no_usage">...</string>
+  <string name="note">Notatka:</string>
   <string name="notification_control_play">Odtwórz</string>
   <string name="notification_control_stop">Zatrzymaj</string>
   <string name="notification_recorder_file_location">Lokalizacja:</string>
   <string name="notification_recorder_start">Uruchomione nagrywanie...</string>
+  <string name="open_flash_error">Włączenie flesza nieudane</string>
+  <string name="phone">Telefon:</string>
+  <string name="picker_lable">Galeria</string>
+  <string name="place_barcode_into_rectangle">Umieść kod QR lub kreskowy w ramce</string>
   <string name="rank_prefix">"Ranking: "</string>
   <string name="rank_suffix">Naciśnięć:</string>
+  <string name="recognize">Rozpoznaj</string>
   <string name="recommend"/>
   <string name="running_notification">Xiaomi MiKey</string>
+  <string name="scan_fail">Skanowanie nieudane</string>
+  <string name="scan_result">Wynik</string>
   <string name="sdcard">Karta SD</string>
   <string name="select_camera">Wybierz aparat</string>
   <string name="select_device">Wybierz tryb audio jack:</string>
@@ -90,7 +132,10 @@ Może to powodować większe użycie baterii"</string>
 因为手机是无法识别的。
 如果你在一段时间中经常使用耳机，选择耳机模式手机会默认将耳机孔内设备识别为耳机，而不再弹出设备选择窗口。"</string>
   <string name="setting_silent_mode_dust_cap">Tryb wtyczki antykurzowej</string>
-  <string name="setting_speed_desc">"Ustaw szybkość klikania"</string>
+  <string name="setting_speed_desc">"速度调快,优点是“单击”的反应速度更快,缺点是“连击”
+的成功率下降。
+速度调慢,优点是“连击”的成功率会提高,缺点是“单击”
+的反应速度会变慢。"</string>
   <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_middle_time">500ms</string>
   <string name="setting_speed_min_time">0</string>
@@ -120,7 +165,9 @@ Może to powodować większe użycie baterii"</string>
   <string name="task_title_prefix"/>
   <string name="test_user_entry">Test</string>
   <string name="times">" kliknięć"</string>
+  <string name="title">Tytuł:</string>
   <string name="toolbox_outer_desc">"Kliknij znak plus i ustaw swoje narzędzia"</string>
   <string name="update_message">Aktualizacja udana</string>
+  <string name="web">Strona:</string>
   <string name="write_pic_fail">Zapis zdjęć nieudany</string>
 </resources>

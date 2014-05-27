@@ -136,8 +136,10 @@
   <string name="contextmenu_sharelink">Udostępnij link</string>
   <string name="contextmenu_view_image">Wyświetl obraz</string>
   <string name="copy_link">Kopiuj URL</string>
+  <string name="copy_to_clipboard_failure_message">Nie udało się skopiować do schowka</string>
   <string name="create_shortcut_bookmark">Dodaj skrót na pulpit</string>
   <string name="date_picker_dialog_clear">Wyczyść</string>
+  <string name="date_picker_dialog_other_button_label">Inne</string>
   <string name="date_picker_dialog_set">Ustaw</string>
   <string name="date_picker_dialog_title">Ustaw datę</string>
   <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>

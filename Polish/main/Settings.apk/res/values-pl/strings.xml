@@ -549,6 +549,20 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_turning_off">Wyłączanie Bluetooth...</string>
   <string name="bluetooth_turning_on">Włączanie Bluetooth...</string>
   <string name="bluetooth_unknown"/>
+  <string name="bluetooth_unlock_add_device">Dodaj urządzenie Bluetooth</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Poprzednio powiązane urządzenie zostanie zastąpione nowym. Kontynuować?</string>
+  <string name="bluetooth_unlock_change_matched_device">Wybierz urządzenie</string>
+  <string name="bluetooth_unlock_confirm_device_text">Potwierdź sparowanie na urządzeniu</string>
+  <string name="bluetooth_unlock_delete_device">Usuń urządzenie</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Na pewno usunąć?</string>
+  <string name="bluetooth_unlock_device_matched_text">To urządzenie odblokuje ekran telefonu</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Urządzenia niedostępne</string>
+  <string name="bluetooth_unlock_settings_devices_title">Urządzenie</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Zastosuj do</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Odblokuj ekran</string>
+  <string name="bluetooth_unlock_title">Odblokuj przez Bluetooth</string>
+  <string name="bluetooth_unlock_turned_off">Wył</string>
+  <string name="bluetooth_unlock_turned_on">Wł</string>
   <string name="bluetooth_untether_blank">Powiązanie z urządzeniem %1$s zostanie anulowane.</string>
   <string name="bluetooth_visibility">Wykrywalny</string>
   <string name="bluetooth_visibility_timeout">Czas widoczności</string>
@@ -2686,6 +2700,8 @@ Nie można przejść do Menu"</string>
   <string name="search_wifi">Wi-Fi</string>
   <string name="security_enable_widgets_disabled_summary">Wyłączone przez administratora</string>
   <string name="security_enable_widgets_title">Włącz widżety</string>
+  <string name="security_keyguard_category_name">Blokada</string>
+  <string name="security_password_category_name">Hasło</string>
   <string name="security_passwords_title">Hasła</string>
   <string name="security_privacy_settings_title">Zabezpieczenia</string>
   <string name="security_relative">Bezpieczeństwo</string>
@@ -3676,6 +3692,8 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="wifi_tether_setting_title">Ustawienia</string>
   <string name="wifi_tether_starting">Włączanie hotspotu…</string>
   <string name="wifi_tether_stopping">Wyłączanie hotspotu…</string>
+  <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(niezmieniony)</string>
   <string name="wifi_unspecified">(nieokreślony)</string>
   <string name="wifi_update">Odśwież</string>
@@ -3725,6 +3743,7 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="wps_category">Szybkie połączenia</string>
   <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
   <string name="wps_connect_title">Przycisk WPS</string>
+  <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Xiaomi</string>
   <string name="xiaomi_cloud_service">Xiaomi</string>
   <string name="xiaomi_money_service">Mi Kredyty</string>
