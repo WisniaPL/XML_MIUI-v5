@@ -557,9 +557,9 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bluetooth_unlock_delete_device_confirm_msg">Na pewno usunąć?</string>
   <string name="bluetooth_unlock_device_matched_text">To urządzenie odblokuje ekran telefonu</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Urządzenia niedostępne</string>
-  <string name="bluetooth_unlock_settings_devices_title">Urządzenie</string>
+  <string name="bluetooth_unlock_settings_devices_title">Urządzenia Bluetooth</string>
   <string name="bluetooth_unlock_settings_toggle_title">Zastosuj do</string>
-  <string name="bluetooth_unlock_settings_unlock_device">Odblokuj ekran</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Odblokowanie ekranu</string>
   <string name="bluetooth_unlock_title">Odblokuj przez Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Wył</string>
   <string name="bluetooth_unlock_turned_on">Wł</string>
@@ -1508,7 +1508,7 @@ w tym:
   <string name="lock_after_timeout_summary">Po %1$s uśpienia</string>
   <string name="lock_intro_message">"Chroń swój telefon przed nieautoryzowanym użyciem, tworząc osobisty wzór odblokowania ekranu. Na następnym ekranie połącz palcem co najmniej cztery kropki w dowolnej kolejności. Wszystko gotowe? Wybierz Dalej."</string>
   <string name="lock_screen_unlock_show">Wyświetl ekran z hasłem bezpośrednio</string>
-  <string name="lock_screen_unlock_show_summary">"Nie używa innych ekranów blokady po włączeniu tej funkcji"</string>
+  <string name="lock_screen_unlock_show_summary">"Pomija ekran blokady po włączeniu tej funkcji"</string>
   <string name="lock_settings_common_title">Zabezpieczenia</string>
   <string name="lock_settings_picker_settings">Ustaw ekran blokady</string>
   <string name="lock_settings_picker_title">Wybierz blokadę ekranu</string>
