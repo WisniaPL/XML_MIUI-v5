@@ -1583,6 +1583,7 @@ w tym:
   <string name="manage_notification_access">Notification access</string>
   <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
   <string name="manage_space_text">Zarządzaj rozmiarem</string>
+  <string name="manage_xiaomi_router">Zarządzaj Xiaomi Router</string>
   <string name="manageapplications_settings_summary">Zarządzaj zainstalowanymi aplikacjami i usuwaj je.</string>
   <string name="manageapplications_settings_title">Zarządzaj aplikacjami</string>
   <string name="manually_add_network">Dodawanie sieci</string>
@@ -3747,6 +3748,10 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="xiaomi_account">Xiaomi</string>
   <string name="xiaomi_cloud_service">Xiaomi</string>
   <string name="xiaomi_money_service">Mi Kredyty</string>
+  <string name="xiaomi_router_available_notif_summary">Pokaż zawartość</string>
+  <string name="xiaomi_router_available_notif_title">Dostępny jest Xiaomi router</string>
+  <string name="xiaomi_router_notif_summary">Powiadom mnie jeśli router Xiaomi jest widoczny</string>
+  <string name="xiaomi_router_notif_title">Xiaomi router</string>
   <string name="yes">Tak</string>
   <string name="zone_auto">Auto strefa czasowa</string>
   <string name="zone_auto_summaryOff">Użyj wybranej strefy czasowej</string>

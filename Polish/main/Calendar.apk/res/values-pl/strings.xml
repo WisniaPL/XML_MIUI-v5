@@ -178,6 +178,7 @@
    <string name="online_reminder_slider_text">启用提醒</string>
    <string name="pengzu">彭祖</string>
    <string name="prefDialogTitle_vibrateWhen">Wibracje</string>
+   <string name="pref_error_no_ringtone_select">Nie wybrano dzwonka</string>
    <string name="pref_title_alarm_remind">Alarm</string>
    <string name="pref_title_alert_remind">Okno pop-up</string>
    <string name="pref_title_no_remind">Bez przypomnień</string>
