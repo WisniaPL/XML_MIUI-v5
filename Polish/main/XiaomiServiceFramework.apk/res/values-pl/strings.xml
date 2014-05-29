@@ -145,8 +145,8 @@ Synchronizuj z kontem SMS, kontakty, zdjęcia, aplikacje itp."</string>
   <string name="find_device_notice_p4">Zmiana karty SIM może wymagać ponownej aktywacji usługi lokalizacji urządzenia</string>
   <string name="find_device_success_title">Lokalizacja urządzenia włączona</string>
   <string name="find_password_on_web_msg">Odwiedź account.xiaomi.com by odzyskać hasło</string>
-  <string name="foreign_login">Kraj/Kod pocztowy</string>
-  <string name="forget_password">Zapomniałem hasła</string>
+  <string name="foreign_login">"Kierunkowy "</string>
+  <string name="forget_password">" Zapomniałem hasła"</string>
   <string name="get_back_pwd">Odzyskaj hasło do konta</string>
   <string name="header_data_and_synchronization">Konta i synchronizacja</string>
   <string name="i_know">OK</string>
