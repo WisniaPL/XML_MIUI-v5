@@ -83,4 +83,15 @@
     traffic. The usual auto-push services include email notification, device management, service indication, service loading and provisioning push.</string>
   <string name="gemini_wap_push_permission_tail">Accept this agreement?</string>
   <string name="gemini_wap_push_permission_title">Auto-push service agreement</string>
+  <string name="breathing_light_color_title">" - Kolor LED "</string>
+  <string name="incoming_call_vibrate_abbreviation">"Połączenia "</string>
+  <string name="mms_vibrate_abbreviation">SMS/MMS</string>
+  <string name="notification_vibrate_abbreviation">"Powiadomienie "</string>
+  <string name="data_conn_category_title">Transmisja danych</string>
+  <string name="sd_card_settings_label">Karta SD</string>
+  <string name="sd_eject">Odłącz kartę SD</string>
+  <string name="sd_memory">Karta SD</string>
+  <string name="sd_mount">Podłącz kartę SD</string>
+  <string name="sd_mount_usbstorage">Podłącz nośnik USB</string>
+  <string name="sd_insert_usb_summary">Włóż USB do podłączenia</string>
 </resources>

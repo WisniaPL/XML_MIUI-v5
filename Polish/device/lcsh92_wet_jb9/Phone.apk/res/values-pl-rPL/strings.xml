@@ -9,4 +9,5 @@
     <string name="sim_slot_alert_message_disable">Karta SIM %s w pierwszym slocie WCDMA może nie działać prawidłowo.</string>
     <string name="sim_slot_alert_shutdown">Wyłącz</string>
     <string name="sim_slot_alert_cancel">Kontynuuj</string>
+    <string name="phone_in_ecm_call_notification_text">Transmisja danych wyłączona</string>
 </resources>

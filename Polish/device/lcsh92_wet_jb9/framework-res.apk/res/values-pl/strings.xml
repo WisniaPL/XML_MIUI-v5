@@ -1351,7 +1351,11 @@ Słuchanie przy dużym poziomie głośności przez dłuższy czas może doprowad
   <string name="ssl_certificate">Certyfikat zabezpieczeń</string>
   <string name="ssl_certificate_is_valid">Certyfikat jest ważny.</string>
   <string name="status_bar_notification_info_overflow">&gt;999</string>
+  <string name="storage_external_usb">Zewnętrzny nośnik USB</string>
+  <string name="storage_ic_usb1">External IC-USB storage1</string>
+  <string name="storage_ic_usb2">External IC-USB storage2</string>
   <string name="storage_internal">Pamięć wewnętrzna</string>
+  <string name="storage_phone">Pamięć wewnętrzna</string>
   <string name="storage_sd_card">Karta SD</string>
   <string name="storage_usb">Nośnik USB</string>
   <string name="submit">Prześlij</string>

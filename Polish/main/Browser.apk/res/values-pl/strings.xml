@@ -263,8 +263,8 @@
   <string name="miui_search_notification_title">Wyszukaj</string>
   <string name="miuichromium_default_text_encoding">Latin-1</string>
   <string name="miuichromium_error_page_mobile">Sieć mobilna</string>
-  <string name="miuichromium_error_page_reason_network">Pokaż link URK</string>
-  <string name="miuichromium_error_page_reason_server">"Strona nie może być wczytana"</string>
+  <string name="miuichromium_error_page_reason_network">Wyświetl link URL</string>
+  <string name="miuichromium_error_page_reason_server">"Strona nie została wczytana"</string>
   <string name="miuichromium_error_page_reload">Odśwież</string>
   <string name="miuichromium_error_page_title">"Nie można znaleźć strony"</string>
   <string name="miuichromium_error_page_url">Pokaż URL strony</string>
