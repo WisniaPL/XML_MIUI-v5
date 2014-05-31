@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="perm_hips_action">
+        <item>Zezwól</item>
+        <item>Pytaj</item>
+        <item>Odmów</item>
+    </string-array>
+    <string-array name="perm_disable_keyguard_action">
+         <item>Zezwól</item>
+         <item>Odmów</item>
+    </string-array>
+    <string-array name="opt_score_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Wydajny</item>
+        <item>Normalny</item>
+        <item>Oszczędny</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Po minucie</item>
         <item>Po 5 minutach</item>
@@ -387,8 +413,11 @@
     <string-array name="overlay_display_devices_entries">
         <item>Brak</item>
         <item>720 x 480 mdpi</item>
+        <item>720 x 480 mdpi (secure)</item>
         <item>1280 x 720 tvdpi</item>
+        <item>1280 x 720 tvdpi (secure)</item>
         <item>1920 x 1080 xhdpi</item>
+        <item>1920 x 1080 xhdpi (secure)</item>
         <item>1280 x 720 tvdpi oraz 1920 x 1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -537,11 +566,6 @@
         <item>Session creating timeout, retrying...</item>
         <item>Urządzenie rozłączone</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Wydajny</item>
-        <item>Normalny</item>
-        <item>Oszczędny</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP lub starszy</item>
         <item>Windows Vista lub nowszy</item>
@@ -551,8 +575,7 @@
     <string-array name="msd_pc_system_install_start_summary">
         <item>"Dla Windows XP lub starszych,
 sterownik musi być zainstalowany ręcznie"</item>
-        <item>"Dla Windows Vista lub nowszych,
-Muzyka z telefonu Xiaomi pojawi się na komputerze"</item>
+        <item>@string/msd_pc_system_install_start_summary_vista</item>
         <item>"Dla OSX sterownik 
 musi być zainstalowany ręcznie"</item>
         <item></item>
@@ -566,19 +589,16 @@ Otwórz plik Setup.exe i zainstaluj sterowniki"</item>
 Przejdź do napędu i zaznacz plik: AndroidFileTransfer.dmg"</item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2. Pamięć wew. telefonu pojawi się na komputerze
-Możesz przenosić pliki"</item>
+    <array name="msd_pc_system_install_step_2_summary">
+        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
         <item>"Komputer automatycznie otworzy pamięć telefonu
 Możesz przenosić pliki"</item>
         <item></item>
-    </string-array>
+    </array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Jeśli zainstalujesz ten sterownik
-pamięć wewnętrzna telefonu Xiaomi pojawi się na komputerze"</item>
-        <item>"Dla Windows Vista lub nowszych,
-Muzyka z telefonu Xiaomi pojawi się na komputerze"</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>"Jeśli zainstalujesz ten sterownik
 komputer automatycznie odczyta zawartość telefonu"</item>
         <item></item>
@@ -591,11 +611,6 @@ komputer automatycznie odczyta zawartość telefonu"</item>
     <string-array name="screen_saturation_title">
         <item>Żywe</item>
         <item>Standardowe</item>
-    </string-array>
-    <string-array name="perm_hips_action">
-        <item>Zezwól</item>
-        <item>Pytaj</item>
-        <item>Odmów</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Zezwól</item>
@@ -651,9 +666,5 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Wyłącz</item>
         <item>Wibracje</item>
         <item>Wycisz</item>
-    </string-array>
-    <string-array name="perm_disable_keyguard_action">
-         <item>Zezwól</item>
-         <item>Odmów</item>
     </string-array>
  </resources>
