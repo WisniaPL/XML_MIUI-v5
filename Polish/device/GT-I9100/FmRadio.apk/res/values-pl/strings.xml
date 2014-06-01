@@ -60,7 +60,7 @@
     <string name="setting_30min">Po 30 min</string>
     <string name="setting_hour">Po 1 godz.</string>
     <string name="setting_2hour">Po 2 godz.</string>
-    <string name="save">Przywróć</string>
+    <string name="save">Zapisz</string>
     <string name="toast_channel_empty">Brak stacji</string>
     <string name="toast_earphone_not_connected">Nie podłączono słuchawki. Słuchawka działa jako antena radiowa. Podłącz słuchawkę</string>
     <string name="dialog_autoscan">Automatyczne skanowanie</string>
