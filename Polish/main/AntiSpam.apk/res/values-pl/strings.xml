@@ -211,14 +211,14 @@
   <string name="st_title_adblock_setting">Ustawienia</string>
   <string name="st_title_addblacklist">Dodaj do blokowanych</string>
   <string name="st_title_addwhitelist">Dodaj do wyjątków</string>
-  <string name="st_title_adress">Select locale</string>
-  <string name="st_title_adress_num">%d selected</string>
+  <string name="st_title_adress">Wybierz adres</string>
+  <string name="st_title_adress_num">Wybranych: %d</string>
   <string name="st_title_anticomintcall_backsound_setting">Dźwięk</string>
   <string name="st_title_antispam_mode">Tryby blokowania</string>
   <string name="st_title_back_sound_busy">Sygnał zajętego numeru</string>
   <string name="st_title_back_sound_choose">Dźwięki przy blokowanym połączeniu</string>
   <string name="st_title_back_sound_closed">Sygnał wyłączonego telefonu</string>
-  <string name="st_title_back_sound_none">Brak usługi</string>
+  <string name="st_title_back_sound_none">\"Nie ma takiego numeru\"</string>
   <string name="st_title_back_sound_stop">Numer poza zasięgiem</string>
   <string name="st_title_backsound_group">Dźwięki przy blokowaniu</string>
   <string name="st_title_blacklist_numbers">Czarna lista</string>

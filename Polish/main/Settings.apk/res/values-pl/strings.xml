@@ -1583,7 +1583,7 @@ w tym:
   <string name="manage_notification_access">Notification access</string>
   <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
   <string name="manage_space_text">Zarządzaj rozmiarem</string>
-  <string name="manage_xiaomi_router">Zarządzaj Xiaomi Router</string>
+  <string name="manage_xiaomi_router">Xiaomi Mi Router</string>
   <string name="manageapplications_settings_summary">Zarządzaj zainstalowanymi aplikacjami i usuwaj je.</string>
   <string name="manageapplications_settings_title">Zarządzaj aplikacjami</string>
   <string name="manually_add_network">Dodawanie sieci</string>
@@ -2436,7 +2436,7 @@ Nie można przejść do Menu"</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Serwer</string>
   <string name="proxy_port_hint">8080</string>
-  <string name="proxy_port_label">Numer portu serwera proxy</string>
+  <string name="proxy_port_label">Port</string>
   <string name="proxy_settings_label">Ustawienia proxy</string>
   <string name="proxy_settings_title">Ustawienia serwera proxy</string>
   <string name="proxy_warning_limited_support">Serwer proxy HTTP jest używany przez przeglądarkę, ale inne aplikacje mogą go nie używać.</string>
@@ -3523,7 +3523,7 @@ zakończone"</string>
   <string name="wifi_menu_wps_pbc">Przycisk WPS</string>
   <string name="wifi_menu_wps_pin">Kod PIN dla WPS</string>
   <string name="wifi_more">Więcej</string>
-  <string name="wifi_network_prefix_length">Długość przedrostka sieci</string>
+  <string name="wifi_network_prefix_length">Przedrostek</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Poza zasięgiem</string>
   <string name="wifi_notify_open_networks">Powiadomienie o sieci</string>
