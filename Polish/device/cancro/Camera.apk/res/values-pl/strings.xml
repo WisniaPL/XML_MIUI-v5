@@ -124,7 +124,7 @@ Opuść na chwilę widok"</string>
   <string name="find_qq_qrcode">Wykryto kod QQ QR</string>
   <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
   <string name="find_wechat_qrcode">Znajdź kod WeChat</string>
-  <string name="find_wifi_qrcode">Znajdź kod Wi-Fi QR</string>
+  <string name="find_wifi_qrcode">Wykryto dane sieci Wi-Fi</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
   <string name="flash_on">Z lampą</string>
@@ -412,7 +412,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_settings_mode">Opcje wyświetlania</string>
   <string name="pref_touch_down_capture_title">Touch Down Capture</string>
   <string name="pref_video_captrue_ability_title">Przechwytywanie zdjęć</string>
-  <string name="pref_video_fast_speed_title_simple_mode">Time Lapse</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Szybkość nagrywania</string>
   <string name="pref_video_focusmode_entry_auto">Ręczny</string>
   <string name="pref_video_focusmode_entry_continuous">Ciągły</string>
   <string name="pref_video_focusmode_title">Tryb ostrości</string>

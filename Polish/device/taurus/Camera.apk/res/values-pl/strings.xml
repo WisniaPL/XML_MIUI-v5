@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Nie można uzyskać dostępu do pamięci USB."</string>
-   <string name="accessibilit_camera_video_switch_picker_and_state">Camera and video switch picker,now is</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Camera and video switch picker,now is</string>
   <string name="accessibility_camera_auto_flashmode">Autom. flesz</string>
   <string name="accessibility_camera_flash_closemode">Nie używaj flesza</string>
   <string name="accessibility_camera_flashmode">Zawsze używaj flesza</string>
@@ -100,7 +100,7 @@ Opuść na chwilę widok"</string>
   <string name="find_qq_qrcode">Wykryto kod QQ QR</string>
   <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
   <string name="find_wechat_qrcode">Znajdź kod WeChat</string>
-  <string name="find_wifi_qrcode">Znajdź kod Wi-Fi QR</string>
+  <string name="find_wifi_qrcode">Wykryto dane sieci Wi-Fi</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
   <string name="flash_on">Z lampą</string>
@@ -140,6 +140,7 @@ Opuść na chwilę widok"</string>
   <string name="not_enough_space">Pamięć wewnętrzna jest pełna.</string>
   <string name="not_selectable_in_scene_mode">Nie można tego wybrać w trybie sceny</string>
   <string name="ok">OK</string>
+  <string name="open">Otwórz</string>
   <string name="orientation">Orientacja</string>
   <string name="pano_dialog_panorama_failed">"Nie udało się zapisać panoramy."</string>
   <string name="pano_dialog_prepare_preview">Przygotowanie panoramy</string>
@@ -173,6 +174,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Punktowy</string>
   <string name="pref_camera_autoexposure_title">Tryb automatycznej ekspozycji</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
+  <string name="pref_camera_coloreffect_entry_mono"/>
   <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none"/>
   <string name="pref_camera_coloreffect_entry_posterize"/>
@@ -387,7 +389,7 @@ Opuść na chwilę widok"</string>
   <string name="qq_details">Szczegóły kodu QQ:</string>
   <string name="qr_code_details">"Kod QR: "</string>
   <string name="record_back_pressed_hint">Naciśnij ponownie aby zatrzymać nagrywanie</string>
-  <string name="resume_playing_message">Wznowić odtwarzanie od %s?</string>
+  <string name="resume_playing_message">Wznowić odtwarzanie od %s ?</string>
   <string name="resume_playing_restart">Restart</string>
   <string name="resume_playing_resume">Wznów odtwarzanie</string>
   <string name="resume_playing_title">Wznów wideo</string>
@@ -459,7 +461,9 @@ Przeglądarka MIUI sprawdzi kod za Ciebie."</string>
   <string name="wechat_details">WeChat details:</string>
   <string name="white_balance">Balans bieli</string>
   <string name="width">Szerokość</string>
+  <string name="wifi_connect_current_connetion">Jesteś już połączony z siecią Wi-Fi</string>
   <string name="wifi_connect_fail">Czas połączenia przekroczony lub błąd sieci.</string>
+  <string name="wifi_connect_not_found">"Nie wykryto sieci Wi-Fi"</string>
   <string name="wifi_connect_success">Połączono z siecią Wi-Fi</string>
   <string name="wifi_connecting">Łączenie...</string>
   <string name="wifi_details">Szczegóły:</string>

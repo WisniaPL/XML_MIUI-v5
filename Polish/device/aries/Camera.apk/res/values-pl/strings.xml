@@ -100,7 +100,7 @@ Opuść na chwilę widok"</string>
   <string name="find_qq_qrcode">Wykryto kod QQ QR</string>
   <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
   <string name="find_wechat_qrcode">Znajdź kod WeChat</string>
-  <string name="find_wifi_qrcode">Znajdź kod Wi-Fi QR</string>
+  <string name="find_wifi_qrcode">Wykryto dane sieci Wi-Fi</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
   <string name="flash_on">Z lampą</string>
@@ -461,7 +461,9 @@ Przeglądarka MIUI sprawdzi kod za Ciebie."</string>
   <string name="wechat_details">WeChat details:</string>
   <string name="white_balance">Balans bieli</string>
   <string name="width">Szerokość</string>
+  <string name="wifi_connect_current_connetion">Jesteś już połączony z siecią Wi-Fi</string>
   <string name="wifi_connect_fail">Czas połączenia przekroczony lub błąd sieci.</string>
+  <string name="wifi_connect_not_found">"Nie wykryto sieci Wi-Fi"</string>
   <string name="wifi_connect_success">Połączono z siecią Wi-Fi</string>
   <string name="wifi_connecting">Łączenie...</string>
   <string name="wifi_details">Szczegóły:</string>
