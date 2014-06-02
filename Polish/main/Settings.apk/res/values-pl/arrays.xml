@@ -250,7 +250,7 @@
         <item>Nie określono</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>None</item>
+        <item>Brak</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>

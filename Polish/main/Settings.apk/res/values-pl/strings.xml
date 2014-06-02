@@ -1800,8 +1800,8 @@ podłączony do komputera."</string>
   <string name="music_plus_summary">Polepszenie dźwięku w słuchawkach</string>
   <string name="music_plus_title">Muzyka+</string>
   <string name="musicfx_title">Efekty muzyczne</string>
-  <string name="mvno_match_data">MVNO value</string>
-  <string name="mvno_type">MVNO type</string>
+  <string name="mvno_match_data">Wartość MVNO</string>
+  <string name="mvno_type">Typ MVNO</string>
   <string name="nearby_wifi">Wykryte sieci Wi-Fi</string>
   <string name="need_check">Niektóre pliki mogą być zoptymalizowane...</string>
   <string name="network_assistant">Monitor danych</string>
