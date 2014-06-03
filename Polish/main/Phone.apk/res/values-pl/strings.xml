@@ -1108,7 +1108,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="sum_loading_settings">Wczytywanie ustawień…</string>
   <string name="sum_search_networks">Wyszukaj wszystkie dostępne sieci</string>
   <string name="sum_select_automatically">Automatycznie wybierz preferowaną sieć</string>
-  <string name="sum_select_automatically_option_miui">Preferowane sieć %s wybrana automatycznie</string>
+  <string name="sum_select_automatically_option_miui">Preferowana sieć %s</string>
   <string name="sum_show_caller_id">Numer wyświetlany w połączeniach wychodzących</string>
   <string name="sum_video_call">Ustawienia połączeń wideo</string>
   <string name="sum_voice_call">Ustawienia połączeń głosowych</string>

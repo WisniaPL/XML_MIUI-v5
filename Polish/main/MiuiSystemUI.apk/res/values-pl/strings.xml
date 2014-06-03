@@ -27,6 +27,7 @@
    <string name="accessibility_no_wifi">Brak Wi-Fi.</string>
    <string name="accessibility_no_wimax">Brak Wi-MAX.</string>
    <string name="accessibility_notifications_button">Powiadomienia.</string>
+   <string name="accessibility_phone_four_bars">Telefon: cztery paski</string>
    <string name="accessibility_phone_one_bar">Telefon: jeden pasek.</string>
    <string name="accessibility_phone_signal_full">Telefon: pełna moc sygnału.</string>
    <string name="accessibility_phone_three_bars">Telefon: trzy paski.</string>
@@ -80,7 +81,9 @@
    <string name="compat_mode_on">Powiększ, aby wypełnić ekran</string>
    <string name="cust_carrier_label_text_title">Własna nazwa operatora</string>
    <string name="cust_carrier_label_title">Nazwa operatora</string>
-   <string name="data_usage_disabled_dialog">"Osiągnąłeś limit użycia danych. Jeśli włączysz usługi danych, operator zacznie pobierać opłaty."</string>
+   <string name="data_usage_disabled_dialog">"Osiągnąłeś limit użycia danych. 
+
+Jeśli włączysz usługi danych, operator zacznie pobierać opłaty."</string>
    <string name="data_usage_disabled_dialog_3g_title">Dane 2G-3G wyłączone</string>
    <string name="data_usage_disabled_dialog_4g_title">Dane 4G wyłączone</string>
    <string name="data_usage_disabled_dialog_enable">Włącz usługi danych</string>
@@ -117,7 +120,8 @@
    <string name="headset_custom">Własne</string>
    <string name="headset_info">Zmień funkcje przycisków</string>
    <string name="headset_settings">Słuchawki podłączone</string>
-   <string name="invalid_charger">"Ładowanie USB nie jest wspierane. Używaj tylko ładowarki od producenta."</string>
+   <string name="invalid_charger">"Ładowanie USB nie jest wspierane. 
+Używaj tylko ładowarki od producenta."</string>
    <string name="key_position_custom">Pozycja przycisków</string>
    <string name="label_view">Widok</string>
    <string name="lockscreen_carrier_default">Brak sieci</string>
