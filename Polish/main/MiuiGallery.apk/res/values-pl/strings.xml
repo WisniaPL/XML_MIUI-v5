@@ -38,6 +38,8 @@
   <string name="albums">Albumy</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Uwaga</string>
+  <string name="alert_init_merged_message">"Zdjęcia z tego urządzenia i zdjęcia zapisane w chmurze Xiaomi zostaną wyświetlone razem."</string>
+  <string name="alert_init_merged_title">Wszystkie zdjęcia w jednym miejscu.</string>
   <string name="alert_message_open_sync">Zamierzasz przesłać zdjęcia do Albumów Online. Funkcja zostanie aktywowana.</string>
   <string name="already_apply_album">Otworzyć %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -79,6 +81,7 @@
   <string name="clear_thumbnail_cache">Wyczyść pamięć podręczną</string>
   <string name="clear_thumbnail_cache_confirm">Pamięć podręczna zostanie usunięta. Galeria ponownie przeskanuje pliki multimedialne i odtworzy miniaturki zdjęć.</string>
   <string name="clear_thumbnail_cache_summary">Przeglądanie galerii generuje miniaturki zdjęć. Usunięcie pamięci podręcznej może zwolnić miejsce w pamięci wewnętrznej.</string>
+  <string name="click_to_add_picture">Dodaj zdjęcia</string>
   <string name="click_top_right">Naciśnij ikonę w prawym górnym rogu</string>
   <string name="close">Zamknij</string>
   <string name="cloud_album_more_settings">Synchronizacja zdjęć</string>
@@ -265,9 +268,11 @@
   <string name="loading_thumbnail">Wczytywanie miniatury…</string>
   <string name="loading_video">Pobieranie…</string>
   <string name="local_albums">Lokalne albumy</string>
+  <string name="local_time">(Lokalnie)</string>
   <string name="location">Lokacja</string>
   <string name="locations">Lokacje</string>
   <string name="lomoish">Lomo</string>
+  <string name="long_press_to_refocus">Długo naciśnij by ustawić ostrość</string>
   <string name="make_download_dir_fail">Nie udało się utworzyć katalogu!</string>
   <string name="maker">Producent</string>
   <string name="manual">Manual</string>
@@ -335,6 +340,7 @@
   <string name="path">Ścieżka</string>
   <string name="people">Osoby</string>
   <string name="photo_page_always_rotate">Autoobracanie zdjęć</string>
+  <string name="photo_page_detail_show_in_the_map">Pokaż na mapie</string>
   <string name="photo_page_save_image">Zapisz</string>
   <string name="photo_page_save_uri_image_fail">Nie udało się zapisać zdjęcia</string>
   <string name="photo_page_save_uri_image_ok">Zdjęcie zapisane do katalogu aparatu</string>
@@ -347,7 +353,7 @@
   <string name="picker_no_album_selected">Nie wybrano albumu</string>
   <string name="picker_no_items_selected">Nie wybrano</string>
   <string name="picker_select_album_title_empty">Wybierz album</string>
-  <string name="picker_tab_camera">Aparat</string>
+  <string name="picker_tab_photo">Zdjęcie</string>
   <string name="posterize">Posteryzacja</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Przygotowanie do usuwania.</string>
@@ -446,6 +452,7 @@
   <string name="slideshow_repeat_mode">Powtarzanie pokazu</string>
   <string name="slideshow_time_select_title">Wybierz czas pokazu</string>
   <string name="slideshow_time_title">Czas pokazu wygaszacza</string>
+  <string name="start_slide_show">Rozpocznij pokaz slajdów</string>
   <string name="storage_all_volumes">Wszystkie magazyny danych</string>
   <string name="storage_no_space">"Brak miejsca w pamięci urządzenia."</string>
   <string name="straighten">Rozciąganie</string>
@@ -456,6 +463,7 @@
   <string name="sync_album_set_error">Nie udało się pobrać listy albumów. Spróbuj ponownie później.</string>
   <string name="sync_album_summary">Kopiuj zdjęcia i zrzuty ekranu do albumów w chmurze Xiaomi</string>
   <string name="sync_history_power_on">Tylko gdy ładuje</string>
+  <string name="sync_in_progress_message">Synchronizuję...</string>
   <string name="sync_only_in_wifi">Synchronizuj po Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Wyłączenie synchronizacji po Wi-Fi spowoduje większe użycie danych mobilnych. Na pewno wyłączyć?</string>
   <string name="sync_only_in_wifi_summary">Synchronizuj w tle tylko w sieci Wi-Fi.</string>
@@ -479,6 +487,9 @@
   <string name="to_count">Razem %d</string>
   <string name="too_many_recipients">Message has too many recipients (%1$s), %2$s is the allowed total recipients.</string>
   <string name="try_to_send">Próba wysłania</string>
+  <string name="ubifocus_data_missing">Some data is lost</string>
+  <string name="ubifocus_map_error">Some data is wrong</string>
+  <string name="ubifocus_refocus_fail_tip">Cannot refocus due to some missing or wrong data</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Niepowodzenie!</string>

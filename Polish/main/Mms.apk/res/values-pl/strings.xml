@@ -404,6 +404,9 @@ Prześlij do MIUI swoje spostrzeżenia i raporty błędów."</string>
   <string name="sms_full_title">Pamięć wiadomości tekstowych jest pełna</string>
   <string name="sms_rejected_body">Przychodząca wiadomość została odrzucona z nieznanego powodu.</string>
   <string name="sms_rejected_title">Wiadomość tekstowa została odrzucona</string>
+  <string name="sp_category_all">Wszystkie wiadomości</string>
+  <string name="sp_category_bank">Wiadomości z banków</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Powiadomienia o wiadomościach</string>
   <string name="sp_mark_as_read">Oznaczyć wiadomości jako przeczytane?</string>
   <string name="sp_mark_as_read_progress">Oznaczanie wiadomości...</string>

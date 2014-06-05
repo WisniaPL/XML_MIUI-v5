@@ -919,6 +919,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="device_cpu">Procesor</string>
   <string name="device_cpu2_info">"2x"</string>
   <string name="device_cpu4_info">"4x"</string>
+  <string name="device_cpu8_info">"8x"</string>
   <string name="device_default_name">Telefon Xiaomi</string>
   <string name="device_edit_title">Zmień nazwę urządzenia</string>
   <string name="device_info_default">Nieznany</string>

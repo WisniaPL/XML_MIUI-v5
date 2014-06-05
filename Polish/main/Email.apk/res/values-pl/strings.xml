@@ -187,7 +187,7 @@
   <string name="add_photo_attachment">Dołącz zdjęcie</string>
   <string name="add_star">Dodaj gwiazdkę</string>
   <string name="add_video_attachment">Dołącz film</string>
-  <string name="address_display_format">%1$s %2$s</string>
+  <string name="address_display_format">%1$s  | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s %2$s przez %3$s</string>
   <string name="all_folders_heading">Wszystkie foldery</string>
   <string name="allread">Przeczytane</string>
@@ -199,6 +199,8 @@
   <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Archiwizuj</string>
   <string name="archived">Zarchiwizowany</string>
+  <string name="att_download_failed_content">Pobieranie nieudane</string>
+  <string name="att_download_failed_title">Pobieranie załącznika nieudane</string>
   <string name="att_mgr_no_attachment">Brak załączników!</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Nazwa</string>
@@ -309,6 +311,13 @@
   <string name="deleted">Usunięty</string>
   <string name="device_admin_description">Włącza zasady zabezpieczeń określone na serwerze</string>
   <string name="device_admin_label">E-mail</string>
+  <string name="device_admin_label">Email</string>
+  <string name="device_not_activiey_lint1">Device Manager is not activated</string>
+  <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
+  <string name="dialog_auto_download_failed">"Can't finish auto-download"</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
+  <string name="dialog_insufficient_space_on_external">"Can't finish download. There isn't enough space on external storage."</string>
+  <string name="dialog_insufficient_space_on_internal">"There isn't enough space on internal storage."</string>
   <string name="disable_admin_warning">OSTRZEŻENIE: cofnięcie Poczcie uprawnień do administrowania urządzeniem spowoduje usunięcie wszystkich kont e-mail, które ich wymagają, wraz z wiadomościami, kontaktami, wydarzeniami w kalendarzu i innymi danymi.</string>
   <string name="discard">Odrzuć</string>
   <string name="discard_drafts">Odrzuć wersje robocze</string>
@@ -400,6 +409,7 @@
   <string name="login_failed_ticker">Nie udało się zalogować na konto %s.</string>
   <string name="login_failed_title">Nie można się zalogować</string>
   <string name="long_press_to_select_tip">Kliknij i przytrzymaj, by zaznaczyć jeden wątek, a następnie kliknij, by zaznaczyć więcej.</string>
+  <string name="mail">E-Mail</string>
   <string name="mailbox_list_account_selector_combined_view">Widok łączony</string>
   <string name="mailbox_name_display_drafts">Kopie robocze</string>
   <string name="mailbox_name_display_inbox">Odebrane</string>
