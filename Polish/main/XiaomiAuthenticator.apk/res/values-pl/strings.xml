@@ -120,6 +120,7 @@ Zaloguj się na account.xiaomi.com， zarządzanie kontem i kliknij na Reactivat
   <string name="security_setting">Ustawienia bezpieczeństwa</string>
   <string name="settings_menu_item">Ustawienia</string>
   <string name="submit">Zapisz</string>
+  <string name="success_copy_to_clipboard">Pomyślnie skopiowano</string>
   <string name="success_reset_password">Hasło zresetowane</string>
   <string name="success_set_password">Hasło zmienione</string>
   <string name="summary_lockpattern">Wymagaj wzoru dla płatności MiKredyty</string>
