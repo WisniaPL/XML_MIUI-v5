@@ -311,7 +311,6 @@
   <string name="deleted">Usunięty</string>
   <string name="device_admin_description">Włącza zasady zabezpieczeń określone na serwerze</string>
   <string name="device_admin_label">E-mail</string>
-  <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Device Manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
   <string name="dialog_auto_download_failed">"Can't finish auto-download"</string>
