@@ -938,8 +938,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
   <string name="device_picker">Wybór urządzenia Bluetooth</string>
   <string name="device_sd_memory">Karta SD</string>
-  <string name="device_status">Informacje o telefonie</string>
-  <string name="device_status_activity_title">Informacje o telefonie</string>
+  <string name="device_status">Status telefonu</string>
+  <string name="device_status_activity_title">Status telefonu</string>
   <string name="device_status_summary">Numer telefonu, sygnał itd.</string>
   <string name="dialog_message_auto_start_tips">Niektóre aplikacje od zabezpieczeń mogą wskazywać, że nie zostały dopuszczone do autostartu przez MIUI. Aby sprawdzić uprawnienia aplikacji przejdź do Ustawienia &gt; Aplikacje.</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Po zakończeniu tworzenia kopii wszystkie dane aplikacji zostaną usunięte, w tym: ustawienia, konta i bazy danych</string>
@@ -1482,8 +1482,8 @@ w tym:
   <string name="local_backup_password_toast_confirmation_mismatch">Nowe hasło i jego potwierdzenie nie zgadzają się</string>
   <string name="local_backup_password_toast_success">Nowe hasło kopii zapasowej zostało ustawione</string>
   <string name="local_backup_password_toast_validation_failure">Ustawienie hasła kopii zapasowej nie powiodło się</string>
-  <string name="local_backup_section_summary">Kopiuj ustawienia systemowe, konta telefonu i aplikacje</string>
-  <string name="local_backup_section_title">Lokalne kopie</string>
+  <string name="local_backup_section_summary">Zapisuj kopie zapasowe ustawień systemowych, kont telefonu i danych aplikacji</string>
+  <string name="local_backup_section_title">Utwórz kopię MIUI</string>
   <string name="locale_default">Domyślnie</string>
   <string name="location_access_summary">Zezwalaj aplikacjom, które zapytały o pozwolenie, na używanie informacji o lokalizacji</string>
   <string name="location_access_title">Dostęp do mojej lokalizacji</string>
@@ -2939,7 +2939,7 @@ Synchronizacja jest wyłączona"</string>
   <string name="sync_wifi_label">Ustawienia Wi-Fi</string>
   <string name="sync_wifi_only">Synchronizuj po Wi-Fi</string>
   <string name="system">System</string>
-  <string name="system_backup_section_title">Kopia</string>
+  <string name="system_backup_section_title">Kopia i przywracanie Xiaomi</string>
   <string name="system_cache_title">Cache systemu</string>
   <string name="system_package">Aktualizacji systemu nie można instalować na nośniku zewnętrznym.</string>
   <string name="system_storage">Pamięć wewnętrzna</string>
