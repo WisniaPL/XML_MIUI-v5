@@ -16,10 +16,10 @@
     <string-array name="system_data_label">
         <item>Kontakty</item>
         <item>Rejestr połączeń</item>
-        <item>Wiadomości tekstowe</item>
+        <item>Wiadomości SMS</item>
         <item>Wiadomości MMS</item>
         <item>Ustawienia systemowe</item>
-        <item>Ustawienia Wi-Fi</item>
+        <item>Hasła Wi-Fi</item>
         <item>Układ pulpitu</item>
         <item>Alarmy</item>
         <item>Notatki</item>
@@ -27,24 +27,24 @@
         <item>Konto</item>
    </string-array>
     <string-array name="app_type_desc">
-        <item>(Dane)</item>
-        <item>(Aplikacje)</item>
-        <item>(Aplikacje + Dane)</item>
+        <item>Dane</item>
+        <item>Aplikacja</item>
+        <item>Aplikacja + Dane</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Kontakty</item>
         <item>Rejestr połączeń</item>
-        <item>Wiadomości tekstowe</item>
-        <item>Ustawienia Wi-Fi</item>
+        <item>SMS</item>
+        <item>Hasła Wi-Fi</item>
         <item>Notatki</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Kontakty</item>
-        <item>Ustawienia Wi-Fi</item>
+        <item>Hasła Wi-Fi</item>
         <item>Notatki</item>
     </string-array>
     <string-array name="cloud_sim_data">
         <item>Rejestr połączeń</item>
-        <item>Wiadomości tekstowe</item>
+        <item>Wiadomości SMS</item>
     </string-array>
 </resources>
