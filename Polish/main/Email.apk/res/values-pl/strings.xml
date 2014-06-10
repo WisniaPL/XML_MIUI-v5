@@ -518,8 +518,11 @@ DW: %4$s
   <string name="okay_action">OK</string>
   <string name="other_mail">Inne konto</string>
   <string name="outbox_alert_button_confirm">Edytuj</string>
+  <string name="outbox_alert_button_no_resend">"Nie wysyłaj"</string>
+  <string name="outbox_alert_button_resend">Wyślij ponownie</string>
   <string name="outbox_alert_description_sent_failed">"Powód: Załącznik przekracza
 limit skrzynki odbiorczej"</string>
+  <string name="outbox_alert_mailbox_not_found">Adres E-mail nie został znaleziony</string>
   <string name="outbox_alert_title_sent_failed">Wysyłanie wiadomości nieudane</string>
   <string name="outbox_no_mails">Brak wiadomości</string>
   <string name="parase_setup_data">Getting the config data...</string>

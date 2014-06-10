@@ -198,6 +198,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="apn_settings">Nazwy APN</string>
   <string name="apn_type">Typ APN</string>
   <string name="apn_user">Nazwa użytkownika</string>
+  <string name="app_backup">Kopia</string>
   <string name="app_disable_dlg_text">Jeśli wyłączysz wbudowaną aplikację, inne aplikacje mogą działać nieprawidłowo.</string>
   <string name="app_disable_dlg_title">Wyłączyć wbudowaną aplikację?</string>
   <string name="app_disable_notifications_dlg_text">Jeśli wyłączysz powiadomienia tej aplikacji, możesz przeoczyć ważne alerty i aktualizacje.</string>
@@ -205,6 +206,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="app_factory_reset">Odinstaluj aktualizacje</string>
   <string name="app_factory_reset_dlg_text">Wszystkie aktualizacje tej aplikacji systemowej Androida zostaną odinstalowane.</string>
   <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
+  <string name="app_feedback">Raporty błędów</string>
   <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. 
 Na pewno wyłączyć?"</string>
   <string name="app_floating_window_dlg_enable">"Włączenie okien Pop-up dla aplikacji %1$s wymaga jej restartu. Możesz sam zatrzymać aplikacje. 
@@ -582,6 +584,7 @@ Aby sparować z urządzeniem  \"%1$s\" wpisz PIN. [Wymagane skomplikowane hasło
   <string name="bt_trace_log_summary">Włącza i zapisuje do rejestru śledzenie Bluetooth</string>
   <string name="bugreport_in_power">Błędy w menu zasilania</string>
   <string name="bugreport_in_power_summary">Dodaj w menu zasilania opcję zgłaszania błędów</string>
+  <string name="bugreport_tool_log">Zapisz log z błędu</string>
   <string name="bugreport_tool_log_toast">Log zapisany do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Generowanie raportu...</string>
   <string name="build_author">Rom autorstwa</string>
@@ -1211,6 +1214,7 @@ w tym:
   <string name="free_wifi_connected_time">Czas online：%1$s</string>
   <string name="free_wifi_connecting">Łączenie...</string>
   <string name="free_wifi_login_again">Wpisz się ponownie</string>
+  <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
   <string name="free_wifi_speed_title">Wolne połączenie z siecią?</string>
   <string name="free_wifi_summary">Darmowe Wi-Fi zapewniane przez %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1286,7 +1290,6 @@ w tym:
   <string name="gadget_toggle_bluetooth">Aktualizowanie ustawień Bluetooth</string>
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
   <string name="gadget_wifi">WLAN</string>
-  <string name="galaxy_settings">Ustawienia galaxy</string>
   <string name="game_controller_settings_category">Kontroler gier</string>
   <string name="garbage_white_list_empty_content">Lista wyjątków jest pusta</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -1294,6 +1297,7 @@ w tym:
   <string name="global_change_warning">To ustawienie obowiązuje wszystkich użytkowników tego telefonu.</string>
   <string name="global_font_change_title">Zmień rozmiar czcionki</string>
   <string name="global_locale_change_title">Zmień język</string>
+  <string name="google_backup_section_title">Kopia i przywracanie Google</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilna-&gt;Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Wibracje przy dotknięciu</string>
   <string name="haptic_feedback_level">Siła wibracji</string>
@@ -1315,7 +1319,6 @@ w tym:
   <string name="header_application_sync_settings">Ustawienia synchronizacji</string>
   <string name="header_category_accounts">KONTA</string>
   <string name="header_category_device">URZĄDZENIE</string>
-  <string name="header_category_mi">MI</string>
   <string name="header_category_personal">OSOBISTE</string>
   <string name="header_category_system">SYSTEM</string>
   <string name="header_category_wireless_networks">SIECI ZWYKŁE I BEZPRZEWODOWE</string>
@@ -1479,6 +1482,9 @@ w tym:
   <string name="local_backup_password_toast_confirmation_mismatch">Nowe hasło i jego potwierdzenie nie zgadzają się</string>
   <string name="local_backup_password_toast_success">Nowe hasło kopii zapasowej zostało ustawione</string>
   <string name="local_backup_password_toast_validation_failure">Ustawienie hasła kopii zapasowej nie powiodło się</string>
+  <string name="local_backup_section_summary">Kopiuj ustawienia systemowe, konta telefonu i aplikacje</string>
+  <string name="local_backup_section_title">Lokalne kopie</string>
+  <string name="locale_default">Domyślnie</string>
   <string name="location_access_summary">Zezwalaj aplikacjom, które zapytały o pozwolenie, na używanie informacji o lokalizacji</string>
   <string name="location_access_title">Dostęp do mojej lokalizacji</string>
   <string name="location_category_enhanced_location">Enhanced Location</string>
@@ -1736,6 +1742,11 @@ Karta SD także musi zostać wymazana by usunąć zdjęcia i muzykę."</string>
   <string name="mobile_no_provisioning_url">%1$s nie ma znanej witryny obsługi</string>
   <string name="mobile_unknown_sim_operator">Nieznany operator karty SIM</string>
   <string name="model_number">Model</string>
+  <string name="modem_tool_log">Zapisz log modemu</string>
+  <string name="modem_tool_log_start">Rozpocznij zapis</string>
+  <string name="modem_tool_log_start_toast">"Zapisywanie loga do %s"</string>
+  <string name="modem_tool_log_stop">Zatrzymaj zapis</string>
+  <string name="modem_tool_log_stop_toast">"Zatrzymywanie: %s"</string>
   <string name="move_app">Przenieś</string>
   <string name="move_app_failed_dlg_text">"Nie udało się przenieść aplikacji %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2928,6 +2939,7 @@ Synchronizacja jest wyłączona"</string>
   <string name="sync_wifi_label">Ustawienia Wi-Fi</string>
   <string name="sync_wifi_only">Synchronizuj po Wi-Fi</string>
   <string name="system">System</string>
+  <string name="system_backup_section_title">Kopia</string>
   <string name="system_cache_title">Cache systemu</string>
   <string name="system_package">Aktualizacji systemu nie można instalować na nośniku zewnętrznym.</string>
   <string name="system_storage">Pamięć wewnętrzna</string>
