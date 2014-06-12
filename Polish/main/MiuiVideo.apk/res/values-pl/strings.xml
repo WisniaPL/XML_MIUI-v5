@@ -80,6 +80,8 @@
   <string name="declaration">Warunki użytkowania</string>
   <string name="declaration_content">Akceptujesz warunki użytkowania treści dostarczanych przez Sohu Video, iQiyi, i innych?</string>
   <string name="delete">Usuń</string>
+  <string name="delete_addon">Usuń</string>
+  <string name="delete_addon_content">Usunąć?</string>
   <string name="delete_media">Usuń</string>
   <string name="delete_media_content">Usunąć ten element?</string>
   <string name="di_count_ji">Odcinek %d</string>

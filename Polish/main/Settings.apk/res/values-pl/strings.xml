@@ -410,6 +410,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_connection_notif_message">Dotknij, aby połączyć się z urządzeniem „%1$s”.</string>
   <string name="bluetooth_connection_permission_request">Żądanie nawiązania połączenia Bluetooth</string>
   <string name="bluetooth_device">Urządzenie Bluetooth bez nazwy</string>
+  <string name="bluetooth_device_address">Adres urządzenia:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Zezwalaj na odbieranie plików</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Połącz z urządzeniem Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Połącz</string>

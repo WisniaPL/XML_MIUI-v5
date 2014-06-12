@@ -92,7 +92,11 @@
   <string name="clip_dialog_title">Przejść pod skopiowany link?</string>
   <string name="close_all_tab_alert_message">Zamknąć wszystkie karty?</string>
   <string name="close_all_tab_alert_title">Zamknij wszystkie karty</string>
+  <string name="cloud_loading_tips">Pociągnij by odświeżyć</string>
+  <string name="cloud_no_new_data_toast">Nic nowego. Spróbuj ponownie później</string>
   <string name="cloud_tab">Karta w chmurze</string>
+  <string name="cloud_time_tips">Ostatnia synchronizacja</string>
+  <string name="cloud_up_to_loading_tips">Puść by synchronizować</string>
   <string name="color_picker_button_black">Czarny</string>
   <string name="color_picker_button_blue">Niebieski</string>
   <string name="color_picker_button_cancel">Anuluj</string>
@@ -148,6 +152,8 @@
   <string name="delete_bookmark_warning">Usunąć zakładkę \„%s\”?</string>
   <string name="delete_folder">Usuń folder</string>
   <string name="delete_multi_bookmarks_alert_title">Usunąć %1$s zakładek?</string>
+  <string name="dialog_geolocation_reject">Odrzuć</string>
+  <string name="dialog_geolocation_share">Zgadzam się</string>
   <string name="disable_autofill">Wyłącz autouzupełnianie</string>
   <string name="dont_remind_again">Pamiętaj mój wybór</string>
   <string name="download">Pobierz</string>
@@ -226,6 +232,7 @@
   <string name="js_disable_confirm_message">Wyłączenie JavaScript może powodować nieprawidłowe wyświetlanie stron</string>
   <string name="js_disable_confirm_title">Wyłączyć JavaScript?</string>
   <string name="js_engine_flags">Set JS flags</string>
+  <string name="loading_tips">Pociągnij by odświeżyć</string>
   <string name="local_bookmarks">Xiaomi</string>
   <string name="location">Adres</string>
   <string name="low_memory_error">Nie można zakończyć operacji z powodu braku pamięci</string>
@@ -264,7 +271,7 @@
   <string name="miuichromium_default_text_encoding">Latin-1</string>
   <string name="miuichromium_error_page_mobile">Sieć mobilna</string>
   <string name="miuichromium_error_page_reason_network">Wyświetl link URL</string>
-  <string name="miuichromium_error_page_reason_server">"Strona nie została wczytana"</string>
+  <string name="miuichromium_error_page_reason_server">"Strona nie może zostać wczytana"</string>
   <string name="miuichromium_error_page_reload">Odśwież</string>
   <string name="miuichromium_error_page_title">"Nie można znaleźć strony"</string>
   <string name="miuichromium_error_page_url">Pokaż URL strony</string>
@@ -278,7 +285,6 @@
   <string name="move_to_up_folder">W górę</string>
   <string name="name">Etykieta</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Połączyć z siecią?</string>
-  <string name="network_show_wifi_setting_tip_dialog_notshow">Pamiętaj wybór</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Powiadomienie o dostępnym Wi-Fi</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">"Jeśli korzystasz z sieci mobilnej, MIUI powiadomi o dostępnej sieci Wi-Fi."</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostępna sieć Wi-Fi</string>
@@ -442,6 +448,9 @@
   <string name="pref_video_preload_title">Wstępne wczytywanie wideo</string>
   <string name="pref_volume_key_enabled">Przyciski głośności</string>
   <string name="pref_volume_key_operation">Funkcje przycisków głośności</string>
+  <string name="pref_webapp_settings_fontsize">Rozmiar czcionki</string>
+  <string name="pref_webapp_settings_hidebottombar">Ukrywaj dolny pasek</string>
+  <string name="pref_webapp_settings_savewidth">"Włącz ograniczenia transmisji"</string>
   <string name="pref_zoom_on_double_tap">Powiększ po dwukrotnym dotknięciu</string>
   <string name="preview">Podgląd</string>
   <string name="profiler_error_toast">Failed to start profiler</string>
@@ -544,7 +553,9 @@
   <string name="sub_sync_item_browser_title_history_summary">Synchronizuj historię przeglądania</string>
   <string name="sub_sync_item_browser_title_novel">Powieści</string>
   <string name="sub_sync_item_browser_title_novel_summary">Synchronizuj zapisane powieści</string>
-  <string name="sync_item_browser_summary">Synchronizuj dane przeglądania z chmurą i innymi urządzeniami</string>
+  <string name="sub_sync_item_browser_title_webapp">Aplikacje Web</string>
+  <string name="sub_sync_item_browser_title_webapp_summary">Synchronizuj aplikacje web</string>
+  <string name="sync_item_browser_summary">Synchronizuj dane z chmurą i umożliwiaj przeglądanie tych samych treści na innych urządzeniach</string>
   <string name="sync_item_browser_title">Synchronizuj Internet</string>
   <string name="tab_history">Historia</string>
   <string name="tab_most_visited">Popularne</string>
@@ -561,6 +572,7 @@
   <string name="too_many_windows_dialog_message">"Przeglądarka nie może otworzyć więcej kart"</string>
   <string name="too_many_windows_dialog_title">Limit kart osiągnięty</string>
   <string name="ua_switcher_desktop">Zmień na tryb PC</string>
+  <string name="up_to_loading_tips">Puść by odświeżyć</string>
   <string name="uploads_disabled">Kopiowanie plików wyłączone.</string>
   <string name="url_copy_done">Skopiowano URL</string>
   <string name="url_hint">Wpisz URL lub wyszukaj tekst</string>
@@ -571,6 +583,20 @@
   <string name="username">Imię</string>
   <string name="view_certificate">Pokaż certyfikat</string>
   <string name="warning">Ostrzeżenie</string>
+  <string name="webapp_add_to_desktop">Dodaj na pulpit</string>
+  <string name="webapp_add_to_favorite_toast">Dodaj do ulubionych</string>
+  <string name="webapp_addtodeskpop_append">Dodane</string>
+  <string name="webapp_app_name">Light Web Apps Store</string>
+  <string name="webapp_dialog_title">Add the app to your desktop</string>
+  <string name="webapp_menu_addtodesk">Add To Desk</string>
+  <string name="webapp_menu_already_addtodesk">Already add to Desk</string>
+  <string name="webapp_menu_exit">Exit</string>
+  <string name="webapp_menu_favorites">My Favorites</string>
+  <string name="webapp_menu_nightmode">Night Mode</string>
+  <string name="webapp_menu_settings">Settings</string>
+  <string name="webapp_menu_share">Share</string>
+  <string name="webapp_settings_title">Settings</string>
+  <string name="webapp_webapp_favortes_title">My Favortes</string>
   <string name="website_settings_clear_all">Wyczyść wszystko</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Anuluj</string>
   <string name="website_settings_clear_all_dialog_message">Usunąć wszystkie dane witryn i ich uprawnienia?</string>
